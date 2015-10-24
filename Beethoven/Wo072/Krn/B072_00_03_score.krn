@@ -1,0 +1,38 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[]	*k[]
+*M3/4	*M3/4
+*C:	*C:
+=18	=18
+2G	4b 4dd
+.	4cc 4ee
+4F	4dd 4ff
+=19	=19
+4E	2ee 2gg
+4F	.
+4G	4ee 4gg
+=20	=20
+2.A	4ee 4gg
+.	4dd 4ff
+.	4cc# 4ee
+=21	=21
+4D	2.dd 2.ff
+4E	.
+4F	.
+=22	=22
+2.G	4dd 4ff
+.	4b 4dd
+.	4b 4dd
+=23	=23
+4GG	2.dd 2.ff
+4AA	.
+4BB	.
+=24	=24
+4C	4g 4cc 4ee
+4E	4e 4g 4cc
+4C	4e 4g 4cc
+=25	=25
+2G	2g 2b 2dd
+=	=
+*-	*-

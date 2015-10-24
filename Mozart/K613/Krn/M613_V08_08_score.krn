@@ -1,0 +1,101 @@
+**kern	**kern
+*staff2	*staff1
+*clefF2	*clefG2
+*k[b-]	*k[b-]
+*M3/4	*M3/4
+=-	=-
+4r	4a 4cc
+=479	=479
+(4F 4A	(4a 4cc
+4G 4B-	4g 4b-
+4A) 4c	4f) 4a
+=480	=480
+4B- 4d	(4f 4dd
+4r	4d 4b-
+4r	4B-) 4g
+=481	=481
+*^	*
+(4A	2.C	(4f
+4B-	.	4e)
+4G)	.	4e 4cc
+=482	=482	=482
+2F	2FF	(4g 4b-
+.	.	4f) 4a
+*clefG2	*clefG2	*
+4f' 4a'	4r	4aa' 4ccc'
+*v	*v	*
+=483	=483
+(4f 4a	(4aa 4ccc
+4g 4b-	4gg 4bb-
+4a) 4cc	4ff) 4aa
+=484	=484
+4B- 4b-	4dd 4ff 4bb- 4ddd
+4r	4ee 4gg 4ddd- 4eee
+4B 4b	4ff 4aa- 4ddd 4fff
+=485	=485
+2.r	4r
+.	4r
+.	4cc
+=486	=486
+2.r	(8ddL
+.	8ccJ
+.	8bL)
+.	8cc'J
+.	8dd'L
+.	8ee'J
+*clefF4	*
+=487	=487
+2r	8ff'L
+.	8gg'J
+.	8aa'L
+.	8bb-'J
+4c	8ccc'L
+.	8ccc#'J
+=488	=488
+*	*^
+(8BL	2.ddd	4dd 4ff 4gg
+8cJ	.	.
+8dL)	.	4r
+8c'J	.	.
+8B-'L	.	4r
+8A'J	.	.
+=489	=489	=489
+8G'L	2.eee	4ee 4gg 4cccn
+8F'J	.	.
+8E'L	.	4r
+8D'J	.	.
+8C'L	.	4r
+8BB-'J	.	.
+*	*v	*v
+=490	=490
+4AA 4A	4ff 4ccc 4fff
+4BB- 4B-	4ff 4gg 4ddd
+4C 4c	4g 4b- 4cc 4ee
+=491	=491
+4FF 4F	4f 4a 4cc 4ff
+4r	4r
+4r	4cc
+=492	=492
+(2.C 2.G 2.B- 2.c	(8bL
+.	8ccJ
+.	8cc#L)
+.	8dd'J
+.	8ee-'L
+.	8ee'J
+=493	=493
+4F) 4A 4c	4ff
+4r	4r
+4r	4cc'
+=494	=494
+(2.C 2.E 2.B- 2.c	(8ddL
+.	8ccJ
+.	8bL)
+.	8b-'J
+.	8a'L
+.	8g'J
+=495	=495
+4F) 4A 4c	4f
+4r	4r
+4r	4r
+==	==
+*-	*-

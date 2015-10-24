@@ -1,0 +1,109 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[]	*k[]
+*M3/4	*M3/4
+=-	=-
+4GG	4.dd
+4G 4B	.
+.	(32cc#LLL
+.	32dd
+.	32ee
+.	32ddJJJ
+4G 4B 4d	16ccLL
+.	16b
+.	16a
+.	16gJJ)
+=310	=310
+4G 4B 4d#	(4dd#
+4G 4c 4e	8ee)
+.	8r
+4G 4c# 4e	24r
+.	24ggLL
+.	24ffJ
+.	24eeL
+.	24ff
+.	24ggJJ
+=311	=311
+4G 4c# 4e	8.eeL
+.	32ggLL
+.	32ffJJJ
+[4G 4d 4f	4ff
+4G] 4d# 4f#	4ff#
+*clefG2	*
+=312	=312
+4c 4e 4g	[4gg
+4c 4e 4g	16ggLL]
+.	16gg#
+.	16aa
+.	16bbJJ
+4c 4f 4a	16dddLL
+.	16ccc
+.	16bb
+.	16aaJJ)
+=313	=313
+4c 4e 4g	(16aaLL
+.	16ff#J
+.	[8ggJ)
+4c 4e 4g	16ggLL]
+.	16gg#
+.	16aa
+.	16bbJJ
+4c 4f 4a	(32cccLLL
+.	32bb
+.	32ccc
+.	32bbJJ
+.	32dddLL
+.	32ccc
+.	32bb
+.	32aaJJJ)
+=314	=314
+4e 4g	(8ggL
+.	8ccJ
+4d 4g	8bL
+.	8ffJ)
+4c 4g	32r
+.	(32eeLLL
+.	32gg
+.	32ff#JJ
+.	32aaLL
+.	32gg
+.	32ff
+.	32eeJJJ)
+*clefF4	*
+=315	=315
+4G 4B 4g	(8ddL
+.	8bJ)
+4G 4B 4d	(8aL
+.	8gJ)
+4F 4B 4d	32r
+.	32gLLL
+.	32a
+.	32bJJ
+.	32ccLL
+.	32dd
+.	32ee
+.	32ffJJJ
+=316	=316
+4E 4G 4c	(8ggL
+.	8ccJ
+4D 4G 4B	8bL
+.	8ffJ)
+4C 4G 4c	16.r
+.	32eeL
+.	8eeJ
+=317	=317
+*^	*
+[4e	2G	[4gg
+16eLL]	.	16ggLL]
+32d#L	.	32ff#L
+32eJJ	.	32ggJJ
+(32fLL	.	(32aaLL
+32e	.	32gg
+32d#	.	32ff
+32cJJJ)	.	32eeJJJ)
+8B	4r	8dd
+8r	.	8r
+*v	*v	*
+=318	=318
+*-	*-

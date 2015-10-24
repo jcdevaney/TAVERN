@@ -1,0 +1,101 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[]	*k[]
+*M3/4	*M3/4
+=-	=-
+2.G 2.B	(12ddL
+.	12b
+.	12ccJ
+.	12ddL
+.	12cc#
+.	12ddJ)
+.	(8.gL
+.	32f#LL
+.	32gJJJ)
+=85	=85
+2.G 2.c	(12eeL
+.	12cc
+.	12ddJ
+.	12eeL
+.	12dd#
+.	12eeJ)
+.	(8.gL
+.	32f#LL
+.	32gJJJ)
+=86	=86
+2G 2d	(12ffL
+.	12ddn
+.	12eeJ
+.	12ffL
+.	12ee
+.	12ffJ)
+4F 4B	(8.gL
+.	32f#LL
+.	32gJJJ)
+=87	=87
+2E 2G 2c	(12ccL
+.	12g)
+.	12gg'J
+.	(12ggL
+.	12cc)
+.	12ccc'J
+4F 4A 4c	(12cccL
+.	12aa)
+.	12cc'J
+=88	=88
+2E 2G 2c	(12ccL
+.	12g)
+.	12gg'J
+.	(12ggL
+.	12cc)
+.	12ccc'J
+4F 4A 4c	(12cccL
+.	12aa)
+.	12cc'J
+=89	=89
+*	*^
+(12eL	(4gg	2.g
+12d#	.	.
+12eJ	.	.
+12dL	4ff	.
+12c#	.	.
+12dJ	.	.
+12cL	4ee)	.
+12B	.	.
+12cJ)	.	.
+=90	=90	=90
+*^	*	*
+(4B	2.G	(12ddL	2.g
+.	.	12cc#	.
+.	.	12ddJ	.
+4c	.	12eeL	.
+.	.	12dd#	.
+.	.	12eeJ	.
+4d)	.	12ffL	.
+.	.	12ee	.
+.	.	12ffJ)	.
+=91	=91	=91	=91
+(12eL	2.G	(4gg	2.g
+12d#	.	.	.
+12eJ	.	.	.
+12dL	.	4ff	.
+12c#	.	.	.
+12dJ	.	.	.
+12cL	.	4ee)	.
+12B	.	.	.
+12cJ)	.	.	.
+=92	=92	=92	=92
+4B	4G	(12eeL	4g
+.	.	12cc#	.
+.	.	12ddJ	.
+4r	4r	12ccL	4r
+.	.	12a#	.
+.	.	12bJ	.
+4r	4r	12aL	4r
+.	.	12f#	.
+.	.	12gJ)	.
+*	*	*v	*v
+*v	*v	*
+=93	=93
+*-	*-

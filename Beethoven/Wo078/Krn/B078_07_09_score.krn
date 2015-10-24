@@ -1,0 +1,109 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[]	*k[]
+*M3/4	*M3/4
+*C:	*C:
+=	=
+8C'L 8c'	24r
+.	(24ccLL
+.	24eeJJ)
+8BB' 8B'	24r
+.	(24ccLL
+.	24eeJJ)
+8AA' 8A'	24r
+.	(24ccLL
+.	24ffJJ)
+8GG' 8G'	24r
+.	(24bLL
+.	24eeJJ)
+8FF' 8F'	24r
+.	(24aLL
+.	24ddJJ)
+8EE'J 8E'	24r
+.	(24gLL
+.	24ccJJ)
+=153	=153
+8FF'L 8F'	24r
+.	(24cLL
+.	24aJJ)
+8EE' 8E'	24r
+.	(24cLL
+.	24aJJ)
+8FF' 8F'	24r
+.	(24fLL
+.	24aJJ)
+8DD' 8D'	24r
+.	(24fLL
+.	24aJJ)
+8GG' 8G'	24r
+.	(24fLL
+.	24bJJ)
+8GGG'J 8GG'	24r
+.	(24fLL
+.	24bJJ)
+=154	=154
+8C' 8c'	24r
+.	(24eLL
+.	24ccJJ)
+8B'L 8b'	24r
+.	(24ccLL
+.	24cccJJ)
+8A' 8a'	24r
+.	(24ffLL
+.	24cccJJ)
+8G' 8g'	24r
+.	(24eeLL
+.	24cccJJ)
+8F' 8f'	24r
+.	(24ddLL
+.	24cccJJ)
+8E'J 8e'	24r
+.	(24ccLL
+.	24cccJJ)
+=155	=155
+8F'L 8f'	24r
+.	(24ccLL
+.	24aaJJ)
+8E' 8e'	24r
+.	(24ccLL
+.	24aaJJ)
+8F' 8f'	24r
+.	(24ffLL
+.	24aaJJ)
+8D' 8d'	24r
+.	(24ffLL
+.	24aaJJ)
+8G' 8g'	24r
+.	(24ffLL
+.	24bbJJ)
+8GG'J 8G'	24r
+.	(24ffLL
+.	24bbJJ)
+=156	=156
+8C'L 8c'	24r
+.	(24eeLL
+.	24cccJJ)
+8G'J 8g'	24r
+.	(24ffLL
+.	24bbJJ)
+8c'L 8cc'	24r
+.	(24eeLL
+.	24cccJJ)
+8G'J 8g'	24r
+.	(24bbLL
+.	24dddJJ)
+8C'L 8c'	24r
+.	(24cccLL
+.	24eeeJJ)
+8GG'J 8G'	24r
+.	(24bbLL
+.	24dddJJ)
+=157	=157
+8CC 8C	8ccc' 8eee'
+8r	8r
+8CC 8C	8E 8G 8c
+8r	8r
+4r	4r
+==	==
+*-	*-

@@ -1,0 +1,63 @@
+**kern	**kern
+*staff1	*staff2
+*clefG2	*clefF4
+*k[f#c#]	*k[f#c#]
+*M3/4	*M3/4
+*D:	*D:
+=	=
+*M3/4	*M3/4
+(4ff# 4aa	8DL
+.	8F#J 8A 8d
+8dd) 8ff#	8DL
+8r	8F#J 8A 8d
+8dd 8ff#	8DL
+16r	8F#J 8A 8d
+16ee 16gg	.
+=98	=98
+(4ff# 4aa	8DL
+.	8F#J 8A 8d
+8dd) 8ff#	8DL
+8r	8F#J 8A 8d
+4ddd 4fff#	8DL
+.	8F#J 8A 8d
+=99	=99
+8ccc#'L 8eee'	8DL
+8bb'J 8ddd'	8F#J 8A 8d
+8aa'L 8ccc#'	8DL
+8gg'J 8bb'	8F#J 8A 8d
+8ff#'L 8aa'	8DL
+8ee'J 8gg'	8F#J 8A 8d
+=100	=100
+8dd'L 8ff#'	8DL
+8ee'J 8gg'	8F#J 8A 8d
+8ff#'L 8aa'	8DL
+8ee'J 8gg'	8F#J 8A 8d
+8dd'L 8ff#'	8DL
+8ee'J 8gg'	8F#J 8A 8d
+=101	=101
+(4ff# 4aa	8DL
+.	8F#J 8A 8d
+8dd) 8ff#	8DL
+8r	8F#J 8A 8d
+8dd 8ff#	8DL
+16r	8F#J 8A 8d
+16ee 16gg	.
+=102	=102
+4ff# 4aa	8DL
+.	8F#J 8A 8d
+8dd 8ff#	8DL
+8r	8F#J 8A 8d
+4ff# 4fff#	8DL
+.	8dJ
+=103	=103
+8ee'L 8eee'	8C#'L 8c#'
+8dd'J 8ddd'	8D'J 8d'
+8cc#'L 8ccc#'	8E'L 8e'
+8b'J 8bb'	8E#'J 8e#'
+8dd'L 8ff#'	8F#'L 8f#'
+8cc#'J 8ee' 8aa#'	8FF#'J 8F#'
+=104	=104
+8b'L 8dd' 8bb'	8BB'L 8B'
+8a#'J 8cc#' 8aa#'	8FF#'J 8F#'
+4b 4dd 4bb	4BB 4B
+*-	*-

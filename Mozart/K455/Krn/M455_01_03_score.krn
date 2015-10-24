@@ -1,0 +1,72 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[f#]	*k[f#]
+*met(c|)	*met(c|)
+*M2/2	*M2/2
+*G:	*G:
+=-	=-
+*^	*
+4r	2G	16aLL
+.	.	16g
+.	.	16f#
+.	.	16gJJ
+4B [4d	.	16bLL
+.	.	16g
+.	.	16gg
+.	.	16gJJ
+4d]	2F#	16gLL
+.	.	16f#
+.	.	16e
+.	.	16f#JJ
+4A [4d	.	16aLL
+.	.	16f#
+.	.	16ff#
+.	.	16f#JJ
+*	*	*
+*v	*v	*
+=21	=21
+*^	*
+4d]	2E	16f#LL
+.	.	16e
+.	.	16d#
+.	.	16eJJ
+4G 4c#	.	16gLL
+.	.	16e
+.	.	16ee
+.	.	16eJJ
+4r	2D	16eLL
+.	.	16d
+.	.	16c#
+.	.	16dJJ
+4F# 4A	.	16f#LL
+.	.	16d
+.	.	16dd
+.	.	16dJJ
+=22	=22	=22
+1G	4E	16cnLL
+.	.	16cc
+.	.	16d
+.	.	16ddJJ
+.	4C	16eLL
+.	.	16ee
+.	.	16f#
+.	.	16ff#JJ
+.	4BB	16gLL
+.	.	16gg
+.	.	16a
+.	.	16aaJJ
+.	4GG	16bLL
+.	.	16bb
+.	.	16cc
+.	.	16cccJJ
+=23	=23	=23
+4G 4B	4D	8ddL 8ddd
+.	.	8dd 8ddd
+4F# 4A	4D	8dd 8ddd
+.	.	8ddJ 8ddd
+2r	4G	4g 4gg
+.	4GG	4r
+*v	*v	*
+=24:|!	=24:|!|:
+*-	*-

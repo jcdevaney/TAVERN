@@ -1,0 +1,51 @@
+!!!COM: Mozart
+!!!OTL: Sechs Variationen in F uber die Arie 'Salve tu, Domine' aus der Oper 'I filosofi immaginarii' 
+!!!Variation: Variation 5b
+**chords	**function	**comments
+*M3/4	*M3/4	*M3/4
+*F:	*F:	*F:
+=-	=-	=-
+2.I	T	T
+=	=	=
+2.I	.	.
+=	=	=
+2.I	.	.
+=	=	=
+2.I	.	.
+=	=	=
+2.V	.	D
+=	=	=
+2.I64	.	.
+=	=	=
+2.I64	.	.
+=	=	=
+2.V7	.	.
+=	=	=
+2I	.	T
+4V	.	D Tpedal
+=	=	=
+2I	.	T
+4V	.	D Tpedal
+=	=	=
+4viio7/V/V	.	.
+2V/V	.	.
+=	=	=
+4V65	.	.
+2I	T	T
+==	==	==
+!coda	!coda	!coda
+*M11/4	*M11/4	*M11/4
+1viio7/V	P	P !notated meter change to 4/4 but rhythms written freely with no barlines. (included here for convenience.)
+1viio7/V	P	P
+2.viio7/V	P	P
+=	=	=
+*M23/8	*M23/8	*M23/8
+1V	D	D
+2V	D	D
+8V	D	D
+1V7	D	D
+4V7	D	D
+==	==	==
+*-	*-	*-
+
+

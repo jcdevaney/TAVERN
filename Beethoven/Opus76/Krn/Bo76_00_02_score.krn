@@ -1,0 +1,49 @@
+**kern	**kern
+*staff1	*staff2
+*clefG2	*clefF4
+*k[f#c#]	*k[f#c#]
+*M2/4	*M2/4
+*D:	*D:
+=	=
+(8f#L 8dd	8BBBL 8BB
+8dJ) 8b	8BBJ
+8d'L 8b'	8BBL
+8d'J 8b'	8BBJ
+=10	=10
+(8gL 8ee	8AAAL 8AA
+8eJ) 8cc#	8AAJ
+8e'L 8cc#'	8AAL
+8e'J 8cc#'	8AAJ
+=11	=11
+([8eL 8g 8ee	8AAAL 8AA
+8eJ]) 8g 8cc#	8AAJ
+([8eL 8g 8ee	8AAAL 8AA
+8eJ]) 8g 8cc#	8AAJ
+=12	=12
+([8f#L 8a 8ff#	8DDL 8D
+8f#J]) 8a 8dd	8DJ
+([8f#L 8a 8ff#	8DDL 8D
+8f#J]) 8a 8dd	8DJ
+=13	=13
+(8f#L 8a	8DDL 8D
+8dJ) 8f#	8DJ
+8d'L 8f#'	8DL
+8d'J 8f#'	8DJ
+=14	=14
+(8f#L 8a	8DDL 8D
+8dJ) 8f#	8DJ
+8d'L 8f#'	8DL
+8dd'J 8ff#'	8DJ
+=15	=15
+16cc#LL 16ee	8DDL 8D
+16b 16dd	.
+16a 16cc#	8DJ
+16gJJ 16b	.
+8f#'L 8a'	8DL
+8e'J 8g' 8cc#'	8AAAJ 8AA
+=16	=16
+4d 4f# 4dd	4DD 4D
+4r	4r
+*	*clefG2
+=17:|!|:	=17:|!|:
+*-	*-

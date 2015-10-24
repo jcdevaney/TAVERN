@@ -1,0 +1,163 @@
+!!!COM: Mozart	
+!!!OTL: 12 Variations on "Ah Vous dirais-je, Maman" for the Piano,	
+!!!Variation: 12 d	
+!!!First measure of this phrase is in place of last measure of previous phrase.	
+**kern	**kern
+*M3/4	*M3/4
+=-	=-
+(16EELL	4e 4g 4cc
+16E	.
+16D	.
+16EJJ	.
+16FLL	4r
+16E	.
+16D	.
+16EJJ)	.
+(16EE-LL	(8.ggL
+16E-	.
+16D	.
+16E-JJ)	32ff#LL
+.	32ggJJJ
+=	=
+(16DDLL	4ff#)
+16D	.
+16C#	.
+16DJJ	.
+16ELL	4r
+16D	.
+16C#	.
+16DJJ)	.
+(16BBBLL	(8.ffL
+16BB	.
+16AA	.
+16BBJJ)	32eeLL
+.	32ffJJJ
+=	=
+(16CCLL	4ee)
+16C	.
+16BB	.
+16CJJ	.
+16DLL	4r
+16C	.
+16BB	.
+16CJJ)	.
+16AAALL	(8.ccL
+16AA	.
+16GG#	.
+16AAJJ	32bLL
+.	32ccJJJ
+=	=
+(16FFFLL	4dd)
+16FF	.
+16EE	.
+16FFJJ	.
+16GGLL	4r
+16FF	.
+16EE	.
+16FFJJ)	.
+(16GGGLL	4d 4f 4b
+16GG	.
+16FF#	.
+16GGJJ)	.
+=	=
+4CC 4EE 4C	(16ccLL
+.	16g
+.	16a
+.	16bJJ
+4r	16ccLL
+.	16dd
+.	16ee
+.	16ffJJ
+4r	16ggLL
+.	16aa
+.	16bb
+.	16cccJJ
+=	=
+*^	*
+*	*	*
+8eL	2.G	16ggLL
+.	.	16aa
+8dJ	.	16ff
+.	.	16ggJJ
+8cL	.	16eeLL
+.	.	16ff
+8fJ	.	16dd
+.	.	16eeJJ
+8eL	.	16ccLL
+.	.	16dd
+8dJ	.	16b
+.	.	16ddJJ
+*v	*v	*
+*	*
+=	=
+4c 4e	16ccLL
+.	16g
+.	16a
+.	16bJJ
+4r	16ccLL
+.	16dd
+.	16ee
+.	16ffJJ
+4r	16ggLL
+.	16aa
+.	16bb
+.	16cccJJ
+=	=
+*^	*
+*	*	*
+8eL	2.G	16ggLL
+.	.	16aa
+8dJ	.	16ff
+.	.	16ggJJ
+8cL	.	16eeLL
+.	.	16ff
+8fJ	.	16dd
+.	.	16eeJJ
+8eL	.	16ccLL
+.	.	16dd
+8dJ	.	16b
+.	.	16ddJJ
+*v	*v	*
+*	*
+=	=
+4c 4e	4cc)
+4CC 4C	16r
+.	(16cLL
+.	16B
+.	16cJJ)
+4EE 4E	16r
+.	(16eLL
+.	16d#
+.	16eJJ)
+=	=
+4GG 4G	16r
+.	(16gLL
+.	16f#
+.	16gJJ)
+4EE 4E	16r
+.	(16eLL
+.	16d#
+.	16eJJ)
+4GG 4G	16r
+.	(16gLL
+.	16f#
+.	16gJJ)
+=	=
+4CC 4C	16r
+.	(16ccLL
+.	16b
+.	16ccJJ)
+4EE 4E	16r
+.	(16eeLL
+.	16dd#
+.	16eeJJ)
+4GG 4G	16r
+.	(16ggLL
+.	16ff#
+.	16ggJJ)
+=	=
+4C 4E 4G 4c	4cc 4ee 4gg 4ccc
+4r	4r
+4r	4r
+==	==
+*-	*-

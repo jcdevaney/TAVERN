@@ -1,0 +1,117 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[b-]	*k[b-]
+*M3/8	*M3/8
+*F:	*F:
+*k[b-]	*k[b-]
+16r	8G 8g
+16GG	.
+16r	8cJ) 8cc
+16C	.
+=	=
+*^	*
+16FFLL	4.FF	8fL
+16C	.	.
+16F	.	8.a
+16C	.	.
+16F	.	.
+16CJJ	.	16fJk
+=170	=170	=170
+16EELL	4.EE	(8dd
+16C	.	.
+16G	.	4cc)
+16C	.	.
+16G	.	.
+16CJJ	.	.
+=171	=171	=171
+16EELL	4.EE	(32ccLLL
+.	.	32dd
+16C	.	32ee
+.	.	32ffJJJ
+16G	.	32aaLLL
+.	.	32gg
+16C	.	32ff
+.	.	32eeJJJ
+16G	.	32ddLLL
+.	.	32cc
+16CJJ	.	32dd
+.	.	32gJJJ)
+=172	=172	=172
+16FFLL	4.FF	(8b-
+16C	.	.
+16F	.	4a)
+16C	.	.
+16F	.	.
+16CJJ	.	.
+*v	*v	*
+=173	=173
+*^	*
+16AALL	4AA	[8f
+16C	.	.
+16F	.	32fLLL]
+.	.	(64gL
+.	.	64aJJJ
+16C	.	64b-LLL
+.	.	64cc
+.	.	64dd
+.	.	64eeJJJJ)
+16AA	8FF	(64ffLLLL
+.	.	64ee
+.	.	64ff
+.	.	64ggJJJ
+16CJJ	.	64aaLLL
+.	.	64gg
+.	.	64aa
+.	.	64bbJJJJ)
+=174	=174	=174
+16GGLL	4EE	(64cccLLLL
+.	.	64bb
+.	.	64ccc
+.	.	64dddJJ)
+16C	.	[16eeeJJ
+16GG	.	(32eeeLLL]
+.	.	32ddd)
+16C	.	(32ccc
+.	.	32bb-JJ)
+16GG	8EE	(32aaLL
+.	.	32gg)
+16CJJ	.	(32ff
+.	.	32eeJJJ)
+*v	*v	*
+=175	=175
+16FFLL 16AA	(64eeLLLL
+.	64dd
+.	64cc#
+.	64ddJJJ
+16D	64ffLLL
+.	64aa
+.	64ff
+.	64ddJJJJ)
+16GG 16C	64r
+.	(64ccLLLL
+.	64b
+.	64ccJJJ
+16E	64eeLLL
+.	64gg
+.	64ee
+.	64ccJJJJ)
+16GG 16D	64r
+.	(64bLLLL
+.	64a#
+.	64bJJJ
+16FJJ	64ddLLL
+.	64ff
+.	64dd
+.	64bJJJJ)
+=176	=176
+*^	*
+16r	4C	(8ddL
+(16FLL	.	.
+16E	.	8ccJ)
+16G	.	.
+16E	8BB-	8r
+16CJJ)	.	.
+*v	*v	*
+=177	=177
+*-	*-

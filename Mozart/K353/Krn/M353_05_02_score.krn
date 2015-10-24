@@ -1,0 +1,84 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[b-e-a-]	*k[b-e-a-]
+*M6/8	*M6/8
+*E-:	*E-
+=-	=-
+4.BB- 4.D 4.F	24fLL
+.	24d
+.	24B-J
+.	24B-L
+.	24A
+.	24B-J
+.	24fL
+.	24d
+.	24B-JJ
+=65	=65
+4.BB- 4.E- 4.G	24gLL
+.	24e-
+.	24B-J
+.	24B-L
+.	24A
+.	24B-J
+.	24gL
+.	24e-
+.	24B-JJ
+4.BB- 4.C 4.E-	24ee-LL
+.	24cc
+.	24aJ
+.	24aL
+.	24g
+.	24aJ
+.	24ee-L
+.	24cc
+.	24aJJ
+=66	=66
+4.BB- 4.D 4.F	24ffLL
+.	24dd
+.	24b-J
+.	24b-L
+.	24a
+.	24b-J
+.	24ffL
+.	24dd
+.	24b-JJ
+4.BB- 4.D 4.A-	24ffLL
+.	24dd
+.	24b-J
+.	24b-L
+.	24a
+.	24b-J
+.	24ffL
+.	24dd
+.	24b-JJ
+=67	=67
+4.BB- 4.E- 4.G	24ggLL
+.	24ee-
+.	24b-J
+.	24b-L
+.	24a
+.	24b-J
+.	24ggL
+.	24ee-
+.	24b-JJ
+(4.BB- 4.C 4.E- 4.F 4.A	24eee-LL
+.	24ccc
+.	24aaJ
+.	24ffL
+.	24ee-
+.	24ccJ
+.	24anL
+.	24f
+.	24e-JJ
+=68	=68
+8BB-) 8D 8F 8B-	24dLL
+.	24B-
+.	24cJ
+8r	24dL
+.	24e-
+.	24fJ
+8r	24gL
+.	24a-
+.	24aJJ
+*-	*-

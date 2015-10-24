@@ -1,0 +1,165 @@
+**kern	**kern	**kern	**kern
+*staff3	*staff4	*staff1	*staff2
+*clefF4	*clefF4	*clefG2	*clefG2
+*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*D:	*D:	*D:	*D:
+=-	=-	=-	=-
+2.r	2.r	8r	(16a'LL
+.	.	.	16a'
+.	.	8.ggL	16a'
+.	.	.	16a'JJ)
+.	.	.	(16a'LL
+.	.	(64aaLLL	16a'
+.	.	64ff#	.
+.	.	64gg	.
+.	.	64bbJJJJ)	.
+.	.	16ee	16a'
+.	.	(64ff#LLLL	16a'JJ)
+.	.	64dd#	.
+.	.	64ee	.
+.	.	64ff#JJJJ)	.
+.	.	16cc#	(16g'LL 16a'
+.	.	(64ddLLLL	16g' 16a'
+.	.	64b	.
+.	.	64cc#	.
+.	.	64eeJJJJ)	.
+.	.	16.aLL	16g'
+.	.	.	16g'JJ) 16a'
+.	.	32aJJk	.
+=428	=428	=428	=428
+2.r	8r	16dd	16f#LL 16a
+.	.	16r	16f# 16a
+.	8.dL	8r	16f# 16a
+.	.	.	16f#JJ 16a
+.	.	4r	16f#LL 16a
+.	(64eLLL	.	16f# 16a
+.	64c#	.	.
+.	64d	.	.
+.	64f#JJJJ)	.	.
+.	16A	.	16f# 16a
+.	(64BLLLL	.	16f#JJ 16a
+.	64G#	.	.
+.	64A	.	.
+.	64dJJJJ)	.	.
+.	16F#	4r	16f#LL 16a
+.	(64GLLLL	.	16f# 16a
+.	64E	.	.
+.	64F#	.	.
+.	64AJJJJ)	.	.
+.	16.DLL	.	16f# 16a
+.	.	.	16f#JJ 16a
+.	32DJJk	.	.
+=429	=429	=429	=429
+2.r	8C#	8r	16gLL 16a
+.	.	.	16g 16a
+.	8r	8.bbL	16g 16a
+.	.	.	16gJJ 16a
+.	4r	.	16gLL 16a
+.	.	(64aaLLL	16g 16a
+.	.	64ff#	.
+.	.	64gg	.
+.	.	64bbJJJJ)	.
+.	.	16ee	16g 16a
+.	.	(64ff#LLLL	16gJJ 16a
+.	.	64dd#	.
+.	.	64ee	.
+.	.	64ff#JJJJ)	.
+.	4r	16cc#	16gLL 16a
+.	.	(64ddLLLL	16g 16a
+.	.	64b	.
+.	.	64cc#	.
+.	.	64eeJJJJ)	.
+.	.	16.aLL	16g
+.	.	.	16gJJ 16a
+.	.	32aJJk	.
+=430	=430	=430	=430
+2.r	8r	16dd	16f#LL 16a
+.	.	16r	16f# 16a
+.	8.dL	8r	16f# 16a
+.	.	.	16f#JJ 16a
+.	.	4r	16f#LL 16a
+.	80e	.	16f# 16a
+.	80c#	.	.
+.	80d	.	.
+.	80f#	.	.
+.	80G#	.	.
+.	16AL	.	16f# 16a
+.	80B	.	16f#JJ 16a
+.	80G#	.	.
+.	80A	.	.
+.	80d	.	.
+.	80E#	.	.
+.	16F#	4r	16f#LL 16a 16dd
+.	16r	.	16f# 16a 16dd
+.	16.DDLL	.	16f# 16a 16dd
+.	.	.	16f#JJ 16a 16dd
+.	32CC#JJk	.	.
+=431	=431	=431	=431
+2.r	16BBB	8r	16g#LL 16dd
+.	16r	.	16g# 16dd
+.	8r	8.bbL	16g# 16dd
+.	.	.	16g#JJ 16dd
+.	4r	.	16g#LL 16dd 16ee
+.	.	(64cccLLL	16g# 16dd 16ee
+.	.	64aa#	.
+.	.	64bb	.
+.	.	64fffJJJJ)	.
+.	.	16eee	16g# 16dd 16ee
+.	.	32r	16g#JJ 16dd 16ee
+.	.	32bb	.
+.	4r	32dddLLL	16aLL 16cc 16ee
+.	.	32ccc	.
+.	.	32bb	16a 16cc 16ee
+.	.	32aa#JJ	.
+.	.	32gg#LL	16a 16cc 16ee
+.	.	32aa#	.
+.	.	32bb	16aJJ 16cc 16ee
+.	.	32cccJJJ	.
+=432	=432	=432	=432
+2.r	2.r	8ddL 8ddd	8f# 8cc
+.	.	(128ddLLLK	8r
+.	.	64.dddJJJJ)	.
+.	.	32r	.
+.	.	16r	.
+.	.	16.r	4r
+.	.	(64cccLLLL	.
+.	.	64bbJJJJ)	.
+.	.	16ddd'	.
+.	.	32r	.
+.	.	(64aaLLLL	.
+.	.	64ggJJJJ)	.
+.	.	8bb'	8g' 8dd'
+.	.	8r	8r
+=433	=433	=433	=433
+2.r	8GG 8BB 8E	8r	2.r
+.	8r	(128BLLLLK	.
+.	.	64.gJJJJ)	.
+.	.	32r	.
+.	.	16r	.
+.	16r	16.r	.
+.	16r	.	.
+.	.	(64f#LLLL	.
+.	.	64eJJJJ)	.
+.	16r	16g'	.
+.	16r	32r	.
+.	.	(64dLLLL	.
+.	.	64c#JJJJ)	.
+.	8AA' 8G'	8e'	.
+.	8r	16.r	.
+.	.	(32c#	.
+*clefF4	*	*	*
+=434	=434	=434	=434
+8r	2DD	4e)	2.r
+(24ELL	.	.	.
+24D	.	.	.
+24C#JJ	.	.	.
+24BBLL	.	4G 4A 4c# 4e	.
+24AA	.	.	.
+24GGJ	.	.	.
+24FF#L	.	.	.
+24AA	.	.	.
+24GGJJ)	.	.	.
+4FF#;	4DD;	4A; 4d;	.
+=435||	=435||	=435||	=435||
+*-	*-	*-	*-

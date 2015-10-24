@@ -1,0 +1,87 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[]	*k[]
+*M3/4	*M3/4
+*C:	*C:
+=-	=-
+4r	4gg' 4eee'
+=101	=101
+16r	4gg' 4eee'
+(16CCLL	.
+16DD	.
+16EEJJ	.
+16FFLL	4r
+16GG	.
+16AA	.
+16BBJJ)	.
+8C'L	4ee' 4ccc'
+8C'J	.
+=102	=102
+16r	4aa' 4fff'
+(16CLL	.
+16D	.
+16EJJ	.
+16FLL	4r
+16G	.
+16A	.
+16BJJ)	.
+8c'L	4gg' 4eee'
+8c'J	.
+*clefG2	*
+=103	=103
+16r	4gg' 4eee'
+(16cLL	.
+16d	.
+16eJJ	.
+16fLL	4r
+16g	.
+16a	.
+16bJJ)	.
+8cc'L	4ff' 4ddd'
+8cc'J	.
+=104	=104
+4cc'	16ee 16ccc
+.	(16ccLL
+.	16dd
+.	16eeJJ
+4r	16ffLL
+.	16gg
+.	16aa
+.	16bbJJ)
+4e' 4g'	8ccc'L
+.	8ccc'J
+=105	=105
+4f' 4a'	16r
+.	(16ddLL
+.	16ee
+.	16ffJJ
+4r	16ggLL
+.	16aa
+.	16bb
+.	16ccc#JJ)
+4e' 4g'	8ddd'L
+.	8eee'J
+=106	=106
+4d' 4f'	(8fffL
+.	8eeeJ)
+4r	8ddd'L
+.	8eee'J
+4f#' 4a'	8ccc'L
+.	8ddd'J
+=107	=107
+4g' 4b'	(8bbL
+.	8dddJ)
+4r	8bb'L
+.	8ccc'J
+4d' 4cc'	8aa'L
+.	8bb'J
+=108	=108
+4g' 4b'	8gg'
+.	8g'L
+4r	8b'
+.	8dd'J
+4r	8gg'L
+.	8bb'J
+=	=
+*-	*-

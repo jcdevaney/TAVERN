@@ -1,0 +1,19 @@
+
+!!!COM: Beethoven
+!!!OTL: Six Variations on an Original Theme
+!!!Variation: Variation 4 e
+**harm	**function	**comments
+*M3/4	*M3/4	*M3/4
+*Eb:	*Eb:	*Eb:
+2I	T	T
+8IV64	.	P
+8I	.	T
+=	=	=
+4viio7	.	D TPedal
+2I	.	T
+=	=	=
+2.V7	D	D
+=	=	=
+2.I	T	T
+==	==	==
+*-	*-	*-

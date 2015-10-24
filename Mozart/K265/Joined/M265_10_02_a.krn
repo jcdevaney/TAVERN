@@ -1,0 +1,93 @@
+!!!COM: Mozart
+!!!OTL: 12 Variations on "Ah Vous dirais-je, Maman" for the Piano,
+!!!Variation: 10 b
+!!!Note: Unidentifiable chord measure 5
+**function	**harm	**kern	**kern
+*M2/4	*M2/4	*M2/4	*M2/4
+=-	=-	=-	=-
+*	*	*	*
+*	*	*	*^
+*	*	*	*	*
+2D	2I64	4GGG 4GG	4r	16r
+.	.	.	.	(16eLL
+.	.	.	.	16cc
+.	.	.	.	16eJJ)
+.	.	4r	4gg	16r
+.	.	.	.	(16eLL
+.	.	.	.	16cc
+.	.	.	.	16eJJ)
+=	=	=	=	=
+4D	4V7/V	2r	4ff#	16r
+.	.	.	.	(16dLL
+.	.	.	.	16cc
+.	.	.	.	16dJJ)
+4D	4viio7	.	4ff	16r
+.	.	.	.	(16dLL
+.	.	.	.	16b
+.	.	.	.	16dJJ)
+*	*	*	*	*
+*	*	*	*v	*v
+*	*	*	*
+=	=	=	=
+*	*	*	*
+*	*	*	*^
+*	*	*	*	*
+4D	4I	4r	4ee	16r
+.	.	.	.	(16cLL
+.	.	.	.	16cc
+.	.	.	.	16cJJ)
+4D	4i64	4GG 4G	16r	16r
+*	*	*	*	*
+*	*	*	*v	*v
+.	.	.	(16gLL
+.	.	.	16cc 16ee-
+.	.	.	16gJJ)
+*	*	*	*
+*	*	*	*
+=	=	=	=
+4D	4V65/V	4FF# 4F#	16r
+.	.	.	(16aLL
+.	.	.	16cc 16dd
+.	.	.	16aJJ)
+4D	4viio43	4FF 4F	16r
+.	.	.	(16a-LL
+.	.	.	16b 16dd
+.	.	.	16a-JJ)
+=	=	=	=
+4D	4I6	4EE 4E	16r
+.	.	.	(16gLL
+.	.	.	16cc 16ee
+.	.	.	16gJJ)
+4D	4It6/V	4EE- 4E-	16r
+.	.	.	(16gLL
+.	.	.	16cc# 16gg
+.	.	.	16gJJ)
+=	=	=	=
+4D	4V/V	4DD 4D	16r
+.	.	.	(16aLL
+.	.	.	16dd 16ff#
+.	.	.	16aJJ)
+4D	4viio7	4BBB 4BB	16r
+.	.	.	(16a-LL
+.	.	.	16dd 16ff
+.	.	.	16a-JJ)
+=	=	=	=
+4D	4I	4CC 4C	16r
+.	.	.	(16gLL
+.	.	.	16cc 16ee
+.	.	.	16gJJ)
+4D	4viio7/V	4FFF# 4FF#	16r
+.	.	.	(16aLL
+.	.	.	16cc 16ee-
+.	.	.	16aJJ)
+=	=	=	=
+2D	2V	4GGG 4GG	(16bLL 16dd
+.	.	.	16cc
+.	.	.	16b
+.	.	.	16aJJ
+.	.	4r	16gLL
+.	.	.	16f
+.	.	.	16e
+.	.	.	16dJJ)
+=	=	=	=
+*-	*-	*-	*-

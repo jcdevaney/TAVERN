@@ -1,0 +1,62 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[f#]	*k[f#]
+*met(c|)	*met(c|)
+*M2/2	*M2/2
+*G:	*G:
+=-	=-
+8bL 8dd 8gg	16GLL
+.	16g
+8gg	16f#
+.	16g
+16bbL	16G
+16ggJJ	16gJJ
+=225	=225
+8ff#L	16F#LL
+.	16f#
+8ff#	16e
+.	16f#
+16aaL	16F#
+16ff#JJ	16f#JJ
+=226	=226
+8eeL	16ELL
+.	16e
+8ee	16d#
+.	16e
+16ggL	16E
+16eeJJ	16eJJ
+=227	=227
+4dd	16DLL
+.	16d
+.	16F#
+.	16f#
+[8ddd	16G#
+.	16g#JJ
+=228	=228
+(8dddL]	16ALL
+.	16a
+8ccc#)	16E
+.	16e
+[8cccJ	16F#
+.	16f#JJ
+=229	=229
+(8cccL]	16GLL
+.	16g
+8bb)	16BB
+.	16B
+*^	*
+16aaL	8r	16C#
+16ggJJ	.	16c#JJ
+=230	=230	=230
+(4gg	4b	8DL 8d
+.	.	8D 8d
+16bbLL	8cc	8DJ 8d
+16aaJJ)	.	.
+=231	=231	=231
+8gg	8b	8GL
+8r	8r	8D
+8r	8r	8GGJ
+*v	*v	*
+=232	=232
+*-	*-

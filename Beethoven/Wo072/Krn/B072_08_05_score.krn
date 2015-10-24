@@ -1,0 +1,49 @@
+**kern	**kern
+*staff2	*staff1
+*clefG2	*clefG2
+*k[]	*k[]
+*M2/4	*M2/4
+*C:	*C:
+=-	=-
+8r	8b' 8gg'
+=298	=298
+8r	8b'L 8gg'
+8g'L	8b'J 8gg'
+8e'	8cc#'L 8gg'
+8d'J	8dd'J 8gg'
+=299	=299
+8c#'	4ee 4gg
+8A'L	.
+8a'J	8r
+8r	8ee 8gg
+=300	=300
+2r	(8eeL 8gg
+.	8ddJ) 8ff
+.	(8ddL 8ff
+.	8cc#J) 8ee
+=301	=301
+8r	4dd 4ff
+(8g#L	.
+8a)	8r
+8g'J	8ff'
+=302	=302
+8f'L	8ff'L
+8e'J	8a'J 8ff'
+8d'L	8b'L 8ff'
+8c'J	8cc'J 8ff'
+=303	=303
+8B'L	4dd 4ff
+8A'J	.
+8G'L	8r
+8B'J	8dd' 8ff'
+=304	=304
+8c'L	8cc'L 8ee'
+8d'J	8b'J 8dd'
+8e'L	8g'L 8cc'
+8c'J	8cc'J 8ee'
+=305	=305
+8G'L	4b 4dd
+(8f#	.
+8gJ)	8r
+=	=
+*-	*-

@@ -1,0 +1,72 @@
+**kern	**kern
+*staff2	*staff1
+*clefG2	*clefG2
+*k[]	*k[]
+*M3/4	*M3/4
+*C:	*C:
+=-	=-
+4e 4g	4r
+=167	=167
+(2e 2g	12r
+.	(12bbL
+.	12cccJ
+.	12dddL
+.	12bb
+.	12cccJ
+4c) 4e	12dddL
+.	12bb
+.	12cccJ)
+=168	=168
+(2f 2a	12r
+.	(12bbL
+.	12cccJ
+.	12dddL
+.	12bb
+.	12cccJ
+4e) 4g	12dddL
+.	12bb
+.	12cccJ)
+=169	=169
+(2e 2g	12r
+.	(12bbL
+.	12cccJ
+.	12dddL
+.	12bb
+.	12cccJ
+4d) 4f	12dddL
+.	12bb
+.	12cccJ)
+=170	=170
+4c 4e	(12dddL
+.	12bb
+.	12cccJ
+4r	12dddL
+.	12bb
+.	12cccJ)
+4e 4g	4ccc#
+=171	=171
+*^	*
+(4a	2f 2a	2ddd
+4dd	.	.
+4cc#)	4e 4g	4eee
+=172	=172	=172
+4dd	4d 4f	(8fffL
+.	.	8eeeJ)
+4r	4r	(8dddL
+.	.	8cccJ)
+4r	4r	(8bbL
+.	.	8aaJ)
+*clefF4	*clefF4	*
+=173	=173	=173
+(4A	2.F	(8ggL
+.	.	8ffJ)
+4d	.	(8eeL
+.	.	8ddJ)
+4f)	.	(8gg#L
+.	.	8aaJ)
+=174	=174	=174
+(4e	2G	(4cc
+4d)	.	4b)
+*v	*v	*
+=	=
+*-	*-

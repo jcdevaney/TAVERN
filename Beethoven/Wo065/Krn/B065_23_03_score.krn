@@ -1,0 +1,114 @@
+**kern	**kern	**kern	**kern
+*staff3	*staff4	*staff1	*staff2
+*clefF4	*clefF4	*clefG2	*clefG2
+*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*D:	*D:	*D:	*D:
+=-	=-	=-	=-
+*	*	*	*clefG2
+2.r	2.r	4r	16ALL
+.	.	.	(16a'
+.	.	.	16a'
+.	.	.	16a'JJ)
+.	.	8r	(16a'LL
+.	.	.	16a'
+.	.	16.ggLL	16a'
+.	.	.	16a'JJ)
+.	.	32ff#JJk	.
+.	.	16.eeLL	(16g'LL 16a'
+.	.	.	16g' 16a'
+.	.	32ddJJk	.
+.	.	16cc#	16g' 16a'
+.	.	16r	16g'JJ) 16a'
+=420	=420	=420	=420
+2.r	8r	16dd	16f#LL 16a
+.	.	16r	16f# 16a
+.	4d	8r	16f# 16a
+.	.	.	16f#JJ 16a
+.	.	4r	16f#LL 16a
+.	.	.	16f# 16a
+.	16.ALL	.	16f# 16a
+.	.	.	16f#JJ 16a
+.	32GJJk	.	.
+.	16.F#LL	4r	16f#LL 16a
+.	.	.	16f# 16a
+.	32EJJk	.	.
+.	16D	.	16f# 16a
+.	16r	.	16f#JJ 16a
+=421	=421	=421	=421
+2.r	16C#	8r	16gLL 16a
+.	16r	.	16g 16a
+.	8r	4bb	16g 16a
+.	.	.	16gJJ 16a
+.	4r	.	16gLL 16a
+.	.	.	16g 16a
+.	.	16.ggLL	16g 16a
+.	.	.	16gJJ 16a
+.	.	32ff#JJk	.
+.	4r	16.eeLL	16gLL 16a
+.	.	.	16g 16a
+.	.	32ddJJk	.
+.	.	16cc#	16g 16a
+.	.	16r	16gJJ 16a
+=422	=422	=422	=422
+2.r	8r	16dd	16f#LL 16a
+.	.	16r	16f# 16a
+.	4d	8r	16f# 16a
+.	.	.	16f#JJ 16a
+.	.	4r	16f#LL 16a
+.	.	.	16f# 16a
+.	16.ALL	.	16f# 16a 16dd
+.	.	.	16f#JJ 16a 16dd
+.	32GJJk	.	.
+.	16.F#LL	4r	16f#LL 16a 16dd
+.	.	.	16f# 16a 16dd
+.	32EJJk	.	.
+.	16D	.	16f# 16a 16dd
+.	16r	.	16f#JJ 16a 16dd
+=423	=423	=423	=423
+2.r	8BB	8r	16g#LL 16dd
+.	.	.	16g# 16dd
+.	8r	4bb	16g# 16dd
+.	.	.	16g#JJ 16dd
+.	4r	.	16g#LL 16dd 16ee
+.	.	.	16g# 16dd 16ee
+.	.	16.eeeLL	16g# 16dd 16ee
+.	.	.	16g#JJ 16dd 16ee
+.	.	32dddJJk	.
+.	4r	16.cccLL	16aLL 16cc 16ee
+.	.	.	16a 16cc 16ee
+.	.	32bbJJk	.
+.	.	16aa	16a 16cc 16ee
+.	.	16r	16aJJ 16cc 16ee
+=424	=424	=424	=424
+2.r	2.r	8r	8f# 8cc 8dd
+.	.	8ddd	8r
+.	.	8r	4r
+.	.	16.bbLL	.
+.	.	32aaJJk	.
+.	.	8gg'	8b' 8dd'
+.	.	8r	8r
+=425	=425	=425	=425
+2.r	8GG 8BB 8E	8r	2.r
+.	8r	8g	.
+.	4r	8r	.
+.	.	16.eLL	.
+.	.	32dJJk	.
+.	8AA' 8E' 8G'	8c#'	.
+.	8r	16.r	.
+.	.	32c#	.
+=426	=426	=426	=426
+8r	2DD	2G 2A 2c# 2e	2r
+16r	.	.	.
+(16a	.	.	.
+16bLL	.	.	.
+16a	.	.	.
+16g	.	.	.
+16f#JJ)	.	.	.
+8r	8DD 8AA	8F# 8d	8r
+8r	8r	8r	32r
+.	.	.	(32dLLL
+.	.	.	32f#
+.	.	.	32dJJJ)
+=427	=427	=427	=427
+*-	*-	*-	*-

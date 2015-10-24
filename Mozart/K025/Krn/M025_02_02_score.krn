@@ -1,0 +1,60 @@
+**kern	**kern
+*staff2	*staff1
+*D:	*D:
+*clefF4	*clefG2
+*k[f#c#]	*k[f#c#]
+*M4/4	*M4/4
+=-	=-
+8r	4a
+8G	.
+=43	=43
+8F#	8r
+8r	8a 8dd
+8C#	8r
+8r	8a 8ee
+8D	8r
+8r	8a 8ff#
+8E	8r
+8r	8a 8gg
+=44	=44
+8F#	8r
+8r	8dd 8aa
+8G	8r
+8r	8dd 8bb
+8F#	8r
+8r	8dd 8aa
+8E	8r
+8r	8dd 8gg
+=45	=45
+8D	8r
+8r	8dd 8ff#
+8F#	8r
+8r	8dd 8ff#
+8A	8r
+8r	8dd 8ee
+8AA	8r
+8r	8cc# 8ee
+=46	=46
+8D	8r
+8r	8a 8dd
+8C#	8r
+8r	8a 8ee
+8D	8r
+8r	8a 8ff#
+8E	8r
+8r	8a 8gg
+=47	=47
+8F#	8r
+8r	8dd 8aa
+8C#	8r
+8r	8ee 8aa
+8D	8r
+8r	(8ff# 8aa
+8DD	8eeL 8gg
+8r	8ddJ) 8ff#
+=48	=48
+(4.AA	8dd 8ff#
+.	(4cc# 4ee
+8GG#)	8dd) 8ff#
+4AA	4cc# 4ee
+*-	*-

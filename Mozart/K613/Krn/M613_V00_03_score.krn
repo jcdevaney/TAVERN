@@ -1,0 +1,79 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[b-]	*k[b-]
+*M3/4	*M3/4
+=-	=-
+*	*^
+4r	4g'	4e
+=17	=17	=17
+2C	(4e	(4c
+.	4g)	4e)
+4r	4g'	4e
+=18	=18	=18
+2C	(4cc	2e
+.	4g)	.
+4r	4g'	4e
+=19	=19	=19
+2C	(4e	(4c
+.	4g)	4e)
+4r	4g'	4e
+=20	=20	=20
+4C	4cc'	4e
+4CC	4r	4r
+4r	4gg'	4ee
+*	*v	*v
+=21	=21
+*	*^
+2c	(4ee	(4cc
+.	4gg)	4ee)
+4r	4gg'	4ee
+=22	=22	=22
+2c	(4ccc	2ee
+.	4gg)	.
+4r	4gg'	4ee
+=23	=23	=23
+2c	(4ee	(4cc
+.	4gg)	4ee)
+4r	4gg'	4ee
+=24	=24	=24
+4c'	4ccc'	4ee
+4C'	4r	4r
+4CC 4C	4c	4r
+*	*v	*v
+=25	=25
+4CC 4C	(4c
+4DD 4D	4d
+4EE 4E	4e)
+=26	=26
+4FF 4F	(4f)
+4EE 4E	4e
+4FF 4F	4f)
+=27	=27
+4DD 4D	(4d
+4EE 4E	4e
+4FF 4F	4f)
+=28	=28
+4GG 4G	(4g)
+4FF# 4F#	4f#
+4GG 4G	4g)
+=29	=29
+4EE 4E	(4e
+4FF 4F	4f
+4GG 4G	4g)
+=30	=30
+4AA 4A	(4a)
+4GG# 4G#	4g#
+4AA 4A	4a)
+=31	=31
+*	*^
+2.GGn 2.Gn	(4b)	2.d 2.f
+.	4a	.
+.	4b)	.
+=32	=32	=32
+4CC 4C	[2cc	2e
+4r	.	.
+4r	8.ccL]	4r
+.	16cc#Jk	.
+*	*v	*v
+*-	*-

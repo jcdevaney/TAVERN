@@ -1,0 +1,107 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[b-]	*k[b-]
+*M3/4	*M3/4
+=-	=-
+4r	4c
+=195	=195
+16r	(4f
+16FFLL	.
+16AA	.
+16CJJ	.
+16FLL	4c)
+16A	.
+16c	.
+16AJJ	.
+16FLL	4f'
+16C	.
+16AA	.
+16FFJJ	.
+=196	=196
+16r	(4g
+16CCLL	.
+16EE	.
+16GGJJ	.
+16CLL	4c)
+16E	.
+16G	.
+16EJJ	.
+16CLL	4g'
+16GG	.
+16EE	.
+16CCJJ	.
+=197	=197
+*	*^
+16FFLL	(4a	2r
+16AA	.	.
+16C	.	.
+16FJJ	.	.
+16DDLL	4f)	.
+16FF	.	.
+16AA	.	.
+16DJJ	.	.
+16BBB-LL	4b-	4g
+16DD	.	.
+16GG	.	.
+16BB-JJ	.	.
+*	*v	*v
+=198	=198
+*	*^
+16CCLL	(4a	4f
+16FF	.	.
+16AA	.	.
+16CJJ	.	.
+16BBLL	4g)	4e
+16C	.	.
+16D	.	.
+16CJJ	.	.
+16AALL	4cc	4e
+16BB-	.	.
+16C	.	.
+16BB-JJ	.	.
+=199	=199	=199
+16AALL	(4cc	4f
+16C	.	.
+16F	.	.
+16AAJJ	.	.
+16GGLL	4b-	4e
+16C	.	.
+16E	.	.
+16GGJJ	.	.
+16FFLL	4a)	4f
+16C	.	.
+16F	.	.
+16FFJJ	.	.
+=200	=200	=200
+16BB-LL	(4dd	2.d
+16F	.	.
+16D	.	.
+16FJJ	.	.
+16BB-LL	4b-	.
+16F#	.	.
+16D	.	.
+16F#JJ	.	.
+16BB-LL	4g)	.
+16G	.	.
+16D	.	.
+16GJJ	.	.
+*	*v	*v
+=201	=201
+16CLL	(8.fL
+16c	.
+16A	.
+16cJJ	32eLL
+.	32fJJJ
+16CLL	4g)
+16c	.
+16B-	.
+16cJJ	.
+16CLL	4e'
+16B-	.
+16G	.
+16B-JJ	.
+=202	=202
+4F 4A	4f'
+4FF	4r
+*-	*-

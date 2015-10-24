@@ -1,0 +1,56 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[]	*k[]
+*M3/4	*M3/4
+=-	=-
+16CLL	4.gg
+16c	.
+16e	.
+16cJJ	.
+16GLL	.
+16c	.
+16E	16aaLL
+16GJJ	16bbJJ
+16CLL	16cccLL
+16E	16ddd
+16G	16eee
+16cJJ	16cccJJ
+=348	=348
+4BB 4D 4G	16fffLL
+.	16eee
+.	16ddd
+.	16cccJJ
+4r	16bbLL
+.	16aa
+.	16gg
+.	16ffJJ
+4C 4E 4G	16eeLL
+.	16dd
+.	16cc
+.	16bJJ
+=349	=349
+16FFLL	16aLL
+16AA	16dd
+16D	16ff
+16FJJ	16aaJJ
+16GGLL	4gg
+16C	.
+16E	.
+16GJJ	.
+16GGLL	4d 4f 4g 4b
+16BB	.
+16D	.
+16GJJ	.
+=350	=350
+16CLL	2c 2e 2g 2cc
+16G	.
+16E	.
+16CJJ	.
+16GGLL	.
+16C	.
+16GG	.
+16EEJJ	.
+4CC	4r
+==	==
+*-	*-

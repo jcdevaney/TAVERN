@@ -1,0 +1,131 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[f#]	*k[f#]
+*met(c|)	*met(c|)
+*M2/2	*M2/2
+*G:	*G:
+=-	=-
+4..E 4..B 4..d 4..e	4GGG# 4GG#
+.	4GG#
+16e	.
+4..E 4..B 4..d 4..e	4GGG# 4GG#
+.	4GG#
+16e	.
+=194	=194
+8EL 8A 8c [8e	2AAA 2AA
+(32eLL]	.
+32f	.
+32e	.
+32d#JJJ	.
+32eLLL	.
+32fn	.
+32f#	.
+32gnJJ	.
+32g#LL	.
+32a	.
+32b-	.
+32bJJJ	.
+32ccnLLL	2r
+32cc#	.
+32dd	.
+32dd#JJ	.
+32eeLL	.
+32ff	.
+32ff#	.
+32ggJJJ	.
+32gg#LLL	.
+32aa	.
+32bb-	.
+32bbJJ	.
+32cccLL	.
+32ccc#	.
+32ddd	.
+32ddd#JJJ)	.
+*	*clefG2
+=195	=195
+8eee	4e 4g# 4dd
+4eee	.
+.	4e 4g# 4dd
+4eee	.
+.	4e 4g# 4dd
+4eee	.
+.	4e 4g# 4dd
+8eee	.
+=196	=196
+(8.eeeL	4a 4cc
+16cccJk	.
+32eeeLLL	4r
+32ccc	.
+32eee	.
+32cccJJ	.
+32eeeLL	.
+32ccc	.
+32eee	.
+32cccJJJ	.
+8aa)	2r
+8r	.
+4r	.
+*clefF4	*clefF4
+=197	=197
+4..D 4..A 4..c 4..d	4FFF# 4FF#
+.	4FF#
+16d	.
+4..D 4..A 4..c 4..d	4FFF# 4FF#
+.	4FF#
+16d	.
+=198	=198
+8DL 8G 8B [8d	2GGG 2GG
+(32dLL]	.
+32e	.
+32d	.
+32c#JJJ	.
+*clefG2	*
+32dLLL	.
+32e-	.
+32e	.
+32fJJ	.
+32f#LL	.
+32g	.
+32g#	.
+32aJJJ	.
+32b-LLL	2r
+32b	.
+32cc	.
+32cc#JJ	.
+32ddLL	.
+32ee-	.
+32ee	.
+32ffJJJ	.
+32ff#LLL	.
+32gg	.
+32gg#	.
+32aaJJ	.
+32bb-LL	.
+32bb	.
+32ccc	.
+32ccc#JJJ)	.
+*	*clefG2
+=199	=199
+(8ddd'L	4d 4f# 4cc
+8ddd'	.
+8ddd'	4d 4f# 4cc
+8ddd'J	.
+8ddd'L	4d 4f# 4cc
+8ddd'	.
+8ddd'	4d 4f# 4cc
+8ddd'J)	.
+=200	=200
+(8.dddL	4g 4b
+16ccc#Jk	.
+16cccLL	4r
+16bbJ	.
+24bb-L	.
+24aa	.
+24aa-JJ	.
+8gg)	2r
+8r	.
+4r	.
+*	*clefF4
+=201	=201
+*-	*-

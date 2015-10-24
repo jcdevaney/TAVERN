@@ -1,0 +1,39 @@
+!!!COM: Beethoven
+!!!OTL: 7 Variations on "God Save the King" in C Major
+!!!Variation: Variation 7 d (coda1)
+**chords	**function	**comments
+*M4/4	*M4/4	*M4/4
+*C:	*C:	*C:
+2I	T	T
+2I6	.	.
+=	=	=
+1IV	P	P
+=	=	=
+1IV	.	.
+=	=	=
+1IV	.	.
+==	==	==
+*M3/4	*M3/4	*M3/4 !Adagio
+4IV	.	.
+4ii	.	T
+4iv6/ii	.	P
+=	=	=
+2.V/ii	.	D
+=	=	=
+4viio43/iv/ii	.	.
+4.viio43/iv/ii	.	.
+8iv6/ii	.	.
+=	=	=
+4III64/ii	.	.
+4viio7/ii	.	.
+4ii	.	T
+=	=	=
+4iv6/ii	.	P
+4III64/ii	.	D
+4viio7/ii	.	.
+=	=	=
+4ii	.	T
+4I64	D	D
+4V7	.	.
+=	=	=
+*-	*-	*-

@@ -1,0 +1,43 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[b-]	*k[b-]
+*M3/8	*M3/8
+*d:	*d:
+=	=
+16GG 16G	16r
+16r	16g 16gg
+16EE 16E	16r
+16r	16e 16ee
+8r	8r
+=140	=140
+16CC# 16C#	16r
+16r	16c# 16cc#
+16AAA 16AA	16r
+16r	16A 16a
+8r	8r
+=141	=141
+(8DL	16r
+.	16d 16dd
+8DD	16r
+.	16d 16dd
+8FFJ	16r
+.	16d 16dd
+=142	=142
+8GGL	16r
+.	16e 16dd 16ee
+8BB-	16r
+.	16e 16dd 16ee
+8GG#J	16r
+.	16e 16dd 16ee
+=143	=143
+8AAL	16r
+.	16f 16dd 16ff
+8AAA	16r
+.	16g 16ee 16gg
+8AAJ	16r
+.	16e 16cc# 16ee
+=144	=144
+8DDL 8D	16r
+.	16d 16dd
+*-	*-

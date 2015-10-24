@@ -1,0 +1,66 @@
+**kern	**kern
+*staff1	*staff2
+*clefG2	*clefF4
+*k[f#c#]	*k[f#c#]
+*M3/4	*M3/4
+*D:	*D:
+8b 8dd 8bb	8BBL
+16r	8DJ 8F# 8B
+16cc# 16ee 16ccc#	.
+=105	=105
+(4dd 4ff# 4ddd	8BBL
+.	8DJ 8F# 8B
+8b) 8dd 8bb	8BBL
+8r	8DJ 8F# 8B
+8cc# 8ee 8ccc#	8AAL
+16r	8C#J 8E 8G
+16dd 16ff# 16ddd	.
+=106	=106
+(4ee 4gg 4eee	8AAL
+.	8C#J 8E 8G
+8cc#) 8ee 8ccc#	8AAL
+8r	8C#J 8E 8G
+8cc# 8ee 8ccc#	8AAL
+16r	8C#J 8E 8G
+16dd 16ff# 16ddd	.
+=107	=107
+8ee'L 8gg' 8eee'	8AAL
+8dd'J 8ff#' 8ddd'	8C#J 8E 8G
+8ee'L 8gg' 8eee'	8AAL
+8cc#'J 8ee' 8ccc#'	8C#J 8E 8G
+8dd'L 8ff#' 8ddd'	8AAL
+8ee'J 8gg' 8eee'	8C#J 8E 8G
+=108	=108
+8ff#'L 8aa' 8fff#'	8DL
+8ee'J 8gg' 8eee'	8F#J 8A 8d
+8dd'L 8ff#' 8ddd'	8DL
+8ee'J 8gg' 8eee'	8F#J 8A 8d
+8ff#'L 8aa' 8fff#'	8DL
+8ff#'J 8aa' 8fff#'	8F#J 8A 8d
+=109	=109
+(4ff# 4aa 4fff#	8DL
+.	8F#J 8A 8d
+8dd) 8ff# 8ddd	8DL
+8r	8F#J 8A 8d
+8.ddL 8.ff#	8DL
+.	8F#J 8A 8d
+16eeJk 16gg	.
+=110	=110
+(4ff# 4aa	8DL
+.	8F#J 8A 8d
+8dd) 8ff#	8DL
+8r	8F#J 8A 8d
+4ff# 4fff#	8DL
+.	8dJ
+=111	=111
+8ee'L 8eee'	8E'L 8e'
+8dd'J 8ddd'	8F#'J 8f#'
+8cc#'L 8ccc#'	8G'L 8g'
+8b'J 8bb'	8G#'J 8g#'
+8a'L 8aa'	8A'L 8a'
+8cc#'J 8ee' 8ccc#'	8AA'J 8A'
+=112	=112
+8dd'L 8ff#' 8ddd'	8D'L 8d'
+8cc#'J 8ee' 8ccc#'	8AA'J 8A'
+4dd 4ff# 4ddd	4D' 4d'
+*-	*-

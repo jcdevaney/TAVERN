@@ -1,0 +1,75 @@
+**kern	**kern
+*staff2	*staff1
+*clefG2	*clefG2
+*k[f#c#]	*k[f#c#]
+*M3/4	*M3/4
+*D:	*D
+*clefF4	*clefG2
+=129:|!	=129:|!
+8AL 8c#	8aL 8ee
+8AJ 8c#	8aJ 8ee
+8AL 8c#	8aL 8ee
+8AJ 8c#	8aJ 8ee
+8AL 8d	8aL 8ff
+8AJ 8d#	8aJ 8ff#
+=130	=130
+*^	*^
+(4.e	2A	(4.gg	2a
+8f#	.	24ff#LL	.
+.	.	24ee	.
+.	.	24ddJJ	.
+8g)	8A	8cc#)	8a
+8r	8r	8r	8r
+*clefG2	*clefG2	*	*
+*v	*v	*	*
+*	*v	*v
+=131	=131
+8dL	8ddL 8ff#
+8dJ	8ddJ 8ff#
+8dL	8ddL 8ff#
+8dJ	8ddJ 8ff#
+8dL 8e	8ddL 8gg
+8dJ 8e#	8ddJ 8gg#
+=132	=132
+*^	*^
+(4.f#	2d	4.aa	[2dd
+24gLL	.	24ggLL	.
+24a	.	24ff#	.
+24gJJ	.	24eeJJ	.
+8f#)	8d	8ddL	8dd]
+*	*	*v	*v
+8r	8r	8bbJ 8ddd
+*v	*v	*
+=133	=133
+8r	(8aaL 8ccc#
+(8c#	8ggJ 8bb
+8dL	4.ff#) 4.aa
+8eJ	.
+8f#)	.
+8r	8bb 8ddd
+=134	=134
+8r	(8aaL 8ccc#
+(8cc#	8ggJ 8bb
+8ddL	4.ff#) 4.aa
+8eeJ	.
+8ff#L	.
+8dd#J	(8bb
+=135	=135
+8eeL	8ggL
+8cc#J	8aaJ
+8ddL)	8ff#L
+8bJ 8dd	8ggJ
+8f#L 8dd	8aaL
+8g#J 8dd	8bbJ
+=136	=136
+*^	*
+(4dd	2a	8.ff#L
+.	.	32ggLL
+.	.	32ff#JJJ
+4cc#)	.	8eeL
+.	.	8ff#J
+4r	4r	8ggL)
+.	.	8gg#J
+*v	*v	*
+=	=
+*-	*-

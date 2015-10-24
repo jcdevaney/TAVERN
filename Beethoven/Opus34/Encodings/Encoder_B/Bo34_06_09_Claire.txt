@@ -1,0 +1,22 @@
+
+!!!COM: Beethoven
+!!!OTL: Six Variations on an Original Theme
+!!!Variation: Theme coda2 c2
+**harm	**function	**comments
+*M2/4	*M2/4	*M2/4
+*F:	*F:	*F:
+4I	T	T
+8IV64	.	.
+8I	.	.
+=	=	=
+4V7	.	D TPedal
+4I	.	T
+=	=	=
+4I6	.	.
+8.IV	P	.
+16I	.	.
+=	=	=
+4I64	D	D
+4V7	.	.
+=	=	=
+*-	*-	*-

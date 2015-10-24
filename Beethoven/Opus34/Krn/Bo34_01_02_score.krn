@@ -1,0 +1,78 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[f#c#]	*k[f#c#]
+*M2/4	*M2/4
+*D:	*D:
+=28	=28
+16dLL 16e	(80gLLLL
+.	80a
+.	80g
+.	80f#
+.	80gJJJJ)
+16d 16e	(96b-LLLL
+.	96cc#
+.	96b-
+.	96g
+.	96b-
+.	96cc#JJJJ)
+16d 16e 16g	(96eeLLLL
+.	96cc#
+.	96b-
+.	96cc#
+.	96ee
+.	96ggJJJJ)
+16dJJ 16e 16g 16b-	32bb-LLL
+.	64r
+.	64cc#JJJJ
+16dLL 16f# 16a	(80ddLLLL
+.	80ee
+.	80dd
+.	80cc#
+.	80ddJJJJ)
+16d 16f# 16a	(112eeLLLL
+.	112ff#
+.	112gg
+.	112aa
+.	112bb
+.	112ccc#
+.	112dddJJJJ)
+16B 16d 16g#	[8ddd
+16BJJ 16d 16g#	.
+=29	=29
+16ALL 16d 16f# 16a	8ddd_
+16A 16d 16f# 16a	.
+16A 16d 16f# 16a	(80dddLLLL]
+.	80ccc#
+.	80bb
+.	80aa
+.	80ggJJJJ)
+16AJJ 16d 16f# 16a	(96ff#LLLL
+.	96ee
+.	96dd
+.	96cc#
+.	96b
+.	96aJJJJ)
+16ALL 16d 16e 16g	(96g#LLLL
+.	96a
+.	96b-
+.	96b
+.	96cc
+.	96cc#JJJJ)
+16A 16d 16e 16g	(112ddLLLL
+.	112dd#
+.	112ee
+.	112ff
+.	112ff#
+.	112ggn
+.	112gg#JJJJ)
+16A 16c# 16e 16g	8aa
+16AJJ 16c# 16e 16g	.
+=30	=30
+16d 16f#	32dd'LLL)
+.	64r
+.	(64aJ
+16r	32f#)
+.	64r
+.	(64aJJJJ
+*-	*-

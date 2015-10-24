@@ -1,0 +1,117 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[]	*k[]
+*M4/4	*M4/4
+*C:	*C:
+=	=
+!coda	!coda
+8cL	16eeLL
+.	16cc
+8C	16g
+.	16ccJJ
+8c	16eeLL
+.	16cc
+8dJ	16ff
+.	16ccJJ
+*clefG2	*
+8eL	16ggLL
+.	16cc
+8d#	16ff#
+.	16ccJJ
+8e	16ggLL
+.	16cc
+8eJ	16gg#
+.	16ccJJ
+=122	=122
+8fL	16aaLL
+.	16cc
+8e	16gg#
+.	16ccJJ
+8f	16aaLL
+.	16cc
+8eJ	16gg#
+.	16ccJJ
+8fL	16aaLL
+.	16cc
+8e	16gg#
+.	16ccJJ
+8f	16aaLL
+.	16cc
+8eJ	16gg#
+.	16ccJJ
+=123	=123
+8f	16aaLL
+.	16ff
+8r	16cc
+.	16aJJ
+4r	16ffLL
+.	16cc
+.	16a
+.	16fJJ
+2r	16ccLL
+.	16a
+.	16f
+.	16cJJ
+.	16aLL
+.	16f
+.	16c
+.	16AJJ
+=124	=124
+1r	16fLL
+.	16c
+.	16A
+.	16FJJ
+*	*clefF4
+.	16cLL
+.	16A
+.	16F
+.	16CJJ
+.	16ALL
+.	16F
+.	16C
+.	16AAJJ
+.	16FLL
+.	16C
+.	16AA
+.	16CJJ
+=125||	=125||
+*clefF4	*clefG2
+!adagio	!adagio
+4FFF 4FF	4r
+(4DD 4D	(4A 4d 4f
+4BBB-) 4BB-	4G) 4d 4g
+=126	=126
+2.AAA 2.AA 2.A	(4..c# 4..e
+.	16d 16f
+.	4e) 4g
+=127	=127
+*	*^
+4C 4F#	(4a	4e-
+4.C 4.F#	4.a	4.e-
+8BB- 8G	16ccLL	8d
+.	16b-JJ)	.
+=128	=128	=128
+(4C 4c	(4a	4f
+4C# 4B-	4g	4e
+4D) 4A	4f)	4f
+*	*v	*v
+=129	=129
+*^	*^
+4r	4BB-	(8.aL	8dL
+.	.	.	8B-J
+.	.	16gJk	.
+4A	4C	4.f	4c
+4G	4C#	.	4B-
+.	.	8e)	.
+=130	=130	=130	=130
+8FL	8DL	8.fL	8AL
+8FJ	8FFJ	.	8AJ
+.	.	16dJk	.
+4E	4GG	[4c	4G
+4D	4GGG' 4GG'	8.cL]	4F
+.	.	16BJk	.
+*v	*v	*	*
+*	*v	*v
+=131	=131
+*-	*-

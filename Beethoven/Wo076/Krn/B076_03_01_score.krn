@@ -1,0 +1,88 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[b-]	*k[b-]
+*M3/8	*M3/8
+*F:	*F:
+=	=
+16FFLL	16r
+32r	16f 16a 16cc
+(32GGJ	.
+16AA)	16r
+32r	16f 16a 16cc
+(32GGJ	.
+16AA)	16r
+32r	16f 16a 16cc
+(32FFJJJ	.
+=74	=74
+16CLL)	16r
+32r	16e 16g 16cc
+(32CJ	.
+16BB)	16r
+32r	16e 16g 16cc
+(32CJ	.
+16D)	16r
+32r	16e 16g 16cc
+(32CJJJ	.
+=75	=75
+16BB-LL)	16r
+32r	16e 16g 16cc
+(32AAJ	.
+16GG)	16r
+32r	16e 16g 16cc
+(32CJ	.
+16BB)	16r
+32r	16e 16g 16cc
+(32CJJJ	.
+=76	=76
+16BB-LL)	16r
+32r	16f 16a 16cc
+(32AAJ	.
+16GG)	16r
+32r	16f 16a 16cc
+(32FFJ	.
+16EE)	16r
+32r	16f 16a 16cc
+(32FFJJJ	.
+=77	=77
+16FFFLL)	16r
+32r	16a 16cc 16ff
+(32FFJ	.
+16AA)	16r
+32r	16a 16cc 16ff
+(32FFJ	.
+16AA)	16r
+32r	16a 16cc 16ff
+(32BBJJJ	.
+=78	=78
+16CLL)	16r
+32r	16g 16cc 16ee
+(32BBJ	.
+16C)	16r
+32r	16g 16cc 16ee
+(32DJ	.
+16E)	16r
+32r	16g 16cc 16ee
+(32CJJJ	.
+=79	=79
+16FLL)	16r
+32r	16f 16a 16dd
+(32DJ	.
+16G)	16r
+32r	16e 16g 16cc
+(32F#J	.
+16G)	16r
+32r	16d 16f 16g 16b
+(32GGJJJ	.
+=80	=80
+16CLL)	16r
+32r	16e 16g 16cc
+(32CJ	.
+16BB)	16r
+32r	16e 16g 16cc
+(32CJ	.
+16BB-)	16r
+32r	16e 16g 16cc
+(32CJJJ	.
+=81	=81
+*-	*-

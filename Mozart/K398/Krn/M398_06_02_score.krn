@@ -1,0 +1,403 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*M3/4	*M3/4
+*k[b-]	*k[b-]
+*F:	*F
+=-	=-
+24CCLL	24gLL
+24EE	24e
+24GGJ	24cJ
+24CCL	24g#L
+24EE	24e
+24GG#JJ	24cJJ
+=153	=153
+24FFLL	24aLL
+24AA	24f
+24CJ	24cJ
+24CCL	24ccL
+24FF	24f
+24AAJJ	24cJJ
+24AAALL	24fLL
+24CC	24c
+24FFJ	24AJ
+24AAAL	24f#L
+24CC	24c
+24FF#JJ	24AJJ
+24CCLL	24gLL
+24EE	24e
+24GGJ	24cJ
+24CCL	24g#L
+24EE	24e
+24GG#JJ	24cJJ
+=154	=154
+24FFLL	24aLL
+24AA	24f
+24CJ	24cJ
+24EE-L	24aL
+24FF	24f
+24CJJ	24cJJ
+24DDLL	24b-LL
+24FF	24f
+24BB-J	24dJ
+24DD-L	24bL
+24FF	24f
+24BBJJ	24d-JJ
+24CCLL	24ccLL
+24EE	24e
+24CJ	24cJ
+24AAL	24cc#L
+24E	24g
+24GJJ	24eJJ
+=155	=155
+24BB-LL	24ddLL
+24D	24f
+24FJ	24dJ
+24GGL	24eeL
+24BB-	24b-
+24EJJ	24gJJ
+24AALL	24ffLL
+24C	24cc
+24FJ	24fJ
+24AAL	24ff#L
+24C	24cc
+24E-JJ	24aJJ
+24BB-LL	24ggLL
+24D	24dd
+24GJ	24b-J
+24BBL	24aa-L
+24D	24ff
+24FJJ	24ddJJ
+=156	=156
+*M39/8	*M39/8
+2CC; 2C;	2cc; 2ff; 2aa;
+2r	8r
+.	8c
+.	8fL
+.	8a
+2r	8ccJ
+.	8ffL
+.	8aa
+.	8cccJ
+4.r	4fff;
+.	16cccLL
+.	16aaJJ
+1r	16ffLL
+.	16ccc
+.	16aa
+.	16ff
+.	16cc
+.	16aaJJ
+.	16ffLL
+.	16cc
+.	16a
+.	16ff
+.	16cc
+.	16aJJ
+.	16fLL
+.	16cc
+.	16a
+.	16f
+1r	16c
+.	16aJJ
+.	16fLL
+.	16c
+.	16A
+.	16f
+.	16c
+.	16AJJ
+*	*clefF4
+.	16FLL
+.	16c
+.	16A
+.	16F
+.	16C
+.	16AJJ
+.	16FLL
+.	16C
+2r	16AA
+.	16F
+.	16C
+.	16AAJJ
+.	16FFLL
+.	16C
+.	16AA
+.	16FFJJ
+2r	[2CC
+=157	=157
+*M33/8	*M33/8
+1r	8CCL]
+.	16DDJk
+.	16EELL
+.	16FF
+.	16GGJJ
+.	16AALL
+.	16BB-
+.	16CJJ
+.	16FFLL
+.	16GG
+.	16AAJJ
+.	16BB-LL
+.	16C
+.	16DJJ
+.	16ELL
+1r	16F
+.	16CJJ
+.	16DLL
+.	16E
+.	16FJJ
+.	16GLL
+.	16A
+.	16B-JJ
+.	16cLL
+.	16F
+.	16G
+.	16A
+.	16B-
+.	16c
+.	16dJJ
+.	16eLL
+1r	16f
+*	*clefG2
+.	16c
+.	16d
+.	16e
+.	16f
+.	16g
+.	16aLL
+.	16b-
+.	16ccJJ
+.	16fLL
+.	16g
+.	16aJJ
+.	16b-LL
+.	16cc
+.	16ddJJ
+.	16eeLL
+1r	16ff
+.	16ccJJ
+.	16ddLL
+.	16ee
+.	16ffJJ
+.	16ggLL
+.	16aa
+.	16bb-JJ
+.	16cccLL
+.	16ff
+.	16ggJJ
+.	16aaLL
+.	16bb-
+.	16cccJJ
+.	16dddLL
+.	16eeeJ
+8BB; 8D; 8F; 8A-;	8fff;
+=158	=158
+*M27/8	*M27/8
+8r	16r
+.	16dddJk
+4r	12bbL
+.	12ddd
+.	12bb
+1r	12aa-
+.	12bb
+.	12aa-
+.	12ff
+.	12aa-
+.	12ffJ
+.	12ddL
+.	12ff
+.	12dd
+.	12b
+.	12dd
+.	12b
+1r	12a-
+.	12b
+.	12a-J
+.	12fL
+.	12a-
+.	12f
+.	12d
+.	12f
+.	12d
+*	*clefF4
+.	12B
+.	12d
+.	12BJ
+1r	12A-
+.	12BL
+.	12A-J
+*	*^
+.	12r	12F
+.	12A-L	12r
+.	12FJ	12r
+.	12r	12D
+.	12FL	12r
+.	12DJ	12r
+.	12r	12BB
+.	12DL	12r
+.	12BBJ	12r
+=159	=159	=159
+*M16/4	*M16/4	*M16/4
+1r	12r	12BB-
+.	12D-L	12r
+.	12EJ	12r
+.	12GL	4r
+.	12B-	.
+.	12d-J	.
+.	12r	12G
+.	12B-L	12r
+.	12d-J	12r
+*	*clefG2	*clefG2
+.	12eL	4r
+.	12g	.
+.	12b-J	.
+1r	12r	12e
+.	12gL	12r
+.	12b-J	12r
+.	12dd-L	4r
+.	12ee	.
+.	12ggJ	.
+.	12r	12b-
+.	12dd-L	12r
+.	12eeJ	12r
+.	12ggL	4r
+.	12bb-	.
+.	12ddd-J	.
+4r	16cccLL	4a
+.	16ff	.
+.	16fff	.
+.	16ff	.
+8r	16eee	4r
+.	16ff	.
+(8A	16eee-	.
+.	16ffJJ	.
+*	*v	*v
+4B-)	16dddLL
+.	16ff
+.	16fff
+.	16ff
+8r	16eee
+.	16ff
+(8A	16eee-
+.	16ffJJ
+4B-)	16dddLL
+.	16ff
+.	16fff
+.	16ff
+8r	16eee
+.	16ff
+8AA 8A	16eee-
+.	16ffJJ
+8BB-L 8B-	16dddLL
+.	16ff
+8AA 8A	16eee-
+.	16ff
+8BB- 8B-	16ddd
+.	16ff
+8AAJ 8A	16eee-
+.	16ffJJ
+=160	=160
+*M7/4	*M7/4
+4BB- 4B-	8.ddd;L
+.	16fffk
+1BB- 1D 1F 1G	8.gg
+.	16bb-Jk
+.	8.ddL
+.	16ffk
+.	8.b-
+.	16ddk
+.	8.g
+.	16b-Jk
+2C; 2F; 2A;	[2a;
+=	=
+*M29/8	*M29/8
+1r	16aLL]
+.	16cc
+.	16b-
+.	16aJJ
+.	16b-LL
+.	16cc
+.	16dd
+.	16ee
+.	16ff
+.	16eeJJ
+.	16ddLL
+.	16cc
+.	16dd
+.	16ee
+.	16ff
+.	16ggJJ
+1r	16aaLL
+.	16gg
+.	16ff
+.	16ee
+.	16ff
+.	16ggJJ
+.	16aaLL
+.	16bb-
+.	16ddd
+.	16ccc
+.	16bb-
+.	16aaJJ
+.	16bb-LL
+.	16ccc
+.	16ddd
+.	16eeeJJ
+2r	4fff
+.	8r;
+.	(8aaL
+1r	8bb-
+.	8bb
+.	8ccc
+.	8ccc#
+.	8dddJ
+.	8eee-L
+.	8eee
+.	8fffJ)
+8r	8r;
+=	=
+*M9/8	*M9/8
+8r	16r
+.	16ffLK
+1r	8.bb-;
+.	48aaLL
+.	48gg
+.	48ff#JJ
+.	(16ggL
+.	16ddd
+.	16ccc
+.	16bb-
+.	16aa
+.	16gg
+.	16ff#
+.	16ggJ)
+.	8bb-J
+.	8dd
+=	=
+*M4/2	*M4/2
+*clefG2	*
+2c 2b-	2ee
+2c 2a	2ff
+2c 2d#	2ff#
+2c 2e	2gg
+=	=
+*M3/8	*M3/8
+4.r	32ggLLL
+.	32aa
+.	32bb-
+.	32aaJJJ
+.	32ggLLL
+.	32ff
+.	32ee
+.	32ddJJ
+.	32ccLL
+.	32b-
+.	32a
+.	32gJJJ
+=	=
+*M2/1	*M2/1
+*clefF4	*
+1r	[1g
+1C; 1E; 1B-;	1g]
+==	==
+*-	*-

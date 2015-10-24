@@ -1,0 +1,89 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*M3/4	*M3/4
+*k[b-]	*k[b-]
+*F:	*F
+=-	=-
+8FFL	4a 4cc
+8FJ	.
+8FL	4.a 4.cc
+8FJ	.
+8FL	.
+8FJ	8b- 8dd
+=2	=2
+8FL	4.a 4.cc
+8FJ	.
+8FL	.
+8FJ	8g 8b-
+8FL	4f 4a
+8FJ	.
+=3	=3
+8FL	4c 4a
+8FJ	.
+8FL	4.c 4.a
+8FJ	.
+8FL	.
+8FJ	8d 8b-
+=4	=4
+8FL	4.c 4.a
+8FJ	.
+8FL	.
+8FJ	8B- 8g
+8FL	4A 4f
+8FJ	.
+=5	=5
+8CCL	4e 4g
+8CJ	.
+8CL	4e 4g
+8CJ	.
+8CL	4e 4g#
+8CJ	.
+=6	=6
+8CL	4.f 4.a
+8CJ	.
+8CL	.
+8CJ	8e 8g#
+8CL	4f 4a
+8CJ	.
+=7	=7
+8CCL	4f 4a
+8CJ	.
+8CL	4f 4a
+8CJ	.
+8CL	4f# 4a
+8CJ	.
+=8	=8
+8CL	4.g 4.b-
+8CJ	.
+8CL	.
+8CJ	8f# 8a
+8CL	4g 4b-
+8CJ	.
+=9	=9
+*	*^
+4F	8.aL	4f
+.	16ccJk	.
+8AAL 8F	8cL 8f	4r
+8AAJ 8F	8cJ 8f	.
+8CL 8G	8eL 8g	4r
+8CJ 8G	8eJ 8g	.
+=10	=10	=10
+4F 4A	8.aL	4f
+.	16ccJk	.
+8AAL 8F	8cL 8f	4r
+8AAJ 8F	8cJ 8f	.
+8CL 8G	8eL 8g	4r
+8CJ 8G	8eJ 8g	.
+*	*v	*v
+=11	=11
+4F 4A	8.aL
+.	16ffJk
+4BB-	8.gL
+.	16ddJk
+4C	8.ccL
+.	16eJk
+=12	=12
+4FF	4f
+[8F	8r
+*-	*-

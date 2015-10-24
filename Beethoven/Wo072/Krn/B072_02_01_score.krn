@@ -1,0 +1,87 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[]	*k[]
+*M3/4	*M3/4
+*C:	*C:
+=-	=-
+4r	12eL
+.	12g
+.	12eeJ
+=68	=68
+*^	*
+4CC	2.CC	12eL
+.	.	12g
+.	.	12eeJ
+4C	.	12d#L
+.	.	12f#
+.	.	12dd#J
+4C	.	12eL
+.	.	12g
+.	.	12eeJ
+=69	=69	=69
+4CC	2.CC	12eL
+.	.	12g#
+.	.	12eeJ
+4C	.	12fL
+.	.	12a
+.	.	12ffJ
+4C	.	12eL
+.	.	12g
+.	.	12eeJ
+=70	=70	=70
+4CC	2.CC	12eL
+.	.	12g
+.	.	12eeJ
+4C	.	12d#L
+.	.	12f#
+.	.	12dd#J
+4C	.	12dL
+.	.	12f
+.	.	12ddJ
+=71	=71	=71
+4CC	2.CC	12BL
+.	.	12d#
+.	.	12bJ
+4C	.	12cL
+.	.	12e
+.	.	12ccJ
+4C	.	12cL
+.	.	12e
+.	.	12ccJ
+*v	*v	*
+=72	=72
+4BB'	12dL
+.	12g
+.	12ddJ
+4r	12d#L
+.	12g
+.	12dd#J
+4C'	12eL
+.	12g
+.	12eeJ
+=73	=73
+4AA'	12fL
+.	12cc
+.	12ffJ
+4r	12f#L
+.	12cc
+.	12ff#J
+4EE'	12gL
+.	12cc
+.	12ggJ
+=74	=74
+4FF'	12g#L
+.	12cc
+.	12gg#J
+4r	12aL
+.	12cc
+.	12aaJ
+4FF'	12fnL
+.	12dd
+.	12ffJ
+=75	=75
+4GG	4d 4b 4dd
+4G	4r
+=	=
+*-	*-

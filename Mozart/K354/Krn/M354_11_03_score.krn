@@ -1,0 +1,217 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[b-e-a-]	*k[b-e-a-]
+*M4/4	*M4/4
+*E-:	*E-:
+=-	=-
+16BBB-LL	4B- 4d 4f 4b-
+16BB-	.
+16BB-	.
+16BB-JJ	.
+16DDLL	4B- 4d 4f
+16BB-	.
+16BB-	.
+16BB-JJ	.
+16FFLL	4B- 4d 4f
+16BB-	.
+16BB-	.
+16BB-JJ	.
+16BBB-LL	4B- 4d 4f 4a-
+16BB-	.
+16BB-	.
+16BB-JJ	.
+=252	=252
+16EE-LL	(8B-L 8d 8f [8a-
+16BB-	.
+16BB-	32a-LL]
+.	32gJJ
+16BB-JJ	48fLL
+.	48e-
+.	48dJJJ
+16GGLL	28e-LLL
+.	28f
+16BB-	.
+.	28g
+.	28a-
+16BB-	.
+.	28b-
+.	28cc
+16BB-JJ	.
+.	28ddJJ
+16EE-LL	48ee-LL
+.	48ff
+.	48gg
+16BB-	48aa-
+.	48bb-
+.	48cccJJJ
+16BB-	48dddLLL
+.	48eee-
+.	48ddd
+16BB-JJ	48ccc
+.	48bb-
+.	48aa-JJ
+16GGLL	48ggLL
+.	48ff
+.	48ee-
+16BB-	48dd
+.	48cc
+.	48b-JJJ
+16BB-	80a-LLL
+.	80g
+.	80f
+.	80e-
+.	80d
+16BB-	80e-
+.	80f
+.	80e-
+.	80g
+.	80e-JJJ)
+=253	=253
+24BBB-LL	4d 4f 4b-
+24BB-	.
+24BB-J	.
+24BB-L	.
+24BB-	.
+24BB-JJ	.
+24DDLL	4B- 4d 4f
+24BB-	.
+24BB-J	.
+24BB-L	.
+24BB-	.
+24BB-JJ	.
+24FFLL	4B- 4d 4f
+24BB-	.
+24BB-J	.
+24BB-L	.
+24BB-	.
+24BB-JJ	.
+24BBB-LL	4B- 4d 4f 4a-
+24BB-	.
+24BB-J	.
+24BB-L	.
+24BB-	.
+24BB-JJ	.
+=254	=254
+24EE-LL	8B-L 8d 8f [8a-
+24BB-	.
+24BB-J	.
+24BB-L	(16a-L]
+24BB-	.
+.	32gL
+24BB-JJ	.
+.	32fJJJ
+24GGLL	32e-LLL
+.	32d
+24BB-	.
+.	32e-
+24BB-J	.
+.	32eJJ
+24BB-L	32fLL
+.	32f#
+24BB-	.
+.	32g
+24BB-JJ	.
+.	32a-JJJ
+4EE-	48aLLL
+.	48b-
+.	48b
+.	48cc
+.	48cc#
+.	48ddJJ
+.	48ee-LL
+.	48ee#
+.	48ff
+.	48ff#
+.	48gg
+.	48aa-JJJ
+4r	48aaLLL
+.	48bb-
+.	48bb
+.	48ccc
+.	48ccc#
+.	48dddJJ
+.	16.eee-L
+.	32fffJJk)
+=255	=255
+8r	(4eee-
+8B- 8d 8f	.
+8B-L 8d 8f	8ddd)
+8B-J 8d 8f	8r
+2B- 2d 2f	16r
+.	(16dddLL
+.	16eee-
+.	16fffJJ
+.	16eee-LL
+.	16ddd
+.	16ccc
+.	16bb-JJ)
+=256	=256
+8r	(4eee-
+8A- 8B- 8f	.
+8A-L 8B- 8f	8ddd)
+8A-J 8B- 8f	8r
+2A- 2B- 2f	16r
+.	(16dddLL
+.	16eee-
+.	16fffJJ
+.	16eee-LL
+.	16ddd
+.	16ccc
+.	16bb-JJ)
+=257	=257
+4G 4B- 4e-	(16eee-LL
+.	32dddJJk)
+.	32r
+.	(16eee-LL
+.	32dddJJk)
+.	32r
+*^	*
+4r	4r	(16eee-LL
+.	.	32dddJJk)
+.	.	32r
+.	.	(16cccLL
+.	.	32bbJJk)
+.	.	32r
+(4e-	2A- 2c	(32dddLLL
+.	.	32ccc
+.	.	32bb
+.	.	32cccJJ
+.	.	32bb-LL
+.	.	32aa-
+.	.	32gg
+.	.	32aa-JJJ
+4f)	.	32ggLLL
+.	.	32ff
+.	.	32ee
+.	.	32ffJJ
+.	.	32ggLL
+.	.	32aa-
+.	.	32bb-
+.	.	32cccJJJ)
+*v	*v	*
+=258	=258
+8r	(8cccL
+8B- 8e- 8g	16ee-Jk)
+.	16r
+8B-L 8e- 8g	8ee-L
+8B-J 8e- 8g	(24bb-L
+.	24gg
+.	24ee-JJ)
+8r	(16ee-LL
+.	16ddJ)
+8B 8d 8f 8a-	([8aa-J
+8BL 8d 8f 8a-	16aa-LL]
+.	32bb-L
+.	32aa-JJ
+8BJ 8d 8f 8a-	32ggLL
+.	32ff
+.	32ee-
+.	32ddJJJ)
+=259	=259
+(4c 4f 4a-	(8ddL
+.	16.ffL
+.	32ee-JJk)
+8c) 8g	8ee-L
+8r	[8e-J
+*-	*-

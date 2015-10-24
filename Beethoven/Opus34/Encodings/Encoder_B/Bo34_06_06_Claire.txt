@@ -1,0 +1,57 @@
+
+!!!COM: Beethoven
+!!!OTL: Six Variations on an Original Theme
+!!!Variation: Variation 6 f (2nd ending/coda1)
+**harm	**function	**comments
+*M6/8	*M6/8	*M6/8
+*F:	*F:	*F:
+4.I	T	T
+4.IV	.	P
+=	=	=
+4.I6	.	T
+4.V7	.	D
+=	=	=
+4.I	.	T
+4.IV	.	P
+=	=	=
+4.I6	.	T
+4.V7	.	D
+=	=	=
+4.I	.	T
+4.iv	.	P
+=	=	=
+4.i6	.	T
+4.V7	.	D
+=	=	=
+4.i	.	T
+4.bVI	P	P
+=	=	=
+4.bVI	.	.
+4.Gr65	.	.
+=	=	=
+4.V	D	D
+4.Gr65	.	.
+=	=	=
+4.V	.	.
+4.Gr65	.	.
+=	=	=
+4.V	.	.
+4.i64	.	.
+=	=	=
+4.V	.	.
+4.i64	.	.
+=	=	=
+4.V	.	.
+4.i64	.	.
+=	=	=
+2.V	.	.
+=	=	=
+2.V	.	.
+=	=	=
+2.V	.	.
+=	=	=
+2.V	.	.
+=	=	=
+2.V	.	.
+==	==	==
+*-	*-	*-

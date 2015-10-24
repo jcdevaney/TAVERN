@@ -1,0 +1,163 @@
+!!!COM: Mozart
+!!!OTL: Sechs Variationen in F uber die Arie 'Salve tu, Domine' aus der Oper 'I filosofi immaginarii' 
+!!!Variation: Variation 2a
+**function	**harm	**kern	**kern
+*M3/4	*M3/4	*staff2	*staff1
+*F:	*F:	*clefF4	*clefG2
+*tb48	*	*M3/4	*M3/4
+*	*	*k[b-]	*k[b-]
+*	*	*F:	*F
+=-	=-	=45||	=45||
+2.T	2.I	16FF 16F	16r
+.	.	16r	16aa 16ccc
+.	.	16f	16r
+.	.	16r	16a 16cc
+.	.	16FF 16F	16r
+.	.	16r	16aa 16ccc
+.	.	16f	16r
+.	.	16r	16a 16cc
+.	.	16f	16r
+.	.	16r	16aa 16ccc
+.	.	16f	16r
+.	.	16r	16bb- 16ddd
+=	=	=46	=46
+2.T	2.I	16FF 16F	16r
+.	.	16r	16aa 16ccc
+.	.	16f	16r
+.	.	16r	16a 16cc
+.	.	16f	16r
+.	.	16r	16aa 16ccc
+.	.	16f	16r
+.	.	16r	16gg 16bb-
+.	.	16f	16r
+.	.	16r	16ff 16aa
+.	.	16f	16r
+.	.	16r	16a 16cc
+=	=	=47	=47
+2.T	2.I	16FF 16F	16r
+.	.	16r	16cc 16aa
+.	.	16f	16r
+.	.	16r	16a 16cc
+.	.	16FF 16F	16r
+.	.	16r	16cc 16aa
+.	.	16f	16r
+.	.	16r	16a 16cc
+.	.	16f	16r
+.	.	16r	16cc 16aa
+.	.	16f	16r
+.	.	16r	16dd 16bb-
+=	=	=48	=48
+2.T	2.I	16FF 16F	16r
+.	.	16r	16cc 16aa
+.	.	16f	16r
+.	.	16r	16a 16cc
+.	.	16f	16r
+.	.	16r	16cc 16aa
+.	.	16f	16r
+.	.	16r	16b- 16gg
+.	.	16f	16r
+.	.	16r	16a 16ff
+.	.	16f	16r
+.	.	16r	16a 16ff
+=	=	=49	=49
+2.T	2.V	16CC 16C	16r
+.	.	16r	16ee 16gg
+.	.	16c	16r
+.	.	16r	16e 16g
+.	.	16CC 16C	16r
+.	.	16r	16ee 16gg
+.	.	16c	16r
+.	.	16r	16e 16g
+.	.	16c	16r
+.	.	16r	16ee 16gg
+.	.	16c	16r
+.	.	16r	16ee 16gg#
+=	=	=50	=50
+2.T	2.C64	16CC 16C	16r
+.	.	16r	16ff 16aa
+.	.	16c	16r
+.	.	16r	16f 16a
+.	.	16c	16r
+.	.	16r	16ff 16aa
+.	.	16c	16r
+.	.	16r	16ee 16gg#
+.	.	16c	16r
+.	.	16r	16ff 16aa
+.	.	16c	16r
+.	.	16r	16ee 16gg#
+=	=	=51	=51
+2.T	2.C64	16CC 16C	16r
+.	.	16r	16ff 16aa
+.	.	16c	16r
+.	.	16r	16f 16a
+.	.	16CC 16C	16r
+.	.	16r	16ff 16aa
+.	.	16c	16r
+.	.	16r	16f 16a
+.	.	16c	16r
+.	.	16r	16ff 16aa
+.	.	16c	16r
+.	.	16r	16ff# 16aa
+=	=	=52	=52
+2.T	2.V7	16CC 16C	16r
+.	.	16r	16gg 16bb-
+.	.	16c	16r
+.	.	16r	16g 16b-
+.	.	16c	16r
+.	.	16r	16gg 16bb-
+.	.	16c	16r
+.	.	16r	16ff# 16aa
+.	.	16c	16r
+.	.	16r	16gg 16bb-
+.	.	16c	16r
+.	.	16r	16ee 16gg#
+=	=	=53	=53
+4T	4I	16FF	16r
+.	.	16r	16ff 16aa
+.	.	16F	16r
+.	.	16r	16cc 16ccc
+4T	4I6	16AA	16r
+.	.	16r	16f 16ff
+.	.	16A	16r
+.	.	16r	16f# 16ff#
+4T	4V	16C	16r
+.	.	16r	16g 16gg
+.	.	16c	16r
+.	.	16r	16g# 16gg#
+=	=	=54	=54
+4T	4I	16FF	16r
+.	.	16r	16a 16aa
+.	.	16F	16r
+.	.	16r	16cc 16ccc
+4T	4I6	16AA	16r
+.	.	16r	16f 16ff
+.	.	16A	16r
+.	.	16r	16f# 16ff#
+4T	4V	16C	16r
+.	.	16r	16g 16gg
+.	.	16c	16r
+.	.	16r	16g# 16gg#
+=	=	=55	=55
+4T	4I	16FF 16F	16r
+.	.	16r	16a 16aa
+.	.	16AA	16r
+.	.	16r	16cc 16ff
+4P	4ii7	16BB-	16r
+.	.	16r	16f 16dd
+.	.	16GG	16r
+.	.	16r	16g 16b-
+4D	4V7	16C	16r
+.	.	16r	16B- 16g
+.	.	16CC	16r
+.	.	16r	16G 16e
+=	=	=56	=56
+*	*	*^	*
+2T	2I	2r	16r	4A 4f
+.	.	.	16FFLL	.
+.	.	.	16AA	.
+.	.	.	16CJJ	.
+.	.	.	[4F	12r
+.	.	.	.	(12fL
+.	.	.	.	12eJ
+*	*	*v	*v	*
+*-	*-	*-	*-

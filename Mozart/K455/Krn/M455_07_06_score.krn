@@ -1,0 +1,48 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[f#]	*k[f#]
+*met(c|)	*met(c|)
+*M2/2	*M2/2
+*G:	*G:
+=-	=-
+4r	4g
+8bb'L	4g
+8ccc'J	.
+(8ccc#L	4f#
+8ddd)	.
+8aa'	8f#'L
+8bb'J	8g'J
+=128	=128
+*^	*
+(8bbL	4r	(8fL
+8cccn)	.	8e)
+8gg'	2r	8e'
+8aa'J	.	8f#'J
+(8aa#L	.	(8eL
+8bb)	.	8d#)
+8ff#'	8r	8d'
+8gg#'J	8ee	8e'J
+*v	*v	*
+=129	=129
+*^	*
+(8gg#L	(8eeL	(8dL
+8aa)	8aJ)	8c#)
+8ee'	8r	8c'
+8ff#'J	8dd	8d'J
+(8ff#L	(8ddL	(8cL
+8ggJ)	8gJ)	8BJ)
+(4e 4g 4b	4r	8r
+.	.	8E
+*v	*v	*
+=130	=130
+4e) 4g 4cc	(8EL
+.	8AAJ)
+(4A 4c 4f#	8r
+.	8D
+4G) 4B 4g	(8DL
+.	8GGJ)
+4r	4r
+*clefG2	*clefF4
+=131||!|:	=131||!|:
+*-	*-

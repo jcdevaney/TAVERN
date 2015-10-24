@@ -1,0 +1,45 @@
+**kern	**kern
+*staff2	*staff1
+*clefG2	*clefG2
+*k[f#c#]	*k[f#c#]
+*M3/4	*M3/4
+*D:	*D
+*clefG2	*clefG2
+=125	=125
+8r	8aa'L
+8cc# 8gg	8aa'J
+8ddL 8ff#	8aa'L
+8cc#J 8gg	8aa'J
+8dd 8ff#	(16aaLL
+.	16bb
+8r	16ccc#
+.	16dddJJ
+=126	=126
+8r	8ff#'L)
+8a# 8ee	8ff#'J
+8bL 8dd	8ff#'L
+8a#J 8ee	8ff#'J
+8b 8dd	(16ff#LL
+.	16gg#
+8r	16aa#
+.	16bbJJ
+=127	=127
+8r	8.ddL
+8f# 8a	.
+.	16ff#Jk
+8r	8.eeL
+8g 8b	.
+.	16ggJk
+8r	8.cc#L
+8A 8g	.
+.	16eeJk
+*clefF4	*
+=128	=128
+8r	4dd)
+8FF# 8F#	.
+8GGL 8G	4r
+8AAJ 8A	.
+8DD 8D	4r
+8r	.
+=	=
+*-	*-

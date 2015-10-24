@@ -1,0 +1,47 @@
+!!!COM: Beethoven
+!!!OTL: Acht Variationen uber "Une fievre brulante" aus "Richard Coeur de Lion" von A.E.M. Gretry
+!!!Variation: Variation 4 d
+**function	**harm	**kern	**kern
+*M3/4	*M3/4	*staff2	*staff1
+*c:	*c:	*clefG2	*clefG2
+*tb8	*	*k[b-e-a-]	*k[b-e-a-]
+*	*	*M3/4	*M3/4
+*	*	*c:	*c:
+=-	=-	=-	=-
+4T	4i	4r	4g
+=	=	=158	=158
+2.T	2.i	2.c 2.e-	(4g
+.	.	.	4ee-
+.	.	.	4cc)
+=	=	=159	=159
+2.T	2.iv64	2.c 2.f 2.a-	(4cc
+.	.	.	4ff
+.	.	.	4ee-
+=	=	=160	=160
+2T	2ii@2	2.c 2.d 2.f 2.a-	4dd
+.	.	.	4cc
+4T	4viio7	.	4b)
+=	=	=161	=161
+2T	2i	2c 2e- 2g	(4dd
+.	.	.	4cc)
+4T	4i6	4e- 4g	4cc
+=	=	=162	=162
+2P	2ii@65	2f 2a-	(2cc 2dd
+4P	4V43/iv	4g 4b-	4cc) 4ee
+=	=	=163	=163
+2P	2iv6	4a-	(8ccL 8ff
+.	.	.	8aa-J
+.	.	4r	8ggL
+.	.	.	8ffJ
+*	*	*clefF4	*
+4P	4ii@6	(4F 4f	8ee-L
+.	.	.	8ddJ
+=	=	=164	=164
+2D	2i64	4G) 4e-	4cc)
+.	.	4r	4r
+4D	4V7	4G' 4d'	4f' 4b'
+=	=	=165	=165
+2D	2i	4C' 4c'	4e-' 4cc'
+.	.	4r	4r
+=	=	=	=
+*-	*-	*-	*-

@@ -1,0 +1,121 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[b-]	*k[b-]
+*M2/4	*M2/4
+*F:	*F:
+=	=
+(16GGLL	8A 8c 8f
+16FF	.
+16EE	4a
+16FFJJ)	.
+8FFF	.
+8r	8f
+=291	=291
+(16GGLL	8e 8b- 8cc
+16FF	.
+16EE	4e 4b- 4cc
+16FFJJ)	.
+8FFF	.
+8r	8e 8b- 8cc
+=292	=292
+(16GGLL	8e 8b- 8cc
+16FF	.
+16EE	4e 4b- 4cc
+16FFJJ)	.
+8FFF	.
+8r	8e 8b- 8cc
+=293	=293
+*	*^
+(16GGLL	(8ccL	4f 4a
+16FF	.	.
+16EE	8ffJ)	.
+16FFJJ)	.	.
+8FFF	8cc'L	4r
+8r	8cc'J	.
+*	*v	*v
+=294	=294
+(16GGLL	8A 8c 8f
+16FF	.
+16EE	4a
+16FFJJ)	.
+8FFF	.
+8r	8f
+=295	=295
+(16GGLL	8e 8b- 8cc
+16FF	.
+16EE	4e 4b- 4cc
+16FFJJ)	.
+8FFF	.
+8r	8e 8b- 8cc
+=296	=296
+(16GGLL	8e 8b- 8cc
+16FF	.
+16EE	4e 4b- 4cc
+16FFJJ)	.
+8FFF	.
+8r	8e 8b- 8cc
+=297	=297
+*	*^
+(16GGLL	(8ccL	4f 4a
+16FF	.	.
+16EE	8ffJ)	.
+16FFJJ)	.	.
+8FFF	8cc'L	4r
+8r	8cc'J	.
+*	*v	*v
+=298	=298
+(16GGLL	8e 8b- 8cc
+16FF	.
+16EE	4e 4b- 4cc
+16FFJJ)	.
+8FFF	.
+8r	8e 8b- 8cc
+=299	=299
+*	*^
+(16GGLL	(8ccL	4f 4a
+16FF	.	.
+16EE	8ffJ)	.
+16FFJJ)	.	.
+8FFF	8cc'L	4r
+8r	8cc'J	.
+*	*v	*v
+=300	=300
+(16GGLL	8e 8b- 8cc
+16FF	.
+16EE	4e 4b- 4cc
+16FFJJ)	.
+8FFF	.
+8r	8e 8b- 8cc
+=301	=301
+8FF	(4.f 4.a 4.cc
+8r	.
+4r	.
+*	*^
+.	8b	8r
+*	*v	*v
+=302	=302
+2r	4.cc
+.	8b
+=303	=303
+2r	8ccL
+.	8b
+.	8cc
+.	8bJ
+=304	=304
+2r	8ccL
+.	8b
+.	8cc
+.	8bJ
+=305	=305
+2r	8ccL
+.	8b
+.	8cc
+.	8bJ
+=306	=306
+2r	8ccL
+.	8cc#
+.	8dd
+.	8eeJ)
+=	=
+*-	*-

@@ -1,0 +1,49 @@
+**kern	**kern	**kern	**kern
+*staff3	*staff4	*staff1	*staff2
+*clefF4	*clefF4	*clefG2	*clefG2
+*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*D:	*D:	*D:	*D:
+=-	=-	=-	=-
+2r	8.AA'L 8.A'	8.c#'L 8.e'	2r
+.	16AA'Jk 16A'	16c#'Jk 16f#'	.
+.	8.AA'L 8.G'	8.c#'L 8.g'	.
+.	16AA'Jk 16G'	16c#'Jk 16e'	.
+=193	=193	=193	=193
+2r	([4AA 4F#	([4d 4a	2r
+.	8AA]) 8D	8d]) 8f#	.
+.	8r	16r	.
+.	.	16ff#	.
+*	*clefG2	*	*
+=194	=194	=194	=194
+2r	8.A'L 8.a'	8.cc#'L 8.gg'	2r
+.	16A'Jk 16a'	16cc#'Jk 16ff#'	.
+.	8.A'L 8.g'	8.cc#'L 8.gg'	.
+.	16A'Jk 16g'	16cc#'Jk 16ee'	.
+=195	=195	=195	=195
+2r	([4A 4f#	([4dd 4aa	2r
+.	8A]) 8d	8dd]) 8ddd	.
+.	8r	16r	.
+.	.	16d 16f#	.
+*	*clefF4	*	*
+=196	=196	=196	=196
+2r	8.AA'L 8.A'	8.c#'L 8.e'	2r
+.	16AA'Jk 16A'	16c#'Jk 16f#'	.
+.	8.AA'L 8.G'	8.c#'L 8.g'	.
+.	16AA'Jk 16G'	16c#'Jk 16e'	.
+=197	=197	=197	=197
+2r	([4AA 4F#	([4d 4a	2r
+.	8AA]) 8D	8d]) 8f#	.
+.	16r	16r	.
+.	16d	16ff# 16aa	.
+=198	=198	=198	=198
+2r	8.A'L 8.e'	8.gg'L 8.aa'	2r
+.	16A'Jk 16d'	16ff#'Jk 16aa'	.
+.	8.A'L 8.e'	8.gg'L 8.aa'	.
+.	16A'Jk 16c#'	16ee'Jk 16aa'	.
+=199	=199	=199	=199
+2r	4.D 4.d	(4ff# [4aa	2r
+.	.	8dd) 8aa]	.
+.	8r	8r	.
+=200:|!	=200:|!	=200:|!	=200:|!
+*-	*-	*-	*-

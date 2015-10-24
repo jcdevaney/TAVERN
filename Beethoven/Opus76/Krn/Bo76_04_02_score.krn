@@ -1,0 +1,73 @@
+**kern	**kern
+*staff1	*staff2
+*clefG2	*clefF4
+*k[f#c#]	*k[f#c#]
+*M2/4	*M2/4
+*D:	*D:
+=	=
+(8F#L 8d	(8AAA#L
+8BJ)	8BBBJ)
+(8F#L 8d	(8AAA#L
+8BJ)	8BBBJ)
+=74	=74
+(8BL 8e	(8GGG#L
+8AJ) 8c#	8AAAJ)
+(8BL 8e	(8GGG#L
+8AJ) 8c#	8AAAJ)
+=75	=75
+(16BLL 16e	(16GGG#LL
+16A) 16c#	16AAA)
+(16B 16e	(16GGG#
+16AJJ) 16c#	16AAAJJ)
+(16BLL 16e	(16GGG#LL
+16A) 16c#	16AAA)
+(16B 16e	(16GGG#
+16AJJ) 16c#	16AAAJJ)
+=76	=76
+(16ALL 16f#	(16CC#LL
+16d)	16DD)
+(16A 16f#	(16CC#
+16dJJ)	16DDJJ)
+(16ALL 16f#	(16CC#LL
+16d)	16DD)
+(16A 16f#	(16CC#
+16dJJ)	16DDJJ)
+=77	=77
+(8eL 8a	(8CC#L
+8dJ) 8f#	8DDJ)
+(8eL 8a	(8CC#L
+8dJ) 8f#	8DDJ)
+=78	=78
+(16eLL 16a	(16CC#LL
+16d) 16f#	16DD)
+(16e 16a	(16CC#
+16dJJ) 16f#	16DDJJ)
+(16eLL 16a	(16CC#LL
+16dJJ) 16f#	16DDJJ)
+*	*clefG2
+24fff#LL	8dd 8ff#
+24eee	.
+24dddJJ	.
+=79	=79
+24ccc#LL	8ee 8gg
+24bb	.
+24aaJ	.
+*	*clefF4
+24ggL	8A 8e 8g
+24ff#	.
+24eeJJ	.
+24ddLL	8AL 8e 8g
+24cc#	.
+24bJ	.
+24aL	8AJ 8e 8g
+24b	.
+24cc#JJ	.
+=80	=80
+8dd'L	8d'L 8f#'
+8dd'J	8d'J 8f#'
+8dd'	8d' 8f#'
+*	*^
+8r	8r	8r
+*	*v	*v
+=81:|!	=81:|!
+*-	*-

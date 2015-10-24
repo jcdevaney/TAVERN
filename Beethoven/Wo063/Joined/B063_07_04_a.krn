@@ -1,0 +1,53 @@
+!!!COM: Beethoven
+!!!OTL: Neun Variationen uber einen Marsch von E. Chr. Dressler
+!!!Variation: 7 d
+**function	**harm	**kern	**kern
+*M4/4	*M4/4	*staff1	*staff2
+=-	=-	=-	=-
+*	*	*clefG2	*clefF4
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*	*	*M4/4	*M4/4
+*	*	*c:	*c:
+2T	2i	12ccL	4c 4e-
+.	.	12ee-	.
+.	.	12ddJ	.
+.	.	12ee-L	4g
+.	.	12dd	.
+.	.	12ee-J	.
+2T	2V6	12ddL	4B 4d
+.	.	12gg	.
+.	.	12ff#J	.
+.	.	12ggL	4g
+.	.	12ff#	.
+.	.	12ggJ	.
+=	=	=126	=126
+2T	2i	12ccL	4c 4e-
+.	.	12ee-	.
+.	.	12ddJ	.
+.	.	12ee-L	4g
+.	.	12dd	.
+.	.	12ee-J	.
+2T	2V6	12ddL	4B 4d
+.	.	12gg	.
+.	.	12ff#J	.
+.	.	12ggL	4g
+.	.	12ff#	.
+.	.	12ggJ	.
+*	*	*	*clefF4
+=	=	=127	=127
+4T	4i6	12ccL	4E- 4G 4c
+.	.	12ccc	.
+.	.	12ggJ	.
+4P	4iio6	12aa-L	4F 4A- 4d
+.	.	12ff	.
+.	.	12ddJ	.
+4D	4C64	4cc	4G 4c 4e-
+4D	4V	4dd	4G 4B 4f
+=	=	=128	=128
+1T	1i	4cc	4c 4e-
+.	.	8.ccL	8.CL
+.	.	16ccJk	16CJk
+.	.	2cc	2C
+*	*	*	*clefF4
+==	==	=129:|!	=129:|!
+*-	*-	*-	*-

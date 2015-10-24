@@ -1,0 +1,115 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[]	*k[]
+*M3/4	*M3/4
+=-	=-
+12GL	4g 4b 4dd
+12B	.
+12dJ	.
+12GL	(16ccL
+.	8.bJ)
+12B	.
+12dJ	.
+12GL	(16aL
+.	8.gJ)
+12B	.
+12dJ	.
+=135	=135
+12GL	4g 4cc 4ee
+12c	.
+12eJ	.
+12GL	(16ddL
+.	8.ccJ)
+12c	.
+12eJ	.
+12GL	(16bL
+.	8.ccJ)
+12c	.
+12eJ	.
+=136	=136
+12GL	4g 4b 4dd 4ff
+12B	.
+12dJ	.
+12GL	(16eeL
+.	8.ddJ)
+12B	.
+12dJ	.
+12FL	(16ccL
+.	8.bJ)
+12G	.
+12dJ	.
+=137	=137
+12EL	4g 4cc 4ee 4gg
+12G	.
+12cJ	.
+12CL	4cc 4ee 4gg 4ccc
+12E	.
+12GJ	.
+12CL	4a 4cc 4ff 4aa
+12F	.
+12AJ	.
+=138	=138
+12CL	4g 4cc 4ee 4gg
+12E	.
+12GJ	.
+12CL	4cc 4ee 4gg 4ccc
+12E	.
+12GJ	.
+12CL	4a 4cc 4ff 4aa
+12F	.
+12AJ	.
+=139	=139
+12CL	(8.ggL
+12E	.
+12GJ	.
+.	32ff#LL
+.	32ggJJJ)
+12BBL	(8.ffL
+12D	.
+12GJ	.
+.	32eeLL
+.	32ffJJJ)
+12CL	(8.eeL
+12E	.
+12GJ	.
+.	32ddLL
+.	32eeJJJ)
+=140	=140
+4F	(12ddL
+.	12b
+.	12gJ
+4E	12eeL
+.	12cc
+.	12gJ
+4D	12ffL
+.	12dd
+.	12bJ)
+=141	=141
+12EL	(8.ggL
+12G	.
+12cJ	.
+.	32ff#LL
+.	32ggJJJ)
+12DL	(8.ffL
+12G	.
+12BJ	.
+.	32eeLL
+.	32ffJJJ)
+12CL	(8.eeL
+12G	.
+12cJ	.
+.	32ddLL
+.	32eeJJJ)
+=142	=142
+4G 4B	(8.ddL
+.	32cc#LL
+.	32ddJJJ)
+4r	(12ccL
+.	12dd
+.	12bJ
+4r	12a'L)
+.	(12b
+.	12gJ)
+=143	=143
+*-	*-

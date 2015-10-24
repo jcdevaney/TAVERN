@@ -1,0 +1,45 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[f#]	*k[f#]
+*met(c|)	*met(c|)
+*M2/2	*M2/2
+*G:	*G:
+=-	=-
+*clefG2	*clefF4
+*	*^
+4B 4g	2G	2E
+4c# 4g	.	.
+4d 4f#	4A	4D
+(8f#L	[4d	4B
+8gJ)	.	.
+*	*v	*v
+=108	=108
+*	*^
+4e	4d]	4G#
+(8eL	2cn	4A
+8f#J)	.	.
+4d	.	4F#
+8r	[4B	4G
+8dd	.	.
+=109	=109	=109
+(8ddL	4B]	4E
+8ccJ)	.	.
+8r	2A	4F#
+8cc	.	.
+(8ccL	.	4D#
+8bJ)	.	.
+8r	[4G	4E
+8ee	.	.
+=110	=110	=110
+(12eeL	4G]	4C
+12cc	.	.
+12aJ)	.	.
+8r	4c	4D 4F#
+8dd	.	.
+(8ddL	4B	4G
+8gJ)	.	.
+4r	4r	4GG
+*	*v	*v
+=111	=111
+*-	*-

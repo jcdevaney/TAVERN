@@ -1,0 +1,51 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[]	*k[]
+*M2/4	*M2/4
+*a:	*a:
+=97||	=97||
+*^	*
+8r	2AA	4c 4cc
+(8A	.	.
+8EL	.	8cL 8cc
+8AJ)	.	8cJ 8cc
+=98	=98	=98
+(8DL	2AA	(8cL 8cc
+8G#J	.	8BJ 8b
+8CL	.	8AL 8a
+8EJ)	.	8cJ) 8cc
+=99	=99	=99
+8r	2AA	4e 4ee
+(8A	.	.
+8CL	.	8eL 8ee
+8AJ)	.	8eJ 8ee
+*v	*v	*
+=100	=100
+*^	*
+(8BBL	4AA	(8eL 8ee
+8G#J	.	8dJ 8dd
+8AAL	4r	8cL 8cc
+8AJ)	.	8cJ) 8cc
+*v	*v	*
+=101	=101
+(8DL 8F	(8BL 8b
+8G#J	8cJ 8cc
+8CL 8E	8AL 8a
+8AJ)	8cJ) 8cc
+=102	=102
+(8DL 8F	(8BL 8b
+8G#J	8cJ 8cc
+8CL 8E	8AL 8a
+8AJ)	8cJ) 8cc
+=103	=103
+(8BBL 8E 8G	(8eL 8ee
+8BJ	8f#J 8ff#
+8BBL 8F# 8A	8d#L 8dd#
+8BJ)	8f#J) 8ff#
+=104	=104
+(8EL 8G	4e 4ee
+8BJ	.
+8E) 8G	8r
+=	=
+*-	*-

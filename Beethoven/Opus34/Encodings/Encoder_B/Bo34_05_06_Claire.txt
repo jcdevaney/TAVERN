@@ -1,0 +1,22 @@
+
+!!!COM: Beethoven
+!!!OTL: Six Variations on an Original Theme
+!!!Variation: Variation 5 f (coda/intro to var VI)
+**harm	**function	**comments
+*M2/4	*M2/4	*M2/4
+*c:	*c:	*c:
+8I	T	T
+=	=	=
+2I	.	.
+=	=	=
+2I	.	.
+=	=	=
+2I	.	.
+=	=	=
+2V7/iv	.	.
+=	=	=
+2V7/iv	.	.
+=	=	=
+2V7/iv	.	.
+==	==	==
+*-	*-	*-

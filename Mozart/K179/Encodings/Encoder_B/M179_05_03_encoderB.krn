@@ -1,0 +1,37 @@
+!!!COM: Mozart
+!!!OTL: Zwolf Variationen in C uber ein Menuett von Johann Christian Fischer 
+!!!Variation: Variation 5c
+**chords	**function	**comments
+*M3/4	*M3/4	*M3/4
+*C:	*C:	*C:
+=-	=-	=-
+2.V	D	D
+=	=	=
+2.I64	.	T
+=	=	=
+2V7	.	D
+4V2	.	.
+=	=	=
+4I6	T	T
+4I	.	.
+4IV64	.	P
+=	=	=
+2I	.	T
+4IV64	.	P
+=	=	=
+4I	.	T
+4V65	.	D
+4I	.	T
+=	=	=
+4V2	.	D
+4I6	.	T
+4V43	.	D
+=	=	=
+4I6	.	T
+4V43	.	D
+4I	.	T
+=	=	=
+2.V	D	D
+=	=	=
+*-	*-	*-
+

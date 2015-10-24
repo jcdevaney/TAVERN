@@ -1,0 +1,135 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*M3/4	*M3/4
+*k[b-]	*k[b-]
+*F:	*F
+=127	=127
+[2.F	4a 4cc
+.	4.a 4.cc
+.	8b- 8dd
+=128	=128
+2.F_	4.a 4.cc
+.	8g 8b-
+.	4f 4a
+=129	=129
+2.F_	4c 4a
+.	4.c 4.a
+.	8d 8b-
+=130	=130
+2.F]	4.c 4.a
+.	8B- 8g
+.	4A 4f
+=131	=131
+[2.C	4c 4e 4g
+.	4c 4e 4g
+.	4c 4e 4g#
+=132	=132
+2.C_	(4.f 4.a
+.	8e) 8g#
+.	4f 4a
+=133	=133
+2.C_	4c 4f 4a
+.	4c 4f 4a
+.	4c 4f# 4a
+=134	=134
+2.C]	(4.g 4.b-
+.	8f#) 8a
+.	4g 4b-
+=135	=135
+*	*^
+[2.FF	(8.aL	4f
+.	16ccJk)	.
+.	8AL 8f	4r
+.	8AJ 8f	.
+.	8cL 8g	4r
+.	8cJ 8g	.
+=136	=136	=136
+2.FF]	(8.aL	4f
+.	16ccJk)	.
+.	8AL 8f	4r
+.	8AJ 8f	.
+.	8cL 8g	4r
+.	8cJ 8g	.
+*	*v	*v
+=137	=137
+*	*^
+4FF#	(8.aL	4e-
+.	16ccJk)	.
+2GG	2b	2d
+=138	=138	=138
+4EEn	(8.gL	4d-
+.	16b-Jk)	.
+2FF	2a	2c
+*	*v	*v
+*	*clefF4
+=139	=139
+*M11/4	*M11/4
+2.r	2BBB
+.	4DDn
+2.r	4FF
+.	8AA-L
+.	8BB
+.	8D
+.	8FJ
+4r	16A-LL
+*	*clefG2
+.	16B
+.	16d
+.	16f
+4r	16a-
+.	16b
+.	16dd
+.	16ff
+4r	16aa-
+.	16ff
+.	16dd
+.	16bJJ
+4r	16a-LL
+.	16f
+.	16d
+*	*clefF4
+.	16Bn
+4r	16A-
+.	16F
+.	16D
+.	16BBnJJ
+=140	=140
+*M23/8	*M23/8
+2CC	[2C
+2r	16CLL]
+.	16E
+.	16D
+.	16CJJ
+.	16DLL
+.	16E
+.	16F
+.	16GJ
+*	*clefG2
+4r	64fLLL
+.	64g
+.	64an
+.	64b-
+.	64cc
+.	64dd
+.	64ee
+.	64ffJJJ
+.	64ggLLL
+.	64aa
+.	64bb-
+.	64ccc
+.	64ddd
+.	64eeeJ
+.	32fffJJJ
+4.r	16.r;
+.	32ff
+.	8.bb-L
+.	(48aaLL
+.	48gg
+.	48ffJJJ)
+*clefG2	*
+1c 1e 1b-	2gg
+.	4aa
+.	4bb-
+4r	4bb
+*-	*-

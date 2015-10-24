@@ -1,0 +1,93 @@
+**kern	**kern
+*staff2	*staff1
+=-	=-
+*clefF4	*clefG2
+*k[b-e-a-]	*k[b-e-a-]
+*M4/4	*M4/4
+*c:	*c:
+16GGLL	16r
+16r	16bb-LL
+16BB-	16r
+16r	16gg
+16E-	16r
+16r	16ee-
+16GJJ	16r
+16r	16b-JJ
+16FFLL	16r
+16r	16a-LL
+16AA-	16r
+16r	16f
+16BB-	16r
+16r	16d
+16DJJ	16r
+16r	16B-JJ
+=86	=86
+32GGLLL	16r
+32BB-JJJ	.
+16r	32bb-LLL
+.	32ggJJJ
+32BB-LLL	16r
+32E-JJJ	.
+16r	32ggLLL
+.	32ee-JJJ
+32E-LLL	16r
+32GJJJ	.
+16r	32ee-LLL
+.	32b-JJJ
+32GLLL	16r
+32B-JJJ	.
+16r	32b-LLL
+.	32gJJJ
+32FFLLL	16r
+32AA-JJJ	.
+16r	32b-LLL
+.	32a-JJJ
+32BB-LLL	16r
+32DJJJ	.
+16r	32a-LLL
+.	32fJJJ
+32DLLL	16r
+32FJJJ	.
+16r	32fLLL
+.	32dJJJ
+32FLLL	16r
+32A-JJJ	.
+16r	32dLLL
+.	32B-JJJ
+=87	=87
+16GGLL	16r
+16r	16ggLL 16bb-
+16G	16r
+16r	16ee- 16gg
+16AA-	16r
+16r	16cc 16ee-
+16A-JJ	16r
+16r	16a-JJ 16cc
+16BB-LL	16r
+16r	16gLL 16b-
+16B-	16r
+16r	16f 16a-
+16BB-	16r
+16r	16e- 16g
+16B-JJ	16r
+16r	16dJJ 16f
+=88	=88
+4E-	32e-LLL
+.	32g
+.	32f
+.	32a-JJ
+.	32gLL
+.	32b-
+.	32a-
+.	32ccJJJ
+8.E-L	32b-LLL
+.	32g
+.	32a-
+.	32fJJ
+.	32gLL
+.	32e-
+16E-Jk	32f
+.	32dJJJ
+2E-	2e-
+=89:|!	=89:|!
+*-	*-

@@ -1,0 +1,81 @@
+!!!COM: Mozart	
+!!!OTL: 12 Variations on "Ah Vous dirais-je, Maman" for the Piano,	
+!!!Variation: 10 c	
+**kern	**kern
+*M2/4	*M2/4
+=-	=-
+*	*
+*	*^
+4CC 4C	4r	16r
+.	.	(16eLL
+.	.	16cc
+.	.	16eJJ)
+4r	4cc	16r
+.	.	(16eLL
+.	.	16g
+.	.	16eJJ)
+=	=	=
+2r	4gg	16r
+.	.	(16eLL
+.	.	16cc
+.	.	16eJJ)
+.	4gg	16r
+.	.	(16eLL
+.	.	16cc
+.	.	16eJJ)
+=	=	=
+2r	4aa	16r
+.	.	(16fLL
+.	.	16cc
+.	.	16fJJ)
+.	4aa	16r
+.	.	(16fLL
+.	.	16cc
+.	.	16fJJ)
+*	*	*
+*	*v	*v
+=	=
+*	*
+*	*^
+4r	4gg	16r
+.	.	(16eLL
+.	.	16cc
+.	.	16eJJ)
+4C# 4c#	16r	16r
+.	(16b-LL	16r
+.	16ee 16gg	8r
+.	16b-JJ)	.
+*	*	*
+*	*v	*v
+=	=
+4D 4d	16r
+.	(16aLL
+.	16dd 16ff#
+.	16aJJ)
+4BB 4B	16r
+.	(16a-LL
+.	16dd 16ff
+.	16a-JJ)
+=	=
+4C 4c	16r
+.	(16gLL
+.	16cc 16ee
+.	16gJJ)
+4FF# 4F#	16r
+.	(16aLL
+.	16cc 16ee-
+.	16aJJ)
+=	=
+4GG 4G	16r
+.	(16gLL
+.	16cc 16dd
+.	16gJJ)
+4GG	16r
+.	(16fLL
+.	16b 16dd
+.	16fJJ)
+=	=
+4C	4e 4cc
+4CC	4r
+==	==
+*-	*-

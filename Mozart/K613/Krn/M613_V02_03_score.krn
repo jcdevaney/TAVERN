@@ -1,0 +1,151 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[b-]	*k[b-]
+*M3/4	*M3/4
+=-	=-
+*	*^
+4r	4g'	4e
+=109	=109	=109
+8CCL	(4e	2c
+(8CJ	.	.
+8EL)	4g)	.
+8C'J	.	.
+8GG'L	4g'	4e
+8EE'J	.	.
+=110	=110	=110
+8CCL	(4cc	2e
+(8CJ	.	.
+8EL)	4g)	.
+8C'J	.	.
+8GG'L	4g'	4e
+8EE'J	.	.
+=111	=111	=111
+8CCL	(4e	2c
+(8CJ	.	.
+8EL)	4g)	.
+8C'J	.	.
+8GG'L	4g'	4e
+8EE'J	.	.
+=112	=112	=112
+4CC'	4cc'	4e
+4C'	4r	4r
+4r	4gg'	4ee
+*	*v	*v
+=113	=113
+*	*^
+8CL	(4ee	2cc
+(8cJ	.	.
+8eL)	4gg)	.
+8c'J	.	.
+8G'L	4gg'	4ee
+8E'J	.	.
+=114	=114	=114
+8CL	(4ccc	2ee
+(8cJ	.	.
+8eL)	4gg)	.
+8c'J	.	.
+8G'L	4gg'	4ee
+8E'J	.	.
+=115	=115	=115
+8CL	(4ee	2cc
+(8cJ	.	.
+8eL)	4gg)	.
+8c'J	.	.
+8G'L	4gg'	4ee
+8E'J	.	.
+=116	=116	=116
+4C'	4ccc'	4ee
+4c'	4r	2r
+(8CCL	4c	.
+8CJ)	.	.
+*	*v	*v
+=117	=117
+(8CCL	(4c
+8CJ	.
+8DDL	4d
+8DJ	.
+8EEL	4e)
+8EJ)	.
+=118	=118
+(8FFL	(8.fL
+8FJ	.
+.	32gLL
+.	32fJJJ
+8EEL	4e
+8EJ	.
+8FFL	4f)
+8FJ)	.
+=119	=119
+(8DDL	(4d
+8DJ	.
+8EEL	4e
+8EJ	.
+8FFL	4f)
+8FJ)	.
+=120	=120
+(8GGL	(8.gL
+8GJ	.
+.	32aLL
+.	32gJJJ
+8FF#L	4f#
+8F#J	.
+8GGL	4g)
+8GJ)	.
+=121	=121
+(8EEL	(4e
+8EJ	.
+8FFL	4f
+8FJ	.
+8GGL	4g)
+8GJ)	.
+=122	=122
+(8AAL	(8.aL
+8AJ	.
+.	32b-LL
+.	32aJJJ
+8GG#L	4g#
+8G#J	.
+8AAL	4a)
+8AJ)	.
+=123	=123
+*	*^
+(8GGL	(8.bL	2.d 2.f
+8GJ	.	.
+.	32ccLL	.
+.	32bJJJ	.
+8FF#L	4a	.
+8F#J	.	.
+8GGL	4b)	.
+8GJ)	.	.
+=124	=124	=124
+[4CC;	4cc;	4e
+(12CCL]	4r	4r
+12EE	.	.
+12GGJ	.	.
+12CL	4r	4r
+12E	.	.
+12GJ	.	.
+*clefG2	*	*
+*	*v	*v
+=125	=125
+8cL	2.r
+8eJ	.
+8gL	.
+8aJ	.
+8ccL	.
+8b-J	.
+=126	=126
+8aL	2.r
+8gJ	.
+8fL	.
+8eJ	.
+8dL	.
+8cJ	.
+*clefF4	*
+=127	=127
+8BL	2r
+8B-J	.
+8AL	.
+8cJ	.
+*-	*-

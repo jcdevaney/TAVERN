@@ -1,0 +1,80 @@
+**kern	**kern
+*staff2	*staff1
+*k[f#c#g#]	*k[f#c#g#]
+*M2/4	*M2/4
+*clefF4	*clefG2
+*A:	*A:
+=-	=-
+16r	16c#LL
+8r	16d
+.	16eJJ
+=193||	=193||
+4r	16f#LL
+.	16g#
+.	16a
+.	16bJJ
+16r	8cc#L
+16AALL	.
+16BB	8eJ 8cc#
+16C#JJ	.
+=194	=194
+16DLL	(4d 4b
+16E	.
+16F#	.
+16G#JJ	.
+8A	16c#LL) 16a
+.	16e
+8r	16f#
+.	16g#JJ
+=195	=195
+4r	16aLL
+.	16b
+.	16cc#
+.	16ddJJ
+16r	8eeL
+16AALL	.
+16BB	8cc#J 8ee
+16C#JJ	.
+=196	=196
+16DLL	(4b 4dd
+16E	.
+16F#	.
+16G#JJ	.
+8A	16aLL) 16cc#
+.	16e
+8r	16f#
+.	16g#JJ
+*clefG2	*
+=197	=197
+4r	16aLL
+.	16b
+.	16cc#
+.	16ddJJ
+8c# 8e 8a	16eeLL
+.	16ee
+8r	16ff#
+.	16gg#JJ
+=198	=198
+4r	16aaLL
+.	16bb
+.	16ccc#
+.	16ddd#JJ
+16r	8eeeL
+16BLL	.
+16c#	8eeeJ
+16d#JJ	.
+=199	=199
+16eLL	4gg# 4bb
+16f#	.
+16g#	.
+16aJJ	.
+8bL	8r
+*clefF4	*
+8BJ	8a 8dd#
+=200	=200
+8eL	4g# 4ee
+8BJ	.
+8E	16r
+.	16eLL
+=	=
+*-	*-

@@ -1,0 +1,67 @@
+!!!COM: Beethoven
+!!!OTL: Acht Variationen uber "Une fievre brulante" aus "Richard Coeur de Lion" von A.E.M. Gretry
+!!!Variation: Variation 8 f
+**function	**harm	**kern	**kern
+*M2/4	*M2/4	*staff2	*staff1
+*C:	*C:	*clefF4	*clefG2
+*tb12	*	*k[]	*k[]
+*	*	*M2/4	*M2/4
+*	*	*C:	*C:
+=	=	=	=
+2	2I/bVI	12AA-L	(4c 4cc
+.	.	12E-	.
+.	.	12A-J	.
+.	.	12AA-L	4A- 4a-
+.	.	12C	.
+.	.	12GJ	.
+=	=	=342	=342
+4	4IV64/bVI	12AA-L	4d- 4dd-
+.	.	12F	.
+.	.	12A-J	.
+4	4I/bVI	12AA-L	4c 4cc
+.	.	12E-	.
+.	.	12A-J	.
+=	=	=343	=343
+2	2I/bVI	12AA-L	4c 4cc
+.	.	12E-	.
+.	.	12A-J	.
+.	.	12AA-L	4B-) 4b-
+.	.	12D-	.
+.	.	12GJ	.
+=	=	=344	=344
+2	2I/bVI	12AA-L	(2A- 2a-
+.	.	12C	.
+.	.	12E-J	.
+.	.	12AA-L	.
+.	.	12C	.
+.	.	12E-J	.
+=	=	=345	=345
+2	2V7/ii/bVI	12FFL	2A 2a
+.	.	12C	.
+.	.	12E-J	.
+.	.	12FFL	.
+.	.	12C	.
+.	.	12E-J	.
+=	=	=346	=346
+2P	2ii/bVI	12BB-L	2B- 2b-
+.	.	12D-	.
+.	.	12FJ	.
+.	.	12BB-L	.
+.	.	12D-	.
+.	.	12FJ	.
+=	=	=347	=347
+2D	2V7	12GGL	2B 2b
+.	.	12D	.
+.	.	12FJ	.
+.	.	12GGL	.
+.	.	12D	.
+.	.	12FJ	.
+=	=	=348	=348
+2D	2V7	12GGL	2f) 2b 2ff
+.	.	12D	.
+.	.	12FJ	.
+.	.	12GGL	.
+.	.	12D	.
+.	.	12FJ	.
+=	=	=349	=349
+*-	*-	*-	*-

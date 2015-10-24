@@ -1,0 +1,31 @@
+
+!!!COM: Beethoven
+!!!OTL: Six Variations on an Original Theme
+!!!Variation: Variation 6 c
+**harm	**function	**comments
+*M6/8	*M6/8	*M6/8
+*F:	*F:	*F:
+4I	T	T
+=	=	=
+2.IV	.	P
+=	=	=
+4I6	.	T
+8V43	.	.
+4I	.	.
+8viio6/V	.	P
+=	=	=
+4V6	.	D
+8It6/V	P	.
+4I64/V	D	.
+8V7/V	.	.
+=	=	=
+4.I/V	T	T
+4.V/V	.	D
+=	=	=
+4.I/V	.	T
+4.V/V	.	D
+=	=	=
+4I/V	.	T
+2V7	D	.
+=	=	=
+*-	*-	*-

@@ -1,0 +1,82 @@
+**kern	**kern
+*staff2	*staff1
+*clefG2	*clefG2
+*k[b-e-a-]	*k[b-e-a-]
+*M2/4	*M2/4
+*E-:	*E-:
+=-	=-
+32a-LLL	4r
+32b-	.
+32cc	.
+32b-JJ	.
+32a-LL	.
+32g	.
+32f	.
+32eJJJ	.
+32fLLL	8ff 8aa-
+32g	.
+32a-	.
+32gJJ	.
+32fLL	8r
+32e-	.
+32d	.
+32cJJJ	.
+*clefF4	*
+=173	=173
+32dLLL	8ff 8aa-
+32e-	.
+32f	.
+32e-JJ	.
+32dLL	8r
+32c	.
+32B-	.
+32AJJJ	.
+32B-LLL	8ffL 8aa-
+32A	.
+32B-	.
+32cJJ	.
+32B-LL	8b-J 8dd
+32A-	.
+32G	.
+32FJJJ	.
+=174	=174
+32GLLL	8ee-L
+32F	.
+32E-	.
+32DJJ	.
+32CLL	8ee-J 8bb-
+32BB-	.
+32AA-	.
+32GGJJJ	.
+32AA-LLL	8ee-L 8ccc
+32BB-	.
+32C	.
+32DJJ	.
+32E-LL	8ee-J 8eee-
+32F	.
+32G	.
+32A-JJJ	.
+=175	=175
+4B-	(32bb-LLL
+.	32aa-
+.	32gg
+.	32ffJJ
+.	32ee-LL
+.	32dd
+.	32cc
+.	32b-JJJ
+8r	32a-LLL
+.	32g
+.	32f
+.	32e-JJ
+16r	32dLL
+.	32c
+32r	32B-
+32BB-	32A-JJJ)
+=176	=176
+8E-L	(4F 4A- 4B- 4d
+8BB-J	.
+8EE-	8G) 8B- 8e-
+8r	8r
+=	=
+*-	*-

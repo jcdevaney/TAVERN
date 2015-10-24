@@ -1,0 +1,182 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[b-]	*k[b-]
+*M3/4	*M3/4
+=-	=-
+4r	4e 4g
+=156	=156
+2.CC 2.GG 2.C	12eL
+.	12c
+.	12GJ
+.	12gL
+.	12e
+.	12GJ
+.	12gL
+.	12e
+.	12GJ
+=157	=157
+2.CC 2.GG 2.C	12ccL
+.	12e
+.	12cJ
+.	12gL
+.	12e
+.	12GJ
+.	12gL
+.	12e
+.	12GJ
+=158	=158
+2.CC 2.GG 2.C	12eL
+.	12c
+.	12GJ
+.	12gL
+.	12e
+.	12GJ
+.	12gL
+.	12e
+.	12GJ
+=159	=159
+4CC'	4e 4cc
+4C'	4r
+4r	4ee' 4gg'
+=160	=160
+(12CL	(4cc 4ee
+12E	.
+12GJ	.
+12cL	4ee) 4gg
+12e	.
+12cJ	.
+12GL	4ee' 4gg'
+12E	.
+12GJ	.
+=161	=161
+12CL	(4ee 4ccc
+12E	.
+12GJ	.
+12cL	4ee) 4gg
+12e	.
+12cJ	.
+12GL	4ee' 4gg'
+12E	.
+12GJ	.
+=162	=162
+12CL	(4cc 4ee
+12E	.
+12GJ	.
+12cL	4ee) 4gg
+12e	.
+12cJ	.
+12GL	4ee' 4gg'
+12E	.
+12GJ	.
+=163	=163
+4C')	4ee 4ccc
+4c'	4r
+4r	4c
+=164	=164
+4CC 4C	12r
+.	(12cL
+.	12ccJ)
+4DD 4D	12r
+.	(12dL
+.	12ddJ)
+4EE 4E	12r
+.	(12eL
+.	12eeJ)
+=165	=165
+4FF 4F	12r
+.	(12fL
+.	12ffJ)
+4EE 4E	12r
+.	(12eL
+.	12eeJ)
+4FF 4F	12r
+.	(12fL
+.	12ffJ)
+=166	=166
+4DD 4D	12r
+.	(12dL
+.	12ddJ)
+4EE 4E	12r
+.	(12eL
+.	12eeJ)
+4FF 4F	12r
+.	(12fL
+.	12ffJ)
+=167	=167
+4GG 4G	12r
+.	(12gL
+.	12ggJ)
+4FF# 4F#	12r
+.	(12f#L
+.	12ff#J)
+4GG 4G	12r
+.	(12gL
+.	12ggJ)
+=168	=168
+4EE 4E	12r
+.	(12eL
+.	12eeJ)
+4FF 4F	12r
+.	(12fL
+.	12ffJ)
+4GG 4G	12r
+.	(12gL
+.	12ggJ)
+=169	=169
+4AA 4A	12r
+.	(12aL
+.	12aaJ)
+4GG# 4G#	12r
+.	(12g#L
+.	12gg#J)
+4AA 4A	12r
+.	(12aL
+.	12aaJ)
+=170	=170
+4BB 4B	12r
+.	(12bL
+.	12bbJ)
+4AA 4A	12r
+.	(12aL
+.	12aaJ)
+4BB 4B	12r
+.	(12bL
+.	12bbJ)
+=171	=171
+4C 4c	4cc 4ccc
+4r	(12cccL
+.	12eee
+.	12ggJ
+6r	12cccL
+.	12cc
+(12g	12ggJ
+=172	=172
+12cL	12ccL
+12e	12ee
+12GJ	12gJ
+12cL	12ccL
+12E	12e
+12GJ	12gJ
+12CL	12cL
+12E	12e
+12GGJ	12GJ
+=173	=173
+4C)	12cL
+.	12g
+.	12eJ
+4r	12b-L
+.	12g
+.	12ddJ
+4r	12ccL
+.	12b-
+.	12aJ
+=174	=174
+2.r	12gL
+.	12f
+.	12eJ
+.	12dL
+.	12c
+.	12c#J
+=	=
+*-	*-

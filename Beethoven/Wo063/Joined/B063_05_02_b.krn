@@ -1,0 +1,97 @@
+!!!COM: Beethoven
+!!!OTL: Neun Variationen uber einen Marsch von E. Chr. Dressler
+!!!Variation: Variation 5 b
+**function	**harm	**kern	**kern
+*M4/4	*M4/4	*staff1	*staff2
+*tb32	*	*	*
+=-	=-	=-	=-
+*	*	*clefG2	*clefF4
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*	*	*M4/4	*M4/4
+*	*	*c:	*c:
+2T	2I6	16r	16GGLL
+.	.	16bb-LL	16r
+.	.	16r	16BB-
+.	.	16gg	16r
+.	.	16r	16E-
+.	.	16ee-	16r
+.	.	16r	16GJJ
+.	.	16b-JJ	16r
+2T	2V43	16r	16FFLL
+.	.	16a-LL	16r
+.	.	16r	16AA-
+.	.	16f	16r
+.	.	16r	16BB-
+.	.	16d	16r
+.	.	16r	16DJJ
+.	.	16B-JJ	16r
+=	=	=86	=86
+2T	2I6	16r	32GGLLL
+.	.	.	32BB-JJJ
+.	.	32bb-LLL	16r
+.	.	32ggJJJ	.
+.	.	16r	32BB-LLL
+.	.	.	32E-JJJ
+.	.	32ggLLL	16r
+.	.	32ee-JJJ	.
+.	.	16r	32E-LLL
+.	.	.	32GJJJ
+.	.	32ee-LLL	16r
+.	.	32b-JJJ	.
+.	.	16r	32GLLL
+.	.	.	32B-JJJ
+.	.	32b-LLL	16r
+.	.	32gJJJ	.
+2T	2V43	16r	32FFLLL
+.	.	.	32AA-JJJ
+.	.	32b-LLL	16r
+.	.	32a-JJJ	.
+.	.	16r	32BB-LLL
+.	.	.	32DJJJ
+.	.	32a-LLL	16r
+.	.	32fJJJ	.
+.	.	16r	32DLLL
+.	.	.	32FJJJ
+.	.	32fLLL	16r
+.	.	32dJJJ	.
+.	.	16r	32FLLL
+.	.	.	32A-JJJ
+.	.	32dLLL	16r
+.	.	32B-JJJ	.
+=	=	=87	=87
+4T	4I6	16r	16GGLL
+.	.	16ggLL 16bb-	16r
+.	.	16r	16G
+.	.	16ee- 16gg	16r
+4PD	4IV	16r	16AA-
+.	.	16cc 16ee-	16r
+.	.	16r	16A-JJ
+.	.	16a-JJ 16cc	16r
+4D	4C64	16r	16BB-LL
+.	.	16gLL 16b-	16r
+.	.	16r	16B-
+.	.	16f 16a-	16r
+4D	4V7	16r	16BB-
+.	.	16e- 16g	16r
+.	.	16r	16B-JJ
+.	.	16dJJ 16f	16r
+=	=	=88	=88
+1T	1I	32e-LLL	4E-
+.	.	32g	.
+.	.	32f	.
+.	.	32a-JJ	.
+.	.	32gLL	.
+.	.	32b-	.
+.	.	32a-	.
+.	.	32ccJJJ	.
+.	.	32b-LLL	8.E-L
+.	.	32g	.
+.	.	32a-	.
+.	.	32fJJ	.
+.	.	32gLL	.
+.	.	32e-	.
+.	.	32f	16E-Jk
+.	.	32dJJJ	.
+.	.	2e-	2E-
+==	==	=89:|!	=89:|!
+*-	*-	*-	*-

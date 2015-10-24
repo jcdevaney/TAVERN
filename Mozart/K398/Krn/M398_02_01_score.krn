@@ -1,0 +1,160 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*M3/4	*M3/4
+*k[b-]	*k[b-]
+*F:	*F
+=45||	=45||
+16FF 16F	16r
+16r	16aa 16ccc
+16f	16r
+16r	16a 16cc
+16FF 16F	16r
+16r	16aa 16ccc
+16f	16r
+16r	16a 16cc
+16f	16r
+16r	16aa 16ccc
+16f	16r
+16r	16bb- 16ddd
+=46	=46
+16FF 16F	16r
+16r	16aa 16ccc
+16f	16r
+16r	16a 16cc
+16f	16r
+16r	16aa 16ccc
+16f	16r
+16r	16gg 16bb-
+16f	16r
+16r	16ff 16aa
+16f	16r
+16r	16a 16cc
+=47	=47
+16FF 16F	16r
+16r	16cc 16aa
+16f	16r
+16r	16a 16cc
+16FF 16F	16r
+16r	16cc 16aa
+16f	16r
+16r	16a 16cc
+16f	16r
+16r	16cc 16aa
+16f	16r
+16r	16dd 16bb-
+=48	=48
+16FF 16F	16r
+16r	16cc 16aa
+16f	16r
+16r	16a 16cc
+16f	16r
+16r	16cc 16aa
+16f	16r
+16r	16b- 16gg
+16f	16r
+16r	16a 16ff
+16f	16r
+16r	16a 16ff
+=49	=49
+16CC 16C	16r
+16r	16ee 16gg
+16c	16r
+16r	16e 16g
+16CC 16C	16r
+16r	16ee 16gg
+16c	16r
+16r	16e 16g
+16c	16r
+16r	16ee 16gg
+16c	16r
+16r	16ee 16gg#
+=50	=50
+16CC 16C	16r
+16r	16ff 16aa
+16c	16r
+16r	16f 16a
+16c	16r
+16r	16ff 16aa
+16c	16r
+16r	16ee 16gg#
+16c	16r
+16r	16ff 16aa
+16c	16r
+16r	16ee 16gg#
+=51	=51
+16CC 16C	16r
+16r	16ff 16aa
+16c	16r
+16r	16f 16a
+16CC 16C	16r
+16r	16ff 16aa
+16c	16r
+16r	16f 16a
+16c	16r
+16r	16ff 16aa
+16c	16r
+16r	16ff# 16aa
+=52	=52
+16CC 16C	16r
+16r	16gg 16bb-
+16c	16r
+16r	16g 16b-
+16c	16r
+16r	16gg 16bb-
+16c	16r
+16r	16ff# 16aa
+16c	16r
+16r	16gg 16bb-
+16c	16r
+16r	16ee 16gg#
+=53	=53
+16FF	16r
+16r	16ff 16aa
+16F	16r
+16r	16cc 16ccc
+16AA	16r
+16r	16f 16ff
+16A	16r
+16r	16f# 16ff#
+16C	16r
+16r	16g 16gg
+16c	16r
+16r	16g# 16gg#
+=54	=54
+16FF	16r
+16r	16a 16aa
+16F	16r
+16r	16cc 16ccc
+16AA	16r
+16r	16f 16ff
+16A	16r
+16r	16f# 16ff#
+16C	16r
+16r	16g 16gg
+16c	16r
+16r	16g# 16gg#
+=55	=55
+16FF 16F	16r
+16r	16a 16aa
+16AA	16r
+16r	16cc 16ff
+16BB-	16r
+16r	16f 16dd
+16GG	16r
+16r	16g 16b-
+16C	16r
+16r	16B- 16g
+16CC	16r
+16r	16G 16e
+=56	=56
+*^	*
+2r	16r	4A 4f
+.	16FFLL	.
+.	16AA	.
+.	16CJJ	.
+.	[4F	12r
+.	.	(12fL
+.	.	12eJ
+*v	*v	*
+*-	*-
