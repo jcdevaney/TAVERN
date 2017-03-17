@@ -28,6 +28,7 @@ Each individual file begins with a letter representing the letter of the compose
 In the "Joined" folder, the remainder of the filename represents the variation number (themes are labelled "00", variation 1 is "01", etc.) the phrase number (starting at 01), content information*1 about the phrase, and a final lowercase letter indicating the annotator. Thus the structure is as follows:
 
 Composer letter+3-character opus number_Variation number_Phrase number + content letter_Annotator.krn
+
 e.g.: BO76_00_01a_a.krn
 
 (*1: since the naming convention merely counts phrases regardless of content, we wanted to indicate phrase similarity by other means, thus lowercase "content" letters indicate melodic relatedness. For example, if phrase 1 and 3 from the first variation of Opus 76 were identical or near-identical in content, they would be represented as: "BO76_01_01a_x.krn and BO76_01_03a_x.krn. However, if each phrase had unrelated melodic content, then the letters in the "content" position should each be unique.)
