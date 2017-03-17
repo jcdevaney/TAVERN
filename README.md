@@ -19,7 +19,7 @@ These files are represented in Humdrum. The "joined" and "analysis" files are re
 
 
 
-**File naming convention and organization**
+## File naming convention and organization
 
 Files are stored separately in folders according to composer. Within each composer folder is another set of folders representing each opus that was encoded. Within each opus folder are three more folders with the analysis files ('Encodings'), score files ('Krn'), and analysis+score files ('Joined'). 
 
@@ -36,7 +36,8 @@ e.g.: BO76_00_01a_a.krn
 The "Encodings" and "Krn" folders have a similar naming convention, except that the end of the filename is different to help distinguish them from the "joined" files. Score files only have one representation and end with "score.krn" while the analysis files are stored in two different subfolders for each annotator and filenames end with "encoderX.krn" (where X is either A or B). 
 
 
-**Other Files**
+## Other Files
+
 In addition to this readme file and the data files themselves, there is also a csv file called "var_info" which includes the total number of major to minor phrases in each opus, the opus number and title, and the number of phrases in each variation and their respective keys.
 
 
