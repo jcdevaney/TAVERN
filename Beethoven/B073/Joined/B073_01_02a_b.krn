@@ -1,0 +1,83 @@
+!!!COM: Beethoven
+!!!OTL: Zehn Variationen uber "la stessa, la stessissima" aus "Falstaff" von A. Salieri
+!!!Variation: Variation 1 a2
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-]	*k[b-e-]
+*M4/4	*M4/4	*M4/4	*M4/4
+*B-:	*B-:	*B-:	*B-:
+=24	=24	=24	=24
+1T	1I	8BB-L	4B-
+.	.	8BB	.
+.	.	8C	4r
+.	.	8C#J	.
+.	.	8DL	4r
+.	.	8E-	.
+.	.	8E	(4b- 4dd
+.	.	8FJ	.
+=25	=25	=25	=25
+1T	1V	8F#L	4a') 4cc'
+.	.	8G	.
+.	.	8G#	4r
+.	.	8AJ	.
+.	.	8B-L	4r
+.	.	8B	.
+.	.	8c	([4a [4ff
+.	.	8c#J	.
+=26	=26	=26	=26
+1T	1V7	8dL	4a] 4ff]
+.	.	8e-	.
+.	.	8e	4a) 4ee-
+.	.	8fJ	.
+.	.	8eL	(4a' 4ee-'
+.	.	8f	.
+.	.	8e	4a') 4ee-'
+.	.	8fJ	.
+=27	=27	=27	=27
+1T	1I	8eL	4b- 4dd
+.	.	8f	.
+.	.	8g	4r
+.	.	8fJ	.
+.	.	8e-L	2r
+.	.	8d	.
+.	.	8c	.
+.	.	8B-J	.
+=28	=28	=28	=28
+*	*	*^	*
+1T	1IV	2E-	8AL	2r
+.	.	.	8G	.
+.	.	.	8F#	.
+.	.	.	8GJ	.
+*	*	*v	*v	*
+.	.	2r	(8B-L
+.	.	.	8e-
+.	.	.	8f#
+.	.	.	8gJ)
+=29	=29	=29	=29
+1T	1Ib	1D 1B-	(8fL
+.	.	.	8g
+.	.	.	8a
+.	.	.	8b-J
+.	.	.	8ccL
+.	.	.	8dd
+.	.	.	8ee-
+.	.	.	8ffJ)
+=30	=30	=30	=30
+4T	4V7b	4A 4f	(8ee-L
+.	.	.	8cc
+4T	4I	4B- 4f	8dd
+.	.	.	8b-J
+4T	4V7b	4A 4f	8ee-L
+.	.	.	8cc
+4T	4I	4B- 4f	8dd
+.	.	.	8b-J)
+=31	=31	=31	=31
+1D	1V	4F 4f	(8ccL
+.	.	.	8a
+.	.	4r	8f
+.	.	.	8cJ
+.	.	4r	8AL
+.	.	.	8FJ)
+.	.	(8CL	4r
+.	.	8AAJ)	.
+*-	*-	*-	*-

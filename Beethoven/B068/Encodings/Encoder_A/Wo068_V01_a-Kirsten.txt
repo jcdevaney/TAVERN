@@ -1,0 +1,7 @@
+!!!COM: Beethoven
+!!!OTL: Zwolf Variationen uber das Minuet a la Vigano aus "Le nozze disturbate" von J. Haibel
+!!!Variation: Variation 1
+**chords
+*M4/4
+*C:
+

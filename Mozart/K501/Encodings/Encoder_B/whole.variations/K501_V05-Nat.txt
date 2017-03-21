@@ -1,0 +1,288 @@
+!!!COM: Mozart
+!!!OTL: Andante and variations in G for piano duet, K501
+!!!Variation: Variation 5 a
+**chords	**function	**comments
+*M2/4	*M2/4	*M2/4
+*G:	*G:	*G:
+=-	=-	=-
+4I	T	.
+4V43	.	.
+=	=	=
+4I6	.	.
+4I	.	.
+=	=	=
+4V	D	.
+4V7/V	.	.
+=	=	=
+2V	.	.
+==	==	==
+*-	*-	*-
+!!!COM: Mozart
+!!!OTL: Andante and variations in G for piano duet, K501
+!!!Variation: Variation 5 b
+**chords	**function	**comments
+*M2/4	*M2/4	*M2/4
+*G:	*G:	*G:
+=-	=-	=-
+2V42/IV	T	A
+=	=	=
+8vi	.	.
+8viio	.	.
+8I	.	.
+8vi	.	.
+=	=	=
+4ii65	PD	.
+4V7	D	.
+=	=	=
+2I	T	.
+==	==	==
+*-	*-	*-
+!!!COM: Mozart
+!!!OTL: Andante and variations in G for piano duet, K501
+!!!Variation: Variation 5 a2
+**chords	**function	**comments
+*M2/4	*M2/4	*M2/4
+*G:	*G:	*G:
+=-	=-	=-
+4I	T	.
+4V7	.	.
+=	=	=
+2I	.	.
+=	=	=
+4V64	D	.
+4V7/V	.	.
+=	=	=
+2V	.	.
+==	==	==
+*-	*-	*-
+!!!COM: Mozart
+!!!OTL: Andante and variations in G for piano duet, K501
+!!!Variation: Variation 5 b2
+**chords	**function	**comments
+*M2/4	*M2/4	*M2/4
+*G:	*G:	*G:
+=-	=-	=-
+2V7/IV	T	A
+=	=	=
+4IV	PD	.
+4ii6	.	.
+=	=	=
+4C64	D	.
+4V7	.	.
+=	=	=
+2I	T	.
+==	==	==
+*-	*-	*-
+!!!COM: Mozart
+!!!OTL: Andante and variations in G for piano duet, K501
+!!!Variation: Variation 5 c
+**chords	**function	**comments
+*M2/4	*M2/4	*M2/4
+*G:	*G:	*G:
+=-	=-	=-
+4vi	T	T
+4V43/vi	A	D
+=	=	=
+8vi6	.	T
+8IV6	.	.
+8V43/IV	A	.
+8V65/IV	A	.
+=	=	=
+8IV	PD	.
+8V65/ii	A	.
+8ii	.	.
+8ii6	.	.
+=	=	=
+4C64	D	.
+4V	.	.
+=	=	=
+2vi42	.	.
+=	=	=
+2V7	.	.
+==	==	==
+*-	*-	*-
+!!!COM: Mozart
+!!!OTL: Andante and variations in G for piano duet, K501
+!!!Variation: Variation 5 d
+**chords	**function	**comments
+*M2/4	*M2/4	*M2/4
+*G:	*G:	*G:
+=-	=-	=-
+4I	T	.
+4V43	.	.
+=	=	=
+4I6	.	.
+4IV	PD	.
+=	=	=
+8V7	D	D
+8vi	.	T
+8ii6	.	PD
+8V7	.	D
+=	=	=
+2I	T	T
+==	==	==
+*-	*-	*-
+!!!COM: Mozart
+!!!OTL: Andante and variations in G for piano duet, K501
+!!!Variation: Variation 5 c2
+**chords	**function	**comments
+*M2/4	*M2/4	*M2/4
+*G:	*G:	*G:
+=-	=-	=-
+4vi	T	T
+4V7/vi	A	D
+=	=	=
+4IV	PD	T(deceptive)
+4V7/IV	A	.
+=	=	=
+4IV	.	.
+4ii6	.	.
+=	=	=
+4C64	D	.
+4V	.	.
+=	=	=
+2vi42	.	.
+=	=	=
+2V7	.	.
+==	==	==
+*-	*-	*-
+!!!COM: Mozart
+!!!OTL: Andante and variations in G for piano duet, K501
+!!!Variation: Variation 5 d2
+**chords	**function	**comments
+*M2/4	*M2/4	*M2/4
+*G:	*G:	*G:
+=-	=-	=-
+4I	T	.
+4V7	.	.
+=	=	=
+4V65/IV	A	.
+4IV	PD	.
+=	=	=
+4C64	D	.
+4V7	.	.
+=	=	=
+2I	T	.
+==	==	==
+*-	*-	*-
+!!!COM: Mozart
+!!!OTL: Andante and variations in G for piano duet, K501
+!!!Variation: Variation 5 e
+**chords	**function	**comments
+*M2/4	*M2/4	*M2/4
+*G:	*G:	*G:
+=-	=-	=-
+2i	T	.
+=	=	=
+2bVI	.	.
+=	=	=
+2bVI	.	.
+=	=	=
+2bVI	.	.
+=	=	=
+2Gr6	PD	.
+=	=	=
+2V7	D	.
+==	==	==
+*-	*-	*-
+!!!COM: Mozart
+!!!OTL: Andante and variations in G for piano duet, K501
+!!!Variation: Variation 5 f
+**chords	**function	**comments
+*M2/4	*M2/4	*M2/4
+*G:	*G:	*G:
+=-	=-	=-
+4I	T	.
+4V7	.	.
+=	=	=
+2I	.	.
+=	=	=
+4V64	D	.
+4V7/V	.	.
+=	=	=
+2V	.	.
+==	==	==
+*-	*-	*-
+!!!COM: Mozart
+!!!OTL: Andante and variations in G for piano duet, K501
+!!!Variation: Variation 5 g
+**chords	**function	**comments
+*M2/4	*M2/4	*M2/4
+*G:	*G:	*G:
+=-	=-	=-
+2V7/IV	T	A
+=	=	=
+4IV	PD	.
+4I6	.	.
+=	=	=
+4ii6	.	.
+4V	D	.
+=	=	=
+2vi	T	(deceptive)
+==	==	==
+*-	*-	*-
+!!!COM: Mozart
+!!!OTL: Andante and variations in G for piano duet, K501
+!!!Variation: Variation 5 h
+**chords	**function	**comments
+*M2/4	*M2/4	*M2/4
+*G:	*G:	*G:
+=-	=-	=-
+2V65/IV	T	A
+=	=	=
+4IV	PD	T
+4I	.	.
+=	=	=
+4ii6	.	.
+4V7	D	.
+=	=	=
+4I	T	.
+==	==	==
+*-	*-	*-
+!!!COM: Mozart
+!!!OTL: Andante and variations in G for piano duet, K501
+!!!Variation: Variation 5 i
+**chords	**function	**comments
+*M2/4	*M2/4	*M2/4
+*G:	*G:	*G:
+=-	=-	=-
+4V7/IV	T	A
+=	=	=
+4IV64	.	.
+4V7/IV	.	.
+=	=	=
+2IV64	.	.
+=	=	=
+4I	.
+4V7	D	D Tonic pedal
+=	=	=
+4I	T	.
+==	==	==
+*-	*-	*-
+!!!COM: Mozart
+!!!OTL: Andante and variations in G for piano duet, K501
+!!!Variation: Variation 5 j
+**chords	**function	**comments
+*M2/4	*M2/4	*M2/4
+*G:	*G:	*G:
+4I	T	.
+=-	=-	=-
+4IV64	.	PD
+4V7/IV	.	A
+=	=	=
+2IV64	.	PD
+=	=	=
+4I	.	.
+4V7	D	Tonic pedal
+=	=	=
+4I	T	.
+4V7	D	.
+=	=	=
+4I	T	.
+4V7	D	.
+=	=	=
+2I	T	.
+=	=	=
+2I	.	.
+==	==	==
+*-	*-	*-

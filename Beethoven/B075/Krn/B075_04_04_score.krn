@@ -1,0 +1,56 @@
+**kern	**kern
+*staff1	*staff2
+*clefG2	*clefG2
+*k[b-]	*k[b-]
+*M2/4	*M2/4
+*F:	*F:
+24eeeLL	8GL
+24ccc	.
+24ggJ	.
+24cccL	8cJ 8e
+24gg	.
+24eeJJ	.
+24ggLL	8GL
+24ff	.
+24ddJ	.
+24ffL	8dJ 8f
+24dd	.
+24bJJ	.
+=230	=230
+24ccLL	(8CL
+24b	.
+24ccJ	.
+24eeL	8GJ
+24dd#	.
+24eeJJ	.
+24ggLL	8EL
+24ff#	.
+24ggJ	.
+24cccL	8CJ)
+24bb	.
+24cccJJ	.
+=231	=231
+24eeeLL	8GGL
+24ccc	.
+24ggJ	.
+24cccL	8CJ 8E
+24gg	.
+24eeJJ	.
+24ggLL	8GGL
+24ff	.
+24ddJ	.
+24ffL	8DJ 8F
+24dd	.
+24bJJ	.
+=232	=232
+(24ccLL	8C 8E
+24dd	.
+24ccJ	.
+24bL	8r
+24cc	.
+24cc#JJ	.
+16ddLL	4r
+16ee-	.
+16ee	.
+16ffJJ)	.
+*-	*-

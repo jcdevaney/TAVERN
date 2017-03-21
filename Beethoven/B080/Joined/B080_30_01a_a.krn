@@ -1,0 +1,41 @@
+!!!COM: Beethoven
+!!!OTL: 32 Variationen fur das pianoforte
+!!!Variation: Variation 30 a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*M3/4	*M3/4	*M3/4	*M3/4
+*c:	*c:	*c:	*c:
+=241	=241	=241	=241
+4T	4i	(4C' 4E-'	(4G' 4c'
+4T	4V7c	4D' 4F'	4G' 4B'
+4T	4i	4C') 4E-'	4G') 4c'
+=242	=242	=242	=242
+2.T	2.viioD7	(4BB' 4F'	(4A-' 4c#'
+.	.	4BB' 4F'	4A-' 4d'
+.	.	4BB') 4F'	4A-') 4d'
+=243	=243	=243	=243
+2.T	2.V7d/IV	(4BB-' 4C'	(4G' 4d#'
+.	.	4BB-' 4C'	4G' 4e'
+.	.	4BB-') 4C'	4G') 4e'
+=244	=244	=244	=244
+2.P	2.IVb	(4AA' 4C'	(4c' 4e'
+.	.	4AA' 4C'	4c' 4f'
+.	.	4AA') 4C'	4c') 4f'
+=245	=245	=245	=245
+2.P	2.Gn	(4AA-' 4E-'	(4c' 4f#'
+.	.	4AA-' 4D'	4d' 4f#'
+.	.	4AA-') 4C'	4e-') 4f#'
+=246	=246	=246	=246
+4D	4V	(4GG' 4D'	(4B' 4g'
+2D	2viioD7c	4FF' 4D'	4B' 4a-'
+.	.	4FF') 4D'	4B') 4a-'
+=247	=247	=247	=247
+2D	2viioD7c	(4FF' 4D'	(4B' 4a-'
+.	.	4AA-' 4D'	4B' 4f'
+4D	4V	4GG') 4D'	4B') 4g'
+=248	=248	=248	=248
+4T	4i	(4C' 4E-'	(4c' 4g'
+4T	4V	4GG' 4D'	4B' 4g'
+4T	4i	4CC') 4C'	4c') 4g'
+*-	*-	*-	*-

@@ -1,0 +1,112 @@
+!!!COM: Beethoven
+!!!OTL: 24 Variationen uber Venni Amore von V. Righini
+!!!Variation: Variation 5 b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#]	*k[f#c#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*D:	*D:	*D:	*D:
+=89	=89	=89	=89
+*	*	*^	*
+2D	2V7	[2AA	4r	24C#LL
+.	.	.	.	24c#
+.	.	.	.	24C#J
+.	.	.	.	24EL
+.	.	.	.	24e
+.	.	.	.	24EJJ
+*	*	*	*	*clefG2
+.	.	.	8r	24GLL
+.	.	.	.	24g
+.	.	.	.	24GJ
+.	.	.	8C#	24B-L
+.	.	.	.	24b-
+.	.	.	.	24B-JJ
+=90	=90	=90	=90	=90
+2D	2ic	2AA]	8DL	24ALL
+.	.	.	.	24a
+.	.	.	.	24AJ
+.	.	.	8GJ	24c#L
+.	.	.	.	24cc#
+.	.	.	.	24c#JJ
+.	.	.	8FL	24dLL
+.	.	.	.	24dd
+.	.	.	.	24dJ
+.	.	.	8DJ	24fL
+.	.	.	.	24ff
+.	.	.	.	24fJJ
+=91	=91	=91	=91	=91
+2D	2V7	[2AA	4.C#	24eLL
+.	.	.	.	24ee
+.	.	.	.	24eJ
+.	.	.	.	24gL
+.	.	.	.	24gg
+.	.	.	.	24gJJ
+.	.	.	.	24aLL
+.	.	.	.	24aa
+.	.	.	.	24aJ
+.	.	.	8CC#	24b-L
+.	.	.	.	24bb-
+.	.	.	.	24b-JJ
+=92	=92	=92	=92	=92
+2D	2ic	2AA]	8DDL	24aLL
+.	.	.	.	24aa
+.	.	.	.	24aJ
+.	.	.	8GGJ	24cc#L
+.	.	.	.	24ccc#
+.	.	.	.	24cc#JJ
+.	.	.	8FFL	24ddLL
+.	.	.	.	24ddd
+.	.	.	.	24ddJ
+.	.	.	8DDJ	24ffL
+.	.	.	.	24fff
+.	.	.	.	24ffJJ
+=93	=93	=93	=93	=93
+2D	2V7	[2AA	8CC#L	24eeLL
+.	.	.	.	24eee
+.	.	.	.	24eeJ
+.	.	.	8AAAJ	24cc#L
+.	.	.	.	24ccc#
+.	.	.	.	24cc#JJ
+.	.	.	8BBBL	24aLL
+.	.	.	.	24aa
+.	.	.	.	24aJ
+.	.	.	8CC#J	24gL
+.	.	.	.	24gg
+.	.	.	.	24gJJ
+=94	=94	=94	=94	=94
+2T	2I	4AA]	8DDL	24f#LL
+.	.	.	.	24ff#
+.	.	.	.	24f#J
+.	.	.	8EEJ	24eL
+.	.	.	.	24ee
+.	.	.	.	24eJJ
+*	*	*v	*v	*
+.	.	8FFL	24dLL
+.	.	.	24dd
+.	.	.	24dJ
+.	.	8FF#J	24cL
+.	.	.	24cc
+.	.	.	24cJJ
+=95	=95	=95	=95
+8P	8IV	8GGL	24BLL
+.	.	.	24b
+.	.	.	24BJ
+8P	8V/V	8GG#J	24G#L
+.	.	.	24g#
+.	.	.	24G#JJ
+4D	4V	8AAL	24ALL
+.	.	.	24a
+.	.	.	24AJ
+*	*	*	*clefF4
+.	.	8AAAJ	24C#L
+.	.	.	24c#
+.	.	.	24C#JJ
+=96	=96	=96	=96
+2T	2I	(8DDL	24DLL
+.	.	.	24d
+.	.	.	24DJJ
+.	.	16FF#L	8r
+.	.	16AAJJ)	.
+.	.	8D	4r
+.	.	8r	.
+*-	*-	*-	*-

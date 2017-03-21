@@ -1,0 +1,121 @@
+!!!COM: Beethoven
+!!!OTL: Zehn Variationen uber "la stessa, la stessissima" aus "Falstaff" von A. Salieri
+!!!Variation: Variation 10 a2
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-]	*k[b-e-]
+*M3/8	*M3/8	*M3/8	*M3/8
+*B-:	*B-:	*B-:	*B-:
+=183	=183	=183	=183
+4.T	4.I	4BB- 4D 4F 4B-	(16b-LL
+.	.	.	16f
+.	.	.	16d)
+.	.	.	16dd'
+.	.	8BB- 8D 8F 8B-	16b-'
+.	.	.	16f'JJ
+=184	=184	=184	=184
+4.T	4.I	4BB- 4D 4F 4B-	(16ffLL
+.	.	.	16dd
+.	.	.	16b-)
+.	.	.	16bb-'
+.	.	8BB- 8D 8F 8B-	16ff'
+.	.	.	16dd'JJ
+=185	=185	=185	=185
+4.T	4.V7	4BB- 4E- 4F 4A	(16ee-LL
+.	.	.	16cc
+.	.	.	16a)
+.	.	.	16aa'
+.	.	8BB- 8E- 8F 8A	16ee-'
+.	.	.	16cc'JJ
+=186	=186	=186	=186
+4.T	4.V7	4BB- 4E- 4F 4A	(16cccLL
+.	.	.	16aa
+.	.	.	16ee-)
+.	.	.	16eee-'
+.	.	8BB- 8E- 8F 8A	16ccc'
+.	.	.	16aa'JJ
+=187	=187	=187	=187
+4.T	4.V7	4BB- 4E- 4F 4A	(16ee-LL
+.	.	.	16cc
+.	.	.	16a)
+.	.	.	16aa'
+.	.	8BB- 8E- 8F 8A	16ee-'
+.	.	.	16cc'JJ
+=188	=188	=188	=188
+4.T	4.V7	4BB- 4E- 4F 4A	(16cccLL
+.	.	.	16aa
+.	.	.	16ee-)
+.	.	.	16eee-'
+.	.	8BB- 8E- 8F 8A	16ccc'
+.	.	.	16aa'JJ
+=189	=189	=189	=189
+4.T	4.I	4BB- 4D 4F 4B-	(16ffLL
+.	.	.	16dd
+.	.	.	16b-)
+.	.	.	16bb-'
+.	.	8BB- 8D 8F 8B-	16ff'
+.	.	.	16dd'JJ
+=190	=190	=190	=190
+4.T	4.I	4BB- 4D 4F 4B-	(16dddLL
+.	.	.	16bb-
+.	.	.	16ff)
+.	.	.	16fff'
+.	.	8BB- 8D 8F 8B-	16ddd'
+.	.	.	16bb-'JJ
+=191	=191	=191	=191
+4.T	4.IVc	4BB- 4E- 4G	(16aaLL
+.	.	.	16bb-)
+.	.	.	(16ff#
+.	.	.	16gg)
+.	.	8BB- 8E- 8G	(16dd
+.	.	.	16ee-JJ)
+=192	=192	=192	=192
+4.T	4.IVc	4BB- 4E- 4G	(16aLL
+.	.	.	16b-)
+.	.	.	(16f#
+.	.	.	16g)
+.	.	8BB- 8E- 8G	(16aa
+.	.	.	16bb-JJ)
+=193	=193	=193	=193
+4.T	4.I	4BB- 4D 4F	(16aaLL
+.	.	.	16bb-)
+.	.	.	(16ee
+.	.	.	16ff)
+.	.	8BB- 8D 8F	(16cc#
+.	.	.	16ddJJ)
+=194	=194	=194	=194
+4.T	4.I	4BB- 4D 4F	(16aLL
+.	.	.	16b-)
+.	.	.	(16e
+.	.	.	16f)
+.	.	8BB- 8D 8F	(16ee
+.	.	.	16ffJJ)
+=195	=195	=195	=195
+4D	4V	8FF 8C 8F	(16eLL
+.	.	.	16f)
+.	.	4BB- 4D 4F	(16ee
+.	.	.	16ff)
+8D	8I	.	(16e
+.	.	.	16fJJ)
+=196	=196	=196	=196
+4D	4V	8FF 8C 8F	(16eeLL
+.	.	.	16ff)
+.	.	4BB- 4D 4F	(16e
+.	.	.	16f)
+8D	8I	.	(16ee
+.	.	.	16ffJJ)
+=197	=197	=197	=197
+4.D	4.V	4FF 4C 4F	(16eeLL
+.	.	.	16ffJJ)
+.	.	.	(16bLL
+.	.	.	16ccJJ)
+.	.	8r	(16g#LL
+.	.	.	16aJJ)
+=198	=198	=198	=198
+4.D	4.V	4.r	(16eLL
+.	.	.	16fJJ)
+.	.	.	(16BLL
+.	.	.	16cJJ)
+.	.	.	(16G#LL
+.	.	.	16AJJ)
+*-	*-	*-	*-

@@ -1,0 +1,52 @@
+**kern	**kern
+*staff2	*staff1
+*clefG2	*clefG2
+*k[f#c#]	*k[f#c#]
+*M3/4	*M3/4
+*D:	*D
+*clefF4	*clefG2
+=97:|!|:	=97:|!|:
+4d	(12ff#L 12aa
+.	12ee 12gg
+.	12ddJ) 12ff#
+4r	12dd'L 12ff#'
+.	12dd' 12ff#'
+.	12dd'J 12ff#'
+4r	12dd'L 12ff#'
+.	12dd' 12ff#'
+.	12dd'J 12ff#'
+=98	=98
+4D	(12aL 12ff#
+.	12g 12ee
+.	12f#J) 12dd
+4r	12f#'L 12dd'
+.	12f#' 12dd'
+.	12f#'J 12dd'
+4r	12f#'L 12dd'
+.	12f#' 12dd'
+.	12f#'J 12dd'
+=99	=99
+8d	12r
+.	(12f#L 12dd
+8r	.
+.	12aJ) 12ff#
+8G	12r
+.	(12gL 12ee
+8r	.
+.	12bJ) 12gg
+8A	12r
+.	(12eL 12cc#
+8r	.
+.	12gJ) 12ee
+=100	=100
+4D	12f#L 12dd
+.	12a'
+.	12b'J
+4r	12cc#'L
+.	12dd'
+.	12ee'J
+4r	12ff#'L
+.	12gg'
+.	12gg#'J
+=	=
+*-	*-

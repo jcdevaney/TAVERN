@@ -1,0 +1,143 @@
+!!!COM: Mozart
+!!!OTL: Zwolf Variationen in C uber ein Menuett von Johann Christian Fischer
+!!!Variation: Variation 9c
+**function	**harm	**kern	**kern
+*	*	*clefG2	*clefG2
+*	*	*k[]	*k[]
+*M3/4	*M3/4	*M3/4	*M3/4
+*C:	*C:	*C:	*C:
+=234	=234	=234	=234
+2.D	2.Vb	16BLL	8.ddL
+.	.	16g	.
+.	.	16d	.
+.	.	16gJJ	16bJk
+.	.	16BLL	4gg
+.	.	16g	.
+.	.	16d	.
+.	.	16gJJ	.
+*	*	*	*clefF4
+.	.	16BLL	4GG
+.	.	16g	.
+.	.	16d	.
+.	.	16gJJ	.
+*	*	*	*clefG2
+=235	=235	=235	=235
+2.D	2.Ic	16cLL	8.eeL
+.	.	16g	.
+.	.	16e	.
+.	.	16gJJ	16ccJk
+.	.	16cLL	4gg
+.	.	16g	.
+.	.	16e	.
+.	.	16gJJ	.
+*	*	*	*clefF4
+.	.	16cLL	4GG
+.	.	16g	.
+.	.	16e	.
+.	.	16gJJ	.
+*	*	*	*clefG2
+=236	=236	=236	=236
+2.D	2.V7c	16dLL	8.ffL
+.	.	16b	.
+.	.	16f	.
+.	.	16bJJ	16ddJk
+.	.	16dLL	4bb
+.	.	16b	.
+.	.	16f	.
+.	.	16bJJ	.
+*	*	*	*clefF4
+.	.	16dLL	4GG
+.	.	16b	.
+.	.	16f	.
+.	.	16bJJ	.
+*	*	*	*clefG2
+=237	=237	=237	=237
+2T	2I	16eLL	4ccc
+.	.	16cc	.
+.	.	16g	.
+.	.	16ccJJ	.
+*	*	*	*clefF4
+.	.	16cLL	4C
+.	.	16g	.
+.	.	16e	.
+.	.	16gJJ	.
+*	*	*	*clefG2
+4T	4IVc	16cLL	4ff 4aa
+.	.	16a	.
+.	.	16f	.
+.	.	16aJJ	.
+=238	=238	=238	=238
+2T	2I	16cLL	4ee 4gg
+.	.	16g	.
+.	.	16e	.
+.	.	16gJJ	.
+*	*	*	*clefF4
+.	.	16cLL	4C
+.	.	16g	.
+.	.	16e	.
+.	.	16gJJ	.
+*	*	*	*clefG2
+4T	4IVc	16cLL	4ff 4aa
+.	.	16a	.
+.	.	16f	.
+.	.	16aJJ	.
+=239	=239	=239	=239
+4T	4I	16cLL	4ee 4gg
+.	.	16g	.
+.	.	16e	.
+.	.	16gJJ	.
+4T	4V7b	16BLL	4dd 4ff
+.	.	16g	.
+.	.	16d	.
+.	.	16gJJ	.
+4T	4I	16cLL	4cc 4ee
+.	.	16g	.
+.	.	16e	.
+.	.	16gJJ	.
+*	*	*clefF4	*
+=240	=240	=240	=240
+.	.	.	(q32a# 32cc#
+4T	4V7d	16FLL	4b) 4dd
+.	.	16d	.
+.	.	16G	.
+.	.	16BJJ	.
+.	.	.	(q32bb 32dd#
+4T	4Ib	16ELL	4cc) 4ee
+.	.	16c	.
+.	.	16G	.
+.	.	16cJJ	.
+.	.	.	(q32cc# 32ee
+4T	4V7c	16DLL	4dd) 4ff
+.	.	16B	.
+.	.	16G	.
+.	.	16BJJ	.
+=241	=241	=241	=241
+.	.	.	(q32dd# 32ff#
+4T	4Ib	16ELL	4ee) 4gg
+.	.	16c	.
+.	.	16G	.
+.	.	16cJJ	.
+.	.	.	(q32cc# 32ee
+4P	4iib	16FLL	4dd) 4ff
+.	.	16d	.
+.	.	16A	.
+.	.	16dJJ	.
+.	.	.	(q32bb 32dd#
+4P	4viiom7/V	16F#LL	4cc) 4ee
+.	.	16c	.
+.	.	16A	.
+.	.	16cJJ	.
+=242	=242	=242	=242
+2.D	2.V	4G	16ddLL
+.	.	.	16ee
+.	.	.	16cc
+.	.	.	16ddJJ
+.	.	4r	16bLL
+.	.	.	16cc
+.	.	.	16a
+.	.	.	16bJJ
+.	.	4r	16gLL
+.	.	.	16f
+.	.	.	16e
+.	.	.	16dJJ
+*-	*-	*-	*-

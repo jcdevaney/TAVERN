@@ -1,0 +1,117 @@
+!!!COM: Beethoven
+!!!OTL: 32 Variationen fur das pianoforte
+!!!Variation: Variation 17 a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*M3/4	*M3/4	*M3/4	*M3/4
+*c:	*c:	*c:	*c:
+=137	=137	=137	=137
+2.T	2.i	16CLL	4r
+.	.	16e-	.
+.	.	16c	.
+.	.	16e-JJ	.
+.	.	16GLL	(4.ccc
+.	.	16e-	.
+.	.	16c	.
+.	.	16e-JJ	.
+.	.	16GLL	.
+.	.	16e-	.
+.	.	16c	8eee-)
+.	.	16e-JJ	.
+=138	=138	=138	=138
+*	*	*	*^
+2.T	2.V	16GGLL	4r	(8dddL
+.	.	16d	.	.
+.	.	16B	.	8cccJ
+.	.	16dJJ	.	.
+.	.	16GLL	4.ddd	8bbL
+.	.	16d	.	.
+.	.	16B	.	8aaJ
+.	.	16dJJ	.	.
+.	.	16GLL	.	8bbL
+.	.	16d	.	.
+.	.	16B	8fff	8ggJ)
+.	.	16dJJ	.	.
+=139	=139	=139	=139	=139
+2.T	2.V7/IV	16CLL	(8eeeL	4r
+.	.	16d-	.	.
+.	.	16B-	8fffJ	.
+.	.	16d-JJ	.	.
+.	.	16GLL	8gggL	4.bb-
+.	.	16d-	.	.
+.	.	16B-	8fffJ	.
+.	.	16d-JJ	.	.
+.	.	16GLL	8eeeL	.
+.	.	16c	.	.
+.	.	16B-	8eeeJ)	8ddd-
+.	.	16cJJ	.	.
+=140	=140	=140	=140	=140
+2.P	2.IV	16FFLL	(4fff	8cccL
+.	.	16c	.	.
+.	.	16A	.	8bb-J
+.	.	16cJJ	.	.
+.	.	16FLL	8aaL	4.a
+.	.	16c	.	.
+.	.	16A	8ggJ	.
+.	.	16cJJ	.	.
+.	.	16FLL	8aaL	.
+.	.	16c	.	.
+.	.	16A	8ffJ)	8cc
+.	.	16cJJ	.	.
+=141	=141	=141	=141	=141
+2.P	2.V7/V	16DLL	4r	(8ee-L
+.	.	16d	.	.
+.	.	16c	.	8ddJ
+.	.	16dJJ	.	.
+.	.	16ALL	4.ff#	8ccL
+.	.	16d	.	.
+.	.	16c	.	8bJ
+.	.	16dJJ	.	.
+.	.	16ALL	.	8ccL
+.	.	16d	.	.
+.	.	16c	8aa	8aJ)
+.	.	16dJJ	.	.
+=142	=142	=142	=142	=142
+4D	4viioD7	16BLL	8dddL	4dd 4ff
+.	.	16d	.	.
+.	.	16f	8cccJ	.
+.	.	16a-JJ	.	.
+*	*	*	*v	*v
+2D	2viioD7c	4.F	16bbLL
+.	.	.	16ddd
+.	.	.	16aa-
+.	.	.	16bbJJ
+.	.	.	16ffLL
+.	.	.	16aa-
+.	.	8A-	16dd
+.	.	.	16ffJJ
+=143	=143	=143	=143
+*	*	*^	*
+2.D	2.V7	(8A-L	4r	16bLL
+.	.	.	.	16dd
+.	.	8GJ	.	16b
+.	.	.	.	16ddJJ
+.	.	8FL	(4.FF	16gLL 16b 16dd
+.	.	.	.	16gg
+.	.	8E-J	.	16g 16b 16dd
+.	.	.	.	16ggJJ
+.	.	8FL	.	16gLL 16b 16dd
+.	.	.	.	16gg
+.	.	8DJ)	8GG)	16g 16b 16dd
+.	.	.	.	16ggJJ
+=144	=144	=144	=144	=144
+2.T	2.i	2.C	(8GGL	16gLL 16cc 16ee-
+.	.	.	.	16gg
+.	.	.	8FFJ	16g 16cc 16ee-
+.	.	.	.	16ggJJ
+.	.	.	8EE-L	16gLL 16cc 16ee-
+.	.	.	.	16gg
+.	.	.	8DDJ	16g 16cc 16ee-
+.	.	.	.	16ggJJ
+.	.	.	8EE-L	16gLL 16cc 16ee-
+.	.	.	.	16gg
+.	.	.	8CCJ)	16g 16cc 16ee-
+.	.	.	.	16ggJJ
+*	*	*v	*v	*
+*-	*-	*-	*-

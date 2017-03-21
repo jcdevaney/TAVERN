@@ -1,0 +1,54 @@
+!!!COM: Mozart
+!!!OTL: 9 Variationen uber ein Minuett von Duport
+!!!Variation: Variation 9 a2
+**function	**harm	**kern	**kern
+*	*	*clefG2	*clefG2
+*	*	*k[f#c#]	*k[f#c#]
+*M3/4	*M3/4	*M3/4	*M3/4
+*D:	*D:	*D:	*D
+=266	=266	=266	=266
+*	*	*^	*
+2.T	2.I	(8f#L	2.d	(2aa
+.	.	8aJ	.	.
+.	.	8f#L	.	.
+.	.	8aJ	.	.
+.	.	.	.	q32bb
+.	.	.	.	q32aa
+.	.	.	.	q32gg#
+.	.	.	.	q32aa
+.	.	8f#L	.	8.dddL
+.	.	8aJ	.	.
+.	.	.	.	16aaJk)
+=267	=267	=267	=267	=267
+2.T	2.I	8f#L	2.d	(2ff#
+.	.	8aJ	.	.
+.	.	8f#L	.	.
+.	.	8aJ	.	.
+.	.	.	.	q32gg
+.	.	.	.	q32ff#
+.	.	.	.	q32ee
+.	.	.	.	q32ff#
+.	.	8f#L	.	8.aaL
+.	.	8aJ	.	.
+.	.	.	.	16ff#Jk)
+=268	=268	=268	=268	=268
+2D	2Cc	8f#L	2.A	4dd
+.	.	8aJ	.	.
+.	.	8f#L	.	4dd
+.	.	8aJ	.	.
+4D	4V7	8c#L 8g	.	(8.eeL
+.	.	8aJ	.	.
+.	.	.	.	32ddLL
+.	.	.	.	32eeJJJ
+=269	=269	=269	=269	=269
+2.T	2.I	4f#)	4d	8ee#L
+.	.	.	.	16ff#Jk)
+.	.	.	.	16r
+.	.	4r	4r	(8cc#L
+.	.	.	.	16ddJk)
+.	.	.	.	16r
+.	.	4r	4r	(8g#L
+.	.	.	.	16aJk)
+.	.	.	.	16r
+*	*	*v	*v	*
+*-	*-	*-	*-

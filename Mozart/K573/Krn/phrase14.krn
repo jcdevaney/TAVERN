@@ -1,0 +1,61 @@
+**kern	**kern
+*staff2	*staff1
+*clefG2	*clefG2
+*k[f#c#]	*k[f#c#]
+*M3/4	*M3/4
+*D:	*D
+*clefF4	*clefG2
+=65	=65
+16DLL	(2dd 2ff# 2aa
+16d	.
+16c#	.
+16dJJ	.
+16eLL	.
+16d	.
+16c#	.
+16dJJ	.
+16ALL	8ddd)
+16d	.
+16F#	8r
+16AJJ	.
+=66	=66
+16DLL	(2a 2dd 2ff#
+16d	.
+16c#	.
+16dJJ	.
+16eLL	.
+16d	.
+16c#	.
+16dJJ	.
+16ALL	8aa)
+16d	.
+16F#	8r
+16AJJ	.
+=67	=67
+16BBLL	8f# 8b 8dd
+16D	.
+16F#	8r
+16BJJ	.
+16GGLL	8b 8dd 8ee
+16BB	.
+16E	8r
+16GJJ	.
+16AALL	8a 8cc# 8ee 8gg
+16C#	.
+16E	8r
+16AJJ	.
+=68	=68
+4D	(16ff#LL
+.	16dd
+.	16cc#
+.	16eeJJ
+4r	16ddLL
+.	16ff#
+.	16ee
+.	16ggJJ
+4r	16ff#LL
+.	16aa
+.	16gg
+.	16bbJJ)
+=	=
+*-	*-

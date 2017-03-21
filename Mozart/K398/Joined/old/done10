@@ -1,0 +1,49 @@
+!!!COM: Mozart
+!!!OTL: Sechs Variationen in F uber die Arie 'Salve tu, Domine' aus der Oper 'I filosofi immaginarii' 
+!!!Variation: Variation 4b
+!!!OTL: Sechs Variationen in F uber die Arie 'Salve tu, Domine' aus der Oper 'I filosofi immaginarii'
+**kern	**harm
+*M3/4	*M3/4
+*f:	*f:
+=-	=-
+4P	4V2/iv
+=	=
+2.P	2.iv64
+=	=
+2.P	2.i
+=	=
+2P	2VI6
+4P	4iio
+=	=
+2P	2V/VI
+4P	4V65/VI
+=	=
+2.T	2.VI
+=	=
+4T	4C64/III
+2T	2V/III
+=	=
+2.T	2.III
+=	=
+2.T	2.III
+=	=
+2.T	2.III
+=	=
+2.T	2.III
+=	=
+2.P	2.Vb9/iv
+=	=
+2.P	2.iv
+=	=
+2.P	2.Vb9/V
+=	=
+2.D	2.V
+==	==
+!adagio	!adagio
+*M9/4	*M9/4
+!	!written in 4/4 but with too many notes
+1P	1Gr65
+1D	1V
+4D	4V7
+==	==
+*-	*-

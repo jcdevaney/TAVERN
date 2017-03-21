@@ -1,0 +1,118 @@
+!!!COM: Beethoven
+!!!OTL: 32 Variationen fur das pianoforte
+!!!Variation: Variation 27 a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*M3/4	*M3/4	*M3/4	*M3/4
+*c:	*c:	*c:	*c:
+=217	=217	=217	=217
+2.T	2.i	8CC 8EE- 8GG 8C	16r
+.	.	.	16ccLL 16ee-
+.	.	8r	16a 16cc
+.	.	.	16bJJ 16dd
+*	*	*clefG2	*
+.	.	16r	8cc 8ee-
+.	.	16cLL 16e-	.
+.	.	16A 16c	8r
+.	.	16BJJ 16d	.
+.	.	8c 8e-	16r
+.	.	.	16cccLL 16eee-
+.	.	8r	16bb 16ddd
+.	.	.	16aaJJ 16ccc
+=218	=218	=218	=218
+*	*	*clefF4	*
+2.T	2.V	8GG 8BB 8D 8G	16r
+.	.	.	16bLL 16dd
+.	.	8r	16g 16b
+.	.	.	16aJJ 16cc
+.	.	16r	8b 8dd
+.	.	16BLL 16d	.
+.	.	16G 16B	8r
+.	.	16AJJ 16c	.
+.	.	8B 8d	16r
+.	.	.	16bbLL 16ddd
+.	.	8r	16aa 16ccc
+.	.	.	16ggJJ 16bb
+=219	=219	=219	=219
+2.T	2.V7m9/IV	8CC 8EE 8GG 8C	16r
+.	.	.	16b-LL 16dd- 16ee
+.	.	8r	16g 16b- 16ee
+.	.	.	16a-JJ 16cc 16ee
+.	.	16r	8b- 8dd- 8ee
+.	.	16B-LL 16d-	.
+.	.	16G 16B-	8r
+.	.	16A-JJ 16c	.
+.	.	8B- 8d-	16r
+.	.	.	16b-LL 16dd- 16ee
+.	.	8r	16a- 16cc 16ee
+.	.	.	16gJJ 16b- 16ee
+=220	=220	=220	=220
+2.P	2.iv	8FF 8AA- 8C 8F	16r
+.	.	.	16a-LL 16cc 16ff
+.	.	8r	16f 16a- 16ff
+.	.	.	16gJJ 16b- 16ff
+.	.	16r	8a- 8cc 8ff
+.	.	16A-LL 16c	.
+.	.	16F 16A-	8r
+.	.	16GJJ 16B-	.
+.	.	8A- 8c	16r
+.	.	.	16a-LL 16cc 16ff
+.	.	8r	16g 16b- 16ff
+.	.	.	16fJJ 16a- 16ff
+=221	=221	=221	=221
+2.P	2.V7m9/V	8DD 8FF# 8AA 8D	16r
+.	.	.	16ccLL 16ee- 16ff#
+.	.	8r	16a 16cc 16ff#
+.	.	.	16bJJ 16dd 16ff#
+*	*	*clefG2	*
+.	.	16r	8cc 8ee- 8ff#
+.	.	16cLL 16e-	.
+.	.	16A 16c	8r
+.	.	16BJJ 16d	.
+.	.	8c 8e-	16r
+.	.	.	16ccLL 16ee- 16ff#
+.	.	8r	16b 16dd 16ff#
+.	.	.	16aJJ 16cc 16ff#
+=222	=222	=222	=222
+*	*	*clefF4	*
+8D	8V	8GG 8BB 8D 8G	16bLL 16dd 16gg
+.	.	.	16ff 16aa-
+8D	8viioD7c	8r	16dd 16ff
+.	.	.	16ee-JJ 16gg
+*	*	*clefG2	*
+2D	2viioD7c	16r	8ff 8aa-
+.	.	16fLL 16a-	.
+.	.	16d 16f	8r
+.	.	16e-JJ 16g	.
+.	.	8f 8a-	16r
+.	.	.	16fLL 16a-
+.	.	8r	16d 16f
+.	.	.	16e-JJ 16g
+=223	=223	=223	=223
+*	*	*clefF4	*
+2D	2viioD7c	16r	8f 8a-
+.	.	16FLL 16A-	.
+.	.	16D 16F	8r
+.	.	16E-JJ 16G	.
+.	.	8F 8A-	16r
+*	*	*	*clefF4
+.	.	.	16FLL 16A-
+.	.	8r	16D 16F
+.	.	.	16E-JJ 16G
+8D	8viioD7c	16r	8FL 8A-
+.	.	16FFLL 16AA-	.
+8D	8V7c	16EE- 16GG	8DJ 8F 8G 8B
+.	.	16DDJJ 16FF	.
+=224	=224	=224	=224
+2.T	2.i	16r	8E- 8G 8c
+.	.	16EE-LL	.
+.	.	16DD	8r
+.	.	16CCJJ	.
+.	.	16r	8F 8G 8d
+.	.	16BBBLL	.
+.	.	16AAA	8r
+.	.	16GGGJJ	.
+.	.	8r	8E- 8G 8c
+.	.	8CC	8r
+*-	*-	*-	*-

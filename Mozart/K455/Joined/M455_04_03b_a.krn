@@ -1,0 +1,79 @@
+!!!COM: Mozart
+!!!OTL: Zehn Variationen in G, uber die Ariette 'Unser dummer Pobel meint' aus dem Singspiel 'Die Pilgrime von Mekka'
+!!!Variation: Variation 4 b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#]	*k[f#]
+*M2/2	*M2/2	*M2/2	*M2/2
+*G:	*G:	*G:	*G:
+=57	=57	=57	=57
+*	*	*	*^
+2P	2V7/ii	2EE 2E	2g#	16eLL
+.	.	.	.	16d#
+.	.	.	.	16e
+.	.	.	.	16BJJ
+.	.	.	.	16eLL
+.	.	.	.	16d#
+.	.	.	.	16e
+.	.	.	.	16BJJ
+2P	2V7b/V/ii	2DD# 2D#	2a	16f#LL
+.	.	.	.	16e
+.	.	.	.	16f#
+.	.	.	.	16BJJ
+.	.	.	.	16f#LL
+.	.	.	.	16e
+.	.	.	.	16f#
+.	.	.	.	16BJJ
+=58	=58	=58	=58	=58
+2P	2V7d/ii	2DDn 2Dn	2b	16g#LL
+.	.	.	.	16f#
+.	.	.	.	16g#
+.	.	.	.	16eJJ
+.	.	.	.	16g#LL
+.	.	.	.	16f#
+.	.	.	.	16g#
+.	.	.	.	16eJJ
+2P	2Ib/ii	16C#LL	(4cc#	2a
+.	.	16BB	.	.
+.	.	16C#	.	.
+.	.	16AAJJ	.	.
+.	.	16C#LL	4ee)	.
+.	.	16BB	.	.
+.	.	16C#	.	.
+.	.	16AAJJ	.	.
+=59	=59	=59	=59	=59
+2D	2V7	2DD 2D	2f#	16dLL
+.	.	.	.	16c#
+.	.	.	.	16d
+.	.	.	.	16AJJ
+.	.	.	.	16dLL
+.	.	.	.	16c#
+.	.	.	.	16d
+.	.	.	.	16AJJ
+2D	2V7b	2CC# 2C#	2g	16eLL
+.	.	.	.	16d
+.	.	.	.	16e
+.	.	.	.	16AJJ
+.	.	.	.	16eLL
+.	.	.	.	16d
+.	.	.	.	16e
+.	.	.	.	16AJJ
+=60	=60	=60	=60	=60
+2D	2V7d	2CCn 2Cn	2a	16f#LL
+.	.	.	.	16e
+.	.	.	.	16f#
+.	.	.	.	16dJJ
+.	.	.	.	16f#LL
+.	.	.	.	16e
+.	.	.	.	16f#
+.	.	.	.	16dJJ
+2T	2Ib	16BBLL	(4b	2g
+.	.	16AA	.	.
+.	.	16BB	.	.
+.	.	16GGJJ	.	.
+.	.	16BBLL	4dd)	.
+.	.	16AA	.	.
+.	.	16BB	.	.
+.	.	16GGJJ	.	.
+*	*	*	*v	*v
+*-	*-	*-	*-

@@ -1,0 +1,151 @@
+!!!COM: Beethoven
+!!!OTL: Acht Variationen uber das Trio "Tandeln und Scherzen" aus der Oper: Soliman oder die drei Sultaninnen von Sussmayer
+!!!Variation: Variation 7 b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*M3/8	*M3/8	*M3/8	*M3/8
+*F:	*F:	*F:	*F:
+=177	=177	=177	=177
+4.T	4.Ib	16AALL	(8cL
+.	.	16F	.
+.	.	16C	8.f
+.	.	16F	.
+.	.	16AA	.
+.	.	16FJJ	16cJk)
+=178	=178	=178	=178
+4T	4IV	16BB-LL	(8eL
+.	.	16F	.
+.	.	16BB-	8d
+.	.	16F	.
+.	.	.	q32c
+.	.	.	q32e
+.	.	.	q32d
+8T	8Ib	16BB-	8cJ)
+.	.	16FJJ	.
+=179	=179	=179	=179
+4.T	4.I	16FFLL	(96ALLLL
+.	.	.	96c
+.	.	.	96B-JJJ
+.	.	.	96ALLL
+.	.	.	96B-
+.	.	.	96cJJJ
+.	.	16F	96dLLL
+.	.	.	96e
+.	.	.	96fJJJ
+.	.	.	96gLLL
+.	.	.	96a
+.	.	.	96b-JJJJ
+.	.	16AA	96ccLLLL
+.	.	.	96dd
+.	.	.	96eeJJJ
+.	.	.	96ffLLL
+.	.	.	96gg
+.	.	.	96aaJJJ
+.	.	16F	96bb-LLL
+.	.	.	96aa
+.	.	.	96cccJJJ
+.	.	.	96bb-LLL
+.	.	.	96ddd
+.	.	.	96cccJJJJ
+.	.	16C	64bb-LLLL
+.	.	.	64aa
+.	.	.	64gg
+.	.	.	64ffJJJ
+.	.	16FJJ	64eeLLL
+.	.	.	64ff
+.	.	.	64gg
+.	.	.	64ffJJJJ)
+=180	=180	=180	=180
+4T	4IV	16BB-LL	(8eeL
+.	.	16F	.
+.	.	16BB-	8dd
+.	.	16F	.
+.	.	.	q32cc
+.	.	.	q32ee
+.	.	.	q32dd
+8T	8Ib	16AA	8ccJ)
+.	.	16FJJ	.
+=181	=181	=181	=181
+4.T	4.V7	16CCLL	32b-
+.	.	.	64r
+.	.	.	(64bb-LKKK
+.	.	16C	48aaLL
+.	.	.	48ccc
+.	.	.	48bb-JJJ)
+.	.	16E	32r
+.	.	.	64r
+.	.	.	(64ggLKKK
+.	.	16C	48ff#LL
+.	.	.	48aa
+.	.	.	48ggJJJ)
+.	.	16G	32r
+.	.	.	64r
+.	.	.	(64eeLKKK
+.	.	16CJJ	48dd#LL
+.	.	.	48ff
+.	.	.	48eeJJJ)
+=182	=182	=182	=182
+4.T	4.V7	16GLL 16B-	32r
+.	.	.	64r
+.	.	.	(64b-LKKK
+.	.	16CJJ	48aLL
+.	.	.	48cc
+.	.	.	48b-JJJ)
+.	.	8C; 8E; 8G;	[8g;
+.	.	8r	64gLLLL]
+.	.	.	(64a
+.	.	.	64b-
+.	.	.	64bJJJ
+.	.	.	64ccLLL
+.	.	.	64cc#
+.	.	.	64dd
+.	.	.	64eeJJJJ)
+=183	=183	=183	=183
+*	*	*^	*
+4.T	4.Ib	16AALL	4AA	[8ff
+.	.	16F	.	.
+.	.	16C	.	32ffLLL]
+.	.	.	.	(32ee
+.	.	16F	.	32dd
+.	.	.	.	32ccJJJ
+.	.	16AA	8AA	32ddLLL
+.	.	.	.	32cc
+.	.	16FJJ	.	32b-
+.	.	.	.	32aJJJ)
+=184	=184	=184	=184	=184
+4.P	4.iib	16BB-LL	4BB-	(16f#LL
+.	.	16G	.	[16gJJ)
+.	.	16D	.	16gLL]
+.	.	16G	.	(32.gL
+.	.	.	.	64aJJk
+.	.	16BB-	8BB-	32b-LL
+.	.	.	.	32cc
+.	.	16GJJ	.	32cc#
+.	.	.	.	32ddJJJ)
+=185	=185	=185	=185	=185
+4D	4Cc	16CLL	4C	(16bLL
+.	.	16A	.	[16ccJJ)
+.	.	16F	.	32ccLLL]
+.	.	.	.	(32cc#
+.	.	16A	.	32dd
+.	.	.	.	32ccJJJ
+8D	8V7	16E	8C	32ccLLL
+.	.	.	.	32b-
+.	.	16B-JJ	.	32a
+.	.	.	.	32gJJJ)
+=186	=186	=186	=186	=186
+4.T	4.I	8A	8F	32f'LLL
+.	.	.	.	32a'
+.	.	.	.	32b-'
+.	.	.	.	32cc'JJJ
+.	.	8r	8r	32dd'LLL
+.	.	.	.	32ee'
+.	.	.	.	32ff'
+.	.	.	.	32gg'JJJ
+.	.	8r	8r	32aa-'LLL
+.	.	.	.	32aa'
+.	.	.	.	32bb-'
+.	.	.	.	32bb'JJJ
+*	*	*v	*v	*
+*-	*-	*-	*-

@@ -1,0 +1,56 @@
+!!!COM: Beethoven 
+!!!OTL: 12 Variationen uber einen russichen Tanz von P. Wranitzky
+!!!Variation: Variation 2 c
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#g#]	*k[f#c#g#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*A:	*A:	*A:	*A:
+4D	4I	8r	24eLL
+.	.	.	24a
+.	.	.	24cc#J
+.	.	(8A	24eeL
+.	.	.	24dd
+.	.	.	24cc#JJ
+=49	=49	=49	=49
+*	*	*^	*
+4D	4V7	4E	8dL	24eLL
+.	.	.	.	24g#
+.	.	.	.	24bJ
+.	.	.	8BJ	24ddL
+.	.	.	.	24cc#
+.	.	.	.	24bJJ
+4D	4Ic	4E	8c#L	24aLL
+.	.	.	.	24cc#
+.	.	.	.	24eeJ
+.	.	.	8AJ	24aaL
+.	.	.	.	24gg#
+.	.	.	.	24aaJJ
+=50	=50	=50	=50	=50
+4D	4V	4E	8G#L	8bb
+.	.	.	8eJ)	8r
+4D	4Ic	4r	8r	24eLL
+.	.	.	.	24a
+.	.	.	.	24cc#J
+.	.	.	(8A	24eeL
+.	.	.	.	24dd
+.	.	.	.	24cc#JJ
+=51	=51	=51	=51	=51
+4D	4V7	4E	8dL	24eLL
+.	.	.	.	24g#
+.	.	.	.	24bJ
+.	.	.	8BJ	24ddL
+.	.	.	.	24cc#
+.	.	.	.	24bJJ
+4D	4Ic	4E	8c#L	24aLL
+.	.	.	.	24cc#
+.	.	.	.	24eeJ
+.	.	.	8AJ	24aaL
+.	.	.	.	24gg#
+.	.	.	.	24aaJJ
+=52	=52	=52	=52	=52
+4D	4V	8E	8G#L)	4bb
+*	*	*v	*v	*
+.	.	16eL	.
+.	.	16dJJ	.
+*-	*-	*-	*-

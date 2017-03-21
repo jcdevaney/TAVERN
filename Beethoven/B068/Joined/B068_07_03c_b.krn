@@ -1,0 +1,43 @@
+!!!COM: Beethoven
+!!!OTL: Zwolf Variationen uber das Menuett a la Vigano von J. Haibel
+!!!Variation: Variation 7 c
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*M4/4	*M4/4	*M4/4	*M4/4
+*c:	*c:	*c:	*c:
+4.T	4.i	4.r	16r
+.	.	.	16e-
+.	.	.	8.dL
+.	.	.	16cJk
+=121	=121	=121	=121
+*	*	*^	*^
+1D	1V7	(8.DL	2.GG	(8.fL	2.B
+.	.	16E-Jk	.	16gJk	.
+.	.	8.FL	.	8.a-L	.
+.	.	16E-Jk)	.	16gJk)	.
+.	.	4D'	.	4f'	.
+.	.	4r	4r	4b' 4dd' 4ff' 4aa-' 4bb'	4r
+=122	=122	=122	=122	=122	=122
+1D	1I	(8.E-L	2.GG	(8.gL	2.c
+.	.	16FJk	.	16a-Jk	.
+.	.	8.E-L	.	8.gL	.
+.	.	16DJk)	.	16f#Jk)	.
+.	.	4E-'	.	4g'	.
+*	*	*v	*v	*	*
+.	.	4r	4cc 4ee- 4gg 4ccc	4r
+*	*	*	*v	*v
+=123	=123	=123	=123
+4D	4V	4GG'	(8.bL 8.dd
+.	.	.	16ccJk 16ee-
+*	*	*clefG2	*
+2.D	2.viio	([4f [4a-	8.ddL 8.ff
+.	.	.	16ccJk 16ee-
+.	.	8.fL] 8.a-]	8.bL 8.dd
+.	.	16e-Jk 16g	16ccJk 16ee-
+.	.	8.dL 8.f	8.ddL 8.ff
+.	.	16cJk) 16e-	16ee-Jk) 16gg
+=124	=124	=124	=124
+2.D	2.viioD7	2.B; 2.d; 2.f;	2ff; 2aa-;
+.	.	.	4dd;
+*-	*-	*-	*-

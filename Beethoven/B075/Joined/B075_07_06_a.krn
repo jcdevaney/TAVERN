@@ -1,0 +1,103 @@
+!!!COM: Beethoven
+!!!OTL: 7 Variations on a Quartet by Winter
+!!!Variation: Variation 7 f
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*M2/4	*M2/4	*M2/4	*M2/4
+*F:	*F:	*F:	*F:
+=384	=384	=384	=384
+2.T	2.V7	8C'L	16r
+.	.	.	16g 16b- 16cc
+.	.	8E'J	16r
+.	.	.	16g 16b- 16cc
+.	.	8D'L	16r
+.	.	.	16g 16b- 16cc
+.	.	8C'J	16r
+.	.	.	16g 16b- 16cc
+.	.	8D'L	16r
+.	.	.	16g 16b- 16cc
+.	.	8E'J	16r
+.	.	.	16g 16b- 16cc
+=385	=385	=385	=385
+2.T	2.I	8F'L	16r
+.	.	.	16f 16a 16cc
+.	.	8A'J	16r
+.	.	.	16f 16a 16cc
+.	.	8G'L	16r
+.	.	.	16f 16a 16cc
+.	.	8F'J	16r
+.	.	.	16f 16a 16cc
+.	.	8E'L	16r
+.	.	.	16f 16a 16cc
+.	.	8D'J	16r
+.	.	.	16f 16a 16cc
+=386	=386	=386	=386
+2.T	2.V	8C'L	16r
+.	.	.	16g 16cc 16ee
+.	.	8BB'J	16r
+.	.	.	16g 16cc 16ee
+.	.	8C'L	16r
+.	.	.	16g 16cc 16ee
+.	.	8D'J	16r
+.	.	.	16g 16cc 16ee
+.	.	8C'L	16r
+.	.	.	16g 16cc 16ee
+.	.	8BB-'J	16r
+.	.	.	16g 16cc 16ee
+=387	=387	=387	=387
+2.T	2.I	8AA'L	16r
+.	.	.	16a 16cc 16ff
+.	.	8C'J	16r
+.	.	.	16a 16cc 16ff
+.	.	8BB-'L	16r
+.	.	.	16a 16cc 16ff
+.	.	8AA'J	16r
+.	.	.	16a 16cc 16ff
+.	.	8GG'L	16r
+.	.	.	16a 16cc 16ff
+.	.	8FF'J	16r
+.	.	.	16a 16cc 16ff
+=388	=388	=388	=388
+2.T	2.V7	8CC'L	16r
+.	.	.	16b- 16cc 16gg
+.	.	8EE'J	16r
+.	.	.	16g 16b- 16cc
+.	.	8DD'L	16r
+.	.	.	16g 16b- 16cc
+.	.	8CC'J	16r
+.	.	.	16g 16b- 16cc
+.	.	8DD'L	16r
+.	.	.	16g 16b- 16cc
+.	.	8EE'J	16r
+.	.	.	16g 16b- 16cc
+=389	=389	=389	=389
+4.T	4.I	8FF'L	16r
+.	.	.	16f 16a 16cc
+.	.	8GG'J	16r
+.	.	.	16f 16a 16ff
+.	.	8AA'L	16r
+.	.	.	16f 16a 16ff
+4.T	4.vi	8DD'J	16r
+.	.	.	16f 16a 16ff
+.	.	8EE'L	16r
+.	.	.	16f 16a 16ff
+.	.	8FF'J	16r
+.	.	.	16f 16a 16ff
+=390	=390	=390	=390
+4.P	4.ii7	8BBB-'L	16r
+.	.	.	16g 16dd 16ff
+.	.	8AAA'J	16r
+.	.	.	16g 16dd 16ff
+.	.	8GGG'L	16r
+.	.	.	16g 16dd 16ff
+4.D	4.V7	8CC'J	16r
+.	.	.	16g 16b- 16ee
+.	.	8BBB'L	16r
+.	.	.	16g 16b- 16ee
+.	.	8CC'J	16r
+.	.	.	16g 16b- 16ee
+=391	=391	=391	=391
+8T	8I	8FFF'L	16r
+.	.	.	16a 16ff
+*-	*-	*-	*-

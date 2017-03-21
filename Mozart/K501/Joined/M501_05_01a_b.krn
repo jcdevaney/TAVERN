@@ -1,0 +1,62 @@
+!!!COM: Mozart
+!!!OTL: Andante and variations in G for piano duet, K501
+!!!Variation: Variation 5 a
+**function	**harm	**kern	**kern	**kern	**kern
+*	*	*clefF4	*clefF4	*clefG2	*clefG2
+*	*	*k[f#]	*k[f#]	*k[f#]	*k[f#]
+*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4
+*G:	*G:	*G:	*G:	*G:	*G:
+8T	8I	8r	8r	8r	8d
+=91	=91	=91	=91	=91	=91
+4T	4I	24GGLL	8D 8G 8B	8d 8g 8b	8dd 8gg 8bb 8ddd
+.	.	24BB	.	.	.
+.	.	24AAJ	.	.	.
+.	.	24BBL	8r	8r	8r
+.	.	24AA	.	.	.
+.	.	24GGJJ	.	.	.
+4T	4V7c	24AALL	8D 8F# 8A 8c	8d 8f# 8a	8cc 8dd 8ff#
+.	.	24C	.	.	.
+.	.	24BBJ	.	.	.
+.	.	24CL	8r	8r	8r
+.	.	24BB	.	.	.
+.	.	24AAJJ	.	.	.
+=92	=92	=92	=92	=92	=92
+4T	4Ib	24BBLL	4D 4G 4B	4d 4g	4b 4dd 4gg
+.	.	24D	.	.	.
+.	.	24CJ	.	.	.
+.	.	24BBL	.	.	.
+.	.	24C	.	.	.
+.	.	24AAJJ	.	.	.
+4T	4I	24GGLL	8r	8r	8r
+.	.	24D	.	.	.
+.	.	24CJ	.	.	.
+.	.	24BBL	8D 8G 8B	8d 8g 8b	8dd 8gg 8bb
+.	.	24AA	.	.	.
+.	.	24GGJJ	.	.	.
+=93	=93	=93	=93	=93	=93
+4D	4V	24DDLL	8D 8F# 8A 8d	8f# 8a 8dd	8ff# 8aa 8ddd
+.	.	24FF#	.	.	.
+.	.	24EEJ	.	.	.
+.	.	24FF#L	8r	8r	8r
+.	.	24EE	.	.	.
+.	.	24DDJJ	.	.	.
+4D	4V7/V	24EELL	8E 8G 8A 8c#	8e 8g 8a 8cc#	8ee 8gg 8aa 8ccc#
+.	.	24GG	.	.	.
+.	.	24FF#J	.	.	.
+.	.	24GGL	8r	8r	8r
+.	.	24FF#	.	.	.
+.	.	24EEJJ	.	.	.
+=94	=94	=94	=94	=94	=94
+2D	2V	24FF#LL	4D 4F# 4A 4d	4f# 4a 4dd	4ff# 4aa 4ddd
+.	.	24AA	.	.	.
+.	.	24GGJ	.	.	.
+.	.	24FF#L	.	.	.
+.	.	24GG	.	.	.
+.	.	24EEJJ	.	.	.
+.	.	24DDLL	4r	4r	4r
+.	.	24FF#	.	.	.
+.	.	24AAJ	.	.	.
+.	.	24C#L	.	.	.
+.	.	24D	.	.	.
+.	.	24EJJ	.	.	.
+*-	*-	*-	*-	*-	*-

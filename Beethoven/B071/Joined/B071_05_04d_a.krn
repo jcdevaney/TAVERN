@@ -1,0 +1,51 @@
+!!!COM: Beethoven 
+!!!OTL: 12 Variationen uber einen russichen Tanz von P. Wranitzky
+!!!Variation: Variation 5 d
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#g#]	*k[f#c#g#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*A:	*A:	*A:	*A:
+4T	4I	(4AAA 4AA	(16ELL
+.	.	.	16A
+.	.	.	16c#
+.	.	.	16eJJ
+=119	=119	=119	=119
+4T	4V7b	4GGG# 4GG#	16ELL
+.	.	.	16B
+.	.	.	16e
+.	.	.	16dJJ
+4T	4V7d/IV	4GGG 4GG	16ALL
+.	.	.	16c#
+.	.	.	16f#
+.	.	.	16eJJ
+=120	=120	=120	=120
+4P	4IVb	4FFF#) 4FF#	16ALL
+.	.	.	16d
+.	.	.	16b
+.	.	.	16aJJ
+4P	4ivb	[4FFF [4FF	16ALL
+.	.	.	16d
+.	.	.	16b
+.	.	.	16aJJ
+=121	=121	=121	=121
+4P	4ivb	4FFF] 4FF]	16ALL
+.	.	.	16d
+.	.	.	16b
+.	.	.	16aJJ
+4P	4Lt	4FF	16BLL
+.	.	.	16d#
+.	.	.	16b
+.	.	.	16aJJ
+=122	=122	=122	=122
+4D	4Cc	4EE	16c#LL
+.	.	.	16e
+.	.	.	16b
+.	.	.	16aJJ
+4D	4V7	4EE	16BLL
+.	.	.	16d
+.	.	.	16a
+.	.	.	16g#JJ)
+=123	=123	=123	=123
+4T	4I	4AAA 4AA	4c# 4a
+*-	*-	*-	*-

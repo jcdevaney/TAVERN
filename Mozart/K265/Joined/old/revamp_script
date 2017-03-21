@@ -1,0 +1,17 @@
+#####script to change Nat's joined files so they are consistent with the format of the others.
+
+let num=0
+for file in K265*all.krn
+do
+cp $file temp
+extract -f 4 $file | ditto -s = > funspine
+
+if [ $num -lt 10 ]
+then
+extractx -s 4,3,1,2,5 temp | extract -f 2,3,4 > tempb; assemble funspine tempb > file0$num
+else
+extractx -s 4,3,1,2,5 temp | extract -f 2,3,4 > tempb; assemble funspine tempb > file$num
+fi
+
+let num=$num+1
+done

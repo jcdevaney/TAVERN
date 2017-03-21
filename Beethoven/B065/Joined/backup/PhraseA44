@@ -1,0 +1,65 @@
+!!!COM: Beethoven
+!!!OTL: 24 Variationen uber Venni Amore von V. Righini
+!!!Variation: Variation 19 a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#]	*k[f#c#]
+*M6/8	*M6/8	*M6/8	*M6/8
+*D:	*D:	*D:	*D:
+=345	=345	=345	=345
+2.T	2.I	4DD 4D	(8f#L 8ff#
+.	.	.	8g 8gg
+.	.	4r	8g#J 8gg#
+.	.	.	8aL) 8aa
+.	.	8r	8f#' 8ff#'
+.	.	8AAA 8AA	8e'J 8ee'
+=346	=346	=346	=346
+2.T	2.vi	(8BBBL 8BB	[4.d [4.dd
+.	.	8CC 8C	.
+.	.	8CC#J 8C#	.
+.	.	8DDL) 8D	4d] 4dd]
+.	.	8BBB' 8BB'	.
+.	.	8AAA'J 8AA'	([8dd [8ddd
+=347	=347	=347	=347
+2.T	2.IV	[4.GGG [4.GG	8ddL] 8ddd]
+.	.	.	8cc# 8ccc#
+.	.	.	8ddJ 8ddd
+.	.	4GGG] 4GG]	8eeL) 8eee
+.	.	.	8dd' 8ddd'
+.	.	([8GG [8G	8b'J 8bb'
+=348	=348	=348	=348
+4.T	4.Ib	8GGL] 8G]	[4.a [4.aa
+.	.	8FF# 8F#	.
+.	.	8GGJ 8G	.
+4.T	4.V7c	8AAL) 8A	4a] 4aa]
+.	.	8GG' 8G'	.
+.	.	8EE'J 8E'	([8a [8aa
+=349	=349	=349	=349
+2.T	2.I	[4.DD [4.D	8aL] 8aa]
+.	.	.	8g 8gg
+.	.	.	8f#J 8ff#
+.	.	4DD] 4D]	8eL) 8ee
+.	.	.	8d' 8dd'
+.	.	([8DD [8D	8f#'J 8ff#'
+=350	=350	=350	=350
+2.T	2.V7	8DDL] 8D]	[4.g [4.gg
+.	.	8CC# 8C#	.
+.	.	8BBBJ 8BB	.
+.	.	8AAAL) 8AA	4g] 4gg]
+.	.	8BBB' 8BB'	.
+.	.	8GGG'J 8GG'	8e 8ee
+=351	=351	=351	=351
+2.T	2.Ib	[4.FFF# [4.FF#	(8aL 8aa
+.	.	.	8b 8bb
+.	.	.	8cc#J 8ccc#
+.	.	4FFF#] 4FF#]	8ddL) 8ddd
+.	.	.	8ee' 8eee'
+.	.	8GGG# 8GG#	8dd'J 8ddd'
+=352	=352	=352	=352
+2.D	2.V	(8AAAL 8AA	(8cc#L 8ccc#
+.	.	8BBB 8BB	8b 8bb
+.	.	8CC#J 8C#	8aJ) 8aa
+.	.	8DDL) 8D	4r
+.	.	8EE' 8E'	.
+.	.	8CC#'J 8C#'	([8A [8a
+*-	*-	*-	*-

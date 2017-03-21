@@ -1,0 +1,174 @@
+!!!COM: Beethoven
+!!!OTL: Six Variations on an Original Theme
+!!!Variation: Variation 6 d2
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*M2/4	*M2/4	*M2/4	*M2/4
+*F:	*F:	*F:	*F:
+4.D	4.V7	16F 16A	8.r
+.	.	16G 16B-	.
+.	.	16G#JJ) 16B	.
+=196	=196	=196	=196
+*	*	*^	*
+4T	4I	4A 4c	2F	8cc
+.	.	.	.	4.ff
+8T	8IVc	8B-L 8d	.	.
+8T	8I	8AJ 8c	.	.
+*	*	*v	*v	*
+=197	=197	=197	=197
+4T	4viioD7	4F 4G 4B- 4d- 4e	4bb-
+8T	8I	16F'LL 16A' 16c' 16f'	112aaLLLLL
+.	.	.	112ccc
+.	.	.	112bb-
+.	.	.	112aa
+.	.	.	112bb-
+.	.	.	112ccc
+.	.	.	112ddd
+.	.	(16FF	(96fffLLL
+.	.	.	96eee
+.	.	.	96fffJJJ
+.	.	.	96eeeLLL
+.	.	.	96fff
+.	.	.	96eeeJJJ)
+16T	16vi	16DD	(96fffLLL
+.	.	.	96eee
+.	.	.	96fffJJJ
+.	.	.	96eeeLLL
+.	.	.	96fff
+.	.	.	96eeeJJJ)
+16P	16viio/V	16BBBJJ)	(96fffLLL
+.	.	.	96eee
+.	.	.	96fffJJJ
+.	.	.	96eeeLLL
+.	.	.	96fff
+.	.	.	96eeeJJJJ)
+=198	=198	=198	=198
+4.D	4.Cc	16CC'L	[4fff;
+.	.	8.C;J 8.F; 8.A;	.
+.	.	.	q32fff]
+.	.	.	q32eee
+.	.	.	q32ddd
+.	.	.	q32ccc
+.	.	.	q32bb
+.	.	.	q32ddd
+.	.	.	q32ccc
+.	.	.	q32bb-
+.	.	.	q32aa
+.	.	.	q32gg
+.	.	.	q32bb-
+.	.	.	q32aa
+.	.	.	q32gg
+.	.	.	q32ff
+.	.	.	q32ee
+.	.	.	q32gg
+.	.	.	q32ff
+.	.	.	q32ee
+.	.	.	q32dd
+.	.	.	q32cc
+.	.	.	q32b
+.	.	.	q32dd
+.	.	.	q32cc
+.	.	.	q32b-
+.	.	.	q32a
+.	.	.	q32g
+.	.	.	q32b-
+.	.	.	q32a
+.	.	.	q32g
+.	.	.	q32f
+.	.	.	q32e
+.	.	.	q32g
+.	.	.	q32f
+.	.	.	q32e
+.	.	.	q32d
+.	.	.	q32c
+.	.	.	q32B
+.	.	.	q32d
+.	.	.	q32c
+.	.	.	q32B-
+.	.	.	q32A
+.	.	.	q32G
+.	.	.	q32B-
+.	.	.	q32A
+.	.	.	q32G
+.	.	.	q32F
+.	.	.	q32E
+.	.	.	q32G
+.	.	.	q32F
+.	.	.	q32E
+.	.	.	q32D
+.	.	.	q32C
+.	.	.	q32BB
+.	.	.	q32D
+.	.	.	q32C
+.	.	.	q32BB
+.	.	.	q32C
+.	.	.	q32D
+.	.	.	q32E
+.	.	.	q32F
+.	.	.	q32G
+.	.	.	q32A
+.	.	.	q32B-
+.	.	.	q32c
+.	.	.	q32d
+.	.	.	q32e
+.	.	.	q32f
+.	.	.	q32g
+.	.	.	q32a
+.	.	.	q32b-
+.	.	.	q32cc
+.	.	.	q32dd
+.	.	.	q32ee
+.	.	.	q32ff
+.	.	.	q32gg
+.	.	.	q32aa
+.	.	8r	16bb-
+.	.	.	16r
+8D	8V7	16CC' 16C'	16G' 16B-' 16c' 16e'
+.	.	16r	16r
+=199	=199	=199	=199
+2T	2I	8FFF' 8FF'	8A' 8c' 8f'
+.	.	16r	16r
+*	*	*clefG2	*
+.	.	16a 16cc	16ff 16ccc
+.	.	(8aL 8cc	(8ffL 8ccc
+.	.	16b-L 16dd	16ffL 16ddd
+.	.	16aJJ 16cc	16ffJJ 16ccc
+=200	=200	=200	=200
+8T	8V7c	8gL 8b- 8cc	8bb-L 8eee
+8T	8I	16fJk) 16a 16cc	16aa'Jk) 16fff'
+.	.	16r	32.r
+.	.	.	64fff
+8T	8Cc	16c' 16f' 16a'	(32.fffLLL
+.	.	.	64cccJk)
+.	.	16r	([16aaJJ
+8T	8V7	16c' 16e' 16b-'	16aaLL]
+.	.	16r	32.bb-L
+.	.	.	64ggJJJk)
+=201	=201	=201	=201
+4T	4I	8f 8a	8ff
+.	.	8r	16r
+.	.	.	32.r
+.	.	.	64ff
+*	*	*clefF4	*
+8T	8Cc	16C 16F 16A	(32.ffLLL
+.	.	.	64ccJk)
+.	.	16r	[16aJJ
+8T	8V7	16C 16E 16B-	32aLLL]
+.	.	.	(64b-L
+.	.	.	64aJJJ
+.	.	16r	80cc
+.	.	.	80b-
+.	.	.	80a
+.	.	.	80b-
+.	.	.	80g
+=202	=202	=202	=202
+2T	2I	16F' 16A'	16f')
+.	.	16r	16r
+.	.	16FFF' 16FF'	16f'
+.	.	16r	16r
+.	.	16FFF' 16FF'	16f'
+.	.	16r	16r
+.	.	8r	8r
+==	==	==	==
+*-	*-	*-	*-

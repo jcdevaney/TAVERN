@@ -1,0 +1,158 @@
+**kern	**kern	**kern
+*staff3	*staff2	*staff1
+*tb32	*tb32	*tb32
+*clefF4	*clefF4	*clefG2
+*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+*M2/4	*M2/4	*M2/4
+*A:	*A:	*A:
+8G#J 8B	8r	8bJ
+=453	=453	=453
+4A	1r	(8b#L
+.	.	8cc#
+8r	.	8ff#
+8A	.	8eeJ)
+4B	.	(8eeL
+.	.	8dd#
+8r	.	8gg#
+*clefG2	*	*
+8B 8a	.	8ff#J)
+=454	=454	=454
+4e 4g#	1r	(8ff#L
+.	.	8ee)
+4r	.	(8aa#
+.	.	8bbJ)
+2r	.	(8aa#L
+.	.	8bb)
+.	.	(8aa#
+.	.	8bbJ)
+=455	=455	=455
+4A	1r	(16b#LL
+.	.	16cc#
+.	.	16dd#
+.	.	16cc#JJ
+8r	.	8ff#L
+8A	.	8eeJ)
+4B	.	16r
+.	.	(16dd#LL
+.	.	16cc##
+.	.	16dd#JJ)
+8r	.	(8gg#L
+8B 8a	.	8ff#J)
+=456	=456	=456
+4e 4g#	1r	16r
+.	.	(16eeLL
+.	.	16dd#
+.	.	16eeJJ)
+4r	.	(8aa#L
+.	.	8bbJ)
+2r	.	(8aa#L
+.	.	8bb)
+.	.	(8aa#
+.	.	8bbJ)
+=457	=457	=457
+4A	1r	16b#LL
+.	.	16cc#
+.	.	16dd#
+.	.	16cc#JJ
+8r	.	16ff#LL
+.	.	16ee
+8A	.	16ff#
+.	.	16eeJJ
+4B	.	16r
+.	.	16dd#LL
+.	.	16cc##
+.	.	16dd#JJ
+8r	.	16gg#LL
+.	.	16ff#
+8B 8a	.	16gg#
+.	.	16ff#JJ
+=458	=458	=458
+4e 4g#	1r	16r
+.	.	16eeLL
+.	.	16dd#
+.	.	16eeJJ
+4r	.	16aa#LL
+.	.	16bb
+.	.	16aa#
+.	.	16bbJJ
+2r	.	16aa#LL
+.	.	16bb
+.	.	16aa#
+.	.	16bbJJ
+.	.	16aa#LL
+.	.	16bb
+.	.	16aa#
+.	.	16bbJJ
+=459	=459	=459
+8AL	1r	16b#LL
+.	.	16cc#
+8a	.	16dd#
+.	.	16cc#JJ
+8a	.	16ff#LL
+.	.	16ee
+8aJ	.	16ff#
+.	.	16eeJJ
+8aL 8b	.	16r
+.	.	16dd#LL
+8a 8b	.	16cc##
+.	.	16dd#JJ
+8a 8b	.	16gg#LL
+.	.	16ff#
+8aJ 8b	.	16gg#
+.	.	16ff#JJ
+=460	=460	=460
+8g#L 8b	1r	16r
+.	.	16eeLL
+8g# 8b	.	16dd#
+.	.	16eeJJ
+8g# 8b	.	16aaLL
+.	.	16gg#
+8g#J 8b	.	16aa
+.	.	16gg#JJ
+8d#L 8b	.	16r
+.	.	16ff#LL
+8d# 8b	.	16ee#
+.	.	16ff#JJ
+8d# 8b	.	16bbLL
+.	.	16aa
+8d#J 8b	.	16bb
+.	.	16aaJJ
+=461	=461	=461
+8eL 8b	1r	16gg#LL
+.	.	16aa
+8e 8b	.	16gg#
+.	.	16ff#JJ
+8e 8b	.	16gg#LL
+.	.	16bb
+8eJ 8b	.	16gg#
+.	.	16eeJJ
+8BL 8a	.	16dd#LL
+.	.	16ee
+8B 8a	.	16dd#
+.	.	16cc#JJ
+8B 8a	.	16dd#LL
+.	.	16ff#
+8BJ 8a	.	16dd#
+.	.	16bJJ
+=462	=462	=462
+1r;	1r;	1r;
+*	*	*clefF4
+=463	=463	=463
+1r	1r	(4.EE
+.	.	8FF#
+.	.	8GG#L
+.	.	8AA
+.	.	8BB
+.	.	8C#J
+=464	=464	=464
+1r	1r	8D#L
+.	.	8E
+.	.	8F#
+.	.	8G#J
+*	*	*clefG2
+.	.	8A#L
+.	.	8B
+.	.	8c#
+.	.	8d#J)
+=465	=465	=465
+*-	*-	*-

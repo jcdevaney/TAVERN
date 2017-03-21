@@ -1,0 +1,164 @@
+!!!COM: Beethoven
+!!!OTL: 24 Variationen uber Venni Amore von V. Righini
+!!!Variation: Variation 24 c
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#]	*k[f#c#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*D:	*D:	*D:	*D:
+=457	=457	=457	=457
+*	*	*^	*
+2T	2IVc	8DDL	8GG'	(8ddL
+.	.	8DD	8r	8bb'J) 8ddd'
+.	.	8DD	8BB'	(8bbL 8ddd
+.	.	8DDJ	8r	8gg'J) 8bb'
+=458	=458	=458	=458	=458
+2T	2I	8DDL	8D'	(8ggL 8bb
+.	.	8DD	8r	8ff#'J) 8aa'
+.	.	8DD	4r	4r
+.	.	8DDJ	.	.
+=459	=459	=459	=459	=459
+2T	2IVc	8DDL	8GG'	(8dL
+.	.	8DD	8r	8b'J) 8dd'
+.	.	8DD	8BB'	(8bL 8dd
+.	.	8DDJ	8r	8g'J) 8b'
+=460	=460	=460	=460	=460
+2T	2I	8DDL	8D'	(8gL 8b
+.	.	8DD	8r	8f#'J) 8a'
+.	.	8DD	4r	4r
+.	.	8DDJ	.	.
+*	*	*v	*v	*
+=461	=461	=461	=461
+2T	2V7b	2CC# 2GG 2AA	16ALL
+.	.	.	16B
+.	.	.	16c#
+.	.	.	16BJJ
+.	.	.	16ALL
+.	.	.	16B
+.	.	.	16c#
+.	.	.	16AJJ
+=462	=462	=462	=462
+2T	2I	4DD 4FF# 4AA	16dLL
+.	.	.	16e
+.	.	.	16f#
+.	.	.	16gJJ
+.	.	4r	16aLL
+.	.	.	16b
+.	.	.	16cc#
+.	.	.	16ddJJ
+=463	=463	=463	=463
+4P	4iib	8GG' 8E'	16eeLL
+.	.	.	16gg
+.	.	8r	16ee
+.	.	.	16bJJ
+4D	4V7	8AA' 8G'	16aLL
+.	.	.	16ee
+.	.	8r	16cc#
+.	.	.	16aJJ
+=464	=464	=464	=464
+2T	2I	8D'L 8F#'	4dd'
+.	.	8D	.
+.	.	8D	4r
+.	.	8DJ	.
+=465	=465	=465	=465
+*	*	*^	*
+2T	2IVc	8DL	8G'	(8ddL
+.	.	8D	8r	8bb'J) 8ddd'
+.	.	8D	8B'	(8bbL 8ddd
+.	.	8DJ	8r	8gg'J) 8bb'
+=466	=466	=466	=466	=466
+2T	2I	8DL	8d'	(8ggL 8bb
+.	.	8D	8r	8ff#'J) 8aa'
+.	.	8D	4r	4r
+.	.	8DJ	.	.
+=467	=467	=467	=467	=467
+2T	2IVc	8DL	8G'	(8dL
+.	.	8D	8r	8b'J) 8dd'
+.	.	8D	8B'	(8bL 8dd
+.	.	8DJ	8r	8g'J) 8b'
+=468	=468	=468	=468	=468
+2T	2I	8DL	8d'	(8gL 8b
+.	.	8D	8r	8f#'J) 8a'
+.	.	8D	4r	4r
+.	.	8DJ	.	.
+*	*	*v	*v	*
+=469	=469	=469	=469
+2T	2V7b	(2C# 2G	16ALL
+.	.	.	16B
+.	.	.	16c#
+.	.	.	16BJJ
+.	.	.	16ALL
+.	.	.	16B
+.	.	.	16c#
+.	.	.	16AJJ
+=470	=470	=470	=470
+2T	2I	4D) 4F#	16dLL
+.	.	.	16e
+.	.	.	16f#
+.	.	.	16gJJ
+.	.	4r	16aLL
+.	.	.	16b
+.	.	.	16cc#
+.	.	.	16ddJJ
+*	*	*clefG2	*
+=471	=471	=471	=471
+2T	2V7	(2A 2c# 2g	16eeLL
+.	.	.	16dd
+.	.	.	16cc#
+.	.	.	16bJJ
+.	.	.	16aLL
+.	.	.	16b
+.	.	.	16cc#
+.	.	.	16aJJ
+=472	=472	=472	=472
+2T	2I	4d) 4f#	16ddLL
+.	.	.	16ee
+.	.	.	16ff#
+.	.	.	16ggJJ
+.	.	4r	16aaLL
+.	.	.	16bb
+.	.	.	16ccc#
+.	.	.	16dddJJ
+*	*	*clefF4	*
+=473	=473	=473	=473
+2T	2V7b	(2C# 2G 2A	16eeeLL
+.	.	.	16ddd
+.	.	.	16ccc#
+.	.	.	16bbJJ
+.	.	.	16aaLL
+.	.	.	16bb
+.	.	.	16ccc#
+.	.	.	16aaJJ
+=474	=474	=474	=474
+2T	2I	4D) 4F#	16dddLL
+.	.	.	16ccc#
+.	.	.	16bb
+.	.	.	16aaJJ
+.	.	4r	16ggLL
+.	.	.	16ff#
+.	.	.	16ee
+.	.	.	16ddJJ
+=475	=475	=475	=475
+4P	4iib	8GG' 8E'	16bLL
+.	.	.	16gg
+.	.	8r	16ee
+.	.	.	16bJJ
+4D	4V	8AA' 8A'	16aLL
+.	.	.	16ee
+.	.	8r	16cc#
+.	.	.	16aJJ
+=476	=476	=476	=476
+2T	2I	4DD' 4D'	4dd'
+.	.	4r	4r
+=477	=477	=477	=477
+2T	2r	2r	2r
+=478	=478	=478	=478
+2T	2r	2r	2r
+=479	=479	=479	=479
+2T	2I	2r	4ddd
+.	.	.	4r
+=480	=480	=480	=480
+2T	2r	2r	2r
+=481	=481	=481	=481
+2T	2r	2r	2r
+*-	*-	*-	*-

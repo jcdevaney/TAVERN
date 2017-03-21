@@ -1,0 +1,67 @@
+!!!COM: Beethoven
+!!!OTL: 24 Variationen uber Venni Amore von V. Righini
+!!!Variation: Variation 20 b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#]	*k[f#c#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*D:	*D:	*D:	*D:
+=369	=369	=369	=369
+2D	2V7	2r	8ee' 8gg'
+.	.	.	8r
+.	.	.	8a' 8ee'
+.	.	.	8r
+=370	=370	=370	=370
+2D	2Ic	24r	8dd' 8ff#'
+.	.	24dLL	.
+.	.	24c#J	.
+.	.	24cL	8r
+.	.	24B	.
+.	.	24B-JJ	.
+.	.	8A	4r
+.	.	8r	.
+=371	=371	=371	=371
+2D	2V7	2r	8e' 8g'
+.	.	.	8r
+.	.	.	8A' 8e'
+.	.	.	8r
+=372	=372	=372	=372
+2D	2Ic	24r	8f#' 8a'
+.	.	24AALL	.
+.	.	24BB-J	.
+.	.	24BBL	8r
+.	.	24C	.
+.	.	24C#JJ	.
+.	.	8D	4r
+.	.	8r	.
+*	*	*	*clefF4
+=373	=373	=373	=373
+2D	2V7	2r	8E' 8G'
+.	.	.	8r
+.	.	.	8AA' 8E'
+.	.	.	8r
+=374	=374	=374	=374
+2D	2Cc	24r	8D' 8F#'
+.	.	24DDLL	.
+.	.	24CC#J	.
+.	.	24CCL	8r
+.	.	24BBB	.
+.	.	24BBB-JJ	.
+.	.	8AAA	4r
+.	.	8r	.
+=375	=375	=375	=375
+2D	2V7	8EE' 8GG'	2r
+.	.	8r	.
+.	.	8AAA' 8EE'	.
+.	.	8r	.
+*	*	*	*clefG2
+=376	=376	=376	=376
+2T	2I	8DD' 8FF#'	24r
+.	.	.	24aaLL
+.	.	.	24bb-J
+.	.	8r	24bbL
+.	.	.	24ccc
+.	.	.	24ccc#JJ
+.	.	4r	8ddd
+.	.	.	8r
+*-	*-	*-	*-

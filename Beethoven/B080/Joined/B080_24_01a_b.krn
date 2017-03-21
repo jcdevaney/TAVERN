@@ -1,0 +1,107 @@
+!!!COM: Beethoven
+!!!OTL: 32 Variationen fur das pianoforte
+!!!Variation: Variation 24 a
+**function	**harm	**kern	**kern
+*	*	*clefG2	*clefG2
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*M3/4	*M3/4	*M3/4	*M3/4
+*c:	*c:	*c:	*c:
+=193	=193	=193	=193
+2.T	2.i	4r	12e-'L
+.	.	.	12g'
+.	.	.	12b'J
+.	.	12cL 12e- 12g	12cc'L
+.	.	12c 12e- 12g	12cc'
+.	.	12cJ 12e- 12g	12cc'J
+.	.	8c 8e- 8g	12cc'L
+.	.	.	12dd'
+.	.	8r	.
+.	.	.	12ee-'J
+=194	=194	=194	=194
+2.T	2.Vb	4r	12ddL
+.	.	.	12b
+.	.	.	12gJ
+.	.	12BL 12d	12gL
+.	.	12B 12d	12g
+.	.	12BJ 12d	12gJ
+.	.	.	qa-
+.	.	8B 8d	12gL
+.	.	.	12f#
+.	.	8r	.
+.	.	.	12gJ
+=195	=195	=195	=195
+2.T	2.viioD7b/IV	4r	12gL
+.	.	.	12b-
+.	.	.	12dd-J
+.	.	12gL 12b- 12dd-	12eeL
+.	.	12g 12b- 12dd-	12ee
+.	.	12gJ 12b- 12dd-	12eeJ
+.	.	8g 8b- 8dd-	12eeL
+.	.	.	12ff
+.	.	8r	.
+.	.	.	12ggJ
+=196	=196	=196	=196
+2.P	2.IVb	4r	12ffL
+.	.	.	12aa
+.	.	.	12cccJ
+.	.	12aL 12cc 12ff	12cccL
+.	.	12a 12cc 12ff	12ccc
+.	.	12aJ 12cc 12ff	12cccJ
+.	.	.	qddd
+.	.	8a 8cc 8ff	12cccL
+.	.	.	12bb
+.	.	8r	.
+.	.	.	12cccJ
+=197	=197	=197	=197
+2.P	2.viioD7c/V	4r	12ff#L
+.	.	.	12aa
+.	.	.	12cccJ
+.	.	12ccL 12ff# 12aa	12eee-L
+.	.	12cc 12ff# 12aa	12eee-
+.	.	12ccJ 12ff# 12aa	12eee-J
+.	.	.	qfff
+.	.	8cc 8ff# 8aa	12eee-L
+.	.	.	12ddd
+.	.	8r	.
+.	.	.	12eee-J
+=198	=198	=198	=198
+2.D	2.viioD7	4r	12bbL
+.	.	.	12ddd
+.	.	.	12fffJ
+.	.	.	qbbb-
+.	.	8b 8dd 8ff 8aa-	12aaa-L
+.	.	.	12ggg
+.	.	8r	.
+.	.	.	12fffJ
+.	.	.	qggg
+.	.	4r	12fffL
+.	.	.	12eee-
+.	.	.	12dddJ
+=199	=199	=199	=199
+.	.	.	qbb-
+2.D	2.viioD7	2.r	12aa-L
+.	.	.	12gg
+.	.	.	12ffJ
+.	.	.	qgg
+.	.	.	12ffL
+.	.	.	12ee-
+.	.	.	12ddJ
+.	.	.	qa-
+.	.	.	12gL
+.	.	.	12f
+.	.	.	12e-J
+=200	=200	=200	=200
+*	*	*clefF4	*
+.	.	.	qf
+2.T	2.i	4r	12e-L
+.	.	.	12d
+.	.	.	12cJ
+.	.	qF	.
+.	.	12E-L	4r
+.	.	12D	.
+.	.	12CJ	.
+.	.	qFF	.
+.	.	12EE-L	4r
+.	.	12DD	.
+.	.	12CCJ	.
+*-	*-	*-	*-

@@ -1,0 +1,117 @@
+!!!COM: Mozart
+!!!OTL: Zwolf Variationen in Eb uber das franzosische Lied 'La belle Francoise'
+!!!Variation: Variation 12 b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*M2/4	*M2/4	*M2/4	*M2/4
+*E-:	*E-:	*E-:	*E-:
+=153	=153	=153	=153
+2D	2Ib/V	4r	16fLL
+.	.	.	16d
+.	.	.	16c
+.	.	.	16B-JJ
+.	.	4DD 4FF 4BB-	16ALL
+.	.	.	16B-
+.	.	.	16A
+.	.	.	16B-JJ
+=154	=154	=154	=154
+2D	2iib/V	4r	16gLL
+.	.	.	16e-
+.	.	.	16d
+.	.	.	16cJJ
+.	.	4EE- 4GG 4C	16BLL
+.	.	.	16c
+.	.	.	16B
+.	.	.	16cJJ
+=155	=155	=155	=155
+2D	2V7d/V	4r	16ccLL
+.	.	.	16a
+.	.	.	16g
+.	.	.	16fJJ
+.	.	4E- 4A 4c	16eLL
+.	.	.	16f
+.	.	.	16e
+.	.	.	16fJJ
+=156	=156	=156	=156
+8D	8Ib/V	8DL 8B-	16b-LL
+.	.	.	16f
+8D	8V7d/V	8E-J	16a 16cc
+.	.	.	16fJJ
+8D	8Ib/V	8DL	16b-LL 16dd
+.	.	.	16f
+8D	8V7c/V	8CJ	16cc 16ee-
+.	.	.	16fJJ
+=157	=157	=157	=157
+2D	2Ib/V	4r	16ffLL
+.	.	.	16dd
+.	.	.	16cc
+.	.	.	16b-JJ
+.	.	4D 4F 4B-	16aLL
+.	.	.	16b-
+.	.	.	16a
+.	.	.	16b-JJ
+=158	=158	=158	=158
+2T	2iib/V	4r	16ggLL
+.	.	.	16ee-
+.	.	.	16dd
+.	.	.	16ccJJ
+.	.	4E- 4G 4c	16bLL
+.	.	.	16cc
+.	.	.	16b
+.	.	.	16ccJJ
+=159	=159	=159	=159
+2T	2V7/V	4r	16eee-LL
+.	.	.	16ddd
+.	.	.	16ccc
+.	.	.	16bb-JJ
+.	.	4F 4c 4e-	16aaLL
+.	.	.	16bb-
+.	.	.	16ccc
+.	.	.	16aaJJ
+=160	=160	=160	=160
+8D	8I/V	8dL 8B-L	16bb-LL
+.	.	.	16ddd
+8D	8V7/V	8e-J 8FJ	16ccc
+.	.	.	16aaJJ
+8D	8I/V	8dL 8B-L	16bb-LL
+.	.	.	16ddd
+8D	8V7/V	8e-J 8FJ	16ccc
+.	.	.	16aaJJ
+=161	=161	=161	=161
+8D	8I/V	8dL 8B-L	16bb-LL
+.	.	.	16ddd
+8D	8V7/V	8e-J 8FJ	16ccc
+.	.	.	16aaJJ
+8D	8I/V	8dL 8B-L	16bb-LL
+.	.	.	16ddd
+8D	8V7/V	8e-J 8FJ	16ccc
+.	.	.	16aaJJ
+=162	=162	=162	=162
+*	*	*^	*
+2D	2I/V	4d	2B-	8bb-L
+.	.	.	.	8bbJ
+.	.	8e-L	.	8cccL
+.	.	8eJ	.	8ggJ
+=163	=163	=163	=163	=163
+2D	2V7	(8fL	2B-	16aa-LL
+.	.	.	.	16bb-
+.	.	8eJ	.	16gg
+.	.	.	.	16bb-JJ
+.	.	8fL	.	16aa-LL
+.	.	.	.	16bb-
+.	.	8eJ	.	16gg
+.	.	.	.	16bb-JJ
+=164	=164	=164	=164	=164
+2D	2V7	8fL	2B-	16aa-LL
+.	.	.	.	16bb-
+.	.	8eJ	.	16gg
+.	.	.	.	16bb-JJ
+.	.	8fL	.	16aa-LL
+.	.	.	.	16bb-
+.	.	8eJ	.	16gg
+.	.	.	.	16bb-JJ
+=165	=165	=165	=165	=165
+2D	2V7	2f;)	2B-;	2aa-;
+*	*	*v	*v	*
+*-	*-	*-	*-

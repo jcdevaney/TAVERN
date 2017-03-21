@@ -1,0 +1,150 @@
+!!!COM: Beethoven
+!!!OTL: 7 Variations on a Quartet by Winter
+!!!Variation: Variation 7 b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*M2/4	*M2/4	*M2/4	*M2/4
+*F:	*F:	*F:	*F:
+4T	4I	4r	(16bLL
+.	.	.	16cc)
+.	.	.	(16b
+.	.	.	16ccJJ)
+=352	=352	=352	=352
+2.T	2.I	8FF'L	([4a
+.	.	8F'J	.
+.	.	8FF'L	16aLL]
+.	.	.	16f
+.	.	8F'J	16e
+.	.	.	16fJJ
+.	.	8FF'L	16gLL
+.	.	.	16a
+.	.	8E-'J 8F'	16b-
+.	.	.	16ccJJ)
+=353	=353	=353	=353
+4T	4viiob/V	8FF'L	(16ccLL
+.	.	.	16b
+.	.	8D'J 8F'	16dd
+.	.	.	16ccJJ)
+4T	4V7b	8FF'L	(16ccLL
+.	.	.	16b-
+.	.	8E'J 8G'	16dd
+.	.	.	16b-JJ)
+4T	4I	8FF'L	(16b-LL
+.	.	.	16a
+.	.	8F'J 8A'	16cc
+.	.	.	16aJJ)
+=354	=354	=354	=354
+4T	4ii7c	8D'L	(16aLL
+.	.	.	16g
+.	.	8F'J 8B-'	16b-
+.	.	.	16gJJ)
+2T	2viiob	8D'L	(16gLL
+.	.	.	16f
+.	.	8F'J 8B'	16a
+.	.	.	16fJJ)
+.	.	8D'L	(16eLL
+.	.	.	16f
+.	.	8F'J 8B'	16e
+.	.	.	16fJJ)
+=355	=355	=355	=355
+4T	4Cc	8C'L	(4a
+.	.	8F'J 8c'	.
+4T	4V	8C'L	8g)
+.	.	8E'J 8c'	8r
+4T	4V7	8C'L	(16bLL
+.	.	.	16cc)
+.	.	8E'J 8B-'	(16b
+.	.	.	16ccJJ)
+=356	=356	=356	=356
+2.T	2.I	8FF'L	([4a
+.	.	8F'J 8A'	.
+.	.	8FF'L	16aLL]
+.	.	.	16f
+.	.	8F'J 8A'	16e
+.	.	.	16fJJ
+.	.	8FF'L	16gLL
+.	.	.	16a
+.	.	8E-'J 8F'	16b-
+.	.	.	16ccJJ)
+=357	=357	=357	=357
+4T	4viiob/V	8FF'L	(16ccLL
+.	.	.	16b
+.	.	8D'J 8F'	16dd
+.	.	.	16ccJJ)
+4T	4V7b	8FF'L	(16ccLL
+.	.	.	16b-
+.	.	8E'J 8G'	16dd
+.	.	.	16b-JJ)
+4T	4I	8FF'L	(16b-LL
+.	.	.	16a
+.	.	8F'J 8A'	16cc
+.	.	.	16aJJ)
+=358	=358	=358	=358
+2D	2Cc/V	8G'L	(16aLL
+.	.	.	16g
+.	.	8c'J 8e'	16f#
+.	.	.	16gJJ
+.	.	8G'L	16aLL
+.	.	.	16g
+.	.	8c'J 8e'	16f#
+.	.	.	16gJJ
+4D	4V7/V	8G'L	16g#LL
+.	.	.	16a
+.	.	8d'J 8f'	16b-
+.	.	.	16bJJ)
+=359	=359	=359	=359
+2.D	2.V	8C'L	(16ccLL
+.	.	.	16b
+.	.	8c'J 8e'	16dd
+.	.	.	16ccJJ
+.	.	8C'L	16eeLL
+.	.	.	16dd
+.	.	8G'J 8c'	16ff
+.	.	.	16eeJJ
+.	.	8C'L	16ggLL
+.	.	.	16ff#
+.	.	8E'J 8G'	16aa
+.	.	.	16ggJJ
+=360	=360	=360	=360
+2D	2Cc/V	8GG'L	16ffLL
+.	.	.	16ee
+.	.	8E'J 8G'	16dd
+.	.	.	16ccJJ
+.	.	8GG'L	16bLL
+.	.	.	16cc
+.	.	8E'J 8G'	16dd
+.	.	.	16ccJJ
+4D	4V7/V	8GG'L	16bLL
+.	.	.	16ff
+.	.	8D'J 8F'	16dd
+.	.	.	16bJJ)
+=361	=361	=361	=361
+2.D	2.V	8C'L	(16ccLL
+.	.	.	16b
+.	.	8c'J 8e'	16dd
+.	.	.	16ccJJ
+.	.	8C'L	16eeLL
+.	.	.	16dd
+.	.	8G'J 8c'	16ff
+.	.	.	16eeJJ
+.	.	8C'L	16ggLL
+.	.	.	16ff#
+.	.	8E'J 8G'	16aa
+.	.	.	16ggJJ
+=362	=362	=362	=362
+2D	2Cc/V	8GG'L	16ffLL
+.	.	.	16ee
+.	.	8E'J 8G'	16dd
+.	.	.	16ccJJ
+.	.	8GG'L	16bLL
+.	.	.	16cc
+.	.	8E'J 8G'	16dd
+.	.	.	16ccJJ
+4D	4V/V	8GG'L	16bLL
+.	.	.	16ff
+.	.	8D'J 8F' 8B'	16dd
+.	.	.	16bJJ)
+=363	=363	=363	=363
+2D	2V	2C; 2E; 2G; 2c;	2cc;
+*-	*-	*-	*-

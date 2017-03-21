@@ -1,0 +1,116 @@
+!!!COM: Mozart
+!!!OTL: Sechs Variationen in F uber die Arie 'Salve tu, Domine' aus der Oper 'I filosofi immaginarii' 
+!!!Variation: Variation 4 c
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-a-d-]	*k[b-e-a-d-]
+*M3/4	*M3/4	*M3/4	*M3/4
+*f:	*f:	*f:	*f:
+=107	=107	=107	=107
+2.T	2.-III	8AA-L	8ee-
+.	.	8A-J	4cc 4ee-
+.	.	8A-L	.
+.	.	8A-J	4cc 4ee-
+.	.	8A-L	.
+.	.	8A-J	[8dd- [8ff
+=108	=108	=108	=108
+2.T	2.-III	8A-L	8dd-] 8ff]
+.	.	8A-J	4cc 4ee-
+.	.	8A-L	.
+.	.	8A-J	4b- 4dd-
+.	.	8A-L	.
+.	.	8A-J	8a- 8cc
+=109	=109	=109	=109
+2.T	2.-III	8AA-L	8e- 8cc
+.	.	8A-J	4e- 4cc
+.	.	8A-L	.
+.	.	8A-J	4e- 4cc
+.	.	8A-L	.
+.	.	8A-J	[8f [8dd-
+=110	=110	=110	=110
+2.T	2.-III	8A-L	8f] 8dd-]
+.	.	8A-J	4e- 4cc
+.	.	8A-L	.
+.	.	8A-J	4d- 4b-
+.	.	8A-L	.
+.	.	8A-J	8c 8a-
+=111	=111	=111	=111
+2.P	2.V7m9/iv	8FFL	8e- 8g- 8a
+.	.	8FJ	4e- 4g- 4a
+.	.	8FL	.
+.	.	8FJ	4d- 4f 4a
+.	.	8FL	.
+.	.	8FJ	8c 8e- 8a
+=112	=112	=112	=112
+2.P	2.iv	4B- 4d-	16b-LL
+.	.	.	16f
+.	.	.	16g
+.	.	.	16aJJ
+.	.	4r	16b-LL
+.	.	.	16cc
+.	.	.	16dd-
+.	.	.	16ee-JJ
+.	.	4r	16ffLL
+.	.	.	16ee
+.	.	.	16ff
+.	.	.	16dd-JJ
+=113	=113	=113	=113
+2.P	2.V7m9/V	8GGL	8f 8a- 8b
+.	.	8GJ	4f 4a- 4b
+.	.	8GL	.
+.	.	8GJ	4e 4g 4b
+.	.	8GL	.
+.	.	8GJ	8d 8f 8b
+=114	=114	=114	=114
+2.D	2.V	4c 4e	16ccLL
+.	.	.	16g
+.	.	.	16a
+.	.	.	16bJJ
+.	.	4r	16ccLL
+.	.	.	16dd
+.	.	.	16ee
+.	.	.	16ffJJ
+.	.	4r	16ggLL
+.	.	.	16ee
+.	.	.	16dd
+.	.	.	16ccJJ
+*	*	*clefG2	*
+=115	=115	=115	=115
+*M9/4	*M9/4	*M9/4	*M9/4
+!adagio	!adagio	!	!
+!written in 4/4 but with too many notes	!	!	!
+1P	1Gn	1d- 1f	4b
+.	.	.	4.aa-
+.	.	.	(16gg
+.	.	.	16ff)
+.	.	.	(16ee-
+.	.	.	16dd-L)
+.	.	.	(16cc
+.	.	.	16bnJ)
+1D	1V	1c 1e	1cc
+.	.	.	q8.cc
+.	.	.	q16ee
+.	.	.	q16dd
+.	.	.	q16ff
+.	.	.	q16ee
+.	.	.	q16gg
+.	.	.	q16ff
+.	.	.	q16aa
+.	.	.	q16gg
+.	.	.	q16bb-
+.	.	.	q16aa
+.	.	.	q16ccc
+4D	4V7	4c; 4e; 4g; 4b-;	4bb-;
+.	.	.	q32ccc
+.	.	.	q32ddd
+.	.	.	q8ccc
+.	.	.	q16bb-
+.	.	.	q16r
+.	.	.	q8aa
+.	.	.	q16gg
+.	.	.	q16r
+.	.	.	q8.ff;
+.	.	.	q16ee
+.	.	.	q8.bb-
+.	.	.	q16ee
+*-	*-	*-	*-

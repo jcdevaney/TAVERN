@@ -1,0 +1,43 @@
+!!!COM: Mozart
+!!!OTL: 12 Variations on "Ah Vous dirais-je, Maman" for the Piano,
+!!!Variation: 9 b
+**kern	**kern	**chords	**function	**comments
+*M2/4	*M2/4	*M2/4	*M2/4	*M2/4
+=-	=-	=-	=-	=-
+2r	4gg'	2V	D	.
+.	4gg'	.	.	.
+=	=	=	=	=
+2r	4ff'	2V7	.	.
+.	4ff'	.	.	.
+*clefG2	*	*	*	*
+=	=	=	=	=
+4g' 4cc'	4ee	2I64	.	.
+4g' 4cc'	(8.eeL	.	.	.
+.	16ffJk)	.	.	.
+=	=	=	=	=
+4f' 4b'	(4ee	2V2	.	.
+4f' 4b'	4dd)	.	.	.
+*clefF4	*	*	*	*
+=	=	=	=	=
+*	*	*	*	*
+*	*^	*	*	*
+4G' 4e'	4cc	2g	2I64	.	.
+4G' 4e'	[4cc	.	.	.	.
+=	=	=	=	=	=
+4F' 4d'	8ccL]	2g	2V2	.	.
+.	8bJ	.	.	.	.
+4F' 4d'	8aL	.	.	.	.
+.	8bJ	.	.	.	.
+=	=	=	=	=	=
+4GG' 4E'	8ccL	2g	2I64	.	.
+.	8cc'J	.	.	.	.
+4GG' 4E'	8dd'L	.	.	.	.
+.	8ee'J	.	.	.	.
+=	=	=	=	=	=
+4FF' 4D'	8ff'L	4g	2V2	.	.
+.	8gg'J	.	.	.	.
+4FF' 4D'	8aa'L	4r	.	.	.
+.	8bb'J	.	.	.	.
+*	*	*	*	*	*
+*	*v	*v	*	*	*
+*-	*-	*-	*-	*-

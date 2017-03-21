@@ -1,0 +1,64 @@
+**kern	**kern
+*staff1	*staff2
+*clefG2	*clefG2
+*k[b-]	*k[b-]
+*M2/4	*M2/4
+*F:	*F:
+(4e 4cc	8c'L
+.	8.C
+4ee 4gg	.
+.	16C'L
+.	16E'
+.	16F#'JJ
+=279	=279
+4cc 4ee	8G'L
+.	8.GG
+4f) 4dd	.
+.	16GG'L
+.	16AA'
+.	16BB'JJ
+=280	=280
+(4e 4cc	8C'L
+.	8.CC
+4ee 4gg	.
+.	16CC'L
+.	16EE'
+.	16FF#'JJ
+=281	=281
+4cc 4ee	8GG'L
+.	8.GGG
+4f) 4dd	.
+.	16GGG'L
+.	16AAA'
+.	16BBB'JJ
+=282	=282
+4e 4cc	4CC
+4r	(8cL
+.	16AJk)
+.	16r
+=283	=283
+4r	(8F#L
+.	16DJk)
+.	16r
+(8aaL	(8f#L
+16dddJk)	16dJk)
+16r	16r
+=284	=284
+(8bb-L	(8gL
+16ggJk)	16b-Jk)
+16r	16r
+4r	(8B-L
+.	16GJk)
+.	16r
+=285	=285
+4r	(8EL
+.	16CJk)
+.	16r
+(8ggL	(8eL
+16cccJk)	16cJk)
+16r	16r
+=286	=286
+(8aaL	(8fL
+16ffJk)	16aJk)
+16r	16r
+*-	*-

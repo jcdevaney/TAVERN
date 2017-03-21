@@ -1,0 +1,53 @@
+!!!COM: Mozart
+!!!OTL: 9 Variationen uber ein Minuett von Duport
+!!!Variation: Variation 4 d
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#]	*k[f#c#]
+*M3/4	*M3/4	*M3/4	*M3/4
+*D:	*D:	*D:	*D
+!	!exact repeat of 4a	!	!
+=113	=113	=113	=113
+2.T	2.I	4d	(12ff#L 12aa
+.	.	.	12ee 12gg
+.	.	.	12ddJ) 12ff#
+.	.	4r	12dd'L 12ff#'
+.	.	.	12dd' 12ff#'
+.	.	.	12dd'J 12ff#'
+.	.	4r	12dd'L 12ff#'
+.	.	.	12dd' 12ff#'
+.	.	.	12dd'J 12ff#'
+=114	=114	=114	=114
+2.T	2.I	4D	(12aL 12ff#
+.	.	.	12g 12ee
+.	.	.	12f#J) 12dd
+.	.	4r	12f#'L 12dd'
+.	.	.	12f#' 12dd'
+.	.	.	12f#'J 12dd'
+.	.	4r	12f#'L 12dd'
+.	.	.	12f#' 12dd'
+.	.	.	12f#'J 12dd'
+=115	=115	=115	=115
+4T	4I	8d	12r
+.	.	.	(12f#L 12dd
+.	.	8r	.
+.	.	.	12aJ) 12ff#
+4P	4iib	8G	12r
+.	.	.	(12gL 12ee
+.	.	8r	.
+.	.	.	12bJ) 12gg
+4D	4V7	8A	12r
+.	.	.	(12eL 12cc#
+.	.	8r	.
+.	.	.	12gJ) 12ee
+=116	=116	=116	=116
+2.T	2.I	4D	12f#L 12dd
+.	.	.	12a'
+.	.	.	12b'J
+.	.	4r	12cc#'L
+.	.	.	12dd'
+.	.	.	12ee'J
+.	.	4r	12ff#'L
+.	.	.	12gg'
+.	.	.	12gg#'J
+*-	*-	*-	*-

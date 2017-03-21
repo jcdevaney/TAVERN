@@ -1,0 +1,56 @@
+!!!COM: Mozart
+!!!OTL: Zwolf Variationen in Es, uber die Romanze 'Je suis Lindor' aus der Komodie 'Le Barbier de Seville'
+!!!Variation: Variation 2 d
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*M2/4	*M2/4	*M2/4	*M2/4
+*E-:	*E-:	*E-:	*E-:
+=62	=62	=62	=62
+*	*	*	*^
+*	*	*	*	*^
+2D	2V7	16BBB-LL	(8ee-	4.f	2a-
+.	.	16CC	.	.	.
+.	.	16DD	4dd	.	.
+.	.	16EE-JJ	.	.	.
+.	.	16FFLL	.	.	.
+.	.	16GGJ	.	.	.
+.	.	8AA-J	16ccLL	16e-LL	.
+.	.	.	16b-JJ)	16dJJ	.
+=63	=63	=63	=63	=63	=63
+2D	2V7	16BBB-LL	(8ee-	4.f	2a-
+.	.	16CC	.	.	.
+.	.	16DD	4dd	.	.
+.	.	16EE-JJ	.	.	.
+.	.	16FFLL	.	.	.
+.	.	16GG	.	.	.
+.	.	16AA-	16ccLL	16e-LL	.
+.	.	16BB-JJ	16b-JJ)	16dJJ	.
+*	*	*	*	*v	*v
+=64	=64	=64	=64	=64
+4T	4Ib	16GGLL	(16ee-LL	2e-
+.	.	16FF	16dd	.
+.	.	16GG	16ee-	.
+.	.	16EE-JJ	16b-JJ	.
+4P	4IV	16AA-LL	16ccLL	.
+.	.	16GG	16b	.
+.	.	16AA-	16cc	.
+.	.	16CJJ	16a-JJ)	.
+*	*	*	*v	*v
+=65	=65	=65	=65
+4D	4Cc	16BB-LL	(4e- 4g
+.	.	16GG	.
+.	.	16EE-	.
+.	.	16GGJJ	.
+4D	4V	16BB-LL	4d) 4f
+.	.	16AA	.
+.	.	16BB-	.
+.	.	16BBB-JJ	.
+=66	=66	=66	=66
+2T	2I	16EE-LL	4e-
+.	.	16GG	.
+.	.	16BB-	.
+.	.	16E-JJ	.
+.	.	8EE-	4r
+.	.	8r	.
+*-	*-	*-	*-

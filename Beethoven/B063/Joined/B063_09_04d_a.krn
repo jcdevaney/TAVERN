@@ -1,0 +1,124 @@
+!!!COM: Beethoven
+!!!OTL: Neun Variationen uber einen Marsch von E. Chr. Dressler
+!!!Variation: 9 d
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[]	*k[]
+*M4/4	*M4/4	*M4/4	*M4/4
+*C:	*C:	*C:	*C:
+=169	=169	=169	=169
+1T	1viiob	2d 2f	16r
+.	.	.	16bLL
+.	.	.	16cc
+.	.	.	16ddJJ
+.	.	.	16eeLL
+.	.	.	16ff
+.	.	.	16gg
+.	.	.	16aaJJ
+.	.	2r	16bbLL
+.	.	.	16aa
+.	.	.	16gg
+.	.	.	16ffJJ
+.	.	.	16eeLL
+.	.	.	16dd
+.	.	.	16cc
+.	.	.	16bJJ
+=170	=170	=170	=170
+1T	1Ib	2e 2g	16r
+.	.	.	16ccLL
+.	.	.	16dd
+.	.	.	16eeJJ
+.	.	.	16ffLL
+.	.	.	16gg
+.	.	.	16aa
+.	.	.	16bbJJ
+.	.	2r	8ccc'L
+.	.	.	8gg'
+.	.	.	8ee'
+.	.	.	8cc'J
+=171	=171	=171	=171
+1T	1V7d	2F 2G 2d	16r
+.	.	.	16bLL
+.	.	.	16cc
+.	.	.	16ddJJ
+.	.	.	16eeLL
+.	.	.	16ff
+.	.	.	16gg
+.	.	.	16aaJJ
+.	.	2r	16bbLL
+.	.	.	16aa
+.	.	.	16gg
+.	.	.	16ffJJ
+.	.	.	16eeLL
+.	.	.	16dd
+.	.	.	16cc
+.	.	.	16bJJ
+=172	=172	=172	=172
+1T	1Ib	2E 2G 2c	16r
+.	.	.	16ccLL
+.	.	.	16dd
+.	.	.	16eeJJ
+.	.	.	16ffLL
+.	.	.	16gg
+.	.	.	16aa
+.	.	.	16bbJJ
+.	.	2r	8ccc'L
+.	.	.	8gg'
+.	.	.	8ee'
+.	.	.	8cc'J
+=173	=173	=173	=173
+1P	1IV	4F	16aaLL
+.	.	.	16gg#
+.	.	.	16aa
+.	.	.	16bbJJ
+.	.	4r	16cccLL
+.	.	.	16aa
+.	.	.	16ff
+.	.	.	16eeJJ
+.	.	4F 4A	16ffLL
+.	.	.	16ee
+.	.	.	16ff
+.	.	.	16ggJJ
+.	.	4r	16aaLL
+.	.	.	16ff
+.	.	.	16dd
+.	.	.	16cc#JJ
+=174	=174	=174	=174
+4P	4iib	4F 4A	16ddLL
+.	.	.	16cc#
+.	.	.	16dd
+.	.	.	16aaJJ
+8P	8ii	8DL	16ggLL
+.	.	.	16ff
+8P	8iib	8FJ	16ee
+.	.	.	16ddJJ
+4D	4Cc	4G	(16eeLL
+.	.	.	16ff
+.	.	.	16gg)
+.	.	.	16cc'JJ
+4D	4V7	4GG	(16ffLL
+.	.	.	16ee
+.	.	.	16ff)
+.	.	.	16b'JJ
+=175	=175	=175	=175
+1T	1I	16CLL	2cc
+.	.	16c	.
+.	.	16B	.
+.	.	16AJJ	.
+.	.	16GLL	.
+.	.	16F	.
+.	.	16E	.
+.	.	16DJJ	.
+.	.	16CLL	4.e 4.g 4.cc
+.	.	16c	.
+.	.	16B	.
+.	.	16AJJ	.
+.	.	16GLL	.
+.	.	16F	.
+.	.	16E	8e 8g 8cc
+.	.	16DJJ	.
+=176	=176	=176	=176
+1T	1I	2C	2e 2g 2cc
+.	.	2r	2r
+==	==	==	==
+*-	*-	*-	*-

@@ -1,0 +1,148 @@
+!!!COM: Beethoven
+!!!OTL: 13 Variationen uber "Es war einmal ein alter Mann" aus "Das rote Kappchen" von K. Ditters von Dittersdorf
+!!!Variation: Variation 12 e
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#g#]	*k[f#c#g#]
+*M4/4	*M4/4	*M4/4	*M4/4
+*A:	*A:	*A:	*A:
+2.T	2.V	4r	(8ddd#L
+.	.	.	8eeeJ)
+.	.	2r	(8ddd#L
+.	.	.	8eee)
+.	.	.	(8ddd#
+.	.	.	8eeeJ)
+=475	=475	=475	=475
+1T	1I	8AL 8c#	(4.a
+.	.	8A 8c#	.
+.	.	8A 8c#	.
+.	.	8AJ 8c#	8b
+.	.	8AL 8e	4.cc#
+.	.	8A 8e	.
+.	.	8A 8e	.
+.	.	8AJ 8e	8dd
+=476	=476	=476	=476
+2T	2V7d/V	8AL 8B	4dd#
+.	.	8A 8B	.
+.	.	8A 8B	[4ee
+.	.	8AJ 8B	.
+2T	2Vb	8G#L 8e	8eeL])
+.	.	8G# 8e	(8ee#
+.	.	8G# 8e	8ff#
+.	.	8G#J 8e	8ddJ)
+=477	=477	=477	=477
+1T	1I	8AL 8e	4cc#'
+.	.	8A 8e	.
+.	.	8A 8e	(16cc#LL
+.	.	.	16b
+.	.	8AJ 8e	16a
+.	.	.	16g#JJ
+.	.	8AL 8c#	4a')
+.	.	8A 8c#	.
+.	.	8A 8c#	(16aLL
+.	.	.	16b
+.	.	8AJ 8c#	16cc#
+.	.	.	16ddJJ
+=478	=478	=478	=478
+2T	2V7d/V	8AL 8B	4ee')
+.	.	8A 8B	.
+.	.	8A 8B	(16eeLL
+.	.	.	16ff#
+.	.	8AJ 8B	16ee
+.	.	.	16dd#JJ
+2T	2Vb	8AL 8e	16eeLL
+.	.	.	16ee#
+.	.	8A 8e	16ff#
+.	.	.	16eeJJ
+.	.	8A 8e	16gg#LL
+.	.	.	16ff#
+.	.	8AJ 8e	16ee
+.	.	.	16ddJJ)
+=479	=479	=479	=479
+2T	2I	8AL 8e	16cc#LL
+.	.	.	16dd
+.	.	8A	16cc#
+.	.	.	16bJJ
+.	.	8A	16cc#LL
+.	.	.	16dd
+.	.	8AJ	16ee
+.	.	.	16cc#JJ
+2D	2V7	8EL 8d	16bLL
+.	.	.	16cc#
+.	.	8E	16dd
+.	.	.	16bJJ
+.	.	8E	16g#LL
+.	.	.	16a
+.	.	8EJ	16b
+.	.	.	16g#JJ
+=480	=480	=480	=480
+4T	4I	16AALL	4a
+.	.	16A	.
+.	.	16G#	.
+.	.	16AJJ	.
+4T	4V7d	16DLL	16aaLL
+.	.	16A	16ff#
+.	.	16G#	16aa
+.	.	16AJJ	16ff#JJ
+4T	4Ib	16C#LL	4ee'
+.	.	16A	.
+.	.	16G#	.
+.	.	16AJJ	.
+4T	4IVb	16F#LL	(16eeLL
+.	.	16A	16dd
+.	.	16G#	16ee
+.	.	16AJJ	16ddJJ)
+=481	=481	=481	=481
+2D	2Cc	16ELL	16cc#LL
+.	.	16A	16dd
+.	.	16c#	16cc#
+.	.	16AJJ	16bJJ
+.	.	16ELL	16cc#LL
+.	.	16A	16dd
+.	.	16c#	16ee
+.	.	16AJJ	16cc#JJ
+2D	2V	16ELL	16bLL
+.	.	16G#	16cc#
+.	.	16B	16b
+.	.	16G#JJ	16aJJ
+.	.	16ELL	16bLL
+.	.	16G#	16cc#
+.	.	16B	16dd
+.	.	16G#JJ	16bJJ
+=482	=482	=482	=482
+4T	4I	16AALL	4a'
+.	.	16A	.
+.	.	16G#	.
+.	.	16AJJ	.
+4T	4V7d	16DLL	(16aaLL
+.	.	16A	16ff#
+.	.	16G#	16aa
+.	.	16AJJ	16ff#JJ)
+4T	4Ib	16C#LL	4ee'
+.	.	16A	.
+.	.	16G#	.
+.	.	16AJJ	.
+4T	4IVb	16F#LL	(16eeLL
+.	.	16A	16dd
+.	.	16G#	16ee
+.	.	16AJJ	16ddJJ)
+=483	=483	=483	=483
+2D	2Cc	16ELL	16cc#LL
+.	.	16A	16dd
+.	.	16c#	16cc#
+.	.	16eJJ	16bJJ
+.	.	16ELL	16cc#LL
+.	.	16A	16dd
+.	.	16c#	16ee
+.	.	16eJJ	16cc#JJ
+2D	2V7	16ELL	16bLL
+.	.	16G#	16cc#
+.	.	16B	16b
+.	.	16dJJ	16aJJ
+.	.	16ELL	16bLL
+.	.	16G#	16cc#
+.	.	16B	16dd
+.	.	16dJJ	16bJJ
+=484	=484	=484	=484
+1D	1r	1r;	1r;
+*-	*-	*-	*-

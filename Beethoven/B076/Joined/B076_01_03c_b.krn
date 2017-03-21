@@ -1,0 +1,49 @@
+!!!COM: Beethoven
+!!!OTL: Acht Variationen uber das Trio "Tandeln und Scherzen" aus der Oper: Soliman oder die drei Sultaninnen von Sussmayer
+!!!Variation: Variation 1 c
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*M3/8	*M3/8	*M3/8	*M3/8
+*F:	*F:	*F:	*F:
+=43	=43	=43	=43
+4.D	4.V7	8c'L	(16eeLL
+.	.	.	16gg)
+.	.	8C'J	(16b-
+.	.	.	16ee)
+.	.	8r	(16g
+.	.	.	16b-JJ)
+=44	=44	=44	=44
+4.D	4.V7	8C'	(16eLL
+.	.	.	16gJJ)
+.	.	4CC; 4C;	4E; 4G; 4B-;
+=45	=45	=45	=45
+4.T	4.Ib	(16ALL	(16fffLL
+.	.	16c	16ccc
+.	.	16fJJ)	16aaJJ)
+.	.	16AA'LL	16A'LL 16c' 16f'
+.	.	16AA'	16A' 16c' 16f'
+.	.	16AA'JJ	16A'JJ 16c' 16f'
+=46	=46	=46	=46
+4.P	4.iib	(16B-LL	(16dddLL
+.	.	16d	16bb-
+.	.	16gJJ)	16ggJJ)
+.	.	16BB-'LL	16B-'LL 16d' 16g'
+.	.	16BB-'	16B-' 16d' 16g'
+.	.	16BB-'JJ	16B-'JJ 16d' 16g'
+=47	=47	=47	=47
+*	*	*clefG2	*
+8.D	8.Cc	(16cLL	(16cccLL
+.	.	16f	16aa
+.	.	16a	16ff)
+8.D	8.V7	16c	(16bb-
+.	.	16g	16gg
+.	.	16b-JJ)	16eeJJ)
+=48	=48	=48	=48
+4.T	4.I	8f 8a	(16ffLL
+.	.	.	16a
+.	.	16r	16fJJ)
+*	*	*clefF4	*
+.	.	(16FLK	16r
+.	.	8FFJ)	8r
+*-	*-	*-	*-

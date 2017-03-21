@@ -1,0 +1,94 @@
+**kern	**kern	**kern
+*staff3	*staff2	*staff1
+*tb32	*tb32	*tb32
+*clefF4	*clefF4	*clefG2
+*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+*M2/4	*M2/4	*M2/4
+*A:	*A:	*A:
+(16ELL	4r	8.e'L
+16D	.	.
+16C#	.	.
+16BBJJ)	.	16e'Jk
+=521	=521	=521
+8.AA'L	1r	2c# 2e 2a
+16A'Jk	.	.
+8.E'L	.	.
+16C#'Jk	.	.
+4AA'	.	8.a'L
+.	.	16b'Jk
+4r	.	8.cc#'L
+.	.	16dd'Jk
+=522	=522	=522
+8.GG#'L	1r	2e 2b 2ee
+16AA'Jk	.	.
+8.BB'L	.	.
+16GG#'Jk	.	.
+4EE'	.	8.ee'L
+.	.	16ff#'Jk
+4r	.	8.ee'L
+.	.	16dd'Jk
+=523	=523	=523
+8.AA'L	1r	2e 2a 2cc#
+16C#'Jk	.	.
+8.E'L	.	.
+16A'Jk	.	.
+4AA'	.	8.a'L
+.	.	16b'Jk
+4r	.	8.cc#'L
+.	.	16dd'Jk
+=524	=524	=524
+8.GG#'L	1r	2e 2b 2ee
+16AA'Jk	.	.
+8.BB'L	.	.
+16GG#'Jk	.	.
+4EE'	.	8.ee'L
+.	.	16ff#'Jk
+4r	.	8.ee'L
+.	.	16dd'Jk
+=525	=525	=525
+4AA'	1r	4e' 4cc#'
+8.A'L	.	8.e'L 8.cc#'
+16A'Jk	.	16e'Jk 16cc#'
+4E'	.	4d' 4b'
+8.E'L	.	8.d'L 8.g#' 8.b'
+16E'Jk	.	16d'Jk 16g#' 16b'
+=526	=526	=526
+4AA'	1r	8.c#'L 8.a'
+.	.	16aa'Jk
+4r	.	8.gg#'L
+.	.	16ff#'Jk
+8.r	.	8.ee'L
+16d	.	16a'Jk 16ff#'
+8.c#L	.	8.a'L 8.ee'
+16BJk	.	16a'Jk 16dd'
+=527	=527	=527
+4A'	1r	4a' 4cc#'
+8.C#'L 8.A'	.	8.e'L 8.cc#'
+16C#'Jk 16A'	.	16e'Jk 16cc#'
+4E' 4A'	.	4e' 4b'
+8.E'L 8.G#'	.	8.d'L 8.b'
+16E'Jk 16G#'	.	16d'Jk 16b'
+=528	=528	=528
+8.AA'L	1r	4c#' 4a'
+16A'Jk	.	.
+8.G#'L	.	4r
+16F#'Jk	.	.
+8.E'L	.	8.r
+16D'Jk	.	16a' 16ff#'
+8.C#'L	.	8.a'L 8.ee'
+16BB'Jk	.	16a'Jk 16dd'
+=529	=529	=529
+4AA'	1r	4a' 4cc#'
+8.C#'L	.	8.e'L 8.a' 8.cc#'
+16C#'Jk	.	16e'Jk 16a' 16cc#'
+4E'	.	4e' 4a' 4b'
+8.EE'L	.	8.d'L 8.g#' 8.b'
+16EE'Jk	.	16d'Jk 16g#' 16b'
+=530	=530	=530
+4AA'	1r	4c#' 4a'
+8.AA'L 8.E'	.	8.c#'L 8.a'
+16AA'Jk 16E'	.	16c#'Jk 16cc#'
+4AA' 4E'	.	4c#' 4a'
+4r	.	4r
+==	==	==
+*-	*-	*-

@@ -1,0 +1,95 @@
+!!!COM: Beethoven
+!!!OTL: 13 Variationen uber "Es war einmal ein alter Mann" aus "Das rote Kappchen" von K. Ditters von Dittersdorf
+!!!Variation: Variation 13 e
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#g#]	*k[f#c#g#]
+*M4/4	*M4/4	*M4/4	*M4/4
+*A:	*A:	*A:	*A:
+4T	4I	(16ELL	8.e'L
+.	.	16D	.
+.	.	16C#	.
+.	.	16BBJJ)	16e'Jk
+=528	=528	=528	=528
+1T	1I	8.AA'L	2c# 2e 2a
+.	.	16A'Jk	.
+.	.	8.E'L	.
+.	.	16C#'Jk	.
+.	.	4AA'	8.a'L
+.	.	.	16b'Jk
+.	.	4r	8.cc#'L
+.	.	.	16dd'Jk
+=529	=529	=529	=529
+1T	1Vb	8.GG#'L	2e 2b 2ee
+.	.	16AA'Jk	.
+.	.	8.BB'L	.
+.	.	16GG#'Jk	.
+.	.	4EE'	8.ee'L
+.	.	.	16ff#'Jk
+.	.	4r	8.ee'L
+.	.	.	16dd'Jk
+=530	=530	=530	=530
+1T	1I	8.AA'L	2e 2a 2cc#
+.	.	16C#'Jk	.
+.	.	8.E'L	.
+.	.	16A'Jk	.
+.	.	4AA'	8.a'L
+.	.	.	16b'Jk
+.	.	4r	8.cc#'L
+.	.	.	16dd'Jk
+=531	=531	=531	=531
+1T	1Vb	8.GG#'L	2e 2b 2ee
+.	.	16AA'Jk	.
+.	.	8.BB'L	.
+.	.	16GG#'Jk	.
+.	.	4EE'	8.ee'L
+.	.	.	16ff#'Jk
+.	.	4r	8.ee'L
+.	.	.	16dd'Jk
+=532	=532	=532	=532
+2T	2I	4AA'	4e' 4cc#'
+.	.	8.A'L	8.e'L 8.cc#'
+.	.	16A'Jk	16e'Jk 16cc#'
+2D	2V7	4E'	4d' 4b'
+.	.	8.E'L	8.d'L 8.g#' 8.b'
+.	.	16E'Jk	16d'Jk 16g#' 16b'
+=533	=533	=533	=533
+4T	4I	4AA'	8.c#'L 8.a'
+.	.	.	16aa'Jk
+4T	4I	4r	8.gg#'L
+.	.	.	16ff#'Jk
+8.T	8.I	8.r	8.ee'L
+16P	16IV	16d	16a'Jk 16ff#'
+8.P	8.Ib	8.c#L	8.a'L 8.ee'
+16P	16ii7	16BJk	16a'Jk 16dd'
+=534	=534	=534	=534
+4P	4I	4A'	4a' 4cc#'
+4P	4Ib	8.C#'L 8.A'	8.e'L 8.cc#'
+.	.	16C#'Jk 16A'	16e'Jk 16cc#'
+4D	4V	4E' 4A'	4e' 4b'
+4D	4V7	8.E'L 8.G#'	8.d'L 8.b'
+.	.	16E'Jk 16G#'	16d'Jk 16b'
+=535	=535	=535	=535
+4T	4I	8.AA'L	4c#' 4a'
+.	.	16A'Jk	.
+4T	4I	8.G#'L	4r
+.	.	16F#'Jk	.
+8.T	8.I	8.E'L	8.r
+16P	16IV	16D'Jk	16a' 16ff#'
+8.P	8.Ib	8.C#'L	8.a'L 8.ee'
+16P	16ii7	16BB'Jk	16a'Jk 16dd'
+=536	=536	=536	=536
+4P	4I	4AA'	4a' 4cc#'
+4P	4Ib	8.C#'L	8.e'L 8.a' 8.cc#'
+.	.	16C#'Jk	16e'Jk 16a' 16cc#'
+4D	4V	4E'	4e' 4a' 4b'
+4D	4V7	8.EE'L	8.d'L 8.g#' 8.b'
+.	.	16EE'Jk	16d'Jk 16g#' 16b'
+=537	=537	=537	=537
+1T	1I	4AA'	4c#' 4a'
+.	.	8.AA'L 8.E'	8.c#'L 8.a'
+.	.	16AA'Jk 16E'	16c#'Jk 16cc#'
+.	.	4AA' 4E'	4c#' 4a'
+.	.	4r	4r
+==	==	==	==
+*-	*-	*-	*-

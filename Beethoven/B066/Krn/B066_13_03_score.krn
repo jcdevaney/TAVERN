@@ -1,0 +1,40 @@
+**kern	**kern	**kern
+*staff3	*staff2	*staff1
+*tb32	*tb32	*tb32
+*clefF4	*clefF4	*clefG2
+*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+*M2/4	*M2/4	*M2/4
+*A:	*A:	*A:
+4r	4r	8.bL
+.	.	16bJk
+=502	=502	=502
+8.D#L	1r	2.B 2.f# 2.b
+16EJk	.	.
+8.F#L	.	.
+16D#Jk	.	.
+4BB	.	.
+4r	.	8.BL 8.f# 8.a
+.	.	16BJk 16f# 16a
+=503	=503	=503
+8.E'L	1r	2.B 2.e 2.g#
+16F#'Jk	.	.
+8.G#'L	.	.
+16E'Jk	.	.
+4BB'	.	.
+4r	.	8.BL 8.b
+.	.	16BJk 16b
+=504	=504	=504
+8.D#'L	1r	2.B 2.f# 2.b
+16E'Jk	.	.
+8.F#'L	.	.
+16D#'Jk	.	.
+4BB'	.	.
+4r	.	8.BL 8.f# 8.a
+.	.	16BJk 16f# 16a
+=505	=505	=505
+8.EL	2.r	2.B 2.e 2.g#
+16F#Jk	.	.
+8.G#L	.	.
+16EJk	.	.
+4BB'	.	.
+*-	*-	*-

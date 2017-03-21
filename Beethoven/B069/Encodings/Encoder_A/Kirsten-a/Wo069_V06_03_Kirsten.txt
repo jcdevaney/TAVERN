@@ -1,0 +1,46 @@
+!!!COM: Beethoven
+
+!!!OTL: 9 Variationen uber "Quant' e piu bello" von G. Paisiello 
+
+!!!Variation: 6 c
+
+**chords	**function	**comments
+
+*M2/4	*	*
+
+*A:	*	*
+
+=	=	=
+
+2I64	T	D
+
+=	=	=
+
+2V7	.	.
+=	=	=
+
+2I64	.	T
+=	=	=
+
+2V7	.	D
+=	=	=
+
+2I64	.	T
+=	=	=
+
+2V7	.	D
+=	=	=
+
+8I	.	T
+8I64	D	D
+
+8IV	.	.
+8V	.	.
+
+=	=	=
+
+4.I6	T	T
+
+==	==	==
+
+*-	*-	*-

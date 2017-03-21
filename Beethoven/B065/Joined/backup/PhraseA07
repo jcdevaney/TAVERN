@@ -1,0 +1,81 @@
+!!!COM: Beethoven
+!!!OTL: 24 Variationen uber Venni Amore von V. Righini
+!!!Variation: Variation 3 a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#]	*k[f#c#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*D:	*D:	*D:	*D:
+=49	=49	=49	=49
+4T	4I	16DDLL	8a'L 8ff#'
+.	.	16EE	.
+.	.	16FF#	(8aJ 8ff#
+.	.	16GGJJ	.
+4T	4V7	16AALL	8g'L) 8ee'
+.	.	16BB	.
+.	.	16C	(8gJ 8ee
+.	.	16C#JJ	.
+=50	=50	=50	=50
+2T	2I	16DLL	8f#'L) 8dd'
+.	.	16E	.
+.	.	16F#	8f#'J 8dd'
+.	.	16GJJ	.
+.	.	16ALL	8r
+.	.	16B	.
+.	.	16c	16r
+.	.	16c#JJ	16a' 16cc#'
+*	*	*clefG2	*
+=51	=51	=51	=51
+2T	2IV	16dLL	8g' 8b'
+.	.	16e	.
+.	.	16f#	8r
+.	.	16gJJ	.
+*	*	*	*clefF4
+.	.	16aLL	8G' 8B'
+.	.	16b	.
+.	.	16cc	8r
+.	.	16cc#JJ	.
+=52	=52	=52	=52
+2T	2Ib	16ddLL	8F#' 8A'
+.	.	16ee	.
+.	.	16ff#	8r
+.	.	16ggJJ	.
+.	.	16aaLL	4r
+.	.	16bb	.
+.	.	16ccc#	.
+.	.	16dddJJ	.
+=53	=53	=53	=53
+2T	2Ib	4r	16AALL
+.	.	.	16BB
+.	.	.	16C#
+.	.	.	16DJJ
+*	*	*clefF4	*
+.	.	8FF#L 8D	16ELL
+.	.	.	16F#
+.	.	(8FF#J 8D	16G
+.	.	.	16G#JJ
+=54	=54	=54	=54
+2T	2V7d	8GGL) 8C#	16ALL
+.	.	.	16B
+.	.	8GGJ 8C#	16c#
+.	.	.	16dJJ
+*	*	*	*clefG2
+.	.	8r	16eLL
+.	.	.	16f#
+.	.	16r	16g
+.	.	16C#' 16G'	16g#JJ
+=55	=55	=55	=55
+4T	4I	8D' 8F#'	16aLL
+.	.	.	16b
+.	.	8r	16cc#
+.	.	.	16ddJJ
+4T	4Ib	8F#' 8d'	16eeLL
+.	.	.	16ff#
+.	.	8r	16gg
+.	.	.	16gg#JJ
+=56	=56	=56	=56
+2D	2V	8A' 8c#'	8aa
+.	.	8r	8r
+.	.	8AA'	4r
+.	.	8r	.
+*-	*-	*-	*-

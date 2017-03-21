@@ -1,0 +1,46 @@
+!!!COM: Mozart
+!!!OTL: 12 Variations on "Ah Vous dirais-je, Maman" for the Piano
+!!!Variation: 8 a
+**function	**harm	**kern	**kern
+*	*	*clefG2	*clefG2
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*M2/4	*M2/4	*M2/4	*M2/4
+*c:	*c:	*c:	*c:
+=193	=193	=193	=193
+2T	2i	2r	8cc'L
+.	.	.	8dd'J
+.	.	.	8ee-'L
+.	.	.	8ff'J
+=194	=194	=194	=194
+2T	2i	2r	4gg
+.	.	.	[4gg
+=195	=195	=195	=195
+*	*	*	*^
+2T	2iv	8f'L	2aa-	4gg]
+.	.	8g'J	.	.
+.	.	8a-'L	.	[4ff
+.	.	8b-'J	.	.
+=196	=196	=196	=196	=196
+2T	2i	4cc	2gg	4ff]
+.	.	4cc	.	[4ee-
+=197	=197	=197	=197	=197
+*	*	*clefF4	*	*
+2T	2V7	8G'L	2ff	[4g 4ee-]
+.	.	8A'J	.	.
+.	.	8B'L	.	4g_ [4dd
+.	.	8G'J	.	.
+=198	=198	=198	=198	=198
+4T	4i	8c'L	2ee-	4g] 4dd]
+.	.	8G'J	.	.
+4T	4VI	8A-'L	.	[4cc
+.	.	8E-'J	.	.
+=199	=199	=199	=199	=199
+4P	4iiob	8F'L	2dd	4cc]
+.	.	8D'J	.	.
+4D	4V	8G'L	.	4b
+.	.	8GG'J	.	.
+=200	=200	=200	=200	=200
+2T	2i	4C	4cc	4cc
+*	*	*	*v	*v
+.	.	4CC	4r
+*-	*-	*-	*-

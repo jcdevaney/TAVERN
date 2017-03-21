@@ -1,0 +1,68 @@
+!!!COM: Mozart
+!!!OTL: 12 Variations on "Ah Vous dirais-je, Maman" for the Piano
+!!!Variation: 3 a2
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[]	*k[]
+*M2/4	*M2/4	*M2/4	*M2/4
+*C:	*C:	*C:	*C:
+=89	=89	=89	=89
+2T	2I	4CC	(12cL
+.	.	.	12e
+.	.	.	12gJ
+.	.	4C	12ccL
+.	.	.	12ee
+.	.	.	12ggJ
+=90	=90	=90	=90
+*	*	*^	*
+2T	2Ib	2c	4E	12cccL
+.	.	.	.	12gg
+.	.	.	.	12ffJ
+.	.	.	4C	12eeL
+.	.	.	.	12dd
+.	.	.	.	12ccJ)
+=91	=91	=91	=91	=91
+2T	2IV	2c	4F	(12aaL
+.	.	.	.	12gg#
+.	.	.	.	12aaJ
+.	.	.	4C	12cccL
+.	.	.	.	12bb
+.	.	.	.	12aaJ)
+=92	=92	=92	=92	=92
+2T	2Ib	2c	4E	(12aaL
+.	.	.	.	12ff#)
+.	.	.	.	12gg'J
+.	.	.	4C	12gg'L
+.	.	.	.	12ccc'
+.	.	.	.	12eee'J
+*	*	*v	*v	*
+=93	=93	=93	=93
+4T	4IVb	4A 4c	(12eeeL
+.	.	.	12ff')
+.	.	.	12ff'J
+4T	4viio	4B 4d	12ff'L
+.	.	.	12bb'
+.	.	.	12ddd'J
+=94	=94	=94	=94
+4T	4I	4c 4e	(12dddL
+.	.	.	12ee')
+.	.	.	12ee'J
+4T	4vi	4A 4c	12ee'L
+.	.	.	12aa'
+.	.	.	12ccc'J
+=95	=95	=95	=95
+4P	4iib	4F 4A	(12cccL
+.	.	.	12dd)
+.	.	.	12aa'J
+*	*	*^	*
+4D	4V7	4G 4f	8.BL	(12aaL
+.	.	.	.	12gg)
+.	.	.	.	12b'J
+.	.	.	16dJk	.
+*	*	*v	*v	*
+=96	=96	=96	=96
+2T	2I	12cL 12e	4cc
+.	.	12G	.
+.	.	12EJ	.
+.	.	4C	4r
+*-	*-	*-	*-

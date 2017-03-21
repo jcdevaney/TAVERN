@@ -1,0 +1,157 @@
+!!!COM: Beethoven
+!!!OTL: 24 Variationen uber Venni Amore von V. Righini
+!!!Variation: Variation 23 a2
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#]	*k[f#c#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*D:	*D:	*D:	*D:
+=417	=417	=417	=417
+*	*	*^	*
+2T	2I	2D	8AL	4ff#
+.	.	.	8dJ	.
+.	.	.	8F#L 8A	(4f# 4ff#
+.	.	.	8dJ	.
+4T	4V7	4D 4G	8AL	4e) 4ee
+.	.	.	8c#J	.
+*	*	*v	*v	*
+=418	=418	=418	=418
+2T	2I	8DL 8F# 8A	8dL 8dd
+*	*	*clefG2	*
+.	.	(8aJ	[8ddJ
+.	.	8f#L	(16ddLL]
+.	.	.	32cc#L
+.	.	.	32ddJJ
+.	.	8dJ	32eeLL
+.	.	.	32ff#
+.	.	.	32gg
+.	.	.	32aaJJJ
+4T	4V7b/IV	8cL)	32bbLLL
+.	.	.	32ccc
+.	.	.	32ccc#
+.	.	.	32dddJJJ)
+*	*	*clefF4	*
+.	.	8F#J 8c 8d	16.r
+.	.	.	32ddd
+=419	=419	=419	=419
+2.T	2.IV	8..GL 8..B 8..d	16dd 16ddd
+.	.	.	16r
+.	.	.	[8d [8dd
+.	.	32GGJkk 32BB 32D	.
+.	.	4.GG 4.BB 4.D	16d] 16dd]
+.	.	.	16r
+.	.	.	(24a#'LL
+.	.	.	24b'
+.	.	.	24cc#'JJ
+.	.	.	24dd'LL
+.	.	.	24ff#'
+.	.	.	24gg'J
+.	.	8r	24aa#'L
+.	.	.	24bb'
+.	.	.	24ccc#'JJ)
+=420	=420	=420	=420
+2.T	2.Ib	8..F#L 8..A 8..d	16dd 16ddd
+.	.	.	16r
+.	.	.	[8d [8dd
+.	.	32FF#Jkk 32AA 32D	.
+.	.	4.FF# 4.AA 4.D	16d] 16dd]
+.	.	.	16r
+.	.	.	(24g#'LL
+.	.	.	24a'
+.	.	.	24cc#'JJ
+.	.	.	24dd'LL
+.	.	.	24ee#'
+.	.	.	24ff#'J)
+.	.	8r	(32ggLL
+.	.	.	32gg#
+.	.	.	32aa
+.	.	.	32ggJJJ
+=421	=421	=421	=421
+2.T	2.Ic	16r	16ff#')
+.	.	(16AAALL [16AA	16r
+*	*	*	*^
+.	.	16DD 16AA_ 16D	8.f# 8.a	(16.ff#LL
+.	.	16EEJJ 16AA_ 16E	.	.
+.	.	.	.	32eeJJk
+.	.	16FF#LL 16AA_ 16F#	.	16dd)
+.	.	16GG 16AA_ 16G	[8.A	16ALL
+.	.	16FF# 16AA_ 16F#	.	16d
+.	.	16EEJJ 16AA_ 16E	.	16c#JJ 16e
+.	.	16DDLL 16AA_ 16D	8A]	8d 8f#
+.	.	16CC# 16AA] 16C#	.	.
+.	.	16BBB 16BB	(8f#	(16.ff#LL
+.	.	16AAAJJ) 16AA	.	.
+.	.	.	.	32ddJJk)
+=422	=422	=422	=422	=422
+2.T	2.V7	16r	8g) 8cc#	8gg
+.	.	(16AAALL [16AA	.	.
+.	.	16EE 16AA_ 16E	[8A	(16.eLL 16.g
+.	.	16FF#JJ 16AA_ 16F#	.	.
+.	.	.	.	32dJJk) 32f#
+.	.	16GGLL 16AA_ 16G	16A]	16c# 16e
+.	.	16FF# 16AA_ 16F#	[8.a	(16aLL
+.	.	16EE 16AA_ 16E	.	16cc# 16ee
+.	.	16DDJJ 16AA_ 16D	.	16ddJJ) 16ff#
+.	.	16CC#LL 16AA_ 16C#	8a]	8ee 8gg
+.	.	16BBB 16AA] 16BB	.	.
+.	.	16AAA 16AA	[8a (8cc#	(16.ggLL
+.	.	16GGGJJ) 16GG	.	.
+.	.	.	.	32eeJJk
+=423	=423	=423	=423	=423
+8T	8Ib	8FFF#' 8FF#'	8a] 8dd)	32aaLLL)
+.	.	.	.	32aa
+.	.	.	.	32ee#
+.	.	.	.	32ff#JJJ
+*	*	*	*v	*v
+8T	8V7d/ii	(8AL 8B 8d#	32r
+.	.	.	(32ff#LLL
+.	.	.	32ccc
+.	.	.	32bbJJJ)
+8T	8iib	8G 8B 8e	32r
+.	.	.	(32bbLLL
+.	.	.	32dd#
+.	.	.	32eeJJJ)
+8T	8V7d	8G 8A 8c#	32r
+.	.	.	(32eeLLL
+.	.	.	32bb
+.	.	.	32aaJJJ)
+4T	4Ib	8F#J) 8A 8d	32r
+.	.	.	(32aaLLL
+.	.	.	32eee
+.	.	.	32dddJJ
+.	.	8r	32cccLL
+.	.	.	32bb
+.	.	.	32aa
+.	.	.	32ggJJJ
+*	*	*clefG2	*
+=424	=424	=424	=424
+2.D	2.V	8r	32ff#LLL
+.	.	.	32gg
+.	.	.	32gg#
+.	.	.	32aaJJ
+*	*	*^	*^
+.	.	4A	(8f#	8ddLL	32bbLL
+.	.	.	.	.	32aa
+.	.	.	.	.	32gg#
+.	.	.	.	.	32aaJJJ)
+.	.	.	8eL	8cc#	32r
+.	.	.	.	.	(32aaLLL
+.	.	.	.	.	32gg#
+.	.	.	.	.	32aaJJ
+.	.	8A	8dJ)	8ff#J	32bbLL
+.	.	.	.	.	32aa
+.	.	.	.	.	32gg#
+.	.	.	.	.	32aaJJJ)
+.	.	.	.	.	q8gg#
+.	.	.	.	.	q8aa
+.	.	8A;	8c#;	8ee;	8aa
+*	*	*v	*v	*	*
+*	*	*	*v	*v
+.	.	.	q8gg#
+.	.	.	q8aa
+.	.	.	q8ccc#
+.	.	.	q8aa
+.	.	.	q8ee
+.	.	.	q8cc#
+.	.	8AAA;	8r;
+*-	*-	*-	*-

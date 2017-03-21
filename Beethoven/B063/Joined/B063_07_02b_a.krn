@@ -1,0 +1,49 @@
+!!!COM: Beethoven
+!!!OTL: Neun Variationen uber einen Marsch von E. Chr. Dressler
+!!!Variation: 7 b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*M4/4	*M4/4	*M4/4	*M4/4
+*c:	*c:	*c:	*c:
+=117	=117	=117	=117
+2T	2Ib/III	4G 4B-	12b-L
+.	.	.	12ee-
+.	.	.	12ddJ
+.	.	4e-	12ee-L
+.	.	.	12dd
+.	.	.	12ee-J
+2T	2V7d/III	4A- 4B-	12ddL
+.	.	.	12bb-
+.	.	.	12aaJ
+.	.	4d	12bb-L
+.	.	.	12aa
+.	.	.	12bb-J
+=118	=118	=118	=118
+2T	2Ib/III	4G 4B-	12b-L
+.	.	.	12ee-
+.	.	.	12ddJ
+.	.	4e-	12ee-L
+.	.	.	12dd
+.	.	.	12ee-J
+2T	2V7d/III	4A- 4B-	12ddL
+.	.	.	12bb-
+.	.	.	12aaJ
+.	.	4d	12bb-L
+.	.	.	12aa
+.	.	.	12bb-J
+=119	=119	=119	=119
+4T	4Ib/III	4G 4B- 4e-	12bb-'L
+.	.	.	(12bb-
+.	.	.	12bbJ
+4P	4iib/III	4A- 4c 4f	12cccL
+.	.	.	12aa-
+.	.	.	12ffJ)
+4D	4Cc/III	4B- 4e- 4g	4ee-
+4D	4V/III	4B- 4d 4a-	4ff
+=120	=120	=120	=120
+1T	1I/III	4e- 4g	4ee-
+.	.	8.E-L 8.e-	8.ee-L
+.	.	16E-Jk 16e-	16ee-Jk
+.	.	2E- 2e-	2ee-
+*-	*-	*-	*-

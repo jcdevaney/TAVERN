@@ -1,0 +1,337 @@
+!!!COM: Beethoven
+!!!OTL: Six Variations on an Original Theme
+!!!Variation: Variation 6 b2
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*M2/4	*M2/4	*M2/4	*M2/4
+*F:	*F:	*F:	*F:
+16.D	16.V	16.r	64cL
+.	.	.	64B
+.	.	.	64d
+.	.	.	64c
+.	.	.	64e
+.	.	.	64dJJJ
+8D	8V	8r	136f
+.	.	.	136e
+.	.	.	136g
+.	.	.	136f
+.	.	.	136a
+.	.	.	136g
+.	.	.	136b-
+.	.	.	136a
+.	.	.	136cc
+.	.	.	136b-
+.	.	.	136dd
+.	.	.	136cc
+.	.	.	136ee
+.	.	.	136dd
+.	.	.	136ff
+.	.	.	136ee
+.	.	.	136gg
+=182	=182	=182	=182
+4T	4I	(4A 4c	2ff
+8T	8IVc	8B-L 8d	.
+8T	8I	8AJ) 8c	.
+=183	=183	=183	=183
+.	.	.	qbb
+4T	4V7c	4G 4B- 4e	2ccc
+4T	4Ib	8.AL 8.c 8.f	.
+.	.	16AJk 16f	.
+=184	=184	=184	=184
+8T	8Ib	16.ALL 16.f	[8cccL
+.	.	32AJJk 32c	.
+4T	4I	4F 4A	128cccLLLL]
+.	.	.	128bb-
+.	.	.	128aa
+.	.	.	128gg
+.	.	.	128ff
+.	.	.	128ee
+.	.	.	128dd
+.	.	.	128cc
+.	.	.	128b-
+.	.	.	128a
+.	.	.	128g
+.	.	.	128f
+.	.	.	128e
+.	.	.	128d
+.	.	.	128c
+.	.	.	128B
+.	.	.	96dLLLL
+.	.	.	96c
+.	.	.	96BJJJ
+.	.	.	96cLLL
+.	.	.	96d
+.	.	.	96eJJJ
+.	.	.	96fLLL
+.	.	.	96g
+.	.	.	96aJJJ
+.	.	.	96b-LLL
+.	.	.	96cc
+.	.	.	96ddJJJ
+8T	8viiob	16.GLL 16.B-	96eeLLL
+.	.	.	96ff
+.	.	.	96ggJJJ
+.	.	.	96aaLLL
+.	.	.	96bb-
+.	.	.	96bbJJJ
+.	.	.	96cccLLL
+.	.	.	96ccc#
+.	.	.	96dddJJJ
+.	.	32BB-JJk 32G	64ddd#LLL
+.	.	.	64eeeJJJJ
+=185	=185	=185	=185
+2T	2I	16AA 16F	96fffLLLL
+.	.	.	96ccc
+.	.	.	96aaJJJ
+.	.	.	96ffLLL
+.	.	.	96cc
+.	.	.	96aJJJ
+.	.	16r	96ffLLL
+.	.	.	96cc
+.	.	.	96aJJJ
+.	.	.	96fLLL
+.	.	.	96c
+.	.	.	96AJJJ
+.	.	16FFF 16FF	96fLLL
+.	.	.	96c
+.	.	.	96AJJJ
+.	.	.	96FLLL
+.	.	.	96C
+.	.	.	96AAJJJ
+.	.	16r	96FLLL
+.	.	.	96C
+.	.	.	96AAJJJ
+.	.	.	96FFLLL
+.	.	.	96CC
+.	.	.	96AAAJJJJ
+.	.	4r	96FFFLLLL
+.	.	.	96FF
+.	.	.	96GGJJJ
+.	.	.	96AALLL
+.	.	.	96BB-
+.	.	.	96CJJJ
+.	.	.	96DLLL
+.	.	.	96E
+.	.	.	96FJJJ
+.	.	.	96GLLL
+.	.	.	96A
+.	.	.	96B-JJJ
+.	.	.	96cLLL
+.	.	.	96d
+.	.	.	96eJJJ
+.	.	.	96fLLL
+.	.	.	96g
+.	.	.	96aJJJ
+.	.	.	32b-LL
+.	.	.	32ccJJJ
+=186	=186	=186	=186
+*	*	*	*^
+2T	2IVc	96r	[4b- [4dd	16r
+.	.	96FFFLLLL	.	.
+.	.	96BBB-JJJ	.	.
+.	.	96DDLLL	.	.
+.	.	96BBB-	.	.
+.	.	96DDJJJ	.	.
+.	.	96FFLLL	.	16fLL
+.	.	96DD	.	.
+.	.	96FFJJJ	.	.
+.	.	96BB-LLL	.	.
+.	.	96FF	.	.
+.	.	96BB-JJJ	.	.
+.	.	96DLLL	.	16f
+.	.	96BB-	.	.
+.	.	96DJJJ	.	.
+.	.	96FLLL	.	.
+.	.	96D	.	.
+.	.	96FJJJ	.	.
+.	.	96B-LLL	.	16fJJ
+.	.	96F	.	.
+.	.	96B-JJJ	.	.
+.	.	96dLLL	.	.
+.	.	96B-	.	.
+.	.	96dJJJJ	.	.
+*	*	*	*v	*v
+.	.	16f	16b-LL] 16dd]
+.	.	16r	(16cc# 16ee 16fLL
+.	.	8r	16dd 16ff 16f
+.	.	.	16b-JJ 16dd 16fJJ)
+=187	=187	=187	=187
+8T	8I	96r	16.fLL 16.a 16.cc
+.	.	96FFLLLL	.
+.	.	96AAJJJ	.
+.	.	96CLLL	.
+.	.	96AA	.
+.	.	96CJJJ	.
+.	.	16FJJ	.
+.	.	.	32fk 32a 32cc
+8T	8Vc	96r	16.e 16.b- 16.cc 16.ee
+.	.	96GGGLLLL	.
+.	.	96BBB-JJJ	.
+.	.	96EELLL	.
+.	.	96BBB-	.
+.	.	96EEJJJ	.
+.	.	16GGJJ	.
+.	.	.	32eJJk 32b- 32cc 32ee
+8T	8Ib	96r	16.fLL 16.cc 16.ff
+.	.	96AALLLL	.
+.	.	96CJJJ	.
+.	.	96FLLL	.
+.	.	96C	.
+.	.	96FJJJ	.
+.	.	16AJJ	.
+.	.	.	32fk 32cc 32ff
+8T	8vi7b	96r	16.d 16.a 16.cc 16.dd
+.	.	96FFFLLLL	.
+.	.	96AAAJJJ	.
+.	.	96DDLLL	.
+.	.	96AAA	.
+.	.	96DDJJJ	.
+.	.	16FFJJ	.
+.	.	.	32dJJk 32a 32cc 32dd
+=188	=188	=188	=188
+8D	8Vb	96r	16.gLL 16.cc 16.gg
+.	.	96EELLLL	.
+.	.	96GGJJJ	.
+.	.	96CLLL	.
+.	.	96GG	.
+.	.	96CJJJ	.
+.	.	16EJJ	.
+.	.	.	32ck 32cc
+8D	8Gn/V	96r	16.c 16.e- 16.f# 16.cc
+.	.	96AAA-LLLL	.
+.	.	96CCJJJ	.
+.	.	96EE-LLL	.
+.	.	96CC	.
+.	.	96EE-JJJ	.
+.	.	16AA-JJ	.
+.	.	.	32cJJk 32e- 32f# 32cc
+8D	8Cc/V	96r	16.cLL 16.e 16.g 16.cc
+.	.	96GGLLLL	.
+.	.	96CJJJ	.
+.	.	96ELLL	.
+.	.	96C	.
+.	.	96EJJJ	.
+.	.	16GJJ	.
+.	.	.	32ck 32e 32g 32cc
+8D	8V7/V	96r	16.B 16.d 16.f 16.g 16.b
+.	.	96GGGLLLL	.
+.	.	96BBBJJJ	.
+.	.	96DDLLL	.
+.	.	96BBB	.
+.	.	96DDJJJ	.
+.	.	16GGJJ	.
+.	.	.	32BJJk 32d 32f 32g 32b
+=189	=189	=189	=189
+4.D	4.I/V	96r	16c 16e 16g 16cc
+.	.	96CCLLLL	.
+.	.	96EEJJJ	.
+.	.	96GGLLL	.
+.	.	96EE	.
+.	.	96GGJJJ	.
+.	.	96CLLL	16r
+.	.	96GG	.
+.	.	96CJJJ	.
+.	.	96ELLL	.
+.	.	96C	.
+.	.	96EJJJ	.
+.	.	96GLLL	8r
+.	.	96E	.
+.	.	96GJJJ	.
+.	.	96cLLL	.
+.	.	96G	.
+.	.	96cJJJ	.
+.	.	96eLLL	.
+.	.	96c	.
+.	.	96eJJJ	.
+.	.	96gLLL	.
+.	.	96e	.
+.	.	96gJJJJ	.
+*	*	*clefG2	*
+.	.	16cc	16r
+.	.	16r	16eeLL 16gg 16eee
+*	*	*clefF4	*
+16D	16Cc/V	[8G	(16ee 16gg 16eee
+16D	16V7/V	.	16ddJJ 16ff 16ddd
+=190	=190	=190	=190
+4.D	4.I/V	96GLLLL]	16cc) 16ee 16ccc
+.	.	96CC	.
+.	.	96EEJJJ	.
+.	.	96GGLLL	.
+.	.	96EE	.
+.	.	96GGJJJ	.
+.	.	96CLLL	16r
+.	.	96GG	.
+.	.	96CJJJ	.
+.	.	96ELLL	.
+.	.	96C	.
+.	.	96EJJJ	.
+.	.	96GLLL	8r
+.	.	96E	.
+.	.	96GJJJ	.
+.	.	96cLLL	.
+.	.	96G	.
+.	.	96cJJJ	.
+.	.	96eLLL	.
+.	.	96c	.
+.	.	96eJJJ	.
+.	.	96gLLL	.
+.	.	96e	.
+.	.	96gJJJJ	.
+*	*	*clefG2	*
+.	.	16cc	16r
+.	.	16r	16eLL 16g 16ee
+*	*	*clefF4	*
+16D	16Cc/V	[8G	(16e 16g 16ee
+16D	16V7/V	.	16dJJ 16f 16dd
+=191	=191	=191	=191
+4D	4I/V	96GLLLL]	16c) 16e 16cc
+.	.	96CC	.
+.	.	96EEJJJ	.
+.	.	96GGLLL	.
+.	.	96EE	.
+.	.	96GGJJJ	.
+.	.	96CLLL	16r
+.	.	96GG	.
+.	.	96CJJJ	.
+.	.	96ELLL	.
+.	.	96C	.
+.	.	96EJJJ	.
+.	.	96GLLL	8r
+.	.	96E	.
+.	.	96GJJJ	.
+.	.	96cLLL	.
+.	.	96B	.
+.	.	96cJJJ	.
+.	.	96BLLL	.
+.	.	96c	.
+.	.	96BJJJ	.
+.	.	96cLLL	.
+.	.	96B	.
+.	.	96cJJJJ	.
+4D	4V7d	96B-LLLL	4r
+.	.	96c	.
+.	.	96B-JJJ	.
+.	.	96cLLL	.
+.	.	96B-	.
+.	.	96cJJJ	.
+.	.	96B-LLL	.
+.	.	96c	.
+.	.	96B-JJJ	.
+.	.	96cLLL	.
+.	.	96B-	.
+.	.	96cJJJ	.
+.	.	96B-LLL	.
+.	.	96c	.
+.	.	96B-JJJ	.
+.	.	96cLLL	.
+.	.	96B-	.
+.	.	96cJJJ	.
+.	.	96B-LLL	.
+.	.	96c	.
+.	.	96B-JJJ	.
+.	.	96cLLL	.
+.	.	96B-	.
+.	.	96cJJJJ	.
+=192	=192	=192	=192
+*-	*-	*-	*-

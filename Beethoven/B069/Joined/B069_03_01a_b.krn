@@ -1,0 +1,67 @@
+!!!COM: Beethoven
+!!!OTL: 9 Variationen uber "Quant' e piu bello" von G. Paisiello
+!!!Variation: Variation 3 a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#g#]	*k[f#c#g#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*A:	*A:	*A:	*A:
+8T	8V	8r	8e
+=73	=73	=73	=73
+2T	2I	24AALL	(8cc#L
+.	.	24C#	.
+.	.	24D	.
+.	.	24E	8eJ
+.	.	24F#	.
+.	.	24G#JJ	.
+.	.	8A	8cc#L
+.	.	8r	8eJ
+=74	=74	=74	=74
+4T	4V7	2r	8dL 8b
+.	.	.	8eJ
+4T	4Ib	.	8c#L 8a
+.	.	.	8eJ)
+=75	=75	=75	=75
+2T	2I	24AALL	(8cc#L 8ee
+.	.	24C#	.
+.	.	24D	.
+.	.	24E	8eJ
+.	.	24F#	.
+.	.	24G#JJ	.
+.	.	8A	8cc#L 8ee
+.	.	8r	8eJ
+=76	=76	=76	=76
+4D	4V7	2r	8bL 8dd
+.	.	.	8eJ
+4D	4Ic	.	8aL 8cc#
+.	.	.	8eJ)
+=77	=77	=77	=77
+4D	4V7d	24DLL	(8g#L 8b
+.	.	24C#	.
+.	.	24D	.
+.	.	24E	8eJ
+.	.	24D	.
+.	.	24BBJJ	.
+4D	4Ib	8C#	8aL
+.	.	8r	8eJ
+=78	=78	=78	=78
+4D	4V7d	24DLL	8g#L 8b
+.	.	24C#	.
+.	.	24D	.
+.	.	24E	8eJ
+.	.	24D	.
+.	.	24BBJJ	.
+4D	4Ib	8C#	8aL
+.	.	8r	8eJ)
+=79	=79	=79	=79
+4D	4Cc/V	[4BB	(8g#L 8ee
+.	.	.	8eJ
+4D	4V7/V	24BBLL]	8aL 8dd#
+.	.	24C#	.
+.	.	24BB	.
+.	.	24AA	8f#J
+.	.	24GG#	.
+.	.	24FF#JJ	.
+=80	=80	=80	=80
+8D	8V	8EE	8g#L) 8ee
+*-	*-	*-	*-

@@ -1,0 +1,83 @@
+!!!COM: Beethoven
+!!!OTL: Zehn Variationen uber "la stessa, la stessissima" aus "Falstaff" von A. Salieri
+!!!Variation: Variation 9 a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-]	*k[b-e-]
+*M4/4	*M4/4	*M4/4	*M4/4
+*B-:	*B-:	*B-:	*B-:
+=152	=152	=152	=152
+*	*	*	*^
+.	.	.	.	q8a
+1T	1I	16r	4r	4b-'
+.	.	(16B-LL	.	.
+.	.	16F	.	.
+.	.	16DJJ)	.	.
+.	.	4BB-'	4d 4f	4r
+.	.	.	.	q8a
+.	.	16r	4r	4b-'
+.	.	(16B-LL	.	.
+.	.	16F	.	.
+.	.	16DJJ)	.	.
+.	.	4BB-'	4d 4f	4r
+=153	=153	=153	=153	=153
+.	.	.	.	q8b
+1T	1V7	16r	4r	4cc'
+.	.	(16FLL	.	.
+.	.	16C	.	.
+.	.	16AAJJ)	.	.
+.	.	4FF'	4e- 4f 4a	4r
+.	.	2r	2r	2ff
+=154	=154	=154	=154	=154
+.	.	.	.	q8b
+1T	1V7	16r	4r	4cc'
+.	.	(16FLL	.	.
+.	.	16C	.	.
+.	.	16AAJJ)	.	.
+.	.	4FF'	4e- 4f 4a	4r
+.	.	.	.	q8b
+.	.	16r	4r	4cc'
+.	.	(16FLL	.	.
+.	.	16C	.	.
+.	.	16AAJJ)	.	.
+.	.	4FF'	4e- 4f 4a	4r
+=155	=155	=155	=155	=155
+.	.	.	.	q8cc#
+1T	1I	16r	4r	4dd'
+.	.	(16BB-LL	.	.
+.	.	16FF	.	.
+.	.	16DDJJ)	.	.
+.	.	4BBB-'	4d 4f 4b-	4r
+.	.	2r	2r	2bb-
+=156	=156	=156	=156	=156
+.	.	.	.	q8a
+1T	1I	16r	4r	4b-'
+.	.	(16B-LL	.	.
+.	.	16G	.	.
+.	.	16E-JJ)	.	.
+.	.	4BB-'	4e- 4g	4r
+.	.	2r	2r	2bb-
+=157	=157	=157	=157	=157
+.	.	.	.	q8a
+1T	1I	16r	4r	4b-'
+.	.	(16B-LL	.	.
+.	.	16F	.	.
+.	.	16DJJ)	.	.
+.	.	4BB-'	4d 4f	4r
+.	.	2r	2r	2bb-
+*	*	*	*v	*v
+=158	=158	=158	=158
+4D	4V	[1FF	4ff' 4aa' 4ccc' 4fff'
+4D	4Ic	.	4ff' 4bb-' 4ddd' 4fff'
+4D	4V	.	4ff' 4aa' 4ccc' 4fff'
+4D	4Ic	.	4ff' 4bb-' 4ddd' 4fff'
+=159	=159	=159	=159
+1D	1V	(4.FF]	4ff' 4aa' 4ccc' 4fff'
+.	.	.	4r
+.	.	16EELL	.
+.	.	16FFJJ)	.
+.	.	8AA'L	2r
+.	.	8FF'	.
+.	.	8CC'	.
+.	.	8AAA'J	.
+*-	*-	*-	*-

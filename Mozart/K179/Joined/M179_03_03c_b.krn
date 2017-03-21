@@ -1,0 +1,103 @@
+!!!COM: Mozart
+!!!OTL: Zwolf Variationen in C uber ein Menuett von Johann Christian Fischer
+!!!Variation: Variation 3 c
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[]	*k[]
+*M3/4	*M3/4	*M3/4	*M3/4
+*C:	*C:	*C:	*C:
+=84	=84	=84	=84
+2.D	2.V	2.G 2.B	(12ddL
+.	.	.	12b
+.	.	.	12ccJ
+.	.	.	12ddL
+.	.	.	12cc#
+.	.	.	12ddJ)
+.	.	.	(8.gL
+.	.	.	32f#LL
+.	.	.	32gJJJ)
+=85	=85	=85	=85
+2.D	2.Ic	2.G 2.c	(12eeL
+.	.	.	12cc
+.	.	.	12ddJ
+.	.	.	12eeL
+.	.	.	12dd#
+.	.	.	12eeJ)
+.	.	.	(8.gL
+.	.	.	32f#LL
+.	.	.	32gJJJ)
+=86	=86	=86	=86
+2.D	2.V7	2G 2d	(12ffL
+.	.	.	12ddn
+.	.	.	12eeJ
+.	.	.	12ffL
+.	.	.	12ee
+.	.	.	12ffJ)
+.	.	4F 4B	(8.gL
+.	.	.	32f#LL
+.	.	.	32gJJJ)
+=87	=87	=87	=87
+2T	2Ib	2E 2G 2c	(12ccL
+.	.	.	12g)
+.	.	.	12gg'J
+.	.	.	(12ggL
+.	.	.	12cc)
+.	.	.	12ccc'J
+4T	4IV	4F 4A 4c	(12cccL
+.	.	.	12aa)
+.	.	.	12cc'J
+=88	=88	=88	=88
+2T	2Ib	2E 2G 2c	(12ccL
+.	.	.	12g)
+.	.	.	12gg'J
+.	.	.	(12ggL
+.	.	.	12cc)
+.	.	.	12ccc'J
+4T	4IV	4F 4A 4c	(12cccL
+.	.	.	12aa)
+.	.	.	12cc'J
+=89	=89	=89	=89
+*	*	*	*^
+4T	4Ib	(12eL	(4gg	2.g
+.	.	12d#	.	.
+.	.	12eJ	.	.
+4T	4V7c	12dL	4ff	.
+.	.	12c#	.	.
+.	.	12dJ	.	.
+4T	4I	12cL	4ee)	.
+.	.	12B	.	.
+.	.	12cJ)	.	.
+=90	=90	=90	=90	=90
+*	*	*^	*	*
+4D	4V	(4B	2.G	(12ddL	2.g
+.	.	.	.	12cc#	.
+.	.	.	.	12ddJ	.
+4D	4Ic	4c	.	12eeL	.
+.	.	.	.	12dd#	.
+.	.	.	.	12eeJ	.
+4D	4V	4d)	.	12ffL	.
+.	.	.	.	12ee	.
+.	.	.	.	12ffJ)	.
+=91	=91	=91	=91	=91	=91
+2.D	2.Cc	(12eL	2.G	(4gg	2.g
+.	.	12d#	.	.	.
+.	.	12eJ	.	.	.
+.	.	12dL	.	4ff	.
+.	.	12c#	.	.	.
+.	.	12dJ	.	.	.
+.	.	12cL	.	4ee)	.
+.	.	12B	.	.	.
+.	.	12cJ)	.	.	.
+=92	=92	=92	=92	=92	=92
+2.D	2.V	4B	4G	(12eeL	4g
+.	.	.	.	12cc#	.
+.	.	.	.	12ddJ	.
+*	*	*v	*v	*	*
+.	.	4r	12ccL	4r
+.	.	.	12a#	.
+.	.	.	12bJ	.
+.	.	4r	12aL	4r
+.	.	.	12f#	.
+.	.	.	12gJ)	.
+*	*	*	*v	*v
+*-	*-	*-	*-

@@ -1,0 +1,82 @@
+!!!COM: Beethoven
+!!!OTL: Sechs Variationen uber ein Schweizer Lied
+!!!Variation: Variation 6 c
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*	*	*met(c)	*met(c)
+*M4/4	*M4/4	*M4/4	*M4/4
+*F:	*F:	*F:	*F:
+4T	4V	4C' 4c'	4r
+=73	=73	=73	=73
+1T	1I	4F' 4f'	4r
+.	.	4E' 4e'	(24ccLL
+.	.	.	24dd
+.	.	.	24ccJ
+.	.	.	16bL
+.	.	.	16ccJJ
+.	.	4D' 4d'	4ff')
+.	.	4C' 4c'	4ee'
+=74	=74	=74	=74
+2.T	2.I	4F' 4f'	4dd'
+.	.	4E' 4e'	(24ccLL
+.	.	.	24dd
+.	.	.	24ccJ
+.	.	.	16bL
+.	.	.	16ccJJ
+.	.	4D' 4d'	[4ff)
+4T	4V	4C'	16ffLL]
+.	.	.	16ee
+.	.	.	16dd
+.	.	.	16ccJJ
+=75	=75	=75	=75
+4T	4I	4FF' 4F'	16ddLL
+.	.	.	16cc
+.	.	.	16b-
+.	.	.	16aJJ
+4T	4V7c	4GG' 4G'	16ccLL
+.	.	.	16b-
+.	.	.	16dd
+.	.	.	16b-JJ
+4T	4Ib	4AA' 4A'	16b-LL
+.	.	.	16a
+.	.	.	16cc
+.	.	.	16aJJ
+4P	4iib	4BB-' 4B-'	16aLL
+.	.	.	16g
+.	.	.	16b-
+.	.	.	16gJJ
+=76	=76	=76	=76
+2D	2Cc	2C 2c	8f'L
+.	.	.	8g'
+.	.	.	8a'
+.	.	.	8b-'J
+*	*	*	*^
+2D	2V7	2C 2G	(4cc	2b-
+.	.	.	8dd'L)	.
+.	.	.	8ee'J	.
+*	*	*	*v	*v
+=77	=77	=77	=77
+2T	2I	8F'L	4a 4ff
+.	.	8G'	.
+.	.	8A'	4r
+.	.	8B-'J	.
+2T	2V7	(4c	(2b- 2cc
+.	.	8d'L)	.
+.	.	8e'J	.
+=78	=78	=78	=78
+*	*	*^	*
+2T	2I	4f	8FF'L	4a)
+.	.	.	8GG'	.
+.	.	4r	8AA'	4r
+.	.	.	8BB-'J	.
+2T	2V7	2r	(4C	(2B- 2c
+.	.	.	8D'L)	.
+.	.	.	8E'J	.
+*	*	*v	*v	*
+=79	=79	=79	=79
+2.T	2.I	4FF 4F	4A)
+.	.	4r	4r
+.	.	4r	4r
+==	==	==	==
+*-	*-	*-	*-

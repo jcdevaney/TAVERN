@@ -1,0 +1,105 @@
+**kern	**kern	**kern
+*staff3	*staff2	*staff1
+*tb32	*tb32	*tb32
+*clefF4	*clefF4	*clefG2
+*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+*M2/4	*M2/4	*M2/4
+*A:	*A:	*A:
+*M6/8	*M6/8	*M6/8
+(8AAL	2.r	(4a'
+8E	.	.
+8EEJ	.	8b'
+8AAL	.	4cc#'
+8E	.	.
+8EEJ)	.	8dd')
+=479	=479	=479
+(8BBL	2.r	[4.ee
+8E	.	.
+8EEJ	.	.
+8GG#L	.	4ee]
+8E	.	.
+8EEJ)	.	8dd
+=480	=480	=480
+(8AAL	2.r	(4cc#'
+8E	.	.
+8EEJ	.	8b'
+8AAL	.	4cc#'
+8E	.	.
+8EEJ)	.	8dd')
+=481	=481	=481
+(8BBL	2.r	[4.ee
+8E	.	.
+8EEJ	.	.
+8DL	.	4ee]
+8E	.	.
+8EEJ)	.	(8ee
+=482	=482	=482
+(8AAL 8C#	2.r	(4aa')
+8E	.	.
+8EEJ	.	8bb'
+8AAL 8C#	.	4ccc#'
+8E	.	.
+8EEJ)	.	8ddd')
+=483	=483	=483
+(8BBL 8D	2.r	([4.eee
+8E	.	.
+8EEJ	.	.
+8GG#L 8BB	.	4eee]
+8E	.	.
+8EEJ)	.	8ddd
+=484	=484	=484
+(8AAL 8C#	2.r	4ccc#)
+8E	.	.
+8EEJ	.	8r
+8GG#L 8D	.	4r
+8E	.	.
+8EEJ)	.	(8bb
+=485	=485	=485
+(8AAL 8C#	2.r	4aa)
+8E	.	.
+8EEJ	.	8r
+8GG#L 8BB	.	4r
+8E	.	.
+8EEJ)	.	(8dd
+=486	=486	=486
+(8AAL 8C#	2.r	4cc#)
+8E	.	.
+8EEJ	.	8r
+8GG#L 8D	.	4r
+8E	.	.
+8EEJ)	.	(8b
+=487	=487	=487
+(8AAL 8C#	2.r	4a)
+8E	.	.
+8EEJ	.	8r
+8GG#L 8BB	.	4r
+8E	.	.
+8EEJ)	.	(8d
+=488	=488	=488
+(8AAL 8C#	2.r	4c#)
+8E	.	.
+8EEJ	.	8r
+8GG#L 8D	.	4r
+8E	.	.
+8EEJ)	.	(8B
+=489	=489	=489
+[2.AA [2.C# [2.E	2.r	(4A')
+.	.	8B'
+.	.	4c#'
+.	.	8d')
+=490	=490	=490
+2.AA] 2.C#] 2.E]	2.r	4e
+.	.	8r
+.	.	4.r
+=491	=491	=491
+[2.AA [2.C# [2.E	2.r	(4A'
+.	.	8B'
+.	.	4c#'
+.	.	8d')
+=492	=492	=492
+4.AA] 4.C#] 4.E]	2.r	4.e
+4.EE 4.BB	.	4.E 4.G# 4.e
+=493	=493	=493
+2.AAA; 2.AA;	2.r	2.E; 2.A; 2.c#;
+*=514||	*=514||	*=514||
+*-	*-	*-

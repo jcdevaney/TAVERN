@@ -1,0 +1,45 @@
+!!!COM: Beethoven
+!!!OTL: Sechs leichte variationen
+!!!Variation: Variation 3 c
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#]	*k[f#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*G:	*G:	*G:	*G:
+4D	4Ic	(16BLL	8d'L 8dd'
+.	.	16A#	.
+.	.	16B	8d'J 8dd'
+.	.	16DJJ)	.
+=57	=57	=57	=57
+4D	4V7	(16ALL	(8dL 8dd
+.	.	16G#	.
+.	.	16A	16cJk) 16cc
+.	.	16DJJ)	16r
+4D	4Ic	(16GLL	8r
+.	.	16F#	.
+.	.	16G	8B' 8b'
+.	.	16DJJ)	.
+=58	=58	=58	=58
+4D	4V	(16F#LL	(8BL 8b
+.	.	16E#	.
+.	.	16F#	16AJk) 16a
+.	.	16DJJ)	16r
+4D	4V7	(16cLL	8r
+.	.	16B	.
+.	.	16c	8e' 8ee'
+.	.	16DJJ)	.
+=59	=59	=59	=59
+4D	4Cc	(16BLL	(8eL 8ee
+.	.	16A#	.
+.	.	16B	16dJk) 16dd
+.	.	16DJJ)	16r
+4D	4V7	(16ALL	8r
+.	.	16D	.
+.	.	16E	8c' 8cc'
+.	.	16F#JJ)	.
+=60	=60	=60	=60
+4T	4I	(16GLL	(8cL 8cc
+.	.	16GG	.
+.	.	16BB	8BJ) 8b
+.	.	16DJJ)	.
+*-	*-	*-	*-

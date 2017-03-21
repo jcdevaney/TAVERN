@@ -1,0 +1,14 @@
+## script to alter the harm files
+
+let num=1
+for file in *Claire*
+do
+	if [ $num -lt 10 ]
+	then
+	extract -f 1,2 $file | sed 's/\*\*chords	\*\*function/**kern	**recip/g' > temp_harm0$num
+	else
+	extract -f 1,2 $file | sed 's/\*\*chords	\*\*function/**kern	**recip/g' > temp_harm$num
+	fi
+let num=$num+1
+done
+

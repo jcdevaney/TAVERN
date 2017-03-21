@@ -1,0 +1,111 @@
+**kern	**kern
+*staff1	*staff2
+*clefG2	*clefG2
+*k[b-]	*k[b-]
+*M2/4	*M2/4
+*F:	*F:
+8ccL	4r
+8ccJ	.
+=141	=141
+32r	4C' 4G' 4B-'
+(32cLLL	.
+32d	.
+32eJJ	.
+32fLL	.
+32g	.
+32a	.
+32bJJJ)	.
+8cc'L	8r
+8ee'J	8C' 8G' 8B-'
+=142	=142
+32r	4C' 4F' 4A'
+(32fLLL	.
+32g	.
+32aJJ	.
+32b-LL	.
+32cc	.
+32dd	.
+32eeJJJ)	.
+8ff'L	8r
+8aa'J	8C' 8F' 8A'
+=143	=143
+32r	4C' 4E' 4G'
+(32ccLLL	.
+32dd	.
+32eeJJ	.
+32ffLL	.
+32gg	.
+32aa	.
+32bbJJJ)	.
+8ccc'L	8r
+8bb-'J	8C' 8E' 8G'
+=144	=144
+16aa'LL	4F 4A
+16ccc'	.
+16aa'	.
+16ff'JJ	.
+16cc'LL	4r
+16a'	.
+16f'	.
+16cc'JJ	.
+=145	=145
+4c	32r
+.	(32CCLLL
+.	32DD
+.	32EEJJ
+.	32FFLL
+.	32GG
+.	32AA
+.	32BBJJJ)
+8r	8C'L
+8g' 8b-' 8cc'	8E'J
+=146	=146
+4f' 4a' 4cc'	32r
+.	(32FFLLL
+.	32GG
+.	32AAJJ
+.	32BB-LL
+.	32C
+.	32D
+.	32EJJJ)
+8r	8F'L
+8f 8cc 8ff	8A'J
+=147	=147
+(32ddLLL	8BB-
+32ee	.
+32ff	.
+32ggJJ	.
+32aaLL	8r
+32bb-	.
+32ccc	.
+32dddJJJ)	.
+(32eeLLL	8C 8G 8B-
+32ff	.
+32gg	.
+32aaJJ	.
+32bb-LL	8r
+32ccc	.
+32ddd	.
+32eeeJJJ)	.
+=148	=148
+16r	8F 8A
+(32fffLLL	.
+32eeeJJ	.
+32dddLL	8r
+32ccc	.
+32bb-	.
+32aaJJJ	.
+32ggLLL	8C 8E
+32ff	.
+32ee	.
+32ddJJ	.
+32ccLL	8r
+32b-	.
+32a	.
+32gJJJ)	.
+=149	=149
+8f	8FF 8F
+8r	8r
+4r	4r
+==150||	==150||
+*-	*-

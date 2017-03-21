@@ -1,0 +1,79 @@
+!!!COM: Mozart
+!!!OTL: Zwolf Variationen in Es, uber die Romanze 'Je suis Lindor' aus der Komodie 'Le Barbier de Seville'
+!!!Variation: Variation 10 a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*M2/4	*M2/4	*M2/4	*M2/4
+*E-:	*E-:	*E-:	*E-:
+=221	=221	=221	=221
+2T	2I	32r	(4g 4b-
+.	.	32E-LLL	.
+.	.	32EE-	.
+.	.	32E-JJ	.
+.	.	32EE-LL	.
+.	.	32E-	.
+.	.	32EE-	.
+.	.	32E-JJJ	.
+.	.	32EE-LLL	8e-L) 8g
+.	.	32E-	.
+.	.	32EE-	.
+.	.	32E-JJ	.
+.	.	32EE-LL	8e-J 8g
+.	.	32E-	.
+.	.	32EE-	.
+.	.	32E-JJJ	.
+=222	=222	=222	=222
+2T	2I	32EE-LLL	4.e- 4.g
+.	.	32E-	.
+.	.	32EE-	.
+.	.	32E-JJ	.
+.	.	32EE-LL	.
+.	.	32E-	.
+.	.	32EE-	.
+.	.	32E-JJJ	.
+.	.	32EE-LLL	.
+.	.	32E-	.
+.	.	32EE-	.
+.	.	32E-JJ	.
+.	.	32EE-LL	(8G [8e-
+.	.	32E-	.
+.	.	32EE-	.
+.	.	32E-JJJ	.
+=223	=223	=223	=223
+*	*	*	*^
+4T	4viio	32EE-LLL	4.f	8e-L]
+.	.	32E-	.	.
+.	.	32EE-	.	.
+.	.	32E-JJ	.	.
+.	.	32EE-LL	.	8dJ
+.	.	32E-	.	.
+.	.	32EE-	.	.
+.	.	32E-JJJ	.	.
+4T	4V7/IV	32EE-LLL	.	4d-)
+.	.	32E-	.	.
+.	.	32EE-	.	.
+.	.	32E-JJ	.	.
+.	.	32EE-LL	8g	.
+.	.	32E-	.	.
+.	.	32EE-	.	.
+.	.	32E-JJJ	.	.
+*	*	*	*v	*v
+=224	=224	=224	=224
+8T	8vi7b	32EE-LLL	(8cL 8e- 8b-
+.	.	32E-	.
+.	.	32EE-	.
+.	.	32E-JJ	.
+8T	8viio	32EE-LL	8dJ 8f 8a-
+.	.	32E-	.
+.	.	32EE-	.
+.	.	32E-JJJ	.
+4T	4I	32EE-LLL	8e-) 8g
+.	.	32E-	.
+.	.	32EE-	.
+.	.	32E-JJ	.
+.	.	32EE-LL	8r
+.	.	32E-	.
+.	.	32EE-	.
+.	.	32E-JJJ	.
+*-	*-	*-	*-

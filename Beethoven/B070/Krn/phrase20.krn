@@ -1,0 +1,58 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[b-e-]	*k[b-e-]
+*M6/8	*M6/8
+*g:	*g:
+8r	8dd
+=95	=95
+*^	*
+8r	4.F#	4a 4cc
+(8e-L	.	.
+8dJ)	.	8a 8cc
+8r	4.G	4g 4b-
+(8e-L	.	.
+8dJ)	.	8g 8b-
+*v	*v	*
+=96	=96
+8DL	[4.f# [4.a
+(8e-	.
+8dJ	.
+8c#L	4f#] 4a]
+8dJ)	.
+*	*^
+8r	[8cc	8r
+*	*v	*v
+=97	=97
+*^	*
+4.d 4.f 4.a-	2.G	8ccL]
+.	.	(8cc
+.	.	8bJ)
+4.e- 4.g	.	8r
+.	.	(8ddL
+.	.	8ccJ)
+*v	*v	*
+=98	=98
+4.G 4.B 4.g	8r
+.	(8ee-L
+.	8ddJ)
+4.C 4.c 4.g	8r
+.	(8ffL
+.	8ee-J)
+=99	=99
+4.D 4.B- 4.d	8r
+.	(8ee-L
+.	8gJ)
+4.D 4.A 4.c	8r
+.	(8gL
+.	8f#J)
+=100	=100
+*^	*
+(8GGL	[4.GG	4.c 4.a
+8D	.	.
+8F#J	.	.
+4G)	4GG]	4B- 4g
+*clefG2	*clefG2	*
+*v	*v	*
+==	==
+*-	*-

@@ -1,0 +1,143 @@
+!!!COM: Beethoven
+!!!OTL: 32 Variationen fur das pianoforte
+!!!Variation: Variation 20 a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*M3/4	*M3/4	*M3/4	*M3/4
+*c:	*c:	*c:	*c:
+=161	=161	=161	=161
+2.T	2.i	24CCLL	8r
+.	.	24BBB	.
+.	.	24CCJ	.
+.	.	24DDL	4cc 4ee- 4gg 4ccc
+.	.	24CC	.
+.	.	24DDJJ	.
+.	.	24EE-LL	.
+.	.	24DD	.
+.	.	24EE-J	.
+.	.	24FFL	4cc 4ee- 4gg 4ccc
+.	.	24EE-	.
+.	.	24FFJJ	.
+.	.	8GG'L	.
+.	.	8CC'J	8cc 8ee- 8gg 8ccc
+=162	=162	=162	=162
+2.T	2.V	24GGLL	8r
+.	.	24FF#	.
+.	.	24GGJ	.
+.	.	24AAL	4b 4dd 4gg 4bb
+.	.	24GG	.
+.	.	24AAJJ	.
+.	.	24BBLL	.
+.	.	24AA	.
+.	.	24BBJ	.
+.	.	24CL	4b 4dd 4gg 4bb
+.	.	24BB	.
+.	.	24CJJ	.
+.	.	8D'L	.
+.	.	8GG'J	8b 8dd 8gg 8bb
+=163	=163	=163	=163
+2.T	2.V7/IV	24CLL	8r
+.	.	24BB	.
+.	.	24CJ	.
+.	.	24DL	4b- 4cc 4ee 4gg 4bb-
+.	.	24C	.
+.	.	24DJJ	.
+.	.	24ELL	.
+.	.	24D	.
+.	.	24EJ	.
+.	.	24FL	4b- 4cc 4ee 4gg 4bb-
+.	.	24E	.
+.	.	24FJJ	.
+.	.	8G'L	.
+.	.	8C'J	8b- 8cc 8ee 8gg 8bb-
+=164	=164	=164	=164
+2.P	2.IV	24FLL	8r
+.	.	24E	.
+.	.	24FJ	.
+.	.	24GL	4a 4cc 4ff 4aa
+.	.	24F	.
+.	.	24GJJ	.
+.	.	24ALL	.
+.	.	24G	.
+.	.	24AJ	.
+.	.	24B-L	4a 4cc 4ff 4aa
+.	.	24A	.
+.	.	24B-JJ	.
+.	.	8c'L	.
+.	.	8F'J	8a 8cc 8ff 8aa
+*	*	*clefG2	*
+=165	=165	=165	=165
+2.P	2.viioD7b/V	24ALL	8r
+.	.	24G	.
+.	.	24AJ	.
+.	.	24BL	4f# 4cc 4ee- 4ff#
+.	.	24A	.
+.	.	24BJJ	.
+.	.	24cLL	.
+.	.	24B	.
+.	.	24cJ	.
+.	.	24dL	4f# 4cc 4ee- 4ff#
+.	.	24c	.
+.	.	24dJJ	.
+.	.	8e-'L	.
+.	.	8A'J	8f# 8cc 8ee- 8ff#
+=166	=166	=166	=166
+4D	4Vb	24BLL	8g 8dd 8gg
+.	.	24A	.
+.	.	24BJ	.
+.	.	24cL	8r
+.	.	24B	.
+.	.	24cJJ	.
+2D	2viioD7c	24dLL	8b 8dd 8ff 8aa- 8bb
+.	.	24c	.
+.	.	24dJ	.
+.	.	24e-L	8r
+.	.	24d	.
+.	.	24e-JJ	.
+.	.	24fLL	4r
+.	.	24e-	.
+.	.	24fJ	.
+.	.	24gL	.
+.	.	24f	.
+.	.	24gJJ	.
+=167	=167	=167	=167
+2D	2viioD7d	24a-LL	4r
+.	.	24b-	.
+.	.	24a-J	.
+.	.	24gL	.
+.	.	24a-	.
+.	.	24gJJ	.
+.	.	24fLL	4r
+.	.	24g	.
+.	.	24fJ	.
+.	.	24e-L	.
+.	.	24f	.
+.	.	24e-JJ	.
+4D	4V7c	24dLL	8b 8dd 8ff 8gg 8bb
+.	.	24e-	.
+.	.	24dJ	.
+.	.	24cL	8r
+.	.	24d	.
+.	.	24cJJ	.
+*	*	*clefF4	*
+=168	=168	=168	=168
+2.T	2.i	24BLL	4r
+.	.	24c	.
+.	.	24BJ	.
+.	.	24A-L	.
+.	.	24B-	.
+.	.	24A-JJ	.
+.	.	24GLL	8cc 8ee- 8gg 8ccc
+.	.	24A-	.
+.	.	24GJ	.
+.	.	24FL	8r
+.	.	24G	.
+.	.	24FJJ	.
+.	.	24E-LL	4r
+.	.	24F	.
+.	.	24E-J	.
+.	.	24DL	.
+.	.	24E-	.
+.	.	24DJJ	.
+*-	*-	*-	*-

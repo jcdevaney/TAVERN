@@ -1,0 +1,132 @@
+!!!COM: Mozart
+!!!OTL: Sechs Variationen in F uber die Arie 'Salve tu, Domine' aus der Oper 'I filosofi immaginarii' 
+!!!Variation: Variation 6d coda
+**function	**harm	**comments	**kern	**kern
+*	*	*	*clefF4	*clefG2
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*	*	*	*k[b-]	*k[b-]
+*F:	*F:	*F:	*F:	*F
+=162	=162	=162	=162	=162
+*	*	*	*	*^
+4T	4I	T	8FFL	8.aL	4f
+.	.	.	8FJ	.	.
+.	.	.	.	16ccJk	.
+4T	4Ib	.	8AAL	8cL 8f	4r
+.	.	.	8AJ	8cJ 8f	.
+4T	4V	D	8CL	8eL 8g	4r
+.	.	.	8cJ	8eJ 8g	.
+=163	=163	=163	=163	=163	=163
+4T	4I	T	8FFL	8.aL	4f
+.	.	.	8FJ	.	.
+.	.	.	.	16ccJk	.
+4T	4Ib	.	8AAL	8cL 8f	4r
+.	.	.	8AJ	8cJ 8f	.
+4T	4V	D	8CL	8eL 8g	4r
+.	.	.	8cJ	8eJ 8g	.
+=164	=164	=164	=164	=164	=164
+4T	4I	T	4F	8.aL	4f
+.	.	.	.	16ffJk	.
+4T	4ii7b	P	4BB- 4B-	8.gL	4d
+.	.	.	.	16ddJk	.
+4T	4V7	D	4C 4c	8.ccL	4e
+.	.	.	.	16b-Jk	.
+=165	=165	=165	=165	=165	=165
+2.T	2.vi	T	2D 2d	2b-	2e
+.	.	.	4r	4a	4f
+*	*	*	*	*v	*v
+*	*	*	*clefG2	*
+=166	=166	=166	=166	=166
+4T	4I	T	8FL	16aaLL
+.	.	.	.	16bb-
+.	.	.	8fJ	16bb
+.	.	.	.	16cccJJ
+4T	4Ib	.	8AL	8ffL
+.	.	.	8aJ	8ffJ
+4T	4V	D	8cL	8ggL
+.	.	.	8ccJ	8ggJ
+=167	=167	=167	=167	=167
+4T	4I	T	8FL	16aaLL
+.	.	.	.	16bb-
+.	.	.	8fJ	16bb
+.	.	.	.	16cccJJ
+4T	4Ib	.	8AL	8ffL
+.	.	.	8aJ	8ffJ
+4T	4V	D	8cL	8ggL
+.	.	.	8ccJ	8ggJ
+=168	=168	=168	=168	=168
+4T	4Ib	T	4f 4ff	(8.aaL
+.	.	.	.	16fffJk)
+4T	4iib	P	4B- 4g 4dd	(8.ggL
+.	.	.	.	16dddJk)
+4T	4V7	D	4c 4g	(8.cccL
+.	.	.	.	16eeJk)
+=169	=169	=169	=169	=169
+2.T	2.I	T	4f 4a	4ff
+.	.	.	2r	4r
+.	.	.	.	4r
+*	*	*	*clefF4	*
+=170	=170	=170	=170	=170
+4T	4vi	T	4AA 4F	(8.aL
+.	.	.	.	16ffJk)
+4T	4iib	P	4BB- 4G	(8.gL
+.	.	.	.	16ddJk)
+4T	4V7	D	4C 4B-	(8.ccL
+.	.	.	.	16eJk)
+=171	=171	=171	=171	=171
+2.T	2.I	T	4F 4A	4f
+.	.	.	4r	4r
+.	.	.	4r	4r
+*	*	*	*	*clefF4
+=172	=172	=172	=172	=172
+4T	4vi	T	4D	(16ALK
+.	.	.	.	8.fJ)
+4T	4iib	P	4BB-	(16GLK
+.	.	.	.	8.dJ)
+4T	4V	D	4C	(16cLK
+.	.	.	.	8.EJ)
+=173	=173	=173	=173	=173
+2.T	2.I	T	4FF	4F
+.	.	.	4r	4r
+.	.	.	4r	4r
+=174	=174	=174	=174	=174
+4T	4vi	.	4DD	(16AALK
+.	.	.	.	8.FJ)
+4T	4iib	.	4BBB-	(16GGLK
+.	.	.	.	8.DJ)
+4T	4V	.	4CC	(16CLK
+.	.	.	.	8.EEJ)
+=175	=175	=175	=175	=175
+2.T	2.V7/IV	.	2.FFF 2.FF	(16ALK
+.	.	.	.	8.e-J)
+.	.	.	.	(16dLK
+.	.	.	.	8.B-J)
+.	.	.	.	(16ALK
+.	.	.	.	8.c#J)
+=176	=176	=176	=176	=176
+4T	4IVc	.	2.FFF 2.FF	(16dLK
+.	.	.	.	8.B-J)
+2T	2I	.	.	(16ALK
+.	.	.	.	8.cJ)
+.	.	.	.	(16BLK
+.	.	.	.	8.G#J)
+=177	=177	=177	=177	=177
+4T	4I	.	2.FFF 2.FF	(16ALK
+.	.	.	.	8.cJ)
+4T	4ii7d	.	.	(16B-LK
+.	.	.	.	8.GJ)
+4T	4I	.	.	(16FLK
+.	.	.	.	8.AJ)
+=178	=178	=178	=178	=178
+.	.	.	.	(q64E
+.	.	.	.	q64G
+2.D	2.V7	.	4r	4B-)
+.	.	.	4CC	4G 4B-
+.	.	.	4CC	4G 4B-
+=179	=179	=179	=179	=179
+2.T	2.I	.	[2.FFF [2.FF	(2.E 2.G 2.B-
+=180	=180	=180	=180	=180
+2.T	2.I	.	4FFF] 4FF]	4F) 4A
+.	.	.	4r	4r
+.	.	.	4r	4r
+==	==	==	==	==
+*-	*-	*-	*-	*-

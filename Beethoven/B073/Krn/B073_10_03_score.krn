@@ -1,0 +1,102 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[b-e-]	*k[b-e-]
+*M3/8	*M3/8
+=200	=200
+*^	*
+4FF	[4.FF	(16fLL
+.	.	16c
+.	.	16A
+.	.	16f
+8F	.	16c
+.	.	16AJJ)
+=201	=201	=201
+4F	4.FF]	(16fLL
+.	.	16c
+.	.	16A
+.	.	16f
+8F	.	16c
+.	.	16AJJ)
+=202	=202	=202
+4E	[4.FF	(16gLL
+.	.	16c
+.	.	16B-
+.	.	16a
+8E-	.	16f
+.	.	16cJJ)
+=203	=203	=203
+4D	4.FF]	(16b-LL
+.	.	16f
+.	.	16d
+.	.	16cc
+8C	.	16a
+.	.	16e-JJ)
+=204	=204	=204
+4BB-	4BB-	(16ddLL
+.	.	16b-
+.	.	16f)
+.	.	16ff'
+8r	8r	16dd'
+.	.	16b-'JJ
+*v	*v	*
+=205	=205
+4.r	(16bb-LL
+.	16ff
+.	16dd)
+.	16ddd'
+.	16bb-'
+.	16ff'JJ
+*clefG2	*
+=206	=206
+8f	(16fffLL
+.	16ddd
+4ff	16bb-
+.	16fff
+.	16ddd
+.	16bbJJ)
+=207	=207
+8f	(16fffLL
+.	16eee-
+4ee- 4ff	16ccc
+.	16fff
+.	16ccc
+.	16aaJJ)
+=208	=208
+4b- 4dd	(16fffLL
+.	16ddd
+.	16bb-)
+.	16ddd'
+8r	16bb-'
+.	16ff'JJ
+*clefF4	*
+=209	=209
+4.r	(16bb-LL
+.	16ff
+.	16dd)
+.	16ff'
+.	16dd'
+.	16b-'JJ
+=210	=210
+8F	(16ffLL
+.	16dd
+4f	16b-
+.	16ff
+.	16dd
+.	16bJJ)
+=211	=211
+8F	(16ffLL
+.	16ee-
+4e- 4f	16cc
+.	16ff
+.	16cc
+.	16aJJ)
+=212	=212
+16B-LL	4b-
+16d	.
+16c	.
+16B-	.
+16A	8r
+16GJJ	.
+=	=
+*-	*-

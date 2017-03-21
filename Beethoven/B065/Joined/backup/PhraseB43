@@ -1,0 +1,75 @@
+!!!COM: Beethoven
+!!!OTL: 24 Variationen uber Venni Amore von V. Righini
+!!!Variation: Variation 18 b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#]	*k[f#c#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*D:	*D:	*D:	*D:
+=337	=337	=337	=337
+*	*	*	*^
+4D	4V	12r	2A	(4c# 4e
+.	.	(12AAL	.	.
+.	.	12C#'J)	.	.
+4D	4V7d	12r	.	4e 4a
+.	.	(12GGL	.	.
+.	.	12C#'J)	.	.
+=338	=338	=338	=338	=338
+4D	4Ib	12r	4A	4d) 4f#
+.	.	(12FF#L	.	.
+.	.	12D'J)	.	.
+*	*	*	*v	*v
+4D	4I	8DD' 8AA'	12r
+.	.	.	(12ff#L
+.	.	8r	.
+.	.	.	12dd'J)
+=339	=339	=339	=339
+4D	4V7b	8CC#' 8AA'	12r
+.	.	.	(12ggL
+.	.	8r	.
+.	.	.	12ee'J)
+4D	4V7	8AAA' 8AA'	12r
+.	.	.	(12gL
+.	.	8r	.
+.	.	.	12e'J)
+=340	=340	=340	=340
+2T	2I	8DD'L 8D'	12r
+.	.	.	(12f#L
+.	.	8DD'J 8D'	.
+.	.	.	12d'J)
+.	.	4r	8a'L 8aa'
+.	.	.	8a'J 8aa'
+=341	=341	=341	=341
+*	*	*	*^
+4D	4V	12r	2A	(4c# 4e
+.	.	(12AAL	.	.
+.	.	12C#'J)	.	.
+4D	4V7d	12r	.	4e 4a
+.	.	(12GGL	.	.
+.	.	12C#'J)	.	.
+=342	=342	=342	=342	=342
+4D	4Ib	12r	4A	4d) 4f#
+.	.	(12FF#L	.	.
+.	.	12D'J)	.	.
+*	*	*	*v	*v
+4D	4I	8DD' 8AA'	12r
+.	.	.	(12ff#L
+.	.	8r	.
+.	.	.	12dd'J)
+=343	=343	=343	=343
+4D	4V7b	8CC#' 8AA'	12r
+.	.	.	(12ggL
+.	.	8r	.
+.	.	.	12ee'J)
+4D	4V7	8AAA' 8AA'	12r
+.	.	.	(12gL
+.	.	8r	.
+.	.	.	12e'J)
+=344	=344	=344	=344
+2T	2I	8DD'L 8D'	12r
+.	.	.	(12dL
+.	.	8DD'J 8D'	.
+.	.	.	12f#'J)
+.	.	4r	8dd'L 8ddd'
+.	.	.	8dd'J 8ddd'
+*-	*-	*-	*-

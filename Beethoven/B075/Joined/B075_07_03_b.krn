@@ -1,0 +1,169 @@
+!!!COM: Beethoven
+!!!OTL: 7 Variations on a Quartet by Winter
+!!!Variation: Variation 7 c
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*M2/4	*M2/4	*M2/4	*M2/4
+*F:	*F:	*F:	*F:
+4T	4I	4r	(16ccLL
+.	.	.	16ccc)
+.	.	.	(16cc
+.	.	.	16cccJJ)
+=364	=364	=364	=364
+2.T	2.I	16FLL	4.a 4.aa
+.	.	16c	.
+.	.	16B	.
+.	.	16cJJ	.
+.	.	16B-LL	.
+.	.	16c	.
+.	.	16A	8f' 8ff'
+.	.	16cJJ	.
+.	.	16GLL	8a'L 8aa'
+.	.	16c	.
+.	.	16F	8cc'J 8ccc'
+.	.	16cJJ	.
+=365	=365	=365	=365
+4T	4Vb	16ELL	8cc 8ccc
+.	.	16c	.
+.	.	16G	4b 4bb
+.	.	16cJJ	.
+4T	4V7	16ELL	.
+.	.	16c	.
+.	.	16C	4b- 4bb-
+.	.	16cJJ	.
+4T	4I	16FLL	.
+.	.	16c	.
+.	.	16B	[8a [8aa
+.	.	16cJJ	.
+=366	=366	=366	=366
+4.T	4.V7	16B-LL	8a] 8aa]
+.	.	16c	.
+.	.	16E	4g 4gg
+.	.	16cJJ	.
+.	.	16B-LL	.
+.	.	16c	.
+4.T	4.I	16A	8f' 8ff'
+.	.	16cJJ	.
+.	.	16GLL	8b-'L 8bb-'
+.	.	16c	.
+.	.	16F	8a'J 8aa'
+.	.	16cJJ	.
+=367	=367	=367	=367
+2.T	2.V	16CLL	(8f#L 8ff#
+.	.	16c	.
+.	.	16E	8gJ) 8gg
+.	.	16cJJ	.
+.	.	16GLL	8r
+.	.	16c	.
+.	.	16B-	8cc
+.	.	16cJJ	.
+.	.	16GLL	(16ccLL
+.	.	16c	16ccc)
+.	.	16E	(16cc
+.	.	16cJJ	16cccJJ)
+=368	=368	=368	=368
+2.T	2.I	16FLL	4.a 4.aa
+.	.	16c	.
+.	.	16B	.
+.	.	16cJJ	.
+.	.	16B-LL	.
+.	.	16c	.
+.	.	16A	8f' 8ff'
+.	.	16cJJ	.
+.	.	16GLL	8a'L 8aa'
+.	.	16c	.
+.	.	16F	8cc'J 8ccc'
+.	.	16cJJ	.
+=369	=369	=369	=369
+4T	4Vb	16ELL	8cc 8ccc
+.	.	16c	.
+.	.	16G	4b 4bb
+.	.	16cJJ	.
+4T	4viioD7b/vi	16ELL	.
+.	.	16c#	.
+.	.	16G	4b- 4bb-
+.	.	16c#JJ	.
+4T	4vib	16FLL	.
+.	.	16d	.
+.	.	16A	[8a [8aa
+.	.	16dJJ	.
+=370	=370	=370	=370
+2D	2Cc/V	16GLL	8a] 8aa]
+.	.	16e	.
+.	.	16c	4g 4gg
+.	.	16GJJ	.
+.	.	16ELL	.
+.	.	16G	.
+.	.	16E	8f' 8ff'
+.	.	16CJJ	.
+4D	4V7/V	16GGLL	8e'L 8ee'
+.	.	16BB	.
+.	.	16D	8d'J 8dd'
+.	.	16GJJ	.
+=371	=371	=371	=371
+2.D	2.V	16CLL	8c 8cc
+.	.	16G	.
+.	.	16F#	4e 4ee
+.	.	16GJJ	.
+.	.	16FLL	.
+.	.	16G	.
+.	.	16E	4g 4gg
+.	.	16GJJ	.
+.	.	16DLL	.
+.	.	16G	.
+.	.	16C	[8cc [8ccc
+.	.	16GJJ	.
+=372	=372	=372	=372
+2D	2Cc/V	16GGLL	8cc] 8ccc]
+.	.	16G	.
+.	.	16C	4ee 4eee
+.	.	16GJJ	.
+.	.	16ELL	.
+.	.	16G	.
+.	.	16C	8ee' 8eee'
+.	.	16GJJ	.
+4D	4V7/V	16GGLL	8ff'L 8fff'
+.	.	16G	.
+.	.	16D	8b'J 8bb'
+.	.	16GJJ	.
+=373	=373	=373	=373
+2.D	2.V	16CLL	8cc 8ccc
+.	.	16G	.
+.	.	16F#	4e 4ee
+.	.	16GJJ	.
+.	.	16FLL	.
+.	.	16G	.
+.	.	16E	4g 4gg
+.	.	16GJJ	.
+.	.	16DLL	.
+.	.	16G	.
+.	.	16C	[8cc [8ccc
+.	.	16GJJ	.
+=374	=374	=374	=374
+2D	2Cc/V	16GGLL	8cc] 8ccc]
+.	.	16G	.
+.	.	16C	4ee 4eee
+.	.	16GJJ	.
+.	.	16ELL	.
+.	.	16G	.
+.	.	16C	8ee' 8eee'
+.	.	16GJJ	.
+4D	4V7/V	16GGLL	8ff'L 8fff'
+.	.	16G	.
+.	.	16D	8b'J 8bb'
+.	.	16GJJ	.
+=375	=375	=375	=375
+2.D	2.V	16CLL	4cc 4ccc
+.	.	16c	.
+.	.	16B	.
+.	.	16cJJ	.
+.	.	16BLL	4r
+.	.	16c	.
+.	.	16B-	.
+.	.	16cJJ	.
+.	.	16ALL	4r
+.	.	16c	.
+.	.	16G	.
+.	.	16cJJ	.
+*-	*-	*-	*-

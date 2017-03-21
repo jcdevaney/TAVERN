@@ -1,0 +1,42 @@
+!!!COM: Mozart
+!!!OTL: Zwolf Variationen in Eb uber das franzosische Lied 'La belle Francoise' 
+!!!Variation: Theme b
+**function	**harm	**comments	**kern	**kern
+*M6/8	*M6/8	*	*staff2	*staff1
+*Eb:	*Eb:	*	*clefF4	*clefG2
+*tb8	*	*	*k[b-e-a-]	*k[b-e-a-]
+*	*	*	*M6/8	*M6/8
+*	*	*	*Eb:	*Eb:
+4.D	4.V	.	(8BB-L	4f 4d
+.	.	.	8D	.
+.	.	.	8FJ)	8f 8d
+=	=	=	=5	=5
+4.D	4.I64	.	(8BB-L	4g 4e-
+.	.	.	8E-	.
+.	.	.	8GJ)	8g 8e-
+*	*	*	*	*^
+4.D	4.V7/V	Pedal	(8BB-L	8aL	4e-
+.	.	.	8C	8g	.
+.	.	.	8FJ)	8aJ	8e-
+=	=	=	=6	=6	=6
+2.D	2.V	.	(8BB-L	(8b-L	8d
+.	.	.	8F	8dd	8r
+.	.	.	8DJ)	8ffJ)	8r
+*	*	*	*	*v	*v
+.	.	.	(8BB-L	4f 4d
+.	.	.	8D	.
+.	.	.	8FJ)	8f 8d
+=	=	=	=7	=7
+4.D	4.I64	.	(8BB-L	4g 4e-
+.	.	.	8E-	.
+.	.	.	8GJ)	8g 8e-
+*	*	*	*	*^
+4.D	4.V7/V	Pedal	(8BB-L	8aL	4e-
+.	.	.	8C	8g	.
+.	.	.	8FJ)	8aJ	8e-
+=	=	=	=8	=8	=8
+4.D	4.V7	.	4.BBB-; 4.BB-;	8b-;L	8d
+.	.	.	.	8a;	8r
+.	.	.	.	8a-;J	8r
+*	*	*	*	*v	*v
+*-	*-	*-	*-	*-

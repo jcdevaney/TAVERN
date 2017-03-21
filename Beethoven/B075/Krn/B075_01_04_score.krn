@@ -1,0 +1,74 @@
+**kern	**kern
+*staff1	*staff2
+*clefG2	*clefG2
+*k[b-]	*k[b-]
+*M2/4	*M2/4
+*F:	*F:
+(16aaLL	(8GL
+16gg	.
+16ff	8cJ 8e
+16eeJJ)	.
+(16eeLL	8GL
+16dd	.
+16cc	8dJ) 8f
+16bJJ)	.
+=80	=80
+(16ccLL	8c 8e
+16cc#	.
+16dd	8r
+16ee-JJ	.
+16eeLL	4r
+16ff	.
+16ff#	.
+16ggJJ)	.
+=81	=81
+(16aaLL	(8GGL
+16gg	.
+16ff	8CJ 8E
+16eeJJ)	.
+(16eeLL	8GGL
+16dd	.
+16cc	8DJ) 8F
+16bJJ)	.
+=82	=82
+(16bLL	8C 8E
+16cc	.
+16b	8r
+16ccJJ	.
+16bLL	4r
+16cc	.
+16dd	.
+16ccJJ)	.
+=83	=83
+(16ee-LL	8r
+16a	.
+16dd)	8f#
+16dd'JJ	.
+(16cc#LL	8r
+16dd	.
+16f#)	8d
+16f#'JJ	.
+=84	=84
+(16ccLL	8r
+16d	.
+16b-)	8G
+16b-'JJ	.
+(16ccLL	8r
+16d	.
+16b)	8F
+16b'JJ	.
+=85	=85
+(16ddLL	8r
+16g	.
+16cc)	8E
+16cc'JJ	.
+(16bLL	8r
+16cc	.
+16e)	8C
+16e'JJ	.
+=86	=86
+(16b-LL	8r
+16c	.
+16a)	8FF
+16a'JJ	.
+*-	*-

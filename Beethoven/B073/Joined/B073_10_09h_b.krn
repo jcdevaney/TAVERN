@@ -1,0 +1,137 @@
+!!!COM: Beethoven
+!!!OTL: Zehn Variationen uber "la stessa, la stessissima" aus "Falstaff" von A. Salieri
+!!!Variation: Variation 10 h
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-]	*k[b-e-]
+*M4/4	*M4/4	*M4/4	*M4/4
+*B-:	*B-:	*B-:	*B-:
+=361	=361	=361	=361
+1T	1I	4BB- 4D 4F 4B-	4bb-
+.	.	.	q8cc
+.	.	4r	(16b-LL
+.	.	.	16a
+.	.	.	16b-
+.	.	.	16ccJJ)
+.	.	4r	4b-'
+.	.	4B-' 4f'	4b-' 4dd'
+=362	=362	=362	=362
+1T	1V	4F' 4f'	4a' 4cc'
+.	.	.	q8gg
+.	.	4r	(16ffLL
+.	.	.	16ee
+.	.	.	16ff
+.	.	.	16ggJJ)
+.	.	2r	4ff'
+.	.	.	4r
+=363	=363	=363	=363
+2.T	2.V	4FF' 4F'	4A' 4c'
+.	.	4r	(16ccLL
+.	.	.	16dd
+.	.	.	16cc
+.	.	.	16b-JJ)
+.	.	4r	4a'
+4T	4viio/vi	4F#' 4c'	4a' 4ee-'
+=364	=364	=364	=364
+1T	1vi	4G' 4B-'	4b-' 4dd'
+.	.	.	q8ccc
+.	.	4r	(16bb-LL
+.	.	.	16aa
+.	.	.	16bb-
+.	.	.	16cccJJ)
+.	.	2r	4bb-'
+.	.	.	4r
+=365	=365	=365	=365
+1P	1V7b/V	4E 4B- 4c	4r
+.	.	.	q8aa
+.	.	4r	(16ggLL
+.	.	.	16ff#
+.	.	.	16gg
+.	.	.	16aaJJ)
+.	.	2r	4gg'
+.	.	.	4r
+=366	=366	=366	=366
+1D	1Cc	4F 4B- 4d	4r
+.	.	.	q8gg
+.	.	4r	(16ffLL
+.	.	.	16ee
+.	.	.	16ff
+.	.	.	16ggJJ)
+.	.	2r	4ff'
+.	.	.	4r
+=367	=367	=367	=367
+1D	1V7	4FF 4C 4E-	4r
+.	.	.	q8g
+.	.	4r	(16fLL
+.	.	.	16e
+.	.	.	16f
+.	.	.	16gJJ)
+.	.	2r	4f'
+.	.	.	4r
+=368	=368	=368	=368
+1T	1I	4BBB-'	1r
+.	.	(16BBB-LL	.
+.	.	16AAA	.
+.	.	16BBB-	.
+.	.	16CCJJ)	.
+.	.	4BBB-'	.
+.	.	(16BBB-LL	.
+.	.	16AAA	.
+.	.	16BBB-	.
+.	.	16CCJJ)	.
+=369	=369	=369	=369
+1T	1V7	4BBB-'	4a' 4ee-' 4ff'
+.	.	(16BBB-LL	4a' 4ee-' 4ff'
+.	.	16AAA	.
+.	.	16BBB-	.
+.	.	16CCJJ)	.
+.	.	4BBB-'	4a' 4ee-' 4ff'
+.	.	(16BBB-LL	4a' 4ee-' 4ff'
+.	.	16AAA	.
+.	.	16BBB-	.
+.	.	16CCJJ)	.
+=370	=370	=370	=370
+*	*	*	*^
+1T	1I	4BBB-'	2b- 2dd	(4ff
+.	.	(16BBB-LL	.	4bb-)
+.	.	16AAA	.	.
+.	.	16BBB-	.	.
+.	.	16CCJJ)	.	.
+*	*	*	*v	*v
+.	.	4BBB-'	2r
+.	.	(16BBB-LL	.
+.	.	16AAA	.
+.	.	16BBB-	.
+.	.	16CCJJ)	.
+=371	=371	=371	=371
+1T	1V7	4BBB-'	4A' 4e-' 4f'
+.	.	(16BBB-LL	4A' 4e-' 4f'
+.	.	16AAA	.
+.	.	16BBB-	.
+.	.	16CCJJ)	.
+.	.	4BBB-'	4A' 4e-' 4f'
+.	.	(16BBB-LL	4A' 4e-' 4f'
+.	.	16AAA	.
+.	.	16BBB-	.
+.	.	16CCJJ)	.
+=372	=372	=372	=372
+1T	1I	4BBB-	8B-'L 8d' 8f'
+.	.	.	(16cL
+.	.	.	16dJJ
+.	.	4r	16e-LL
+.	.	.	16f
+.	.	.	16g
+.	.	.	16aJJ)
+.	.	4BB- 4D 4F 4B-	8b-'L
+.	.	.	(16ccL
+.	.	.	16ddJJ
+.	.	4r	16ee-LL
+.	.	.	16ff
+.	.	.	16gg
+.	.	.	16aaJJ)
+=373	=373	=373	=373
+1T	1I	4BBB-' 4BB-'	4bb-'
+.	.	4BB-' 4D' 4F' 4B-'	4d' 4f' 4b-'
+.	.	2r	2r
+==	==	==	==
+*-	*-	*-	*-

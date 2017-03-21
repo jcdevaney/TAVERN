@@ -1,0 +1,34 @@
+!!!COM: Beethoven
+!!!OTL: Sechs Variationen uber ein Schweizer Lied
+!!!Variation: Variation 4 c
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*	*	*met(c)	*met(c)
+*M4/4	*M4/4	*M4/4	*M4/4
+*F:	*F:	*F:	*F:
+4	4V	4r	4cc' 4ccc'
+=51	=51	=51	=51
+2T	2Ib	12r	(4ff 4fff
+.	.	12CL	.
+.	.	12FJ	.
+.	.	12AAL	4ee 4eee
+.	.	12C	.
+.	.	12FJ	.
+4T	4IV	12BB-L	4dd 4ddd
+.	.	12D	.
+.	.	12FJ	.
+4T	4Ib	12AAL	4cc) 4ccc
+.	.	12C	.
+.	.	12FJ	.
+=52	=52	=52	=52
+4T	4I	12FFL	(4ff 4fff
+.	.	12C	.
+.	.	12FJ	.
+4T	4Ib	12AAL	4ee 4eee
+.	.	12C	.
+.	.	12FJ	.
+4T	4IV	12BB-L	4dd) 4ddd
+.	.	12D	.
+.	.	12FJ	.
+*-	*-	*-	*-

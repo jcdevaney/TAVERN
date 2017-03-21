@@ -1,0 +1,111 @@
+!!!COM: Beethoven
+!!!OTL: 32 Variationen fur das pianoforte
+!!!Variation: Variation 8 a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*M3/4	*M3/4	*M3/4	*M3/4
+*c:	*c:	*c:	*c:
+=65	=65	=65	=65
+2.T	2.i	16CCLL	16r
+.	.	16C 16E-	16e-LL 16g
+.	.	16GG 16G	16c 16cc
+.	.	16CJJ 16E-	16e-JJ 16g
+.	.	16GGLL 16G	16e-LL 16ee-
+.	.	16C 16E-	16g 16cc
+.	.	16GG 16G	16g 16gg
+.	.	16CJJ 16E-	16ccJJ 16ee-
+.	.	16GGLL 16G	16ccLL 16ccc
+.	.	16C 16E-	16ee- 16gg
+.	.	16GG 16G	16ee- 16eee-
+.	.	16CJJ 16E-	16ggJJ 16ccc
+=66	=66	=66	=66
+2.T	2.V	16GGGLL	16ddLL 16ddd
+.	.	16BB 16D	16gg 16bb
+.	.	16GG 16G	16b 16bb
+.	.	16BBJJ 16D	16ddJJ 16gg
+.	.	16GGLL 16G	16gLL 16gg
+.	.	16BB 16D	16b 16dd
+.	.	16GG 16G	16d 16dd
+.	.	16BBJJ 16D	16gJJ 16b
+.	.	16GGLL 16G	16BLL 16b
+.	.	16BB 16D	16d 16g
+.	.	16GG 16G	16G 16g
+.	.	16BBJJ 16D	16BJJ 16d
+=67	=67	=67	=67
+2.T	2.V7/IV	16CCLL	16r
+.	.	16BB- 16C	16gLL 16b-
+.	.	16GG 16E	16e 16ee
+.	.	16BB-JJ 16C	16gJJ 16b-
+.	.	16GGLL 16E	16gLL 16gg
+.	.	16BB- 16C	16b- 16ee
+.	.	16GG 16E	16b- 16bb-
+.	.	16BB-JJ 16C	16eeJJ 16gg
+.	.	16GGLL 16E	16eeLL 16eee
+.	.	16BB- 16C	16gg 16bb-
+.	.	16GG 16E	16gg 16ggg
+.	.	16BB-JJ 16C	16bb-JJ 16eee
+=68	=68	=68	=68
+2.P	2.IV	16FFFLL	16ffLL 16fff
+.	.	16AA 16C	16aa 16ccc
+.	.	16FF 16F	16cc 16ccc
+.	.	16AAJJ 16C	16ffJJ 16aa
+.	.	16FFLL 16F	16aLL 16aa
+.	.	16AA 16C	16cc 16ff
+.	.	16FF 16F	16f 16ff
+.	.	16AAJJ 16C	16aJJ 16cc
+.	.	16FFLL 16F	16cLL 16cc
+.	.	16AA 16C	16f 16a
+.	.	16FF 16F	16A 16a
+.	.	16AAJJ 16C	16cJJ 16f
+=69	=69	=69	=69
+2.P	2.V7/V	16DDLL	16r
+.	.	16C 16D	16f#LL 16a
+.	.	16AA 16F#	16c 16cc
+.	.	16CJJ 16D	16f#JJ 16a
+.	.	16AALL 16F#	16f#LL 16ff#
+.	.	16C 16D	16a 16cc
+.	.	16AA 16F#	16a 16aa
+.	.	16CJJ 16D	16ccJJ 16ff#
+.	.	16AALL 16F#	16ccLL 16ccc
+.	.	16C 16D	16ff# 16aa
+.	.	16AA 16F#	16ff# 16fff#
+.	.	16CJJ 16D	16aaJJ 16ccc
+=70	=70	=70	=70
+8D	8V	16GGLL 16G	16ggLL 16ggg
+.	.	16BB 16D	16bb 16ddd
+8D	8viioD7c	16FF 16F	16aa- 16aaa-
+.	.	16BBJJ 16D	16bbJJ 16ddd
+2D	2viioD7c	16FFLL 16F	16aa-LL 16aaa-
+.	.	16BB 16D	16bb 16ddd
+.	.	16GG 16G	16gg 16ggg
+.	.	16BBJJ 16D	16bbJJ 16ddd
+.	.	16AA-LL 16A-	16ffLL 16fff
+.	.	16BB 16D	16bb 16ddd
+.	.	16GG 16G	16gg 16ggg
+.	.	16BBJJ 16D	16bbJJ 16ddd
+=71	=71	=71	=71
+2D	2viioD7c	16FFLL 16F	16aa-LL 16aaa-
+.	.	16BB 16D	16bb 16ddd
+.	.	16GG 16G	16gg 16ggg
+.	.	16BBJJ 16D	16bbJJ 16ddd
+.	.	16AA-LL 16A-	16ffLL 16fff
+.	.	16D	16bb 16ddd
+.	.	16FF 16F	16aa- 16aaa-
+.	.	16BBJJ 16D	16bbJJ 16ddd
+4D	4V7	16GGLL 16G	16ggLL 16ggg
+.	.	16BB 16D	16bb 16ddd
+.	.	16BB 16B	16ff 16fff
+.	.	16DJJ 16G	16ggJJ 16ddd
+=72	=72	=72	=72
+2.T	2.i	16CLL 16c	16ee-LL 16eee-
+.	.	16E- 16G	16gg 16ccc
+.	.	16GG 16G	16dd 16ddd
+.	.	16BBJJ 16D	16ffJJ 16gg
+.	.	16CCLL 16C	16ccLL 16ccc
+.	.	16EE- 16GG	16ee- 16gg
+.	.	16GGG 16GG	16b 16bb
+.	.	16BBBJJ 16DD	16ddJJ 16gg
+.	.	8CC 8EE- 8GG 8C	8cc 8ee- 8gg 8ccc
+.	.	8r	8r
+*-	*-	*-	*-

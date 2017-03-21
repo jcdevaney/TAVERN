@@ -1,0 +1,43 @@
+!!!COM: Mozart
+!!!OTL: 9 Variationen uber ein Minuett von Duport
+!!!Variation: Variation 6 d
+**function	**harm	**kern	**kern
+*	*	*clefG2	*clefG2
+*	*	*k[b-]	*k[b-]
+*M3/4	*M3/4	*M3/4	*M3/4
+*d:	*d:	*d:	*d:
+=161	=161	=161	=161
+2.T	2.i	4r	4aa
+.	.	4d 4f 4a	(4.aa
+.	.	4d 4f 4a	.
+.	.	.	8ddd)
+=162	=162	=162	=162
+2.T	2.i	4r	(8.dddL
+.	.	.	16ffJk)
+.	.	4d 4f 4a	(4.ff
+.	.	4d 4f 4a	.
+.	.	.	8aa)
+=163	=163	=163	=163
+*	*	*^	*
+2D	2ic	(4f	2.A	8aa
+.	.	.	.	4dd
+.	.	4a	.	.
+.	.	.	.	4ff
+4D	4V7	4g)	.	.
+.	.	.	.	8ee
+=164	=164	=164	=164	=164
+2.T	2.i	4f	4d	(16ddLL
+.	.	.	.	32eeL
+.	.	.	.	32ddJ
+.	.	.	.	16cc#')
+.	.	.	.	16dd'JJ
+*	*	*v	*v	*
+.	.	4r	16ee'LL
+.	.	.	16ff'
+.	.	.	16gg'
+.	.	.	16aa'JJ
+.	.	4r	16bb'LL
+.	.	.	16ccc#'
+.	.	.	16ddd'
+.	.	.	16eee'JJ
+*-	*-	*-	*-

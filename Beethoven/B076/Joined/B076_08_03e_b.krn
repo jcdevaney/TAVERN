@@ -1,0 +1,115 @@
+!!!COM: Beethoven
+!!!OTL: Acht Variationen uber das Trio "Tandeln und Scherzen" aus der Oper: Soliman oder die drei Sultaninnen von Sussmayer
+!!!Variation: Variation 8 e
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*M2/4	*M2/4	*M2/4	*M2/4
+*F:	*F:	*F:	*F:
+=237	=237	=237	=237
+2T	2I	8r	8cc'L
+.	.	(8FL	(8cc
+.	.	8A	8ff)
+.	.	8FJ	(8ffJ
+=238	=238	=238	=238
+4T	4IV	8B-L	8eeL
+.	.	8F	8dd
+4T	4Ib	8AJ)	8cc)
+.	.	8r	(8bJ
+*	*	*clefG2	*
+=239	=239	=239	=239
+2T	2I	8r	8ccL)
+.	.	(8fL	(8cc
+.	.	8a	8ff)
+.	.	8fJ	(8ffJ
+=240	=240	=240	=240
+4T	4IV	8b-L	8eeL
+.	.	8f	8dd
+4T	4Ib	8aJ)	8cc)
+.	.	8r	(8bJ
+*	*	*clefF4	*
+=241	=241	=241	=241
+2T	2V	2r	8ccL
+.	.	.	8b
+.	.	.	8cc
+.	.	.	8bJ
+=242	=242	=242	=242
+2T	2V	2r	8ccL
+.	.	.	8b
+.	.	.	8cc
+.	.	.	8bJ)
+=243	=243	=243	=243
+2T	2I/-III	8r	8cc'L 8ee-'
+.	.	(8A-L	(8ee-
+.	.	8c	8aa-)
+.	.	8A-J	(8aa-J
+=244	=244	=244	=244
+4T	4IV/-III	8d-L	8ggL
+.	.	8A-	8ff
+4T	4Ib/-III	8cJ)	8ee-)
+.	.	8r	(8ddJ
+*	*	*clefG2	*
+=245	=245	=245	=245
+2T	2I/-III	8r	8ee-L)
+.	.	(8a-L	(8ee-
+.	.	8cc	8aa-)
+.	.	8a-J	(8aa-J
+=246	=246	=246	=246
+4T	4IV/-III	8dd-L	8ggL
+.	.	8a-	8ff
+4T	4Ib/-III	8ccJ)	8ee-)
+.	.	8r	(8ddJ
+*	*	*clefF4	*
+=247	=247	=247	=247
+2T	2V/-III	2r	8ee-L
+.	.	.	8dd
+.	.	.	8ee-
+.	.	.	8ddJ
+=248	=248	=248	=248
+2T	2V/-III	2r	8ee-L
+.	.	.	8dd
+.	.	.	8ee-
+.	.	.	8ddJ)
+=249	=249	=249	=249
+2T	2I/#IV	8r	8dd#'L 8ff#'
+.	.	(8BL	(8ff#
+.	.	8d#	8bb)
+.	.	8BJ	(8bbJ
+=250	=250	=250	=250
+4T	4IV/#IV	8eL	8aa#L
+.	.	8B	8gg#
+4T	4Ib/#IV	8d#J)	8ff#)
+.	.	8r	(8ee#J
+*	*	*clefG2	*
+=251	=251	=251	=251
+2T	2I/#IV	8r	8ff#L)
+.	.	(8bL	(8ff#
+.	.	8dd#	8bb)
+.	.	8bJ	(8bbJ
+=252	=252	=252	=252
+4T	4IV/#IV	8eeL	8aa#L
+.	.	8b	8gg#
+4T	4Ib/#IV	8dd#J)	8ff#)
+.	.	8r	(8ee#J
+*	*	*clefF4	*
+=253	=253	=253	=253
+2T	2V/#IV	2r	8ff#L
+.	.	.	8ee#
+.	.	.	8ff#
+.	.	.	8ee#J
+=254	=254	=254	=254
+2T	2V/#IV	2r	8ff#L
+.	.	.	8ee#
+.	.	.	8ff#
+.	.	.	8ee#J)
+=255	=255	=255	=255
+2T	2V7/VII	2r	(8ff#L 8aa
+.	.	.	8ee# 8gg#
+.	.	.	8ff# 8aa
+.	.	.	8ee#J 8gg#
+=256	=256	=256	=256
+2T	2V7/VII	2r	8ff#L 8aa
+.	.	.	8ee# 8gg#
+.	.	.	8ff# 8aa
+.	.	.	8ee#J) 8gg#
+*-	*-	*-	*-

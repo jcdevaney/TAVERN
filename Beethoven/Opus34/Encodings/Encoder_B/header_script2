@@ -1,0 +1,33 @@
+## Script to add proper header to kern files for partjoin
+#step 1 - properly setting up the kern phrase files:
+
+#1. take interpretations from the first of the krn files (xx00) and save in separate file called 'interp.krn'
+
+rid -D xx00 | grep -v '\*-' > interp.krn
+
+#if missing explicit key interpretation, then add manually:
+#sed -i '$a*F:	*F:' interp.krn
+
+#2. remove comments or headers from the first of the kern files, put final 'end file' interpretation back on.
+
+rid -GLId xx00 > stripped
+sed -i '$a*-	*-' stripped
+mv stripped xx00
+
+#3. Cat each kern phrase (1 at a time) to the end of the interp file 
+
+let i=1
+for file in xx*
+do
+#get rid of grace notes if necessary:
+#sed -i '/q/d' $file 
+	if [ $i -lt 10 ]
+	then
+		cat interp.krn $file | grep -v '^$' > phrase0$i.krn
+	else
+		cat interp.krn $file | grep -v '^$' > phrase$i.krn
+	fi
+let i=$i+1
+done 
+
+

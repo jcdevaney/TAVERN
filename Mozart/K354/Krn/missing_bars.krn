@@ -1,0 +1,44 @@
+**kern	**kern
+*staff2	*staff1
+=1-	=1-
+*clefF4	*clefG2
+*k[b-e-a-]	*k[b-e-a-]
+*M34	*M34
+4E- 4G	(8e-
+.	8d)
+4r	8e-'
+.	8f'
+4r	8g'
+.	8an'
+=2	=2
+*	*^
+8BBB-	4b-	4r
+8BB-	.	.
+8DD	4.d 4.f	2B-
+8BB-	.	.
+8BBB-	.	.
+8BB-	8f 8a-	.
+=3	=3	=3
+8EE-	(8f 8a-	4B-
+8BB-	8e-) 8g	.
+8GG	4.e- 4.g	4B-
+8BB-	.	.
+8EE-	.	4r
+8BB-	8bb-	.
+=4	=4	=4
+8BBB-	8bb-	4b-
+8BB-	8dd 8ff	.
+8DD	4.dd 4.ff	2b-
+8BB-	.	.
+8BBB-	.	.
+8BB-	8ff 8aa-	.
+=5	=5	=5
+8EE-	8ff 8aa-	4b-
+8BB-	8ee- 8gg	.
+8GG	4.ee- 4.gg	4b-
+8BB-	.	.
+8EE-	.	4r
+8BB-	8b-	.
+*	*v	*v
+==	==
+*-	*-

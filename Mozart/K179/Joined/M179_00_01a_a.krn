@@ -1,0 +1,35 @@
+!!!COM: Mozart
+!!!OTL: Zwolf Variationen in C uber ein Menuett von Johann Christian Fischer
+!!!Variation: Theme a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[]	*k[]
+*M3/4	*M3/4	*M3/4	*M3/4
+*C:	*C:	*C:	*C:
+=1	=1	=1	=1
+2.T	2.I	4C	(2g
+.	.	4E	.
+.	.	4C	16ffLL
+.	.	.	16ee
+.	.	.	16dd
+.	.	.	16ccJJ
+=2	=2	=2	=2
+2.T	2.V7	4D	8ggL
+.	.	.	8ffJ)
+.	.	4BB	2dd
+.	.	4GG	.
+=3	=3	=3	=3
+2.T	2.I	4C	(8eeL
+.	.	.	8ggJ)
+.	.	4E	(8ggL
+.	.	.	8cccJ)
+.	.	4C	8cccL
+.	.	.	8eeJ
+=4	=4	=4	=4
+2.D	2.V	4G	(8eeL
+.	.	.	8ddJ)
+.	.	4GG	(8ccL
+.	.	.	8bJ)
+.	.	4r	(8aL
+.	.	.	8gJ)
+*-	*-	*-	*-

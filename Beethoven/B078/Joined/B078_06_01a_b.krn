@@ -1,0 +1,56 @@
+!!!COM: Beethoven
+!!!OTL: 7 Variations on "God Save the King" in C Major
+!!!Variation: Variation 6 a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[]	*k[]
+*M4/4	*M4/4	*M4/4	*M4/4
+*C:	*C:	*C:	*C:
+4T	4I	8.cL	8.eL 8.g 8.cc
+.	.	16cJk	16eJk 16g 16cc
+=85	=85	=85	=85
+2.T	2.I	4.c	4.e 4.g 4.cc
+.	.	8d	8f 8g 8b
+.	.	8.e'L	8.e'L 8.g' 8.cc'
+.	.	16d'k	16f'k 16g' 16b'
+8.T	8.I	8.c'	8.e' 8.g' 8.cc'
+16T	16iib	16F'Jk	16f'Jk 16a' 16dd'
+=86	=86	=86	=86
+1T	1V	4.G	4.d 4.g 4.b
+.	.	8A	8g 8cc
+.	.	8.B'L	8.g'L 8.dd'
+.	.	16G'k	16g'k 16b'
+.	.	8.A'	8.g' 8.cc'
+.	.	16B'Jk	16g'Jk 16dd'
+=87	=87	=87	=87
+2T	2I	4.c	4.g 4.ee
+.	.	8B	8g 8dd
+8.T	8.I	8.c'L	8.g'L 8.ee'
+16T	16V7d/IV	16B-'k 16c'	16g'k 16ee'
+4T	4IVb	8.A' 8.c'	8.a' 8.ff'
+.	.	16F'Jk 16c'	16a'Jk 16ff'
+=88	=88	=88	=88
+4T	4Cc	8.GL 8.c	8.gL 8.ee
+.	.	16Gk 16c	16gk 16ee
+4T	4viioD7/vi	8.G# 8.B	8.f 8.dd
+.	.	16G#Jk 16B	16fJk 16dd
+4T	4vi	8.AL 8.c	8.eL 8.cc
+.	.	16Ak 16c	16ek 16cc
+4T	4viioD7c/ii	8.G 8.B-	8.e 8.cc#
+.	.	16GJk 16B-	16eJk 16cc#
+=89	=89	=89	=89
+4P	4iib	4F 4A	4f 4dd
+4P	4ii	8.DL	8.fL 8.a 8.dd
+.	.	16DJk	16fJk 16a 16dd
+4D	4Cc	8.GL	8.eL 8.g 8.cc
+.	.	16GJk	16ek 16g 16cc
+4D	4V	8.GGL	8.d 8.g 8.b
+.	.	16GGJk	16dJk 16g 16b
+=90	=90	=90	=90
+2.T	2.I	4C	4e 4g 4cc
+.	.	16gLL	16ggLL
+.	.	16e	16ee
+.	.	16g	16gg
+.	.	16eJJ	16eeJJ
+.	.	4c	4cc
+*-	*-	*-	*-

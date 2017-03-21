@@ -1,0 +1,58 @@
+!!!COM: Beethoven
+!!!OTL: Zwolf Variationen uber das Menuett a la Vigano von J. Haibel
+!!!Variation: Variation 6 c
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[]	*k[]
+*M4/4	*M4/4	*M4/4	*M4/4
+*C:	*C:	*C:	*C:
+6T	6I	6r	12ggL
+.	.	.	12ffJ
+4T	4I	4r	12eeL
+.	.	.	12dd
+.	.	.	12ccJ
+=105	=105	=105	=105
+*	*	*^	*
+1D	1V7	(4f	1G	12b'L
+.	.	.	.	(12aa
+.	.	.	.	12ggJ)
+.	.	4e	.	12cc'L
+.	.	.	.	(12aa
+.	.	.	.	12ggJ)
+.	.	4B)	.	12dd'L
+.	.	.	.	(12aa
+.	.	.	.	12ggJ
+.	.	4r	.	12ffL
+.	.	.	.	12ee
+.	.	.	.	12ddJ)
+=106	=106	=106	=106	=106
+1D	1I	(4e	1G	12cc'L
+.	.	.	.	(12aa
+.	.	.	.	12ggJ)
+.	.	4B	.	12dd'L
+.	.	.	.	(12aa
+.	.	.	.	12ggJ)
+.	.	4c)	.	12ee'L
+.	.	.	.	(12aa
+.	.	.	.	12ggJ
+.	.	4r	.	12cccL
+.	.	.	.	12gg
+.	.	.	.	12eeJ)
+=107	=107	=107	=107	=107
+1D	1V7	(4f	1G	12b'L
+.	.	.	.	(12aa
+.	.	.	.	12ggJ)
+.	.	4e	.	12cc'L
+.	.	.	.	(12aa
+.	.	.	.	12ggJ)
+.	.	4d	.	12ff'L
+.	.	.	.	(12ccc
+.	.	.	.	12bbJ)
+.	.	4c)	.	12ee'L
+.	.	.	.	(12ddd
+.	.	.	.	12cccJ)
+*	*	*v	*v	*
+=108	=108	=108	=108
+2D	2V	2G; 2B; 2d; 2g;	4ddd;
+.	.	.	4gg;
+*-	*-	*-	*-

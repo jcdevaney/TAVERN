@@ -1,0 +1,6 @@
+
+printf '\n\tStarts\n'
+grep '\*\*' *.krn
+
+printf '\n\tEnds\n'
+grep '\*-' *.krn

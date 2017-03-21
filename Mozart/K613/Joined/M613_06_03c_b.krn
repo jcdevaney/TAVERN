@@ -1,0 +1,136 @@
+!!!COM: Mozart
+!!!OTL: 8 Variationen uber das Lied "Ein Weib ist das herrlichste Ding"
+!!!Variation: Variation 6 c
+**function	**harm	**kern	**kern
+*	*	*clefG2	*clefG2
+*	*	*k[b-e-a-d-]	*k[b-e-a-d-]
+*M3/4	*M3/4	*M3/4	*M3/4
+*f:	*f:	*f:	*f:
+4D	4V	4r	8g'L
+.	.	.	8g'J
+=298	=298	=298	=298
+2D	2V	(8cL	(2g
+.	.	8eJ	.
+.	.	8cL	.
+.	.	8eJ	.
+4D	4viioD7/V	8BL	8b-L
+.	.	8fJ)	8a-J)
+=299	=299	=299	=299
+2.D	2.V	4c 4e	8g'L
+.	.	.	(8ccJ
+.	.	4r	8bL
+.	.	.	8b-J
+.	.	4r	8aL
+.	.	.	8a-J)
+=300	=300	=300	=300
+2D	2V	(8cL	(2g
+.	.	8eJ	.
+.	.	8cL	.
+.	.	8eJ	.
+4D	4viioD7/V	8BL	8b-L
+.	.	8fJ)	8a-J)
+=301	=301	=301	=301
+2.D	2.V	4c 4e	4g
+*	*	*clefF4	*
+.	.	4C	4r
+.	.	4r	8gg'L
+.	.	.	8gg'J
+*	*	*clefG2	*
+=302	=302	=302	=302
+2D	2V	(8ccL	(2gg
+.	.	8eeJ	.
+.	.	8ccL	.
+.	.	8eeJ	.
+4D	4viioD7/V	8bL	8bb-L
+.	.	8ffJ)	8aa-J)
+=303	=303	=303	=303
+2.D	2.V	4cc 4ee	8gg'L
+.	.	.	(8cccJ
+.	.	4r	8bbL
+.	.	.	8bb-J
+.	.	4r	8aaL
+.	.	.	8aa-J)
+=304	=304	=304	=304
+2D	2V	(8ccL	(2gg
+.	.	8eeJ	.
+.	.	8ccL	.
+.	.	8eeJ	.
+4D	4viioD7/V	8bL	8bb-L
+.	.	8ffJ)	8aa-J)
+=305	=305	=305	=305
+2.D	2.V	4cc 4ee	4gg
+.	.	4c	4r
+.	.	4r	8c'L
+.	.	.	8c'J
+=306	=306	=306	=306
+2.D	2.V	4r	(8BL
+.	.	.	8cJ
+.	.	4r	8d-L
+.	.	.	8dJ
+*	*	*clefF4	*
+.	.	8C'L	8e-L
+.	.	8C'J	8eJ
+=307	=307	=307	=307
+2.D	2.V	(8BBL	8f)
+.	.	8CJ	4c
+.	.	8D-L	.
+.	.	8DJ	4c
+.	.	8E-L	.
+.	.	8EJ	[8c
+=308	=308	=308	=308
+2.D	2.V	8F)	8cL]
+.	.	4C	(8dJ
+.	.	.	8e-L
+.	.	4C	8eJ
+.	.	.	8fL
+.	.	[8C	8f#J
+=309	=309	=309	=309
+2.D	2.V	8CL]	8g)
+.	.	(8DJ	4c
+.	.	8E-L	.
+.	.	8EJ	4c
+.	.	8FL	.
+.	.	8F#J	[8c
+=310	=310	=310	=310
+*	*	*^	*
+2.D	2.V7	8r	8G)	8cL]
+.	.	4c	(8C	(8eJ
+.	.	.	8D-L	8fL
+.	.	4c	8DJ	8f#J
+.	.	.	8E-L	8gL
+.	.	[8c	8EJ	8b-J
+=311	=311	=311	=311	=311
+4.D	4.i	8c]	8FL	8a-L
+.	.	4c	8GJ	8eJ
+.	.	.	8A-L	8fL
+4.D	4.Vb	4c	8EJ	8gJ
+.	.	.	8FL	8a-L
+.	.	[8c	8GJ	8eJ
+=312	=312	=312	=312	=312
+8D	8ib	8c]	8A-L	8fL
+8D	8Vb	4c	8EJ	8gJ
+8D	8i	.	8FL	8a-L
+*	*	*clefG2	*	*
+8D	8V7d/iv	4f	8E-J	8aJ
+8P	8IVb	.	8DL	8b-L
+8P	8Lt	8f	8D-J)	8bJ
+=313	=313	=313	=313	=313
+2.D	2.V	4.e	4CC 4C	4.cc)
+.	.	.	4r	.
+*	*	*v	*v	*
+.	.	8r	(8cc'
+.	.	4r	8cc'L
+.	.	.	8cc'J)
+=314	=314	=314	=314
+2.D	2.V7	2.r	(8dd-L
+.	.	.	8gJ
+.	.	.	8b-L
+.	.	.	8eJ
+.	.	.	8gL
+.	.	.	8B-J
+=315	=315	=315	=315
+2D	2V7	8r	8d-)
+.	.	(8G	8r
+.	.	8B-L	4r
+.	.	8EJ	.
+*-	*-	*-	*-

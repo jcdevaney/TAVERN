@@ -1,0 +1,83 @@
+!!!COM: Mozart
+!!!OTL: Sechs Variationen in F uber die Arie 'Salve tu, Domine' aus der Oper 'I filosofi immaginarii' 
+!!!Variation: Variation 5 a
+**function	**harm	**kern	**kern
+*	*	*clefG2	*clefG2
+*	*	*k[b-]	*k[b-]
+*M3/4	*M3/4	*M3/4	*M3/4
+*F:	*F:	*F:	*F
+=116	=116	=116	=116
+2.T	2.Ib	4a 4cc	[2.ff)
+.	.	4.a 4.cc	.
+.	.	8b- 8dd	.
+=117	=117	=117	=117
+2.T	2.Ib	4.a 4.cc	2.ff_
+.	.	8g 8b-	.
+.	.	4f 4a	.
+=118	=118	=118	=118
+2.T	2.Ic	4c 4a	2.ff_
+.	.	4.c 4.a	.
+.	.	8d 8b-	.
+=119	=119	=119	=119
+2.T	2.Ic	4.c 4.a	2.ff]
+.	.	8B- 8g	.
+.	.	4A 4f	.
+=120	=120	=120	=120
+2.T	2.V	4c 4e 4g	[2.ccc
+.	.	4c 4e 4g	.
+.	.	4c 4e 4g#	.
+=121	=121	=121	=121
+2.T	2.I	(4.f 4.a	2.ccc_
+.	.	8e) 8g#	.
+.	.	4f 4a	.
+=122	=122	=122	=122
+2.T	2.Ic	4c 4f 4a	2.ccc_
+.	.	4c 4f 4a	.
+.	.	4c 4f# 4a	.
+=123	=123	=123	=123
+2.T	2.V7c	(4.g 4.b-	2.ccc_
+.	.	8f#) 8a	.
+.	.	4g 4b-	.
+=124	=124	=124	=124
+*	*	*^	*
+4T	4I	(8.aL	4f	2.ccc_
+.	.	16ccJk)	.	.
+4T	4Ib	8AL 8f	4r	.
+.	.	8AJ 8f	.	.
+4T	4V	8cL 8g	4r	.
+.	.	8cJ 8g	.	.
+=125	=125	=125	=125	=125
+4T	4I	(8.aL	4f	2.ccc]
+.	.	16ccJk)	.	.
+4T	4Ib	8AL 8f	4r	.
+.	.	8AJ 8f	.	.
+4T	4V	8cL 8g	4r	.
+.	.	8cJ 8g	.	.
+*	*	*v	*v	*
+=126	=126	=126	=126
+4T	4I	4f 4a	(32cccLLL
+.	.	.	32ddd
+.	.	.	32eee
+.	.	.	32fffJJ
+.	.	.	32eeeLL
+.	.	.	32ddd
+.	.	.	32ccc
+.	.	.	32bb-JJJ
+*	*	*clefF4	*
+4D	4Cc	4C 4F	32aaLLL
+.	.	.	32gg
+.	.	.	32ff
+.	.	.	32eeJJ
+.	.	.	32ddLL
+.	.	.	32cc
+.	.	.	32b-
+.	.	.	32aJJJ)
+4D	4V	4C 4E	(32gLLL
+.	.	.	32f
+.	.	.	32e
+.	.	.	32dJJ
+.	.	.	32cLL
+.	.	.	32B-
+.	.	.	32A
+.	.	.	32GJJJ)
+*-	*-	*-	*-

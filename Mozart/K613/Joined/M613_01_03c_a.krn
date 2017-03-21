@@ -1,0 +1,149 @@
+!!!COM: Mozart
+!!!OTL: 8 Variationen uber das Lied "Ein Weib ist das herrlichste Ding"
+!!!Variation: Variation 1 c
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*M3/4	*M3/4	*M3/4	*M3/4
+*F:	*F:	*F:	*F:
+4D	4V	4r	8e'L 8g'
+.	.	.	8e'J 8g'
+=61	=61	=61	=61
+2.D	2.V	4CC	(8cL 8e
+.	.	.	8eJ) 8g
+.	.	4C	8r
+.	.	.	8e' 8g'
+.	.	4r	8e'L 8g'
+.	.	.	8e'J 8g'
+=62	=62	=62	=62
+*	*	*	*^
+2.D	2.V	4CC	(8ccL	4e
+.	.	.	8gJ)	.
+*	*	*	*v	*v
+.	.	4C	8r
+.	.	.	8e' 8g'
+.	.	4r	8e'L 8g'
+.	.	.	8e'J 8g'
+=63	=63	=63	=63
+2.D	2.V	4CC	(8cL 8e
+.	.	.	8eJ) 8g
+.	.	4C	8r
+.	.	.	8e' 8g'
+.	.	4r	8e'L 8g'
+.	.	.	8e'J 8g'
+=64	=64	=64	=64
+2.D	2.V	4CC	4e 4cc
+.	.	4C	4r
+.	.	4r	8ee'L 8gg'
+.	.	.	8ee'J 8gg'
+=65	=65	=65	=65
+2.D	2.V	4C	(8ccL 8ee
+.	.	.	8eeJ) 8gg
+.	.	4c	8r
+.	.	.	8ee' 8gg'
+.	.	4r	8ee'L 8gg'
+.	.	.	8ee'J 8gg'
+=66	=66	=66	=66
+*	*	*	*^
+2.D	2.V	4C	(8cccL	4ee
+.	.	.	8ggJ)	.
+*	*	*	*v	*v
+.	.	4c	8r
+.	.	.	8ee' 8gg'
+.	.	4r	8ee'L 8gg'
+.	.	.	8ee'J 8gg'
+=67	=67	=67	=67
+2.D	2.V	4C	(8ccL 8ee
+.	.	.	8eeJ) 8gg
+.	.	4c	8r
+.	.	.	8ee' 8gg'
+.	.	4r	8ee'L 8gg'
+.	.	.	8ee'J 8gg'
+=68	=68	=68	=68
+2.D	2.V	4C	4ee 4ccc
+.	.	4c	4r
+.	.	4r	8c'L
+.	.	.	8c'J
+=69	=69	=69	=69
+2.D	2.V	4CC 4C	(8BL
+.	.	.	8cJ
+.	.	4DD 4D	8c#L
+.	.	.	8dJ
+.	.	4EE 4E	8d#L
+.	.	.	8eJ)
+=70	=70	=70	=70
+2.D	2.I	4FF 4F	(8g
+.	.	.	4f
+.	.	4EE 4E	.
+.	.	.	4e
+.	.	4FF 4F	.
+.	.	.	8f)
+=71	=71	=71	=71
+2.D	2.vi	4DD 4D	(8c#L
+.	.	.	8dJ
+.	.	4EE 4E	8d#L
+.	.	.	8eJ
+.	.	4FF 4F	8fL
+.	.	.	8f#J)
+=72	=72	=72	=72
+2.D	2.ii	4GG 4G	(8a
+.	.	.	4g
+.	.	4FF# 4F#	.
+.	.	.	4f#
+.	.	4GG 4G	.
+.	.	.	8g)
+=73	=73	=73	=73
+2.D	2.viio	4EE 4E	(8d#L
+.	.	.	8eJ
+.	.	4FF 4F	8fL
+.	.	.	8f#J
+.	.	4GG 4G	8gL
+.	.	.	8g#J)
+=74	=74	=74	=74
+2.D	2.iii	4AA 4A	(8b-
+.	.	.	4a
+.	.	4GG# 4G#	.
+.	.	.	4g#
+.	.	4AA 4A	.
+.	.	.	8a)
+=75	=75	=75	=75
+*	*	*	*^
+2.D	2.V7/V	4Gn	(8cc	2.d 2.f
+.	.	.	4b	.
+.	.	4GGn	.	.
+.	.	.	4a	.
+.	.	4Gn	.	.
+.	.	.	8b)	.
+=76	=76	=76	=76	=76
+2.D	2.V	4CC 4C;	4.cc;	4.e;
+.	.	4r	.	.
+*	*	*	*v	*v
+.	.	.	8cc'
+.	.	4r	8cc'L
+.	.	.	8cc'J
+=77	=77	=77	=77
+2.D	2.Ic	2.r	(8bL
+.	.	.	8ccJ
+.	.	.	8ffL
+.	.	.	8eeJ
+.	.	.	8aaL
+.	.	.	8ggJ
+=78	=78	=78	=78
+2.D	2.V	2.r	8cccL
+.	.	.	8bbJ
+.	.	.	8bb-L
+.	.	.	8aaJ
+.	.	.	8ggL
+.	.	.	8ffJ
+=79	=79	=79	=79
+2.D	2.V	2.r	8eeL
+.	.	.	8ddJ
+.	.	.	8ccL
+.	.	.	8bJ
+.	.	.	8b-L
+.	.	.	8aJ
+=80	=80	=80	=80
+4.D	4.V7	4.r	8f#L
+.	.	.	8gJ
+.	.	.	8b-L
+*-	*-	*-	*-

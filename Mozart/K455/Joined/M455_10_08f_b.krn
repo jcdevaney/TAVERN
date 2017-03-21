@@ -1,0 +1,220 @@
+!!!COM: Mozart
+!!!OTL: Zehn Variationen in G, uber die Ariette 'Unser dummer Pobel meint' aus dem Singspiel 'Die Pilgrime von Mekka'
+!!!Variation: Variation 10 f
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#]	*k[f#]
+*M4/4	*M4/4	*M4/4	*M4/4
+*G:	*G:	*G:	*G:
+=329	=329	=329	=329
+2T	2IVc	(8GL	4ee 4ccc
+.	.	8g	.
+.	.	8G	(4ee 4ccc
+.	.	8gJ	.
+2T	2I	8GL	4dd) 4bb
+.	.	8g	.
+.	.	8G	(4dd 4bb
+.	.	8gJ)	.
+=330	=330	=330	=330
+2T	2viio	(8GL	4cc) 4aa
+.	.	8g	.
+.	.	8G	4cc 4aa
+.	.	8gJ	.
+2T	2I	8GL	16bLL
+.	.	.	16dd
+.	.	8g	16gg
+.	.	.	16bbJJ
+.	.	8G	8ddd
+.	.	8gJ)	8r
+=331	=331	=331	=331
+2T	2IVc	(8GL	4ee 4ccc
+.	.	8g	.
+.	.	8G	(4ee 4ccc
+.	.	8gJ	.
+2T	2I	8GL	4dd) 4bb
+.	.	8g	.
+.	.	8G	4dd 4bb
+.	.	8gJ)	.
+=332	=332	=332	=332
+*	*	*	*^
+.	.	.	.	(q32bb
+2T	2viio	(8GL	2cc	(8aaL)
+.	.	8g	.	8gg
+.	.	8G	.	8aa
+.	.	8gJ)	.	8bbJ)
+*	*	*clefF4	*	*
+2T	2I	16GGLL	4b	4gg
+.	.	16G	.	.
+.	.	16F#	.	.
+.	.	16GJJ	.	.
+*	*	*	*v	*v
+.	.	16GGLL	4r
+.	.	16G	.
+.	.	16F#	.
+.	.	16GJJ	.
+=333	=333	=333	=333
+2T	2IVc	16GGLL	4e 4cc
+.	.	16G	.
+.	.	16F#	.
+.	.	16GJJ	.
+.	.	16GGLL	(4e 4cc
+.	.	16G	.
+.	.	16F#	.
+.	.	16GJJ	.
+2T	2I	16GGLL	4d) 4b
+.	.	16G	.
+.	.	16F#	.
+.	.	16GJJ	.
+.	.	16GGLL	(4d 4b
+.	.	16G	.
+.	.	16F#	.
+.	.	16GJJ	.
+=334	=334	=334	=334
+2T	2viio	16GGLL	4c) 4a
+.	.	16G	.
+.	.	16F#	.
+.	.	16GJJ	.
+.	.	16GGLL	4c 4a
+.	.	16G	.
+.	.	16F#	.
+.	.	16GJJ	.
+2T	2I	16GGLL	16BLL
+.	.	16G	16d
+.	.	16F#	16g
+.	.	16GJJ	16bJJ
+.	.	16GGLL	8dd
+.	.	16G	.
+.	.	16F#	8r
+.	.	16GJJ	.
+=335	=335	=335	=335
+2T	2IVc	16GGLL	4e 4cc
+.	.	16G	.
+.	.	16F#	.
+.	.	16GJJ	.
+.	.	16GGLL	(4e 4cc
+.	.	16G	.
+.	.	16F#	.
+.	.	16GJJ	.
+2T	2I	16GGLL	4d) 4b
+.	.	16G	.
+.	.	16F#	.
+.	.	16GJJ	.
+.	.	16GGLL	4d 4b
+.	.	16G	.
+.	.	16F#	.
+.	.	16GJJ	.
+=336	=336	=336	=336
+*	*	*	*^
+.	.	.	.	(q32b
+2T	2viio	16GGLL	2c	(8aL)
+.	.	16G	.	.
+.	.	16F#	.	8g
+.	.	16GJJ	.	.
+.	.	16GGLL	.	8a
+.	.	16G	.	.
+.	.	16F#	.	8bJ)
+.	.	16GJJ	.	.
+2T	2I	4GG	8B	8gL
+.	.	.	8r	8gJ
+.	.	4r	4r	16gLL
+.	.	.	.	16a
+.	.	.	.	16b
+.	.	.	.	16ccJJ
+*	*	*	*v	*v
+*	*	*clefG2	*
+=337	=337	=337	=337
+2T	2V7	4d 4a 4cc	8ddL
+.	.	.	8ddJ
+.	.	4r	8ddL
+.	.	.	16eeL
+.	.	.	16ff#JJ
+2T	2I	4g 4b	8ggL
+.	.	.	8ggJ
+.	.	4r	16aaLL
+.	.	.	16gg
+.	.	.	16ff#
+.	.	.	16eeJJ
+=338	=338	=338	=338
+2T	2V7	4d 4a 4cc	16ddLL
+.	.	.	16ee
+.	.	.	16cc
+.	.	.	16ddJJ
+.	.	4r	16bLL
+.	.	.	16cc
+.	.	.	16a
+.	.	.	16bJJ
+*	*	*clefF4	*
+2T	2I	4G 4B	8gL
+.	.	.	8gJ
+.	.	4r	8gL)
+.	.	.	16f#L
+.	.	.	16eJJ
+=339	=339	=339	=339
+2T	2V7	4D 4A 4c	16dLL
+.	.	.	16e
+.	.	.	16c
+.	.	.	16dJJ
+*	*	*	*clefF4
+.	.	4r	16BLL
+.	.	.	16c
+.	.	.	16A
+.	.	.	16BJJ
+2T	2I	4GG 4BB	8GL
+.	.	.	8GJ
+.	.	4r	8GL)
+.	.	.	16F#L
+.	.	.	16EJJ
+=340	=340	=340	=340
+2T	2V7	4DD 4AA 4C	16DLL
+.	.	.	16E
+.	.	.	16C
+.	.	.	16DJJ
+.	.	4r	16BBLL
+.	.	.	16C
+.	.	.	16AA
+.	.	.	16BBJJ
+*	*	*clefG2	*
+2T	2I	4B 4g	8GGL
+.	.	.	8GGJ
+.	.	4r	8GGL)
+.	.	.	16FF#L
+.	.	.	16EEJJ
+=341	=341	=341	=341
+2T	2V	4d 4a	16DDLL
+.	.	.	16EE
+.	.	.	16CC
+.	.	.	16DDJJ
+.	.	4r	16BBBLL
+.	.	.	16CC
+.	.	.	16AAA
+.	.	.	16BBBJJ
+2T	2I	4g 4b	8GGGL
+.	.	.	16AAAL
+.	.	.	16BBBJJ
+.	.	4r	16CCLL
+.	.	.	16DD
+.	.	.	16EE
+.	.	.	16FF#JJ
+*	*	*clefF4	*
+=342	=342	=342	=342
+1T	1I	8GGGL	8GGL
+.	.	16AAAL	16AAL
+.	.	16BBBJJ	16BBJJ
+.	.	16CCLL	16CLL
+.	.	16DD	16D
+.	.	16EE	16E
+.	.	16FF#JJ	16F#JJ
+.	.	8GGL	8GL
+.	.	16AAL	16AL
+.	.	16BBJJ	16BJJ
+*	*	*	*clefG2
+.	.	16CLL	16cLL
+.	.	16D	16d
+.	.	16E	16e
+.	.	16F#JJ	16f#JJ
+=343	=343	=343	=343
+1T	1I	4G	4g
+.	.	4GGG 4GG	4b 4dd 4gg
+.	.	2r;	2r;
+==	==	==	==
+*-	*-	*-	*-

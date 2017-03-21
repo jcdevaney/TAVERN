@@ -1,0 +1,42 @@
+!!!COM: Beethoven
+!!!OTL: Six Variations on an Original Theme
+!!!Variation: Theme b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*M2/4	*M2/4	*M2/4	*M2/4
+*F:	*F:	*F:	*F:
+8.D	8.V	8.r	(16a'
+.	.	.	16b-'
+.	.	.	16b'JJ)
+=5	=5	=5	=5
+*	*	*	*^
+4T	4I	8FF'L	(4cc	8r
+.	.	(8FJ 8A 8c	.	8f
+8T	8IVc	8FL 8B- 8d	8ddL	8fL
+8T	8I	8FJ) 8A 8c	8ccJ)	8fJ
+*	*	*	*v	*v
+=6	=6	=6	=6
+4T	4viioD7	4F 4G 4B- 4d- 4e	4g 4b- 4dd- 4ee
+4T	4I	8F' 8A' 8c' 8f'	8a' 8cc' 8ff'
+.	.	8r	16r
+.	.	.	16ff
+=7	=7	=7	=7
+*	*	*	*^
+4.D	4.Cc	4c	(8aLL	16.ff
+.	.	.	.	32ccJJk)
+.	.	.	4f	4a
+.	.	4C	.	.
+8D	8V7	.	(16.eLL	16.b-
+.	.	.	32B-JJk	32g
+*	*	*	*v	*v
+=8	=8	=8	=8
+4..T	4..I	16FF' 16F'	16A') 16f'
+.	.	16r	16r
+*	*	*	*clefF4
+.	.	16FFF' 16FF'	16A' 16c'
+.	.	16r	16r
+.	.	16FFF' 16FF'	16F' 16A'
+.	.	16r	16r
+.	.	16r	16r
+*-	*-	*-	*-

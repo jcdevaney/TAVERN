@@ -1,0 +1,8 @@
+for i in *.krn 
+do
+extractx -s 1,2,4,3 $i > tmp.krn
+mv tmp.krn $i
+
+done
+
+rm tmp.krn

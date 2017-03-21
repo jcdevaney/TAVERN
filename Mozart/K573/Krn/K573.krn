@@ -1,0 +1,3116 @@
+**kern	**kern
+*staff2	*staff1
+*clefG2	*clefG2
+*k[f#c#]	*k[f#c#]
+*M3/4	*M3/4
+=1-	=1-
+*^	*
+(8f#L	2.d	2aa
+8aJ	.	.
+8f#L	.	.
+8aJ	.	.
+8f#L	.	(8dddL
+8aJ	.	8aaJ
+=2	=2	=2
+8f#L	2.d	2ff#)
+8aJ	.	.
+8f#L	.	.
+8aJ	.	.
+8f#L	.	(8aaL
+8aJ	.	8ff#J
+=3	=3	=3
+8f#L	2.A	4dd)
+8aJ	.	.
+8f#L	.	4dd
+8aJ	.	.
+8c#L 8g	.	(8.eeL
+8aJ	.	.
+.	.	32ddLL
+.	.	32eeJJJ
+=4	=4	=4
+4f#)	4d	4ff#
+4r	4r	4dd
+4r	4r	4a)
+*END	*END	*END
+=5	=5	=5
+(8f#L	2.d	2aa
+8aJ	.	.
+8f#L	.	.
+8aJ	.	.
+8f#L	.	(8.dddL
+8aJ	.	.
+.	.	16aaJk
+=6	=6	=6
+8f#L	2.d	2ff#)
+8aJ	.	.
+8f#L	.	.
+8aJ	.	.
+8f#L	.	(8.aaL
+8aJ	.	.
+.	.	16ff#Jk
+=7	=7	=7
+8f#L	2.A	4dd)
+8aJ	.	.
+8f#L	.	4dd
+8aJ	.	.
+8c#L 8g	.	(8.eeL
+8aJ	.	.
+.	.	16ff#Jk)
+=8	=8	=8
+4f#)	4d	4dd
+4r	4A	4r
+4r	4D	4r
+*v	*v	*
+*END	*END
+*clefF4	*
+=9:|!|:	=9:|!|:
+4AA 4A	4a 4cc# 4ee
+4r	4a 4cc# 4ee
+4r	4a 4cc# 4ee
+=10	=10
+8r	2.a 2.cc# 2.ee
+(8AA	.
+8C#L	.
+8EJ	.
+8AL	.
+8AAJ	.
+=11	=11
+4D)	4a 4dd 4ff#
+4r	4a 4dd 4ff#
+4r	4a 4dd 4ff#
+=12	=12
+8r	2.a 2.dd 2.ff#
+(8D	.
+8F#L	.
+8AJ	.
+8dL	.
+8DJ)	.
+*clefG2	*
+=13	=13
+*^	*
+(8f#L	2.d	4aa
+8aJ	.	.
+8f#L	.	(8ddL
+8aJ	.	8ff#J
+8f#L	.	8aaL
+8aJ	.	8dddJ
+=14	=14	=14
+8f#L	2.d	4aa)
+8aJ	.	.
+8f#L	.	(8ddL
+8aJ	.	8ff#J
+8f#L	.	8aaL
+8aJ	.	8dddJ
+*v	*v	*
+=15	=15
+8dL 8f#	4aa
+8aJ	.
+8c#L 8e	4gg
+8aJ	.
+8dL 8f#	4ff#)
+8aJ)	.
+=16	=16
+.	32ff#q
+4A 4c#	4ee
+*END	*END
+4r	(8a'L
+.	8a'J
+4r	8a'L
+.	8a'J)
+=17	=17
+*^	*
+(8f#L	2.d	2aa
+8aJ	.	.
+8f#L	.	.
+8aJ	.	.
+8f#L	.	(8.dddL
+8aJ	.	.
+.	.	16aaJk
+=18	=18	=18
+8f#L	2.d	2ff#)
+8aJ	.	.
+8f#L	.	.
+8aJ	.	.
+8f#L	.	(8.aaL
+8aJ	.	.
+.	.	16ff#Jk
+=19	=19	=19
+8f#L	2.A	4dd)
+8aJ	.	.
+8f#L	.	4dd
+8aJ	.	.
+8c#L 8g	.	(8.eeL
+8aJ	.	.
+.	.	32ddLL
+.	.	32eeJJJ
+=20	=20	=20
+4f#)	4d	4ff#
+4r	4r	4dd
+4r	4r	4a)
+*END	*END	*END
+=21	=21	=21
+(8f#L	2.d	(2aa
+8aJ	.	.
+8f#L	.	.
+8aJ	.	.
+8f#L	.	16dddLL
+.	.	16ccc#
+8aJ	.	16ddd
+.	.	16aaJJ
+=22	=22	=22
+8f#L	2.d	2ff#
+8aJ	.	.
+8f#L	.	.
+8aJ	.	.
+8f#L	.	16aaLL
+.	.	16gg#
+8aJ	.	16aa
+.	.	16ff#JJ)
+=23	=23	=23
+8f#L	2.A	4dd
+8aJ	.	.
+8f#L	.	4dd
+8aJ	.	.
+8c#L 8g	.	(16eeLL
+.	.	16dd
+8aJ	.	16ee
+.	.	16ff#JJ)
+=24	=24	=24
+4f#)	4d	4dd
+4r	4A	4r
+4r	4D	4r
+*END	*END	*END
+*clefG2	*clefG2	*clefG2
+=25:|!|:	=25:|!|:	=25:|!|:
+(8f#L	2.d	16bbLL
+.	.	16aa
+8aJ	.	16gg#
+.	.	16aaJJ
+8f#L	.	16gg#LL
+.	.	16aa
+8aJ	.	16gg#
+.	.	16aaJJ
+8f#L	.	16bbLL
+.	.	16aa
+8aJ	.	16ddd
+.	.	16aaJJ
+=26	=26	=26
+8f#L	2.d	16ggLL
+.	.	16ff#
+8aJ	.	16ee#
+.	.	16ff#JJ
+8f#L	.	16ee#LL
+.	.	16ff#
+8aJ	.	16ee#
+.	.	16ff#JJ
+8f#L	.	16aaLL
+.	.	16ff#
+8aJ	.	16ee#
+.	.	16ff#JJ
+=27	=27	=27
+8f#L	2.A	16eeLL
+.	.	16dd
+8aJ	.	16cc#
+.	.	16ddJJ
+8f#L	.	16eeLL
+.	.	16dd
+8aJ	.	16cc#
+.	.	16ddJJ
+8c#L 8g	.	16ff#LL
+.	.	16ee
+8aJ	.	16dd#
+.	.	16eeJJ
+=28	=28	=28
+4f#)	4d	16ff#LL
+.	.	16dd
+.	.	16cc#
+.	.	16eeJJ
+4r	4r	16ddLL
+.	.	16ff#
+.	.	16ee
+.	.	16ggJJ
+4r	4r	16ff#LL
+.	.	16aa
+.	.	16gg
+.	.	16bbJJ
+*END	*END	*END
+=29	=29	=29
+(8f#L	2.d	16gg#LL
+.	.	16aa
+8aJ	.	16bb
+.	.	16aaJJ
+8f#L	.	16bbLL
+.	.	16aa
+8aJ	.	16bb
+.	.	16aaJJ
+8f#L	.	16gg#LL
+.	.	16aa
+8aJ	.	16ddd
+.	.	16aaJJ
+=30	=30	=30
+8f#L	2.d	16ee#LL
+.	.	16ff#
+8aJ	.	16gg
+.	.	16ff#JJ
+8f#L	.	16ggLL
+.	.	16ff#
+8aJ	.	16gg
+.	.	16ff#JJ
+8f#L	.	16ee#LL
+.	.	16ff#
+8aJ	.	16aa
+.	.	16ff#JJ
+=31	=31	=31
+8f#L	2.A	16cc#LL
+.	.	16dd
+8aJ	.	16ee
+.	.	16ddJJ
+8f#L	.	16cc#LL
+.	.	16dd
+8aJ	.	16ee
+.	.	16ddJJ
+8c#L 8g	.	16dd#LL
+.	.	16ee
+8aJ	.	16ff#
+.	.	16eeJJ
+=32	=32	=32
+4f#)	4d	16eeLL
+.	.	16dd
+.	.	16cc#
+.	.	16bJJ
+4r	4r	16aLL
+.	.	16g
+.	.	16f#
+.	.	16eJJ
+4r	4r	4d
+*END	*END	*END
+=33:|!|:	=33:|!|:	=33:|!|:
+8r	2.A	16eeLL
+.	.	16cc#
+(8e	.	16a
+.	.	16cc#JJ
+8c#L	.	16eeLL
+.	.	16cc#
+8eJ	.	16gg
+.	.	16eeJJ
+8dL	.	16ff#LL
+.	.	16dd
+8f#J)	.	16aa
+.	.	16ff#JJ
+=34	=34	=34
+4e	4A	16ggLL
+.	.	16ee
+.	.	16ccc#
+.	.	16ggJJ
+4r	4r	16eeeLL
+.	.	16ddd
+.	.	16ccc#
+.	.	16bbJJ
+4r	4r	16aaLL
+.	.	16gg
+.	.	16ff#
+.	.	16eeJJ
+=35	=35	=35
+8r	2.d	16ff#LL
+.	.	16dd
+(8f#	.	16a
+.	.	16ddJJ
+8aL	.	16ff#LL
+.	.	16dd
+8f#J	.	16aa
+.	.	16ff#JJ
+8eL	.	16ggLL
+.	.	16ee
+8gJ)	.	16bb
+.	.	16ggJJ
+=36	=36	=36
+4f#	4d	16aaLL
+.	.	16ff#
+.	.	16dd
+.	.	16cc#JJ
+4r	4r	16eeLL
+.	.	16dd
+.	.	16ff#
+.	.	16eeJJ
+4r	4r	16ggLL
+.	.	16ff#
+.	.	16aa
+.	.	16ggJJ
+=37	=37	=37
+8r	2.d	16bbLL
+.	.	16aa
+(8f#	.	16gg
+.	.	16ff#JJ
+8aL	.	16eeLL
+.	.	16dd
+8f#J	.	16cc#
+.	.	16ddJJ
+8gL	.	16bbLL
+.	.	16ccc#
+8bJ)	.	16ddd
+.	.	16bbJJ
+=38	=38	=38
+8r	2.d	16gg#LL
+.	.	16aa
+(8f#	.	16bb
+.	.	16aaJJ
+8aL	.	16ggLL
+.	.	16ff#
+8f#J	.	16ee
+.	.	16ddJJ
+8gL	.	16bbLL
+.	.	16ccc#
+8bJ	.	16ddd
+.	.	16bbJJ
+=39	=39	=39
+8f#L	4d	16bbLL
+.	.	16aa
+8aJ	.	16ddd
+.	.	16aaJJ
+8eL	4c#	16aaLL
+.	.	16gg
+8aJ	.	16eee
+.	.	16ggJJ
+8f#L	4d	16ggLL
+.	.	16ff#
+8aJ)	.	16ddd
+.	.	16ff#JJ
+=40	=40	=40
+4c#	4A	16ff#LL
+.	.	16ee
+.	.	16dd#
+.	.	16eeJJ
+4r	4r	16ddLL
+.	.	16cc#
+.	.	16b#
+.	.	16cc#JJ
+4r	4r	16bLL
+.	.	16a
+.	.	16g#
+.	.	16aJJ
+*END	*END	*END
+=41	=41	=41
+(8f#L	2.d	16bbLL
+.	.	16aa
+8aJ	.	16gg#
+.	.	16aaJJ
+8f#L	.	16gg#LL
+.	.	16aa
+8aJ	.	16gg#
+.	.	16aaJJ
+8f#L	.	16bbLL
+.	.	16aa
+8aJ	.	16ddd
+.	.	16aaJJ
+=42	=42	=42
+8f#L	2.d	16ggLL
+.	.	16ff#
+8aJ	.	16ee#
+.	.	16ff#JJ
+8f#L	.	16ee#LL
+.	.	16ff#
+8aJ	.	16ee#
+.	.	16ff#JJ
+8f#L	.	16aaLL
+.	.	16ff#
+8aJ	.	16ee#
+.	.	16ff#JJ
+=43	=43	=43
+8f#L	2.A	16eeLL
+.	.	16dd
+8aJ	.	16cc#
+.	.	16ddJJ
+8f#L	.	16eeLL
+.	.	16dd
+8aJ	.	16cc#
+.	.	16ddJJ
+8c#L 8g	.	16ff#LL
+.	.	16ee
+8aJ	.	16dd#
+.	.	16eeJJ
+=44	=44	=44
+4f#)	4d	16ff#LL
+.	.	16dd
+.	.	16cc#
+.	.	16eeJJ
+4r	4r	16ddLL
+.	.	16ff#
+.	.	16ee
+.	.	16ggJJ
+4r	4r	16ff#LL
+.	.	16aa
+.	.	16gg
+.	.	16bbJJ
+*END	*END	*END
+=45	=45	=45
+(8f#L	2.d	16gg#LL
+.	.	16aa
+8aJ	.	16bb
+.	.	16aaJJ
+8f#L	.	16bbLL
+.	.	16aa
+8aJ	.	16bb
+.	.	16aaJJ
+8f#L	.	16gg#LL
+.	.	16aa
+8aJ	.	16ddd
+.	.	16aaJJ
+=46	=46	=46
+8f#L	2.d	16ee#LL
+.	.	16ff#
+8aJ	.	16gg
+.	.	16ff#JJ
+8f#L	.	16ggLL
+.	.	16ff#
+8aJ	.	16gg
+.	.	16ff#JJ
+8f#L	.	16ee#LL
+.	.	16ff#
+8aJ	.	16aa
+.	.	16ff#JJ
+=47	=47	=47
+8f#L	2.A	16cc#LL
+.	.	16dd
+8aJ	.	16ee
+.	.	16ddJJ
+8f#L	.	16cc#LL
+.	.	16dd
+8aJ	.	16ee
+.	.	16ddJJ
+8c#L 8g	.	16dd#LL
+.	.	16ee
+8aJ	.	16ff#
+.	.	16eeJJ
+=48	=48	=48
+4f#)	4d	16eeLL
+.	.	16dd
+.	.	16cc#
+.	.	16bJJ
+4r	4r	16aLL
+.	.	16g
+.	.	16f#
+.	.	16eJJ
+4r	4r	4d
+*v	*v	*
+*END	*END
+*clefF4	*clefG2
+=49:|!|:	=49:|!|:
+16DLL	(2dd 2ff# 2aa
+16d	.
+16c#	.
+16dJJ	.
+16eLL	.
+16d	.
+16c#	.
+16dJJ	.
+16ALL	8ddd)
+16d	.
+16F#	8r
+16AJJ	.
+=50	=50
+16DLL	(2a 2dd 2ff#
+16d	.
+16c#	.
+16dJJ	.
+16eLL	.
+16d	.
+16c#	.
+16dJJ	.
+16ALL	8aa)
+16d	.
+16F#	8r
+16AJJ	.
+=51	=51
+16BBLL	8f# 8b 8dd
+16D	.
+16F#	8r
+16BJJ	.
+16GGLL	8b 8dd 8ee
+16BB	.
+16E	8r
+16GJJ	.
+16AALL	8a 8cc# 8ee 8gg
+16C#	.
+16E	8r
+16AJJ	.
+=52	=52
+4D	(16ff#LL
+.	16dd
+.	16cc#
+.	16eeJJ
+4r	16ddLL
+.	16ff#
+.	16ee
+.	16ggJJ
+4r	16ff#LL
+.	16aa
+.	16gg
+.	16bbJJ)
+*END	*END
+*clefF4	*clefG2
+=53	=53
+16DLL	(2dd 2ff# 2aa
+16d	.
+16c#	.
+16dJJ	.
+16eLL	.
+16d	.
+16c#	.
+16dJJ	.
+16ALL	8ddd)
+16d	.
+16F#	8r
+16AJJ	.
+=54	=54
+16DLL	(2a 2dd 2ff#
+16d	.
+16c#	.
+16dJJ	.
+16eLL	.
+16d	.
+16c#	.
+16dJJ	.
+16ALL	8aa)
+16d	.
+16F#	8r
+16AJJ	.
+=55	=55
+16BBLL	8f# 8b 8dd
+16D	.
+16F#	8r
+16BJJ	.
+16GGLL	8g 8b 8ee
+16BB	.
+16E	8r
+16GJJ	.
+16AALL	8e 8g 8a 8cc#
+16C#	.
+16E	8r
+16AJJ	.
+=56	=56
+16DDLL	4d 4f# 4a 4dd
+16D	.
+16F#	.
+16DJJ	.
+16AALL	4r
+16D	.
+16FF#	.
+16AAJJ	.
+8DD	4r
+8r	.
+*END	*END
+*clefF4	*clefG2
+=57:|!|:	=57:|!|:
+16r	4a 4cc# 4ee
+16AA'LL	.
+16BB'	.
+16C#'JJ	.
+16D'LL	4a 4cc# 4ee
+16E'	.
+16F#'	.
+16G#'JJ	.
+16A'LL	4a 4cc# 4ee
+16B'	.
+16c#'	.
+16d'JJ	.
+=58	=58
+(16eLL	[4.cc# [4.ee
+16d	.
+16c#	.
+16BJJ	.
+16ALL	.
+16G	.
+16F#	16cc#LL] 16ee]
+16EJJ	16ddJJ 16ff#
+16DLL	8ee 8gg
+16C#	.
+16BB	8r
+16AAJJ)	.
+=59	=59
+16r	4a 4dd 4ff#
+16D'LL	.
+16E'	.
+16F#'JJ	.
+16G'LL	4a 4dd 4ff#
+16A'	.
+16B'	.
+16c#'JJ	.
+16d'LL	4a 4dd 4ff#
+16e'	.
+16f#'	.
+16g'JJ	.
+=60	=60
+(16aLL	[4.dd [4.ff#
+16g	.
+16f#	.
+16eJJ	.
+16dLL	.
+16c#	.
+16B	16ddLL] 16ff#]
+16AJJ	16eeJJ 16gg
+16GLL	8ff# 8aa
+16F#	.
+16E	8r
+16DJJ)	.
+=61	=61
+16r	(4ddd
+16dLL	.
+16c#	.
+16dJJ	.
+16cLL	8ff#L)
+16d	.
+16B	8gg'J
+16dJJ	.
+16ALL	8aa'L
+16d	.
+16G	8bb'J
+16dJJ	.
+=62	=62
+16F#LL	(8.aaL
+16d	.
+16c#	.
+16dJJ	16dddJk
+16cLL	8ff#L)
+16d	.
+16B	(8ggJ
+16dJJ	.
+16ALL	8aa'L)
+16d	.
+16G	8bb'J
+16dJJ	.
+=63	=63
+16F#LL	(8bbL
+16d	.
+16A	16aaJk)
+16dJJ	16r
+16ELL	(8aaL
+16c#	.
+16A	16ggJk)
+16c#JJ	16r
+16DLL	(8ggL
+16d	.
+16A	16ff#Jk)
+16dJJ	16r
+=64	=64
+4A 4c#	(16eeLL
+.	16a
+.	16b
+.	16ccJJ
+4r	16cc#LL
+.	16dd
+.	16dd#
+.	16eeJJ
+4r	16ee#LL
+.	16ff#
+.	16gg
+.	16gg#JJ)
+*END	*END
+*clefF4	*clefG2
+=65	=65
+16DLL	(2dd 2ff# 2aa
+16d	.
+16c#	.
+16dJJ	.
+16eLL	.
+16d	.
+16c#	.
+16dJJ	.
+16ALL	8ddd)
+16d	.
+16F#	8r
+16AJJ	.
+=66	=66
+16DLL	(2a 2dd 2ff#
+16d	.
+16c#	.
+16dJJ	.
+16eLL	.
+16d	.
+16c#	.
+16dJJ	.
+16ALL	8aa)
+16d	.
+16F#	8r
+16AJJ	.
+=67	=67
+16BBLL	8f# 8b 8dd
+16D	.
+16F#	8r
+16BJJ	.
+16GGLL	8b 8dd 8ee
+16BB	.
+16E	8r
+16GJJ	.
+16AALL	8a 8cc# 8ee 8gg
+16C#	.
+16E	8r
+16AJJ	.
+=68	=68
+4D	(16ff#LL
+.	16dd
+.	16cc#
+.	16eeJJ
+4r	16ddLL
+.	16ff#
+.	16ee
+.	16ggJJ
+4r	16ff#LL
+.	16aa
+.	16gg
+.	16bbJJ)
+*END	*END
+*clefF4	*clefG2
+=69	=69
+16DLL	(2dd 2ff# 2aa
+16d	.
+16c#	.
+16dJJ	.
+16eLL	.
+16d	.
+16c#	.
+16dJJ	.
+16ALL	8ddd)
+16d	.
+16F#	8r
+16AJJ	.
+=70	=70
+16DLL	(2a 2dd 2ff#
+16d	.
+16c#	.
+16dJJ	.
+16eLL	.
+16d	.
+16c#	.
+16dJJ	.
+16ALL	8aa)
+16d	.
+16F#	8r
+16AJJ	.
+=71	=71
+16BBLL	8f# 8b 8dd
+16D	.
+16F#	8r
+16BJJ	.
+16GGLL	8g 8b 8ee
+16BB	.
+16E	8r
+16GJJ	.
+16AALL	8e 8g 8a 8cc#
+16C#	.
+16E	8r
+16AJJ	.
+=72	=72
+16DDLL	4d 4f# 4a 4dd
+16D	.
+16F#	.
+16DJJ	.
+16AALL	4r
+16D	.
+16FF#	.
+16AAJJ	.
+8DD	4r
+8r	.
+*END	*END
+*clefF4	*clefG2
+=73:|!|:	=73:|!|:
+.	32aq
+.	32ddq
+.	32ff#q
+16r	[4aa
+(16DLL	.
+16F#	.
+16AJJ	.
+4d)	16aaLL]
+.	(16a
+.	16dd
+.	16ff#JJ
+4r	16aaLL
+.	16ff#
+.	16ddd'
+.	16ddd'JJ)
+=74	=74
+16r	[4ff#
+(16DDLL	.
+16FF#	.
+16AAJJ	.
+4D)	16ff#LL]
+.	(16f#
+.	16a
+.	16ddJJ
+4r	16ff#LL
+.	16dd
+.	16aa'
+.	16aa'JJ)
+=75	=75
+8B	16r
+.	16f#'LL
+8r	(16b
+.	16ddJJ)
+8G	16r
+.	16g'LL
+8r	(16b
+.	16eeJJ)
+8A	16r
+.	16e'LL
+8r	(16g
+.	16cc#JJ)
+=76	=76
+4D	(16ddLL
+.	16d
+.	16e
+.	16f#JJ
+4r	16gLL
+.	16a
+.	16b
+.	16cc#JJ
+4r	16ddLL
+.	16ee
+.	16ff#
+.	16ggJJ
+*END	*END
+=77	=77
+16r	[4aa
+(16DDLL	.
+16FF#	.
+16AAJJ	.
+4D)	16aaLL])
+.	(16a
+.	16dd
+.	16ff#JJ
+4r	16aaLL
+.	16ff#
+.	16ddd'
+.	16ddd'JJ)
+=78	=78
+16r	[4ff#
+(16DLL	.
+16F#	.
+16AJJ	.
+4d)	16ff#LL]
+.	(16f#
+.	16a
+.	16ddJJ
+4r	16ff#LL
+.	16dd
+.	16aa'
+.	16aa'JJ)
+=79	=79
+16r	8dd
+(16BBLL	.
+16D	8r
+16BJJ)	.
+16r	8g 8ee
+(16GGLL	.
+16BB	8r
+16GJJ)	.
+16r	8e 8cc#
+(16AALL	.
+16C#	8r
+16AJJ)	.
+=80	=80
+16r	4f# 4dd
+(16DLL	.
+16F#	.
+16DJJ	.
+16AALL	4r
+16D	.
+16FF#	.
+16AAJJ	.
+4DD)	4r
+*END	*END
+*clefF4	*clefG2
+=81:|!|:	=81:|!|:
+16r	4a 4cc# 4ee
+(16AAALL	.
+16CC#	.
+16EEJJ	.
+4AA)	16r
+.	(16c#LL
+.	16e
+.	16aJJ
+16r	4cc#)
+(16ALL	.
+16c#	.
+16eJJ	.
+=82	=82
+4a)	16r
+.	(16eeLL
+.	16aa
+.	16ccc#JJ
+4r	16eeeLL
+.	16ddd
+.	16ccc#
+.	16bbJJ
+4r	16aaLL
+.	16gg
+.	16ff#
+.	16eeJJ)
+=83	=83
+16r	4ff#
+(16DDLL	.
+16FF#	.
+16AAJJ	.
+4D)	16r
+.	(16f#LL
+.	16a
+.	16ddJJ
+16r	4ff#)
+(16dLL	.
+16f#	.
+16aJJ	.
+=84	=84
+4dd)	16r
+.	16aaLL
+.	16bb
+.	16ccc#JJ
+4r	16dddLL
+.	16ccc#
+.	16bb
+.	16aaJJ
+4r	16ggLL
+.	16ff#
+.	16ee
+.	16ddJJ
+=85	=85
+4.D	16ff#LL 16aa
+.	16dd
+.	16ddd
+.	16ddJJ
+.	16ff#LL 16aa
+.	16dd
+8G	16gg 16bb
+.	16ddJJ
+8DL	16ff#LL 16aa
+.	16dd
+8GJ	16gg 16bb
+.	16ddJJ
+=86	=86
+4.D	16ff#LL 16aa
+.	16dd
+.	16ddd
+.	16ddJJ
+.	16ff#LL 16aa
+.	16dd
+8G	16gg 16bb
+.	16ddJJ
+8DL	16ff#LL 16aa
+.	16dd
+8GJ	16gg 16bb
+.	16ddJJ
+=87	=87
+16DLL	16aaLL
+16A	16ff#
+16F#	16dd
+16AJJ	16aaJJ
+16C#LL	16ggLL
+16A	16ee
+16E	16a
+16AJJ	16ggJJ
+16DLL	16ff#LL
+16A	16dd
+16F#	16a
+16AJJ	16ff#JJ
+=88	=88
+*	*^
+4AA	16eeLL	4r
+.	16a	.
+.	16cc#	.
+.	16aJJ	.
+4r	8dd'L	16bLL
+.	.	16a
+.	8ee'J	16cc#
+.	.	16aJJ
+4r	8ff#'L	16ddLL
+.	.	16a
+.	8gg'J	16ee
+.	.	16aJJ
+*	*v	*v
+*END	*END
+*clefF4	*clefG2
+=89	=89
+.	32aq
+.	32ddq
+.	32ff#q
+16r	[4aa
+(16DLL	.
+16F#	.
+16AJJ	.
+4d)	16aaLL]
+.	(16a
+.	16dd
+.	16ff#JJ
+4r	16aaLL
+.	16ff#
+.	16ddd'
+.	16ddd'JJ)
+=90	=90
+16r	[4ff#
+(16DDLL	.
+16FF#	.
+16AAJJ	.
+4D)	16ff#LL]
+.	(16f#
+.	16a
+.	16ddJJ
+4r	16ff#LL
+.	16dd
+.	16aa'
+.	16aa'JJ)
+=91	=91
+8B	16r
+.	16f#'LL
+8r	(16b
+.	16ddJJ)
+8G	16r
+.	16g'LL
+8r	(16b
+.	16eeJJ)
+8A	16r
+.	16e'LL
+8r	(16g
+.	16cc#JJ)
+=92	=92
+4D	(16ddLL
+.	16d
+.	16e
+.	16f#JJ
+4r	16gLL
+.	16a
+.	16b
+.	16cc#JJ
+4r	16ddLL
+.	16ee
+.	16ff#
+.	16ggJJ
+*END	*END
+*clefF4	*clefG2
+=93	=93
+16r	[4aa
+(16DDLL	.
+16FF#	.
+16AAJJ	.
+4D)	16aaLL])
+.	(16a
+.	16dd
+.	16ff#JJ
+4r	16aaLL
+.	16ff#
+.	16ddd'
+.	16ddd'JJ)
+=94	=94
+16r	[4ff#
+(16DLL	.
+16F#	.
+16AJJ	.
+4d)	16ff#LL]
+.	(16f#
+.	16a
+.	16ddJJ
+4r	16ff#LL
+.	16dd
+.	16aa'
+.	16aa'JJ)
+=95	=95
+16r	8dd
+(16BBLL	.
+16D	8r
+16BJJ)	.
+16r	8g 8ee
+(16GGLL	.
+16BB	8r
+16GJJ)	.
+16r	8e 8cc#
+(16AALL	.
+16C#	8r
+16AJJ)	.
+=96	=96
+16r	4f# 4dd
+(16DLL	.
+16F#	.
+16DJJ	.
+16AALL	4r
+16D	.
+16FF#	.
+16AAJJ	.
+4DD)	4r
+*END	*END
+*clefF4	*clefG2
+=97:|!|:	=97:|!|:
+4d	(12ff#L 12aa
+.	12ee 12gg
+.	12ddJ) 12ff#
+4r	12dd'L 12ff#'
+.	12dd' 12ff#'
+.	12dd'J 12ff#'
+4r	12dd'L 12ff#'
+.	12dd' 12ff#'
+.	12dd'J 12ff#'
+=98	=98
+4D	(12aL 12ff#
+.	12g 12ee
+.	12f#J) 12dd
+4r	12f#'L 12dd'
+.	12f#' 12dd'
+.	12f#'J 12dd'
+4r	12f#'L 12dd'
+.	12f#' 12dd'
+.	12f#'J 12dd'
+=99	=99
+8d	12r
+.	(12f#L 12dd
+8r	.
+.	12aJ) 12ff#
+8G	12r
+.	(12gL 12ee
+8r	.
+.	12bJ) 12gg
+8A	12r
+.	(12eL 12cc#
+8r	.
+.	12gJ) 12ee
+=100	=100
+4D	12f#L 12dd
+.	12a'
+.	12b'J
+4r	12cc#'L
+.	12dd'
+.	12ee'J
+4r	12ff#'L
+.	12gg'
+.	12gg#'J
+*END	*END
+*clefF4	*clefG2
+=101	=101
+(12f#L 12a	4.aa
+12e 12g	.
+12dJ) 12f#	.
+12d'L 12f#'	.
+12d' 12f#'	.
+.	(32bbLLL
+.	32aa
+12d'J 12f#'	.
+.	32gg#
+.	32aaJJJ
+12d'L 12f#'	8ddd)
+12d' 12f#'	.
+.	8r
+12d'J 12f#'	.
+=102	=102
+(12AL 12f#	4.ff#
+12G 12e	.
+12F#J) 12d	.
+12F#'L 12d'	.
+12F#' 12d'	.
+.	(32ggLLL
+.	32ff#
+12F#'J 12d'	.
+.	32ee
+.	32ff#JJJ
+12F#'L 12d'	8aa)
+12F#' 12d'	.
+.	8r
+12F#'J 12d'	.
+=103	=103
+8B	12r
+.	(12f#L 12dd
+8r	.
+.	12bJ) 12ff#
+8G	12r
+.	(12gL 12ee
+8r	.
+.	12bJ) 12gg
+8A	12r
+.	(12eL 12cc#
+8r	.
+.	12gJ) 12ee
+=104	=104
+12r	4f# 4dd
+(12dL	.
+12AJ	.
+12F#L	4r
+12D	.
+12AAJ	.
+8DD)	4r
+8r	.
+*END	*END
+*clefF4	*clefG2
+=105:|!|:	=105:|!|:
+2.AA 2.A	(12cc#L 12ee
+.	12a
+.	12eeJ) 12gg
+.	(12eeL 12gg
+.	12cc#
+.	12ggJ) 12ccc#
+.	(12ggL 12ccc#
+.	12ee
+.	12ccc#J) 12eee
+=106	=106
+4a	12r
+.	12ccc#'L 12eee'
+.	12bb'J 12ddd'
+4r	12aa'L 12ccc#'
+.	12gg' 12bb'
+.	12ff#'J 12aa'
+4r	12ee'L 12gg'
+.	12dd' 12ff#'
+.	12cc#'J 12ee'
+=107	=107
+2.D 2.d	(12ddL 12ff#
+.	12a
+.	12ff#J) 12aa
+.	(12ff#L 12aa
+.	12dd
+.	12ff#J) 12ddd
+.	(12ff#L 12ddd
+.	12ee 12ccc#
+.	12ff#J) 12ddd
+=108	=108
+4DD	12r
+.	(12cc#L
+.	12ddJ)
+4r	12dd#'L
+.	12ee'
+.	12ff'J
+4r	12ff#'L
+.	12gg'
+.	12gg#'J
+=109	=109
+2r	12aa'L
+.	12ddd'
+.	12ccc#'J
+.	12ccc'L
+.	12bb'
+.	12bb-'J
+(4c# 4g	8aa'
+.	8r
+=110	=110
+4d) 4f#	12r
+.	12ddd'L
+.	12ccc#'J
+4r	12ccc'L
+.	12bb'
+.	12bb-'J
+(4c# 4g	8aa'
+.	8r
+=111	=111
+8d) 8f#	12r
+.	(12eeL 12gg#
+8r	.
+.	12ff#J) 12aa
+8G	12r
+.	(12dd#L 12ff#
+8r	.
+.	12eeJ) 12gg
+8G#	12r
+.	(12cc#L 12ee#
+8r	.
+.	12ddJ) 12ff#
+=112	=112
+12r	4cc# 4ee
+(12AAL	.
+12C#J	.
+12E'L)	4r
+12A'	.
+12B-'J	.
+12B'L	4r
+12c'	.
+12c#'J	.
+*END	*END
+*clefF4	*clefG2
+=113	=113
+4d	(12ff#L 12aa
+.	12ee 12gg
+.	12ddJ) 12ff#
+4r	12dd'L 12ff#'
+.	12dd' 12ff#'
+.	12dd'J 12ff#'
+4r	12dd'L 12ff#'
+.	12dd' 12ff#'
+.	12dd'J 12ff#'
+=114	=114
+4D	(12aL 12ff#
+.	12g 12ee
+.	12f#J) 12dd
+4r	12f#'L 12dd'
+.	12f#' 12dd'
+.	12f#'J 12dd'
+4r	12f#'L 12dd'
+.	12f#' 12dd'
+.	12f#'J 12dd'
+=115	=115
+8d	12r
+.	(12f#L 12dd
+8r	.
+.	12aJ) 12ff#
+8G	12r
+.	(12gL 12ee
+8r	.
+.	12bJ) 12gg
+8A	12r
+.	(12eL 12cc#
+8r	.
+.	12gJ) 12ee
+=116	=116
+4D	12f#L 12dd
+.	12a'
+.	12b'J
+4r	12cc#'L
+.	12dd'
+.	12ee'J
+4r	12ff#'L
+.	12gg'
+.	12gg#'J
+*END	*END
+*clefF4	*clefG2
+=117	=117
+(12f#L 12a	4.aa
+12e 12g	.
+12dJ) 12f#	.
+12d'L 12f#'	.
+12d' 12f#'	.
+.	(32bbLLL
+.	32aa
+12d'J 12f#'	.
+.	32gg#
+.	32aaJJJ
+12d'L 12f#'	8ddd)
+12d' 12f#'	.
+.	8r
+12d'J 12f#'	.
+=118	=118
+(12AL 12f#	4.ff#
+12G 12e	.
+12F#J) 12d	.
+12F#'L 12d'	.
+12F#' 12d'	.
+.	(32ggLLL
+.	32ff#
+12F#'J 12d'	.
+.	32ee
+.	32ff#JJJ
+12F#'L 12d'	8aa)
+12F#' 12d'	.
+.	8r
+12F#'J 12d'	.
+=119	=119
+8B	12r
+.	(12f#L 12dd
+8r	.
+.	12bJ) 12ff#
+8G	12r
+.	(12gL 12ee
+8r	.
+.	12bJ) 12gg
+8A	12r
+.	(12eL 12cc#
+8r	.
+.	12gJ) 12ee
+=120	=120
+12r	4f# 4dd
+(12dL	.
+12AJ	.
+12F#L	4r
+12D	.
+12AAJ	.
+8DD)	4r
+8r	.
+*END	*END
+*clefG2	*clefG2
+=121:|!	=121:|!
+4r	8aa'L
+.	8aa'J
+8r	8aa'L
+8cc# 8gg	8aa'J
+8dd 8ff#	(8aaL
+8r	8dddJ
+=122	=122
+4r	8ff#'L)
+.	8ff#'J
+8r	8ff#'L
+8a# 8ee	8ff#'J
+8b 8dd	(8ff#L
+8r	8bbJ
+=123	=123
+8r	8dd)
+8f# 8a	8r
+8r	8ee
+8g 8b	8r
+8r	8gg
+8a 8cc#	8r
+=124	=124
+4d	8ff#L
+.	(32ddq
+.	8eeJ)
+.	(32eeq
+4r	8ff#L)
+.	(32ff#q
+.	8ggJ)
+.	(32ggq
+4r	8aaL)
+.	(32aaq
+.	8bbJ)
+*END	*END
+*clefG2	*clefG2
+=125	=125
+8r	8aa'L
+8cc# 8gg	8aa'J
+8ddL 8ff#	8aa'L
+8cc#J 8gg	8aa'J
+8dd 8ff#	(16aaLL
+.	16bb
+8r	16ccc#
+.	16dddJJ
+=126	=126
+8r	8ff#'L)
+8a# 8ee	8ff#'J
+8bL 8dd	8ff#'L
+8a#J 8ee	8ff#'J
+8b 8dd	(16ff#LL
+.	16gg#
+8r	16aa#
+.	16bbJJ
+=127	=127
+8r	8.ddL
+8f# 8a	.
+.	16ff#Jk
+8r	8.eeL
+8g 8b	.
+.	16ggJk
+8r	8.cc#L
+8A 8g	.
+.	16eeJk
+*clefF4	*
+=128	=128
+8r	4dd)
+8FF# 8F#	.
+8GGL 8G	4r
+8AAJ 8A	.
+8DD 8D	4r
+8r	.
+*END	*END
+*clefF4	*clefG2
+=129:|!	=129:|!
+8AL 8c#	8aL 8ee
+8AJ 8c#	8aJ 8ee
+8AL 8c#	8aL 8ee
+8AJ 8c#	8aJ 8ee
+8AL 8d	8aL 8ff
+8AJ 8d#	8aJ 8ff#
+=130	=130
+*^	*^
+(4.e	2A	(4.gg	2a
+8f#	.	24ff#LL	.
+.	.	24ee	.
+.	.	24ddJJ	.
+8g)	8A	8cc#)	8a
+8r	8r	8r	8r
+*clefG2	*clefG2	*	*
+*v	*v	*	*
+*	*v	*v
+=131	=131
+8dL	8ddL 8ff#
+8dJ	8ddJ 8ff#
+8dL	8ddL 8ff#
+8dJ	8ddJ 8ff#
+8dL 8e	8ddL 8gg
+8dJ 8e#	8ddJ 8gg#
+=132	=132
+*^	*^
+(4.f#	2d	4.aa	[2dd
+24gLL	.	24ggLL	.
+24a	.	24ff#	.
+24gJJ	.	24eeJJ	.
+8f#)	8d	8ddL	8dd]
+*	*	*v	*v
+8r	8r	8bbJ 8ddd
+*v	*v	*
+=133	=133
+8r	(8aaL 8ccc#
+(8c#	8ggJ 8bb
+8dL	4.ff#) 4.aa
+8eJ	.
+8f#)	.
+8r	8bb 8ddd
+=134	=134
+8r	(8aaL 8ccc#
+(8cc#	8ggJ 8bb
+8ddL	4.ff#) 4.aa
+8eeJ	.
+8ff#L	.
+8dd#J	(8bb
+=135	=135
+8eeL	8ggL
+8cc#J	8aaJ
+8ddL)	8ff#L
+8bJ 8dd	8ggJ
+8f#L 8dd	8aaL
+8g#J 8dd	8bbJ
+=136	=136
+*^	*
+(4dd	2a	8.ff#L
+.	.	32ggLL
+.	.	32ff#JJJ
+4cc#)	.	8eeL
+.	.	8ff#J
+4r	4r	8ggL)
+.	.	8gg#J
+*v	*v	*
+*END	*END
+*clefG2	*clefG2
+=137	=137
+4r	8aa'L
+.	8aa'J
+8r	8aa'L
+8cc# 8gg	8aa'J
+8dd 8ff#	(8aaL
+8r	8dddJ
+=138	=138
+4r	8ff#'L)
+.	8ff#'J
+8r	8ff#'L
+8a# 8ee	8ff#'J
+8b 8dd	(8ff#L
+8r	8bbJ
+=139	=139
+8r	8dd)
+8f# 8a	8r
+8r	8ee
+8g 8b	8r
+8r	8gg
+8a 8cc#	8r
+=140	=140
+4d	8ff#L
+.	(32ddq
+.	8eeJ)
+.	(32eeq
+4r	8ff#L)
+.	(32ff#q
+.	8ggJ)
+.	(32ggq
+4r	8aaL)
+.	(32aaq
+.	8bbJ)
+*END	*END
+*clefG2	*clefG2
+=141	=141
+8r	8aa'L
+8cc# 8gg	8aa'J
+8ddL 8ff#	8aa'L
+8cc#J 8gg	8aa'J
+8dd 8ff#	(16aaLL
+.	16bb
+8r	16ccc#
+.	16dddJJ
+=142	=142
+8r	8ff#'L)
+8a# 8ee	8ff#'J
+8bL 8dd	8ff#'L
+8a#J 8ee	8ff#'J
+8b 8dd	(16ff#LL
+.	16gg#
+8r	16aa#
+.	16bbJJ
+=143	=143
+8r	8.ddL
+8f# 8a	.
+.	16ff#Jk
+8r	8.eeL
+8g 8b	.
+.	16ggJk
+8r	8.cc#L
+8A 8g	.
+.	16eeJk
+*clefF4	*
+=144	=144
+8r	4dd)
+8FF# 8F#	.
+8GGL 8G	4r
+8AAJ 8A	.
+8DD 8D	4r
+8r	.
+*END	*END
+*clefG2	*clefG2
+=145!|:	=145!|:
+*k[b-]	*k[b-]
+*d:	*d:
+4r	(4aa'
+4d 4f 4a	4aa')
+4d 4f 4a	8r
+.	8ddd
+=146	=146
+4r	(4ff'
+4d 4f 4a	4ff')
+4d 4f 4a	8r
+.	8aa
+=147	=147
+*^	*
+4f	2.A	(8ddL
+.	.	32eeLL
+.	.	32dd
+.	.	32cc#
+.	.	32ddJJJ
+4a	.	4.ff
+4g	.	.
+.	.	8ee
+=148	=148	=148
+4f	4d	8ddL)
+.	.	(8cc#'J
+4r	4r	8dd'L
+.	.	8ee'J
+4r	4r	8ff'L
+.	.	8gg'J)
+*END	*END	*END
+*k[b-]	*k[b-]	*k[b-]
+*d:	*d:	*d:
+=149	=149	=149
+4r	2.d	(8aaL
+.	.	32bbLL
+.	.	32aa
+.	.	32gg#
+.	.	32aaJJJ
+4f 4a	.	8bbL)
+.	.	8ccc#J
+4f 4a	.	(8ddd'L
+.	.	8eee'J)
+=150	=150	=150
+4r	2.d	8fff'L
+.	.	(8ccc#J
+4f 4a	.	8dddL)
+.	.	(8gg#J
+4f 4a	.	8aaL)
+.	.	(8eeJ
+=151	=151	=151
+4r	2.A	8ffL)
+.	.	(32ggLL
+.	.	32ff
+.	.	32ee
+.	.	32ffJJJ
+4f 4a	.	4.aa)
+4e 4g	.	.
+.	.	8cc#
+*v	*v	*
+*clefF4	*
+=152	=152
+4r	(4g 4ee
+4d	4f) 4dd
+4D	4r
+*END	*END
+*k[b-]	*k[b-]
+*d:	*d:
+=153:|!	=153:|!|:
+4r	4ee
+(4A' 4c#'	8r
+.	(8ee'
+4A') 4c#'	8ee'L
+.	8ee'J)
+*clefG2	*
+=154	=154
+4r	(8.eeL
+.	16aaJk)
+(4a' 4cc#'	(4.aa
+4a') 4cc#'	.
+.	8ee)
+=155	=155
+4r	(8ggL
+.	8ffJ)
+(4d' 4a'	8r
+.	(8ff'
+4d') 4a'	8ff'L
+.	8ff'J)
+=156	=156
+4r	8.ffL
+.	16ggJk
+(4dd' 4ff'	4.aa
+4dd') 4ff'	.
+.	8ddd
+=157	=157
+(4cc# 4gg	(8cccnL
+.	8bb-J
+8dd) 8ff	16aaLL)
+.	(16fff
+8r	16eee
+.	16dddJJ
+4r	16ccc#LL
+.	16ddd
+.	16eee
+.	16dddJJ
+=158	=158
+(4cc# 4gg	8cccnL
+.	8bb-J
+8dd) 8ff	16aaLL)
+.	(16bb-
+8r	16bb
+.	16cccJJ
+4r	16ccc#'LL
+.	16ddd'
+.	16eee'
+.	16fff'JJ)
+=159	=159
+(4b	(8fffL
+.	8gg#J)
+4cc#	(8ggL
+.	8eeeJ)
+8ddL)	(8ffL
+8g#J	8bbJ)
+=160	=160
+(2a 2dd	(4aa
+.	16ggLL
+.	16ff
+.	16ee
+.	16ffJJ
+8a) 8cc#	8ee)
+8r	8r
+*END	*END
+*k[b-]	*k[b-]
+*d:	*d:
+=161	=161
+4r	4aa
+4d 4f 4a	(4.aa
+4d 4f 4a	.
+.	8ddd)
+=162	=162
+4r	(8.dddL
+.	16ffJk)
+4d 4f 4a	(4.ff
+4d 4f 4a	.
+.	8aa)
+=163	=163
+*^	*
+(4f	2.A	8aa
+.	.	4dd
+4a	.	.
+.	.	4ff
+4g)	.	.
+.	.	8ee
+=164	=164	=164
+4f	4d	(16ddLL
+.	.	32eeL
+.	.	32ddJ
+.	.	16cc#')
+.	.	16dd'JJ
+4r	4r	16ee'LL
+.	.	16ff'
+.	.	16gg'
+.	.	16aa'JJ
+4r	4r	16bb'LL
+.	.	16ccc#'
+.	.	16ddd'
+.	.	16eee'JJ
+*END	*END	*END
+*k[b-]	*k[b-]	*k[b-]
+*d:	*d:	*d:
+=165	=165	=165
+4r	2.d	8fff'L
+.	.	(8ccc#J
+4f 4a	.	8dddL)
+.	.	(8gg#J
+4f 4a	.	8aaL)
+.	.	8ff'J
+=166	=166	=166
+[2B- [2e-	[2G	(8.ee-L
+.	.	16ffJk
+.	.	8.ggL
+.	.	16aaJk
+8B-] 8e-]	8G]	8bb-)
+8r	8r	8r
+=167	=167	=167
+4f	4A	(8ddL
+.	.	32eeLL
+.	.	32dd
+.	.	32cc#
+.	.	32ddJJJ)
+4r	4r	(4.a 4.ff
+*clefF4	*clefF4	*
+4AA	4r	.
+.	.	8g) 8ee
+*v	*v	*
+=168	=168
+4D	4f 4dd
+4AA	4r
+4DD	4r
+*END	*END
+*clefF4	*clefG2
+=169!|:	=169!|:
+*k[f#c#]	*k[f#c#]
+*^	*
+(8f#L	[2d	16aLL
+.	.	16aa
+8e#J	.	16g#
+.	.	16gg#JJ
+8f#L	.	16aLL
+.	.	16aa
+8e#J	.	16g#
+.	.	16gg#JJ
+8f#)	8d]	16aLL
+.	.	16aa
+8r	8r	16dd
+.	.	16dddJJ
+=170	=170	=170
+(8AL	[2D	16f#LL
+.	.	16ff#
+8G#J	.	16e#
+.	.	16ee#JJ
+8AL	.	16f#LL
+.	.	16ff#
+8G#J	.	16e#
+.	.	16ee#JJ
+8A)	8D]	16f#LL
+.	.	16ff#
+8r	8r	16a
+.	.	16aaJJ
+*v	*v	*
+=171	=171
+8BB 8B	16dLL
+.	16dd
+8r	16f#
+.	16ff#JJ
+8GG 8G	16eLL
+.	16ee
+8r	16g
+.	16ggJJ
+8AA 8A	16c#LL
+.	16cc#
+8r	16e
+.	16eeJJ
+=172	=172
+4DD 4D	16dLL
+.	16dd
+.	16c#
+.	16cc#JJ
+4r	16dLL
+.	16dd
+.	16e
+.	16eeJJ
+4r	16f#LL
+.	16ff#
+.	16g
+.	16ggJJ
+*END	*END
+*clefF2	*clefG2
+=173	=173
+16DLL	(2a 2ff# 2aa
+16d	.
+16F#	.
+16f#JJ	.
+16ELL	.
+16e	.
+16D	.
+16dJJ	.
+16C#LL	8dd) 8ff# 8ddd
+16c#	.
+16BB	8r
+16BJJ	.
+=174	=174
+16AALL	(2f# 2dd 2ff#
+16A	.
+16GG	.
+16GJJ	.
+16FF#LL	.
+16F#	.
+16EE	.
+16EJJ	.
+16DDLL	8a) 8ff# 8aa
+16D	.
+16CC#	8r
+16C#JJ	.
+=175	=175
+8BBB 8BB	16r
+.	(16gLL
+8r	16dd
+.	16ggJJ)
+8AAA 8AA	16r
+.	(16f#LL
+8r	16dd
+.	16ff#JJ)
+8AAA	16r
+.	(16eLL
+8r	16cc#
+.	16eeJJ)
+=176	=176
+16r	4dd
+(16DLL	.
+16F#	.
+16DJJ	.
+16AALL	4r
+16D	.
+16FF#	.
+16AAJJ	.
+8DD)	4r
+8r	.
+*END	*END
+*clefF2	*clefG2
+=177:|!|:	=177:|!|:
+*^	*
+(8c#L	[2.A	16eLL
+.	.	16ee
+8B#J	.	16d#
+.	.	16dd#JJ
+8c#L	.	16eLL
+.	.	16ee
+8B#J	.	16d#
+.	.	16dd#JJ
+8c#L	.	16eLL
+.	.	16ee
+8d#J	.	16f#
+.	.	16ff#JJ
+=178	=178	=178
+8eL	2.A]	16gLL
+.	.	16gg
+8d#J	.	16f#
+.	.	16ff#JJ
+8eL	.	16gLL
+.	.	16gg
+8d#J	.	16f#
+.	.	16ff#JJ
+8eL	.	16gLL
+.	.	16gg
+8c#J)	.	16e
+.	.	16eeJJ
+=179	=179	=179
+(8dL	2.D	16f#LL
+.	.	16ff#
+8c#J	.	16e#
+.	.	16ee#JJ
+8dL	.	16f#LL
+.	.	16ff#
+8c#J	.	16e#
+.	.	16ee#JJ
+8dL	.	16f#LL
+.	.	16ff#
+8eJ	.	16g
+.	.	16ggJJ
+=180	=180	=180
+8f#L	2.d	16aLL
+.	.	16aa
+8e#J	.	16g#
+.	.	16gg#JJ
+8f#L	.	16aLL
+.	.	16aa
+8e#J	.	16g#
+.	.	16gg#JJ
+8f#)	.	16aLL
+.	.	16aa
+8r	.	16dd
+.	.	16dddJJ
+*v	*v	*
+=181	=181
+16GGGLL	4cc# 4aa 4ccc#
+16GG	.
+16AAA	.
+16AAJJ	.
+16BBBLL	4b 4gg 4bb
+16BB	.
+16CC#	.
+16C#JJ	.
+16DDLL	8aL 8ff# 8aa
+16D	.
+16FF#	8ddJ 8aa 8ddd
+16F#JJ	.
+=182	=182
+16GGLL	4cc# 4aa 4ccc#
+16G	.
+16AA	.
+16AJJ	.
+16BBLL	4b 4gg 4bb
+16B	.
+16C#	.
+16c#JJ	.
+16DLL	8aL 8ff# 8aa
+16d	.
+16C#	8eeJ 8aa
+16c#JJ	.
+=183	=183
+16BBLL	8ddL 8gg
+16B	.
+16AA	8cc#J 8ff#
+16AJJ	.
+16GGLL	8bL 8ee
+16G	.
+16FF#	8aJ 8dd
+16F#JJ	.
+16EELL	8gL 8cc#
+16E	.
+16DD	8f#J 8dd
+16DJJ	.
+=184	=184
+4AAA 4AA	8eL 8cc# 8ee
+.	16c#L
+.	16cc#JJ
+4r	16dLL
+.	16dd
+.	16e
+.	16eeJJ
+4r	16f#LL
+.	16ff#
+.	16g
+.	16ggJJ
+*END	*END
+*clefF2	*clefG2
+=185	=185
+*^	*
+(8f#L	[2d	16aLL
+.	.	16aa
+8e#J	.	16g#
+.	.	16gg#JJ
+8f#L	.	16aLL
+.	.	16aa
+8e#J	.	16g#
+.	.	16gg#JJ
+8f#)	8d]	16aLL
+.	.	16aa
+8r	8r	16dd
+.	.	16dddJJ
+=186	=186	=186
+(8AL	[2D	16f#LL
+.	.	16ff#
+8G#J	.	16e#
+.	.	16ee#JJ
+8AL	.	16f#LL
+.	.	16ff#
+8G#J	.	16e#
+.	.	16ee#JJ
+8A)	8D]	16f#LL
+.	.	16ff#
+8r	8r	16a
+.	.	16aaJJ
+*v	*v	*
+=187	=187
+8BB 8B	16dLL
+.	16dd
+8r	16f#
+.	16ff#JJ
+8GG 8G	16eLL
+.	16ee
+8r	16g
+.	16ggJJ
+8AA 8A	16c#LL
+.	16cc#
+8r	16e
+.	16eeJJ
+=188	=188
+4DD 4D	16dLL
+.	16dd
+.	16c#
+.	16cc#JJ
+4r	16dLL
+.	16dd
+.	16e
+.	16eeJJ
+4r	16f#LL
+.	16ff#
+.	16g
+.	16ggJJ
+*END	*END
+*clefF2	*clefG2
+=189	=189
+16DLL	(2a 2ff# 2aa
+16d	.
+16F#	.
+16f#JJ	.
+16ELL	.
+16e	.
+16D	.
+16dJJ	.
+16C#LL	8dd) 8ff# 8ddd
+16c#	.
+16BB	8r
+16BJJ	.
+=190	=190
+16AALL	(2f# 2dd 2ff#
+16A	.
+16GG	.
+16GJJ	.
+16FF#LL	.
+16F#	.
+16EE	.
+16EJJ	.
+16DDLL	8a) 8ff# 8aa
+16D	.
+16CC#	8r
+16C#JJ	.
+=191	=191
+8BBB 8BB	16r
+.	(16gLL
+8r	16dd
+.	16ggJJ)
+8AAA 8AA	16r
+.	(16aLL
+8r	16dd
+.	16ff#JJ)
+8AAA	16r
+.	(16gLL
+8r	16cc#
+.	16eeJJ)
+=192	=192
+16r	4f# 4dd
+(16DLL	.
+16F#	.
+16DJJ	.
+16AALL	4r
+16D	.
+16FF#	.
+16AAJJ	.
+8DD)	4r
+8r	.
+*END	*END
+*clefG2	*clefG2
+=193:|!	=193:|!
+4d 4f#	([4aa
+4r	32aaLLL]
+.	32bb
+.	32aa
+.	32gg#JJ
+.	32aaLL
+.	32ddd
+.	32ccc#
+.	32eeeJJJ
+4r	8ddd)
+.	8r
+=194	=194
+4d 4a	([4ff#
+4r	32ff#LLL]
+.	32gg
+.	32ff#
+.	32eeJJ
+.	32ff#LL
+.	32aa
+.	32gg
+.	32bbJJJ
+4r	8aa)
+.	8r
+=195	=195
+4A 4f#	4dd
+(8A'L 8f#'	(8dd'L
+8A'J 8f#'	8dd'J)
+.	(32ff#q
+8A'L 8g'	(16.eeLL)
+.	32ddk
+8A'J) 8g'	16.ee
+.	32ff#JJk
+=196	=196
+16d 16f#	16ddLL)
+16r	(32dL
+.	32f#JJ
+8r	32eLL
+.	32g
+.	32f#
+.	32aJJJ
+4r	32gLLL
+.	32b
+.	32a
+.	32cc#JJ
+.	32bLL
+.	32dd
+.	32cc#
+.	32eeJJJ
+4r	32ddLLL
+.	32ff#
+.	32ee
+.	32ggJJ
+.	32ff#LL
+.	32aa
+.	32gg
+.	32bbJJJ)
+*END	*END
+*clefG2	*clefG2
+=197	=197
+8r	([4aa
+(8d' 8f#'	.
+8d') 8f#'	16aaLL]
+.	16bb
+8r	16ccc#
+.	16dddJJ
+4r	16eeeLL
+.	16ddd
+.	16ccc#
+.	16dddJJ)
+=198	=198
+8r	([4ff#
+(8d' 8a'	.
+8d') 8a'	16ff#LL]
+.	16gg
+8r	16gg#
+.	16aaJJ
+4r	16bbLL
+.	16aa
+.	16gg#
+.	16aaJJ)
+=199	=199
+*^	*
+4f#	4A	(8.aaL
+.	.	16ff#Jk
+(8f#'L	2A	8ddL)
+8f#'J	.	8ddJ
+.	.	(32ff#q
+8g'L	.	(16.eeLL)
+.	.	32ddk
+8g'J)	.	16.ee
+.	.	32ff#JJk
+=200	=200	=200
+(4g	[4d	4ee
+8f#)	8d]	8dd)
+*v	*v	*
+*clefF4	*
+(16G#LL	8r
+32AJJk)	.
+32r	.
+(16E#LL	4r
+32F#JJk)	.
+32r	.
+(16C#LL	.
+32DJJk)	.
+32r	.
+*END	*END
+*clefG2	*clefG2
+=201||	=201||
+8AAL	[4ee
+8AJ 8c#	.
+8AL 8c#	16eeLL]
+.	(16ee
+8AJ 8c#	16gg
+.	16ff#JJ)
+8AL 8d	16ff#'LL
+.	(16ff#
+8AJ 8d	16aa
+.	16ggJJ)
+=202	=202
+8A 8e	8gg
+8r	8r
+4r	32r
+.	(32ALLL
+.	32B
+.	32c#JJ
+.	64dLLL
+.	64e
+.	64f#
+.	64g#
+.	64a
+.	64b
+.	64cc#
+.	64ddJJJJ
+4r	56eeLLL
+.	56ff#
+.	56gg#
+.	56aa
+.	56bb
+.	56ccc#
+.	56dddJJ
+.	48eee'LL
+.	48ddd'
+.	48ccc#'
+.	48bb'
+.	48aa'
+.	48gg'JJJ)
+=203	=203
+8DL	[4ff#
+8dJ	.
+8dL 8f#	24ff#LL]
+.	(24dd
+.	24eeJ
+8dJ 8f#	24ff#L
+.	24gg
+.	24aaJJ
+8dL 8e 8g	24ggLL
+.	24ee
+.	24ff#J
+8dJ 8e 8g	24ggL
+.	24aa
+.	24bbJJ
+=204	=204
+8d 8f# 8a	8aaL)
+8r	[8dJ
+4D	(8dL]
+.	64eLLL
+.	64d
+.	64c#
+.	64d
+.	64e
+.	64f#
+.	64g
+.	64aJJJJ
+4r	64bLLLL
+.	64cc#
+.	64dd
+.	64ee
+.	64ff#
+.	64gg
+.	64aa
+.	64bbJJJ
+.	64ccc#LLL
+.	64ddd
+.	64ccc#
+.	64ddd
+.	64eee
+.	64ddd
+.	64ccc#
+.	64bbJJJJ)
+*clefG2	*
+=205	=205
+*^	*
+8r	2.d	([4aa
+8f# 8a	.	.
+8f#L 8a	.	16aaLL]
+.	.	16dd
+8f#J 8a	.	16ff#
+.	.	16aaJJ
+8gL 8b	.	16bbLL
+.	.	16gg
+8gJ 8b	.	16ddd
+.	.	16bbJJ)
+=206	=206	=206
+8r	2.d	(8gg#L
+8f# 8a	.	[8aaJ
+8f#L 8a	.	48aaLLL])
+.	.	(48dd
+.	.	48dd#JJ
+.	.	48eeLL
+.	.	48ff
+.	.	48ff#JJ
+8f#J 8a	.	32ggLL
+.	.	32gg#
+.	.	32aa
+.	.	32bb-JJJ
+8gL 8b	.	48bbLLL
+.	.	48ccc
+.	.	48ccc#JJ
+.	.	32dddLL
+.	.	32ccc#JJ
+8gJ 8b	.	32eeeLL
+.	.	32ddd
+.	.	32ccc#
+.	.	32bbJJJ)
+=207	=207	=207
+8f# 8a	8d	(32bbLLL
+.	.	32aa)
+.	.	32ddd'
+.	.	32ccc#'JJ
+8r	8r	32ddd'LL
+.	.	32ccc#'
+.	.	32bb'
+.	.	32aa'JJJ
+8a	8c#	(32aaLLL
+.	.	32gg)
+.	.	32eee'
+.	.	32ddd'JJ
+8r	8r	32ccc#'LL
+.	.	32bb'
+.	.	32aa'
+.	.	32gg'JJJ
+8a	8d	(32ggLLL
+.	.	32ff#)
+.	.	32ddd'
+.	.	32ccc#'JJ
+8r	8r	32bb'LL
+.	.	32aa'
+.	.	32gg'
+.	.	32ff#'JJJ
+=208	=208	=208
+([4f#	[2A	([4aa
+8.f#L]	.	16aaLL]
+.	.	32gg#L
+.	.	32aaJJ
+.	.	32bbLL
+.	.	32aa
+16dJk	.	32gg
+.	.	32ff#JJJ
+8c#)	8A]	16eeLL)
+.	.	(16ff#'
+8r	8r	16gg'
+.	.	16gg#'JJ)
+*v	*v	*
+*END	*END
+*clefG2	*clefG2
+=209	=209
+8r	[4aa
+(8d' 8f#'	.
+8d') 8f#'	(24aaLL]
+.	24bb-
+.	24bbJ
+8r	24cccL
+.	24ccc#
+.	24dddJJ)
+4r	(16eeeLL
+.	16ddd
+.	16ccc#
+.	16dddJJ)
+=210	=210
+.	(32dddq
+8r	[4ff#)
+(8d' 8a'	.
+8d') 8a'	(24ff#LL]
+.	24ff#
+.	24ggJ
+8r	24gg#L
+.	24aa
+.	24aa#JJ)
+4r	(16bbLL
+.	16aa
+.	16gg#
+.	16aaJJ)
+=211	=211
+*^	*
+4f#	4A	8aaL
+.	.	(32aaLL
+.	.	32ff#)
+.	.	(32aa
+.	.	32ff#JJJ)
+(8f#'L	2A	(8dd'L
+8f#'J	.	8dd'J)
+.	.	(32ff#q
+8g'L	.	(16.eeLL)
+.	.	32dd#k
+8g'J)	.	16.ee
+.	.	32ff#JJk
+*v	*v	*
+*clefF4	*
+=212	=212
+32r	4f#) 4dd
+(32DDLLL	.
+32EE	.
+32FF#JJ	.
+32GGLL	.
+32AA	.
+32BB	.
+32C#JJJ	.
+32D)	32r
+32r	(32ELLL
+16r	32F#
+.	32GJJ
+8r	32ALL
+.	32B
+.	32c#
+.	32dJJJ
+4r	32eLLL
+.	32f#
+.	32g
+.	32aJJ
+.	48bLL
+.	48cc#
+.	48ddJJ
+.	48eeLL
+.	48ff#
+.	48ggJJJ)
+*END	*END
+*clefF2	*clefG2
+=213	=213
+32r	[2ff# [2aa
+(32DLLL	.
+32E	.
+32F#JJ	.
+32GLL	.
+32A	.
+32B	.
+32c#JJJ	.
+32dLLL	.
+32e	.
+32f#	.
+32gJJ	.
+32aLL	.
+32b	.
+32cc#	.
+32ddJJJ	.
+8d)	16ff#] 16aa]
+.	(32ggLLL
+.	32bbJJ
+8r	32eeLL
+.	32ccc#
+.	32ff#
+.	32dddJJJ)
+=214	=214
+32r	[2dd [2ff#
+(32DDLLL	.
+32EE	.
+32FF#JJ	.
+32GGLL	.
+32AA	.
+32BB	.
+32C#JJJ	.
+32DLLL	.
+32E	.
+32F#	.
+32GJJ	.
+32ALL	.
+32B	.
+32c#	.
+32dJJJ	.
+8D)	16dd] 16ff#]
+.	(32eeLLL
+.	32ggJJ
+8r	32ee#LL
+.	32gg#
+.	32ff#
+.	32aaJJJ)
+=215	=215
+*^	*
+4r	2A	24a'LL
+.	.	24ddd
+.	.	24ccc#J
+.	.	(24cccL
+.	.	24bb
+.	.	24bb-JJ
+4e 4g	.	32aaLLL
+.	.	32gg#
+.	.	32gg
+.	.	32ff#JJ
+.	.	24ffL
+.	.	24ee
+.	.	24ee-JJ
+8e 8g	8A	16ddLL
+.	.	16cc#
+8r	8r	16ggJJ)
+.	.	32r
+.	.	32cc#
+=216	=216	=216
+2DD 2D	2r	(4g 4ee
+.	.	4f#) 4dd
+4r	4r	4r
+*v	*v	*
+*END	*END
+*clefG2	*clefG2
+*M2/4	*M2/4
+=217!|:	=217!|:
+8d'L 8f#'	8aa'L
+(8f#J	(8aaJ
+8gL	8bbL
+8eJ)	8ggJ)
+=218	=218
+8d'L 8a'	8ff#'L
+(8aJ	(8ff#J
+8bL	8ggL
+8gJ)	8eeJ)
+=219	=219
+8d'L 8f#'	8dd'L
+8d'J 8f#'	8dd'J
+*clefF4	*
+8A'L 8c#'	8ee'L
+8A'J 8c#'	8ee'J
+=220	=220
+4d	(8ee#L
+.	8ff#J)
+4r	8dd'L
+.	8a'J
+*END	*END
+*clefF4	*clefG2
+*M2/4	*M2/4
+=221	=221
+(16DLL	8aa
+16d	.
+16F#	4ddd
+16dJJ	.
+16ALL	.
+16d	.
+16c#	8ff#
+16dJJ	.
+=222	=222
+16DLL	8ff#
+16d	.
+16F#	4aa
+16dJJ	.
+16ALL	.
+16d	.
+16c#	8dd
+16dJJ	.
+=223	=223
+16BLL	8ff#L
+16f#	.
+16d	8ff#J
+16f#JJ	.
+.	(32ff#q
+16ALL	(16eeLL)
+16g	16dd
+16c#	16ee
+16gJJ	16ff#JJ
+=224	=224
+8dL) 8f#	4dd)
+8AJ	.
+8D	4r
+8r	.
+*END	*END
+*clefF4	*clefG2
+*M2/4	*M2/4
+=225:|!|:	=225:|!|:
+4GG 4G	4a 4cc# 4ee
+4FF# 4F#	4a 4dd 4ff#
+=226	=226
+4CC# 4C#	4a 4ee 4gg
+4r	8r
+.	16r
+.	16ee
+*clefG2	*
+=227	=227
+8dL 8f#	16ff#LL
+.	16cc#
+8dJ 8f#	16dd
+.	16ff#JJ
+8eL 8g	16ggLL
+.	16dd#
+8eJ 8g	16ee
+.	16ggJJ
+=228	=228
+4f# 4a	8.aa
+.	16r
+4r	8r
+.	(16dddLL
+.	16ccc#JJ)
+=229	=229
+2r	(16ccc#LL
+.	16bb)
+.	(16bb
+.	16aaJJ)
+.	(16aaLL
+.	16gg)
+.	(16gg
+.	16ff#JJ)
+=230	=230
+4.g 4.cc#	(4.bb
+8f# 8dd	8aa)
+=231	=231
+8eL 8dd	8gg#L
+8aJ 8cc#	8ggJ
+8bL 8dd	8ff#L
+8g#J 8dd	8ffJ
+=232	=232
+4a 4cc#	(8eeL
+.	8ff#J
+4r	8ggL
+.	8gg#J
+*END	*END
+*clefG2	*clefG2
+*M2/4	*M2/4
+=233	=233
+8d'L 8f#'	8aa'L)
+(8f#J	(8aaJ
+8gL	8bbL
+8eJ)	8ggJ)
+=234	=234
+8d'L 8a'	8ff#'L
+(8aJ	(8ff#J
+8bL	8ggL
+8gJ)	8eeJ)
+=235	=235
+8d'L 8f#'	8dd'L
+8d'J 8f#'	8dd'J
+*clefF4	*
+8A'L 8c#'	8ee'L
+8A'J 8c#'	8ee'J
+=236	=236
+4d	(8ee#L
+.	8ff#J)
+4r	8dd'L
+.	8a'J
+*END	*END
+*clefF4	*clefG2
+*M2/4	*M2/4
+=237	=237
+(16DLL	8aa
+16d	.
+16F#	4ddd
+16dJJ	.
+16ALL	.
+16d	.
+16c#	8ff#
+16dJJ	.
+=238	=238
+16DLL	8ff#
+16d	.
+16F#	4aa
+16dJJ	.
+16ALL	.
+16d	.
+16c#	8dd
+16dJJ	.
+=239	=239
+16BLL	8ff#L
+16f#	.
+16d	8ff#J
+16f#JJ	.
+.	(32ff#q
+16ALL	(16eeLL)
+16g	16dd
+16c#	16ee
+16gJJ	16ff#JJ
+=240	=240
+8dL) 8f#	4dd)
+8AJ	.
+8D	4r
+8r	.
+*END	*END
+*clefF4	*clefG2
+*M2/4	*M2/4
+=241:|!	=241:|!
+8F#L 8d	8cc'L
+8F#J 8d	8cc'J
+8F#L 8d	(16ccLL
+.	16b
+8F#J 8d	16cc
+.	16ddJJ
+=242	=242
+4G 4d	4b)
+4r	4r
+=243	=243
+8AL 8d	8a'L
+8AJ 8d	8a'J
+8AL 8d	(16aLL
+.	16g#
+8AJ 8d	16a
+.	16bJJ
+=244	=244
+4B 4d	4g#)
+4r	4r
+=245	=245
+2B- 2d 2g	8gg'L
+.	8gg'J
+.	(16ggLL
+.	16ff#
+.	16gg
+.	16aaJJ)
+=246	=246
+4A 4c# 4g	16ggLL
+.	16ee
+.	16gg
+.	16ccc#JJ
+8r	16eeeLL
+.	16gg
+8BB- 8B-	16ddd
+.	16ggJJ
+=247	=247
+4.AA 4.A	16eeeLL
+.	16gg
+.	16ee
+.	16ggJJ
+.	16eeeLL
+.	16gg
+8BB- 8B-	16ddd
+.	16ggJJ
+=248	=248
+4.AA 4.A	16ccc#LL
+.	16gg
+.	16ee
+.	16ggJJ
+.	16eeeLL
+.	16gg
+8BB- 8B-	16ddd
+.	16ggJJ
+=249	=249
+8AAL 8A	16ccc#LL
+.	16gg
+8BB-J 8B-	16ddd
+.	16ggJJ
+8AAL 8A	16ccc#LL
+.	16gg
+8BB-J 8B-	16ddd
+.	16ggJJ
+=250	=250
+[2A	16ccc#LL
+.	16aa
+.	16eee
+.	16ggJJ
+.	16ff#LL
+.	16aa
+.	16eee
+.	16dddJJ
+=251	=251
+2A]	16eeLL
+.	16gg
+.	16ddd
+.	16ccc#JJ
+.	16ddLL
+.	16ff#
+.	16ccc#
+.	16bbJJ
+=252	=252
+[2AA	16cc#LL
+.	16ee
+.	16bb
+.	16aaJJ
+.	16bLL
+.	16dd
+.	16aa
+.	16ggJJ
+=253	=253
+2AA_	16aLL
+.	16cc#
+.	16gg
+.	16ff#JJ
+.	16gLL
+.	16b
+.	16ff#
+.	16eeJJ
+=254	=254
+2AA_	16f#LL
+.	16a
+.	16ee
+.	16ddJJ
+.	16eLL
+.	16g
+.	16dd
+.	16cc#JJ
+=255	=255
+2AA]	16dLL
+.	16f#
+.	16cc#
+.	16bJJ
+.	16c#LL
+.	16e
+.	16b
+.	16aJJ
+*clefG2	*
+=256	=256
+8r	16BLL
+.	16d
+(8dd	16f
+.	16g#JJ
+8eeL	16eLL
+.	16g#
+8ffJ)	16d
+.	16g#JJ
+=257	=257
+8r	16BLL
+.	16d
+(8dd	16f
+.	16g#JJ
+8eeL	16eLL
+.	16g#
+8ffJ)	16d
+.	16g#JJ
+=258	=258
+8r	16BLL
+.	16d
+(8dd	16f
+.	16g#JJ
+8eeL	16eLL
+.	16g#
+8ffJ)	16d
+.	16g#JJ
+=259	=259
+(8ffL	16dLL
+.	16g#
+8eeJ)	16e
+.	16g#JJ
+(8eeL	16eLL
+.	16g#
+8ddJ)	16f
+.	16g#JJ
+*clefF4	*
+=260	=260
+8r	16c#LL
+.	16e
+(8EE	16g
+.	16b-JJ
+8DDL	16fLL
+.	16b-
+8CC#J)	16e
+.	16b-JJ
+=261	=261
+8r	16c#LL
+.	16e
+(8EE	16g
+.	16b-JJ
+8DDL	16fLL
+.	16b-
+8CC#J)	16e
+.	16b-JJ
+=262	=262
+(8CC#L	16eLL
+.	16b-
+8DDJ)	16d
+.	16b-JJ
+(8DDL	16dLL
+.	16b-
+8EEJ)	16c#
+.	16b-JJ
+=263	=263
+4EE	4c#
+4DD	4r
+=264	=264
+4CC#	2r
+4BBB-	.
+*	*clefF4
+=265	=265
+*M19/8	*M19/8
+1AAA 1CC# 1EE 1GG	2AAA;
+.	32BBq
+.	32AAq
+.	32GG#q
+.	(64AALLLL
+.	64C#
+.	64BB
+.	64D
+.	64C#
+.	64E
+.	64D
+.	64F#JJJ
+.	64ELLL
+.	64Gn
+.	64F#
+.	64A
+.	64G
+.	64B
+.	64A
+.	64c#JJJJ
+*	*clefG2
+.	64BLLLL
+.	64d
+.	64c#
+.	64e
+.	64d
+.	64f#
+.	64e
+.	64gJJJ
+.	64f#LLL
+.	64a
+.	64g
+.	64b
+.	64a
+.	64cc#
+.	64b
+.	64ddJJJ
+4r	64cc#LLL
+.	64ee
+.	64dd
+.	64ff#
+.	64ee
+.	64gg
+.	64ff#
+.	64aaJJJJ)
+.	2gg
+4r	.
+2.r	.
+.	2gg#
+.	(8.bbL
+8r	.
+.	16aaJk)
+*END	*END
+*clefG2	*clefG2
+=266||	=266||
+*M3/4	*M3/4
+*^	*
+(8f#L	2.d	(2aa
+8aJ	.	.
+8f#L	.	.
+8aJ	.	.
+.	.	32bbq
+.	.	32aaq
+.	.	32gg#q
+.	.	32aaq
+8f#L	.	8.dddL
+8aJ	.	.
+.	.	16aaJk)
+=267	=267	=267
+8f#L	2.d	(2ff#
+8aJ	.	.
+8f#L	.	.
+8aJ	.	.
+.	.	32ggq
+.	.	32ff#q
+.	.	32eeq
+.	.	32ff#q
+8f#L	.	8.aaL
+8aJ	.	.
+.	.	16ff#Jk)
+=268	=268	=268
+8f#L	2.A	4dd
+8aJ	.	.
+8f#L	.	4dd
+8aJ	.	.
+8c#L 8g	.	(8.eeL
+8aJ	.	.
+.	.	32ddLL
+.	.	32eeJJJ
+=269	=269	=269
+4f#)	4d	8ee#L
+.	.	16ff#Jk)
+.	.	16r
+4r	4r	(8cc#L
+.	.	16ddJk)
+.	.	16r
+4r	4r	(8g#L
+.	.	16aJk)
+.	.	16r
+*v	*v	*
+*END	*END
+*clefG2	*clefG2
+=270	=270
+4d 4f#	(8aa'L
+.	8aa#'J
+4r	8bb'L
+.	8ccc#'J)
+4r	(8eeeL
+.	16dddJk)
+.	16r
+=271	=271
+4d 4a	(8ee#'L
+.	8ff#'J
+4r	8gg'L
+.	8gg#'J)
+4r	(8bbL
+.	16aaJk)
+.	16r
+=272	=272
+*^	*
+(8f#L	2.A	(8.aaL
+8aJ	.	.
+.	.	16ddJk)
+8f#L	.	8dd
+8aJ	.	8r
+8c#L 8g	.	(16eeLL
+.	.	16dd
+8aJ	.	16ee
+.	.	16ff#JJ)
+=273	=273	=273
+4f#)	4d	4dd
+4r	4r	16r
+.	.	16ddd'LL
+.	.	16ccc#'
+.	.	16bb'JJ
+4r	4r	16aa'LL
+.	.	16gg'
+.	.	16ff#'
+.	.	16ee'JJ
+=274	=274	=274
+(8f#L	2.A	4dd
+8aJ	.	.
+8f#L	.	4dd
+8aJ	.	.
+8c#L 8g	.	(16.eeLL
+.	.	32ddk
+8aJ	.	16ee
+.	.	16ff#JJ
+=275	=275	=275
+4f#)	4d	4dd)
+4r	4r	16r
+.	.	(32dddLLL
+.	.	32ccc#JJ
+.	.	32bbLL
+.	.	32aa
+.	.	32gg
+.	.	32ff#JJJ
+4r	4r	32eeLLL
+.	.	32dd
+.	.	32cc#
+.	.	32bJJ
+.	.	32aLL
+.	.	32g
+.	.	32f#
+.	.	32eJJJ
+=276	=276	=276
+*clefF4	*clefF4	*
+(8F#L	2.AA	4d)
+8AJ	.	.
+8F#L	.	4d
+8AJ	.	.
+8GL	.	(16c#LL 16e
+.	.	16d
+8AJ	.	16e
+.	.	16f#JJ
+=277	=277	=277
+4F#)	4D	4d)
+4r	4r	4r
+*v	*v	*
+4AA 4A	4ee 4ccc#
+=278	=278
+4DD 4D	4dd 4ff# 4ddd
+4r	4r
+4r	4r
+==	==
+*-	*-

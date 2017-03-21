@@ -1,0 +1,15 @@
+printf '\n\nA barlines\n'
+grep '^=' *a.krn
+
+
+printf '\n\nB barlines\n'
+grep '^=' *b.krn
+
+
+
+Rscript check_RBAR
+
+
+
+grep -Pz '=[0-9]*\n\*-' *a.krn | tail -n 10
+grep -Pz '=[0-9]*\n\*-' *b.krn | tail -n 10

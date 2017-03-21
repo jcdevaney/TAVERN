@@ -1,0 +1,84 @@
+!!!COM: Beethoven
+!!!OTL: Six Variations on an Original Theme
+!!!Variation: Variation 5 a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#]	*k[f#c#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*D:	*D:	*D:	*D:
+=81	=81	=81	=81
+*	*	*^	*^
+2T	2I	2A	(16ALL	(16dLL	2d
+.	.	.	16F#	16f#	.
+.	.	.	16D	16a	.
+.	.	.	16F#JJ	16f#JJ	.
+.	.	.	16DLL	16aLL	.
+.	.	.	16F#	16f#	.
+.	.	.	16D	16a	.
+.	.	.	16AAJJ)	16ddJJ)	.
+=82	=82	=82	=82	=82	=82
+2T	2I	2A	(16ALL	(16dLL	2d
+.	.	.	16F#	16f#	.
+.	.	.	16D	16a	.
+.	.	.	16F#JJ	16f#JJ	.
+.	.	.	16DLL	16aLL	.
+.	.	.	16F#	16f#	.
+.	.	.	16D	16a	.
+.	.	.	16AAJJ)	16ddJJ)	.
+=83	=83	=83	=83	=83	=83
+2T	2V7	2A	(16ALL	(16eLL	8r
+.	.	.	16G	16g	.
+.	.	.	16E	16a	8c#
+.	.	.	16GJJ	16gJJ	.
+.	.	.	16ELL	16aLL	8r
+.	.	.	16G	16g	.
+.	.	.	16E	16a	8c#
+.	.	.	16AAJJ)	16cc#JJ)	.
+=84	=84	=84	=84	=84	=84
+2T	2I	2A	(16ALL	(16dLL	2d
+.	.	.	16F#	16f#	.
+.	.	.	16D	16a	.
+.	.	.	16F#JJ	16f#JJ	.
+.	.	.	16DLL	16aLL	.
+.	.	.	16F#	16f#	.
+.	.	.	16D	16a	.
+.	.	.	16AAJJ)	16ddJJ)	.
+=85	=85	=85	=85	=85	=85
+2T	2I	2A	(16ALL	(16dLL	2d
+.	.	.	16F#	16f#	.
+.	.	.	16D	16a	.
+.	.	.	16F#JJ	16f#JJ	.
+.	.	.	16DLL	16aLL	.
+.	.	.	16F#	16f#	.
+.	.	.	16D	16a	.
+.	.	.	16AAJJ)	16ddJJ)	.
+=86	=86	=86	=86	=86	=86
+2T	2I	2A	(16ALL	(16dLL	2d
+.	.	.	16F#	16f#	.
+.	.	.	16D	16a	.
+.	.	.	16F#JJ	16f#JJ	.
+.	.	.	16DLL	16aLL	.
+.	.	.	16F#	16f#	.
+.	.	.	16D	16a	.
+.	.	.	16AAJJ)	16ddJJ)	.
+=87	=87	=87	=87	=87	=87
+2D	2V7m9	2A	(16ALL	(16eLL	8r
+.	.	.	16G	16g	.
+.	.	.	16E	16a	8c#
+.	.	.	16GJJ	16gJJ	.
+.	.	.	16ELL	16aLL	8r
+.	.	.	16G	16g	.
+.	.	.	16E	16b-	8c#
+.	.	.	16AAJJ)	16gJJ)	.
+=88	=88	=88	=88	=88	=88
+4T	4Cto7	4G#	(16G#LL	(16dLL	4d
+.	.	.	16F	16g#	.
+.	.	.	16D	16b	.
+.	.	.	16FJJ	16g#JJ	.
+4T	4I	4B	16BLL	16dLL	4d
+.	.	.	16F	16g#	.
+.	.	.	16D	16b	.
+.	.	.	16FJJ)	16g#JJ)	.
+*	*	*	*	*v	*v
+*	*	*v	*v	*
+*-	*-	*-	*-

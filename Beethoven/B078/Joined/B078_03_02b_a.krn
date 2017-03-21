@@ -1,0 +1,111 @@
+!!!COM: Beethoven
+!!!OTL: 7 Variations on "God Save the King" in C Major
+!!!Variation: Variation 3 b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[]	*k[]
+*M3/4	*M3/4	*M3/4	*M3/4
+*C:	*C:	*C:	*C:
+=49	=49	=49	=49
+2T	2Ib	4r	16gLL
+.	.	.	16cc
+.	.	.	16ee
+.	.	.	16ffJJ
+.	.	16ELL	8ggL
+.	.	16c	.
+.	.	16G	8ggJ
+.	.	16cJJ	.
+4T	4iv7c/ii	16DLL	8r
+.	.	16B-	.
+.	.	16F	8gg
+.	.	16B-JJ	.
+=50	=50	=50	=50
+4.T	4.V7b/ii	16C#LL	16r
+.	.	16A	16ggLL
+.	.	.	qaa
+.	.	16E	16gg)
+.	.	16AJJ	16ff#JJ
+.	.	16C#LL	16ggLL
+.	.	16A	16eee
+8T	8ii	16D	16ff
+.	.	16AJJ	16dddJJ
+4T	4V7/ii	16AALL	16eeLL
+.	.	16A	16ddd
+.	.	16G	16ee
+.	.	16EJJ	16ccc#JJ
+=51	=51	=51	=51
+2T	2ii	16DLL	16fLL
+.	.	16A	16a
+.	.	16F	16dd
+.	.	16AJJ	16ffJJ
+.	.	16DLL	8ffL
+.	.	16A	.
+.	.	16F	8ffJ
+.	.	16AJJ	.
+4T	4iiom7d	16CLL	8r
+.	.	16A-	.
+.	.	16D	8ff
+.	.	16A-JJ	.
+=52	=52	=52	=52
+4.T	4.V7b	16BBLL	16r
+.	.	16G	16ffLL
+.	.	.	qgg
+.	.	16D	16ff)
+.	.	16GJJ	16eeJJ
+.	.	16BBLL	16ffLL
+.	.	16G	16ddd
+8T	8I	16C	16ee
+.	.	16GJJ	16cccJJ
+4T	4V7	16GGLL	16ddLL
+.	.	16G	16ccc
+.	.	16F	16dd
+.	.	16DJJ	16bbJJ
+=53	=53	=53	=53
+2.T	2.I	16CLL	16r
+.	.	16E	16eeLL
+.	.	16G	16ee
+.	.	16cJJ	16cccJJ
+.	.	16ALL	16ffLL
+.	.	16c	16ccc
+.	.	16G	16ee
+.	.	16cJJ	16cccJJ
+.	.	16FLL	16ddLL
+.	.	16c	16ccc
+.	.	16E	16cc
+.	.	16cJJ	16cccJJ
+=54	=54	=54	=54
+4.T	4.V7d/IV	8BB-L	16r
+.	.	.	16eeLL
+.	.	8B-J	16ee
+.	.	.	16ccJJ
+.	.	8r	16eeLL
+.	.	.	16cc
+8T	8IVb	8A 8c	16ff
+.	.	.	16ccJJ
+4T	4Ib	8EL 8c	16ggLL
+.	.	.	16cc
+.	.	8EJ 8c	16gg#
+.	.	.	16ccJJ
+=55	=55	=55	=55
+8P	8IV	16FLL	16r
+.	.	16c	16aa
+8P	8ii	16D	16r
+.	.	16dJJ	16ddd 16fff
+4D	4Cc	16GLL	16r
+.	.	16e	16ddd 16eee
+.	.	16c	16r
+.	.	16eJJ	16ccc 16eee
+4D	4V	16GLL	16r
+.	.	16g	16ccc 16ddd
+.	.	16f#	16r
+.	.	16gJJ	16bb 16ddd
+=56	=56	=56	=56
+2.T	2.I	16CLL	8r
+.	.	16E	.
+.	.	16G	8ee 8ccc
+.	.	16BJJ	.
+.	.	8c	(4gg 4eee
+.	.	8r	.
+.	.	4r	8ee) 8ccc
+.	.	.	8r
+*-	*-	*-	*-

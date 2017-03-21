@@ -1,0 +1,70 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[b-e-a-d-g-]	*k[b-e-a-d-g-]
+*M4/4	*M4/4
+=92	=92
+(8G-L	(8g-L
+8F	8f
+8G-	8g-
+8FJ	8fJ
+8G-L	8g-L
+8F	8f
+8G-	8g-
+8FJ)	8fJ)
+=93	=93
+(8E-L	(4.g-
+8F	.
+8E-	.
+8FJ	8A 8a
+8E-L	4.B- 4.b-
+8F	.
+8E-	.
+8FJ)	8c) 8cc
+=94	=94
+*^	*
+(8D-L	1BB-	(4.d- 4.dd-
+8F	.	.
+8D-	.	.
+8FJ	.	8c 8cc
+8D-L	.	4.d- 4.dd-
+8F	.	.
+8D-	.	.
+8FJ)	.	8e) 8ee
+=95	=95	=95
+(8AAL 8C	1FF	(4.f 4.ff
+8F	.	.
+8AA 8C	.	.
+8FJ)	.	8e 8ee
+(8CL 8E-	.	4.f 4.ff
+8F	.	.
+8C 8E-	.	.
+8FJ)	.	8f) 8ff
+=96	=96	=96
+(8D-L	1BB-	(4.b- 4.bb-
+8F	.	.
+8D-	.	.
+8FJ	.	8cc 8ccc
+8D-L	.	4.dd- 4.ddd-
+8F	.	.
+8D-	.	.
+8FJ)	.	8ee) 8eee
+=97	=97	=97
+(8AAL 8C	1FF	(4.ff 4.fff
+8F	.	.
+8AA 8C	.	.
+8FJ	.	8ee 8eee
+8CL 8E-	.	4.ff 4.fff
+8F	.	.
+8C 8E-	.	.
+8FJ)	.	8ff) 8fff
+=98	=98	=98
+(8D-L	2BB-	4b- 4bb-
+8F	.	.
+8D-	.	4r
+8FJ)	.	.
+4BB-	4BB-	2r
+4r	4r	.
+*v	*v	*
+=	=
+*-	*-

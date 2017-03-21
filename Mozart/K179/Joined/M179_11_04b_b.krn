@@ -1,0 +1,57 @@
+!!!COM: Mozart
+!!!OTL: Zwolf Variationen in C uber ein Menuett von Johann Christian Fischer
+!!!Variation: Variation 11 b2
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[]	*k[]
+*M3/4	*M3/4	*M3/4	*M3/4
+*C:	*C:	*C:	*C:
+=288	=288	=288	=288
+2.T	2.I	4E 4G 4c	8r
+.	.	.	[8cc
+.	.	4e	(16ccLL]
+.	.	.	32ddL
+.	.	.	32eeJJ
+.	.	.	32ffLL
+.	.	.	32gg
+.	.	.	32aa
+.	.	.	32bbJJJ
+.	.	4c	32cccLLL
+.	.	.	32ddd
+.	.	.	32eee
+.	.	.	32bbJJ
+.	.	.	32cccLL
+.	.	.	32gg
+.	.	.	32aa
+.	.	.	32eeJJJ)
+=289	=289	=289	=289
+2T	2V/V	4d	8gg
+.	.	.	4ff#
+.	.	4A	.
+.	.	.	[8ff
+4T	4Vb	4B	32ffLLL]
+.	.	.	32gg
+.	.	.	32aa
+.	.	.	32ggJ
+.	.	.	32bb
+.	.	.	32aa
+.	.	.	32ggL
+.	.	.	32ffJJJ
+=290	=290	=290	=290
+4T	4I	4c	32ffLLL
+.	.	.	32ee
+.	.	.	32ff
+.	.	.	32eeJ
+.	.	.	32gg
+.	.	.	32ff
+.	.	.	32eeL
+.	.	.	32ddJJJ
+4D	4Cc	8G 8e	8cc
+.	.	8r	8r
+4D	4V7	8G 8d	8f 8b
+.	.	8r	8r
+=291	=291	=291	=291
+2.T	2.I	4C 4c	(2d 2f 2b
+.	.	4GG 4G	.
+.	.	4CC 4C	4e) 4cc
+*-	*-	*-	*-

@@ -1,0 +1,163 @@
+!!!COM: Beethoven
+!!!OTL: 32 Variationen fur das pianoforte
+!!!Variation: Variation 19 a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*M3/4	*M3/4	*M3/4	*M3/4
+*c:	*c:	*c:	*c:
+=153	=153	=153	=153
+2.T	2.i	4CC 4EE- 4GG 4C	24GLL
+.	.	.	24c
+.	.	.	24e-J
+.	.	.	24gL
+.	.	.	24cc
+.	.	.	24ee-JJ
+.	.	8r	24ggLL
+.	.	.	24ee-
+.	.	.	24ccJ
+*	*	*clefG2	*
+.	.	(8c 8e-	24ggL
+.	.	.	24ee-
+.	.	.	24ccJJ
+.	.	8BL 8d	24ggLL
+.	.	.	24dd
+.	.	.	24bJ
+.	.	8cJ) 8e-	24ggL
+.	.	.	24ee-
+.	.	.	24ccJJ
+=154	=154	=154	=154
+*	*	*clefF4	*
+2.T	2.V	4G 4B 4d	24ggLL
+.	.	.	24dd
+.	.	.	24bJ
+.	.	.	24gL
+.	.	.	24d
+.	.	.	24BJJ
+.	.	8r	24gLL
+.	.	.	24d
+.	.	.	24BJ
+.	.	(8BB 8D	24gL
+.	.	.	24d
+.	.	.	24BJJ
+.	.	8AA#L 8C#	24gLL
+.	.	.	24c#
+.	.	.	24A#J
+.	.	8BBJ) 8D	24gL
+.	.	.	24d
+.	.	.	24BJJ
+=155	=155	=155	=155
+2.T	2.V7/IV	4CC 4GG 4BB- 4C	24eLL
+.	.	.	24b-
+.	.	.	24dd-J
+.	.	.	24eeL
+.	.	.	24bb-
+.	.	.	24ddd-JJ
+.	.	8r	24eeeLL
+.	.	.	24ddd-
+.	.	.	24bb-J
+*	*	*clefG2	*
+.	.	(8b- 8dd-	24eeeL
+.	.	.	24ddd-
+.	.	.	24bb-JJ
+.	.	8aL 8cc	24eeeLL
+.	.	.	24ccc
+.	.	.	24aaJ
+.	.	8b-J) 8dd-	24eeeL
+.	.	.	24ddd-
+.	.	.	24bb-JJ
+=156	=156	=156	=156
+2.P	2.IV	4f 4a 4cc	24fffLL
+.	.	.	24ccc
+.	.	.	24aaJ
+.	.	.	24ffL
+.	.	.	24cc
+.	.	.	24aJJ
+.	.	8r	24ffLL
+.	.	.	24cc
+.	.	.	24aJ
+*	*	*clefF4	*
+.	.	(8A 8c	24ffL
+.	.	.	24cc
+.	.	.	24aJJ
+.	.	8G#L 8B	24ffLL
+.	.	.	24b
+.	.	.	24g#J
+.	.	8AJ) 8c	24ffL
+.	.	.	24cc
+.	.	.	24aJJ
+=157	=157	=157	=157
+2.P	2.V/V	4D 4F# 4A 4c	24f#LL
+.	.	.	24a
+.	.	.	24ccJ
+.	.	.	24ff#L
+.	.	.	24aa
+.	.	.	24cccJJ
+.	.	8r	24fff#LL
+.	.	.	24ccc
+.	.	.	24aaJ
+*	*	*clefG2	*
+.	.	(8cc 8ee-	24fff#L
+.	.	.	24ccc
+.	.	.	24aaJJ
+.	.	8bL 8dd	24fff#LL
+.	.	.	24ddd
+.	.	.	24bbJ
+.	.	8ccJ) 8ee-	24fff#L
+.	.	.	24eee-
+.	.	.	24cccJJ
+=158	=158	=158	=158
+4D	4V	8gL 8b 8dd	24gggLL
+.	.	.	24ddd
+.	.	.	24bbJ
+.	.	8aa-J	24aaa-L
+.	.	.	24fff
+.	.	.	24dddJJ
+2D	2viioD7d	8ff'L	24fffLL
+.	.	.	24ddd
+.	.	.	24bbJ
+.	.	8dd'J	24dddL
+.	.	.	24bb
+.	.	.	24aa-JJ
+.	.	8b'L	24bbLL
+.	.	.	24aa-
+.	.	.	24ffJ
+.	.	8a-'J	24aa-L
+.	.	.	24ff
+.	.	.	24ddJJ
+*	*	*clefF4	*
+=159	=159	=159	=159
+2D	2viioD7d	8f'L	24ffLL
+.	.	.	24dd
+.	.	.	24bJ
+.	.	8d'J	24ddL
+.	.	.	24b
+.	.	.	24a-JJ
+.	.	8B'L	24bLL
+.	.	.	24a-
+.	.	.	24fJ
+.	.	8A-'J	24bL
+.	.	.	24a-
+.	.	.	24fJJ
+8D	8Cc	8G'L	24ccLL
+.	.	.	24g
+.	.	.	24e-J
+8D	8V7	8GG'J	24bL
+.	.	.	24f
+.	.	.	24dJJ
+=160	=160	=160	=160
+4T	4i	8C'L	24ccLL
+.	.	.	24e-
+.	.	.	24cJ
+.	.	8GG'J	24ddL
+.	.	.	24f
+.	.	.	24dJJ
+8T	8Cc	8GG'L	24ee-LL
+.	.	.	24g
+.	.	.	24e-J
+8T	8V	8GGG'J	24bL
+.	.	.	24d
+.	.	.	24BJJ
+4T	4i	8CC	8c 8e- 8cc
+.	.	8r	8r
+*-	*-	*-	*-

@@ -1,0 +1,60 @@
+!!!COM: Beethoven
+!!!OTL: 6 Variationen uber "Nel cor piu non mi sento" von G. Paisiello
+!!!Variation: Variation 5 d
+**function	**kern	**kern	**kern
+*	*	*clefG2	*clefG2
+*	*	*k[f#]	*k[f#]
+*M6/8	*M6/8	*M6/8	*M6/8
+*G:	*G:	*G:	*G:
+=117	=117	=117	=117
+4.T	4.I	4g 4b	8r
+.	.	.	24ggLL
+.	.	.	24aa
+.	.	.	24ff#J
+.	.	8g 8b	8ggJ
+4.T	4.viiob	4a 4cc	8r
+.	.	.	24ggLL
+.	.	.	24aa
+.	.	.	24ff#J
+.	.	8a 8cc	8ggJ
+=118	=118	=118	=118
+4.T	4.Ib	4b 4dd	8r
+.	.	.	24ggLL
+.	.	.	24aa
+.	.	.	24ff#J
+.	.	8b 8dd	24ggL
+.	.	.	24aa
+.	.	.	24ff#JJ
+4.P	4.IV	4cc 4ee	24ggLL
+.	.	.	24aa
+.	.	.	24ff#J
+.	.	.	24ggL
+.	.	.	24aa
+.	.	.	24ff#J
+.	.	8r	24ggL
+.	.	.	24aa
+.	.	.	24ff#JJ
+=119	=119	=119	=119
+*	*	*clefF4	*
+4.D	4.Cc	4.D 4.G 4.B	24ggLL
+.	.	.	24ff#
+.	.	.	24eeJ
+.	.	.	24ddL
+.	.	.	24cc
+.	.	.	24bJ
+.	.	.	24aL
+.	.	.	24g
+.	.	.	24f#JJ
+4.D	4.V7	4.D 4.A 4.c	24eLL
+.	.	.	24d
+.	.	.	24c#J
+.	.	.	24dL
+.	.	.	24f#
+.	.	.	24aJ
+.	.	.	24ccL
+.	.	.	24a
+.	.	.	24f#JJ
+=120	=120	=120	=120
+4.T	4.I	([4.G 4.c	(4.a
+4T	4I	4G]) 4B	4g)
+*-	*-	*-	*-

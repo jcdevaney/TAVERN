@@ -1,0 +1,44 @@
+######Script to pull apart Nat's joined files and get them in the appropriate context.
+
+let num=0
+let count=0
+
+for file in K265_V03_a-all.krn
+do
+printf -v k "%02d" $num
+extractx -s 1,2 $file > phrase$k.krn
+extractx -s 3,4 $file | rid -d | ditto -s = > phrase$k.txt
+let num=$num+1
+done
+
+for file in phrase00.txt
+do
+printf -v k "%02d" $count
+extractx -s 1 $file | humsed 's:[A-Za-z][A-Za-z\/]*[1-9]*::g'| sed 's/\*\*chords/**rhy/g' > rhy$k
+let count=$count+1
+done
+
+arrayx=( rhy00 )
+arrayy=( phrase00.txt )
+let num=0
+
+for i in ${arrayy[@]}
+do
+printf -v k "%02d" $num
+assemble ${arrayy[$num]} ${arrayx[$num]} > temp
+cleave -r -i '**rhy,**function' -o '**function' temp > funspine$k
+assemble funspine$k ${arrayy[$num]} | extractx -s  1,2 > done$k
+let num=$num+1
+done
+
+num=0
+arrayx=( done00 )
+arrayy=( phrase00.krn )
+for file in ${arrayx[@]} 
+do
+printf -v k "%02d" $num
+sed -i 's:\*\*function:**kern:g' $file | partjoin ${arrayy[$k]} ${arrayx[$k]} > Natjoin$k 
+let num=$num+1
+done
+
+

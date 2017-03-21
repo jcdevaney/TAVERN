@@ -1,0 +1,70 @@
+!!!COM: Beethoven
+!!!OTL: 6 Variationen uber "Nel cor piu non mi sento" von G. Paisiello
+!!!Variation: Variation 4 c
+**function	**kern	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-]	*k[b-e-]
+*M6/8	*M6/8	*M6/8	*M6/8
+*g:	*g:	*g:	*g:
+8T	8i	8r	(8dd
+=89	=89	=89	=89
+4.P	4.iiom7/iv	4d 4f	8ccL
+.	.	.	8b
+.	.	8r	8a-J
+4.P	4.V/iv	4r	8gL
+.	.	.	8aa-
+.	.	(8BB	8ggJ)
+=90	=90	=90	=90
+2.P	2.iv	8CL	(4ff
+.	.	8E-	.
+.	.	8GJ	8ee-)
+.	.	8cL	4r
+.	.	8d	.
+.	.	8e-J)	(8cc
+=91	=91	=91	=91
+4.P	4.VI	4e-	8b-L
+.	.	.	8a
+.	.	8r	8gJ
+4.P	4.Vb	4r	8f#L
+.	.	.	8ee-
+.	.	(8FF#	8ddJ)
+=92	=92	=92	=92
+2.P	2.i	8GGL	(4cc
+.	.	8BB-	.
+.	.	8DJ	8b-)
+.	.	8GL	4r
+.	.	8A	.
+*	*	*	*^
+.	.	8B-J)	8g	8dd
+=93	=93	=93	=93	=93
+2.P	2.Gn	4E- 4B-	4g	4dd
+.	.	8E- 8B-	8g	8cc#
+.	.	4E- 4B-	4g	4gg
+.	.	8E- 8B-	8g	8cc#
+=94	=94	=94	=94	=94
+2.D	2.V	4.D; 4.B-;	4.g	4.cc#;
+.	.	.	.	q32dd
+.	.	.	.	q32cc#
+.	.	.	.	q32bn
+.	.	.	.	q32cc#
+.	.	.	.	q8.een
+.	.	.	.	q16dd
+.	.	4D; 4A;	4f#	4dd;
+*	*	*	*v	*v
+.	.	8r	8dd
+=95	=95	=95	=95
+*	*	*^	*
+4.D	4.V7b	4.F#	8r	4a 4cc
+.	.	.	(8e-L	.
+.	.	.	8dJ)	8a 8cc
+4.D	4.i	4.G	8r	4g 4b-
+.	.	.	(8e-L	.
+.	.	.	8dJ)	8g 8b-
+*	*	*v	*v	*
+=96	=96	=96	=96
+4.D	4.V	8DL	[4.f# [4.a
+.	.	(8e-	.
+.	.	8dJ	.
+4D	4V	8c#L	4f#] 4a]
+.	.	8dJ)	.
+*-	*-	*-	*-

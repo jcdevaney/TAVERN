@@ -1,0 +1,63 @@
+!!!COM: Beethoven
+!!!OTL: Neun Variationen uber einen Marsch von E. Chr. Dressler
+!!!Variation: 2 c
+**function	**harm	**kern	**kern
+*	*	*clefG2	*clefG2
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*M4/4	*M4/4	*M4/4	*M4/4
+*c:	*c:	*c:	*c:
+=41	=41	=41	=41
+2T	2III	8e-L 8g	(16eee-LL
+.	.	.	16bb-)
+.	.	8b-	16aa'
+.	.	.	16bb-'JJ
+.	.	8e- 8g	(16aaLL
+.	.	.	16bb-)
+.	.	8b-J	16aa'
+.	.	.	16bb-'JJ
+2T	2Vb/iv	8eL 8g	16cccLL
+.	.	.	16bb
+.	.	8cc	16ccc
+.	.	.	16bbJJ
+.	.	8e 8g	16cccLL
+.	.	.	16bb-
+.	.	8ccJ	16aa-
+.	.	.	16ggJJ
+=42	=42	=42	=42
+1P	1iv	8fL 8a-	4ff
+.	.	8cc	.
+.	.	8f 8a-	8.ffL
+.	.	8ccJ	.
+.	.	.	16ffJk
+.	.	8fL 8a-	2ff
+.	.	8cc	.
+.	.	8f 8a-	.
+.	.	8ccJ	.
+*	*	*clefF4	*
+=43	=43	=43	=43
+2T	2ib	8E-L 8G	8r
+.	.	.	qff#
+.	.	8c	8gg
+.	.	.	qff#
+.	.	8E- 8G	8ggL
+.	.	.	qff#
+.	.	8cJ	8ggJ
+.	.	.	qbb-
+4P	4iv	8FL 8A-	8aa-L
+.	.	.	qaa-
+.	.	8c	8gg
+.	.	.	qgg
+4P	4viioD7/V	8F#	8ff
+.	.	.	qff
+.	.	8cJ 8e-	8ee-J
+=44	=44	=44	=44
+1D	1V	8GL 8B	4dd
+.	.	8d	.
+.	.	8G 8B	8.ddL
+.	.	8dJ	.
+.	.	.	16ddJk
+.	.	8GL 8B	2dd
+.	.	8d	.
+.	.	8G 8B	.
+.	.	8dJ	.
+*-	*-	*-	*-

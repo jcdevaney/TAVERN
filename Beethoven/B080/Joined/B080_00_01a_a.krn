@@ -1,0 +1,61 @@
+!!!COM: Beethoven
+!!!OTL: 32 Variationen fur das pianoforte
+!!!Variation: Theme a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*M3/4	*M3/4	*M3/4	*M3/4
+*c:	*c:	*c:	*c:
+=1	=1	=1	=1
+2.T	2.i	2.C 2.E- 2.G	4r
+.	.	.	4..cc
+.	.	.	16ee-
+=2	=2	=2	=2
+2.T	2.Vb	2.BB 2.D 2.G	8dd'
+.	.	.	8r
+.	.	.	4.g
+.	.	.	(40gLLL
+.	.	.	40a
+.	.	.	40b
+.	.	.	40cc
+.	.	.	40ddJJJ
+=3	=3	=3	=3
+2.T	2.V7d/IV	2.BB- 2.C 2.E 2.G	8een')
+.	.	.	8r
+.	.	.	4..ee
+.	.	.	16gg
+=4	=4	=4	=4
+2.P	2.IVb	2.AA 2.C 2.F	8ff'
+.	.	.	8r
+.	.	.	4.f
+.	.	.	(32ccLLL
+.	.	.	32dd
+.	.	.	32een
+.	.	.	32ffJJJ
+=5	=5	=5	=5
+2.P	2.Gn	2.AA- 2.C 2.E- 2.F#	8ff#')
+.	.	.	8r
+.	.	.	4.f#
+.	.	.	(32ccLLL
+.	.	.	32dd
+.	.	.	32ee-
+.	.	.	32ff#JJJ
+=6	=6	=6	=6
+4D	4Cc	8GG 8C 8E- 8G	8gg')
+.	.	8r	8r
+2D	2iv	2FF 2AA- 2C 2F	2a- 2cc 2ff 2aa
+=7	=7	=7	=7
+2D	2iv	8.r	8.r
+.	.	16AA-	16a-
+.	.	8FF	8f
+.	.	8r	8r
+4D	4V	8GG	8g
+.	.	8r	8r
+=8	=8	=8	=8
+2.T	2.i	8C	8c
+.	.	8r	8r
+.	.	8GG	4r
+.	.	8r	.
+.	.	8CC	4r
+.	.	8r	.
+*-	*-	*-	*-

@@ -1,0 +1,83 @@
+!!!COM: Beethoven
+!!!OTL: 7 Variations on a Quartet by Winter
+!!!Variation: Variation 2 c
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*M2/4	*M2/4	*M2/4	*M2/4
+*F:	*F:	*F:	*F:
+8T	8I	8r	8cc'
+=119	=119	=119	=119
+2T	2I	2r	(32aLLL
+.	.	.	32f
+.	.	.	32g
+.	.	.	32aJJ
+.	.	.	32b-LL
+.	.	.	32cc
+.	.	.	32dd
+.	.	.	32eeJJJ)
+.	.	.	8ff'L
+.	.	.	8cc'J
+=120	=120	=120	=120
+4T	4V7b	(32ELLL	(4b-
+.	.	32F	.
+.	.	32G	.
+.	.	32AJJ	.
+.	.	32B-LL	.
+.	.	32c	.
+.	.	32d	.
+.	.	32eJJJ)	.
+4T	4I	8f'L	4a)
+.	.	8c'J	.
+=121	=121	=121	=121
+*	*	*^	*
+2T	2V7	8B-L	[2c	(8gL
+.	.	8AJ	.	8fJ
+.	.	8GL	.	8eL 8b-
+.	.	8FJ	.	[8fJ [8a
+=122	=122	=122	=122	=122
+4T	4V	4.C	4.c]	8fL] 8a]
+.	.	.	.	8d#J 8f#
+4T	4I	.	.	8e) 8g
+*	*	*v	*v	*
+.	.	8c'	8r
+=123	=123	=123	=123
+2T	2I	(32ALLL	2r
+.	.	32F	.
+.	.	32G	.
+.	.	32AJJ	.
+.	.	32B-LL	.
+.	.	32c	.
+.	.	32d	.
+.	.	32eJJJ)	.
+.	.	8f'L	.
+.	.	8c'J	.
+=124	=124	=124	=124
+8T	8V7d	(8B-	(32eLLL
+.	.	.	32f
+.	.	.	32g
+.	.	.	32aJJ
+4.T	4.Ib	4A	32b-LL
+.	.	.	32cc
+.	.	.	32dd
+.	.	.	32eeJJJ)
+.	.	.	[4ff
+.	.	8A-)	.
+=125	=125	=125	=125
+*	*	*^	*
+2D	2V7/V	2G	(8GnL	8ffL]
+.	.	.	8BJ	(16eeL
+.	.	.	.	16ddJJ)
+.	.	.	8dL	(16ddLL
+.	.	.	.	16cc)
+.	.	.	8fJ)	(16cc
+.	.	.	.	16bJJ)
+*	*	*v	*v	*
+=126	=126	=126	=126
+4D	4V	8eL	(8ccL
+.	.	.	q16dd
+.	.	.	q16cc
+.	.	.	q16bn
+.	.	8cJ	16ccL
+.	.	.	16ddJJ)
+*-	*-	*-	*-

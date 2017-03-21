@@ -1,0 +1,83 @@
+## script to set up the harm files
+# add missing interpretations
+
+let num=0
+for file in Claire*
+do
+#use the 'fill in the time and key sig line' only if few changes in opus
+#sed -i 's:\*M2\/4	\*:*M2/4	*M2/4:g;s/\*F:	\*/*F:	*F:/g' $file
+grep -v '^=-' $file | ditto -s = > placehold 
+	if [ $num -lt 10 ]
+	then
+	extract -f 1,2 placehold > temp0$num
+
+	else
+	extract -f 1,2 placehold > temp$num
+	fi
+let num=$num+1
+done
+
+# create spine that has ONLY the rhythm info taken from the left-most spine, call it **rhy
+
+let num=0
+for file in temp*
+do
+	if [ $num -lt 10 ]
+	then
+	extract -f 1 $file | humsed 's/[A-Za-z][A-Za-z\/]*[1-9\/]*//g' | sed 's:\*\*kern:**rhy:g' > rhy0$num
+
+	else 
+	extract -f 1 $file | humsed s/[A-Za-z][A-Za-z\/]*[1-9\/]*//g | sed 's:\*\*kern:**rhy:g' > rhy$num
+	fi
+let num=$num+1
+done
+
+# cleave **rhy & **function (first must put into same file), call new spine **kern (needs **kern to work with partjoin) > funspine$n
+# assemble temp$num files with functionspine$num files, remove redundant function spine
+# re-order spines so that it's **function **harm  
+
+arrayx=( rhy* )
+arrayy=( temp* )
+
+let num=0
+let i=0
+for file in ${arrayx[@]}; do
+assemble ${arrayy[$i]} ${arrayx[$i]} > file$num 
+	if [ $num -lt 10 ]
+	then
+		cleave -r -i '**rhy,**function' -o '**function' file$num > funspine0$num
+		assemble ${arrayy[$i]} funspine0$num | extract -f 1,3 | mvspine -r > done0$num
+	else
+
+		cleave -r -i '**rhy, **function' -o '**function' file$num > funspine$num
+		assemble ${arrayy[$i]} funspine$num | extract -f 1,3 | mvspine -r > done$num
+	fi
+let i=$i+1
+let num=$num+1
+done
+
+
+# partjoin the done* files with the phrase* files
+
+arrayx=( done* )
+arrayy=( phrase* )
+
+let num=0
+let i=0
+for file in ${arrayx[@]}; do
+sed -i 's/\*\*function	\*\*chords/**kern	**harm/g' $file	
+	if [ $num -lt 10 ]
+	then
+		partjoin ${arrayy[$i]} ${arrayx[$i]} > phrase0$num.jn
+		sed -i 's/\*\*kern	\*\*harm/**function	**harm/g' phrase0$num.jn
+	else
+		partjoin ${arrayy[$i]} ${arrayx[$i]} > phrase$num.jn
+		sed -i 's/\*\*kern	\*\*harm/**function	**harm/g' phrase$num.jn
+	fi
+let i=$i+1
+let num=$num+1
+done
+
+#rm done* rhy* *timebase* file* funspine*
+
+

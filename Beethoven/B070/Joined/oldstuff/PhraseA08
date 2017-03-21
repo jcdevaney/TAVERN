@@ -1,0 +1,55 @@
+!!!COM: Beethoven
+!!!OTL: 6 Variationen uber "Nel cor piu non mi sento" von G. Paisiello
+!!!Variation: Variation 1 d
+**function	**kern	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#]	*k[f#]
+*M6/8	*M6/8	*M6/8	*M6/8
+*G:	*G:	*G:	*G:
+=37	=37	=37	=37
+4.T	4.I	(8G	16bLL
+.	.	.	16a#
+.	.	4d)	16b
+.	.	.	16g
+.	.	.	16a
+.	.	.	16bJJ
+4.T	4.V7c	(8A	16ccLL
+.	.	.	16b
+.	.	4d)	16cc
+.	.	.	16a
+.	.	.	16b
+.	.	.	16ccJJ
+=38	=38	=38	=38
+4.T	4.Ib	(8B	16ddLL
+.	.	.	16cc#
+.	.	4g)	16dd
+.	.	.	16b
+.	.	.	16cc
+.	.	.	16ddJJ
+4.P	4.IV	(8c	16eeLL
+.	.	.	16ff#
+.	.	4g)	16gg
+.	.	.	16dd#
+.	.	.	16ee
+.	.	.	16ccJJ
+=39	=39	=39	=39
+4.D	4.Cc	8dL	16bLL
+.	.	.	16cc
+.	.	8gJ	16cc#
+.	.	.	16dd
+.	.	8r	16b
+.	.	.	16gJJ
+4.D	4.V7	4.D 4.c	16dLL
+.	.	.	16f#
+.	.	.	16a
+.	.	.	16cc
+.	.	.	16a
+.	.	.	16f#JJ
+=40	=40	=40	=40
+4.T	4.I	([4.G 4.c	8aL
+.	.	.	16g#L
+.	.	.	16a
+.	.	.	16b
+.	.	.	16aJJ
+4T	4I	4G]) 4B	4g
+*-	*-	*-	*-

@@ -1,0 +1,61 @@
+!!!COM: Beethoven
+!!!OTL: Zehn Variationen uber "la stessa, la stessissima" aus "Falstaff" von A. Salieri
+!!!Variation: Variation 6 b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-]	*k[b-e-]
+*M4/4	*M4/4	*M4/4	*M4/4
+*B-:	*B-:	*B-:	*B-:
+=107	=107	=107	=107
+1D	1V	4.FF	4F
+.	.	.	4r
+.	.	8F	.
+.	.	8FL	2r
+.	.	8F	.
+.	.	8F	.
+.	.	8FJ	.
+=108	=108	=108	=108
+*	*	*	*clefF4
+4D	4V	4E' 4G'	4.F
+4D	4V7d	4E-' 4A'	.
+.	.	.	8f
+4D	4Ib	4D' 4B-'	8fL
+.	.	.	8f
+4D	4Vc	4C' 4c'	8f
+.	.	.	8fJ
+=109	=109	=109	=109
+*	*	*	*clefG2
+4D	4I	4BB- 4B-	4.d 4.b-
+4P	4ii	4c' 4e-'	.
+.	.	.	8bb-
+4P	4Ib	4d' 4f'	8bb-L
+.	.	.	8bb-
+4P	4IV	4e-' 4g'	8bb-
+.	.	.	8bb-J
+=110	=110	=110	=110
+2D	2V	4.F	4dd' 4ff'
+.	.	.	4b' 4dd'
+.	.	8f	.
+2D	2V7	8fL	4cc' 4ee-'
+.	.	8f	.
+.	.	8f	4a' 4cc'
+.	.	8fJ	.
+=111	=111	=111	=111
+1T	1I	4B-	4b-' 4dd'
+.	.	4r	4dd' 4ff'
+.	.	2r	4ff' 4bb-'
+.	.	.	4bb-' 4ddd'
+=112	=112	=112	=112
+2T	2V	4.FF	4ddd' 4fff'
+.	.	.	4bb' 4ddd'
+.	.	8F	.
+2T	2V7	8FL	4ccc' 4eee-'
+.	.	8F	.
+.	.	8F	4aa' 4ccc'
+.	.	8FJ	.
+=113	=113	=113	=113
+1T	1I	4BB-	4bb-
+.	.	4r	4b-
+.	.	4BBB-	2r
+.	.	4r	.
+*-	*-	*-	*-

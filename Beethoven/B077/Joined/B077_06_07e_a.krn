@@ -1,0 +1,159 @@
+!!!COM: Beethoven
+!!!OTL: Sechs leichte variationen
+!!!Variation: Variation 6 e
+**function	**harm	**kern	**kern
+*	*	*clefG2	*clefG2
+*	*	*k[f#]	*k[f#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*G:	*G:	*G:	*G:
+4T	4I	(4g	(8dd'L 8bb'
+.	.	.	8dd#'J) 8bb'
+=129	=129	=129	=129
+4T	4iib	4c)	(8eeL 8aa
+.	.	.	16cccJk)
+.	.	.	16r
+*	*	*clefF4	*
+4T	4V7	(4D	8cL 8f#
+.	.	.	8cJ 8d
+=130	=130	=130	=130
+*	*	*	*^
+2T	2I	4GG)	4g	(8BL
+.	.	.	.	16GJk)
+.	.	.	.	16r
+*	*	*	*v	*v
+*	*	*clefG2	*
+.	.	(4g	(16ddLL
+.	.	.	16bb
+.	.	.	16dd#
+.	.	.	16bbJJ)
+=131	=131	=131	=131
+4T	4iib	4c)	(16eeLL
+.	.	.	16aa
+.	.	.	16cccJJ)
+.	.	.	16r
+*	*	*clefF4	*
+4T	4V7	(4D	(16cLL
+.	.	.	16f#
+.	.	.	16c
+.	.	.	16dJJ)
+=132	=132	=132	=132
+2T	2I	4GG)	4B 4g
+*	*	*clefG2	*
+.	.	8gL	24r
+.	.	.	(24ddLL
+.	.	.	24bbJJ)
+.	.	8gJ	24r
+.	.	.	(24dd#LL
+.	.	.	24bbJJ)
+=133	=133	=133	=133
+4T	4iib	4c	24r
+.	.	.	(24eeLL
+.	.	.	24aaJJ)
+.	.	.	8ccc'
+*	*	*clefF4	*
+4T	4V7	8DL	24r
+.	.	.	(24cLL
+.	.	.	24f#JJ)
+.	.	8DJ	24r
+.	.	.	(24cLL
+.	.	.	24dJJ)
+=134	=134	=134	=134
+2T	2I	4GG	24r
+.	.	.	(24BLL
+.	.	.	24gJJ)
+.	.	.	8G
+*	*	*clefG2	*
+.	.	8gL	(32ddLLL
+.	.	.	32bb
+.	.	.	32dd
+.	.	.	32bbJJJ)
+.	.	8gJ	(32dd#LLL
+.	.	.	32bb
+.	.	.	32dd#
+.	.	.	32bbJJJ)
+=135	=135	=135	=135
+4P	4iib	4c	(32eeLLL
+.	.	.	32aa
+.	.	.	32ee
+.	.	.	32aaJJJ)
+.	.	.	8ccc
+*	*	*clefF4	*
+4D	4V7	8DL	(32cLLL
+.	.	.	32f#
+.	.	.	32c
+.	.	.	32f#JJJ)
+.	.	8DJ	(32cLLL
+.	.	.	32d
+.	.	.	32c
+.	.	.	32dJJJ)
+=136	=136	=136	=136
+4T	4I	4GG	4B 4g
+*	*	*^	*
+4T	4V7	(8AL	4D	24r
+.	.	.	.	(24cLL
+.	.	.	.	24f#JJ)
+.	.	8F#J	.	24r
+.	.	.	.	(24cLL
+.	.	.	.	24dJJ)
+=137	=137	=137	=137	=137
+4T	4I	4G)	4GG	24r
+.	.	.	.	(24BLL
+.	.	.	.	24gJJ)
+.	.	.	.	8b
+4T	4V7	(8AL	4D	24r
+.	.	.	.	(24cLL
+.	.	.	.	24f#JJ)
+.	.	8F#J	.	24r
+.	.	.	.	(24cLL
+.	.	.	.	24dJJ)
+=138	=138	=138	=138	=138
+4T	4I	4G)	4GG	24r
+.	.	.	.	(24BLL
+.	.	.	.	24gJJ)
+.	.	.	.	8dd
+4T	4V7	(8AL	4D	24r
+.	.	.	.	(24cLL
+.	.	.	.	24f#JJ)
+.	.	8F#J	.	24r
+.	.	.	.	(24cLL
+.	.	.	.	24dJJ)
+=139	=139	=139	=139	=139
+4T	4I	4G)	4GG	24r
+.	.	.	.	(24BLL
+.	.	.	.	24gJJ)
+.	.	.	.	8b
+4T	4V7	(8AL	4D	24r
+.	.	.	.	(24cLL
+.	.	.	.	24f#JJ)
+.	.	8F#J)	.	24r
+.	.	.	.	(24cLL
+.	.	.	.	24dJJ)
+*	*	*v	*v	*
+=140	=140	=140	=140
+2T	2I	8GGL 8G	32r
+.	.	.	(32BLLL
+.	.	.	32d
+.	.	.	32gJJJ)
+.	.	8DJ	32r
+.	.	.	(32cLLL
+.	.	.	32d
+.	.	.	32f#JJJ)
+.	.	8GGL	32r
+.	.	.	(32BLLL
+.	.	.	32d
+.	.	.	32gJJJ)
+.	.	8DDJ	32r
+.	.	.	(32cLLL
+.	.	.	32d
+.	.	.	32f#JJJ)
+=141	=141	=141	=141
+2T	2I	8GGG	8B 8d 8g
+.	.	8r	8r
+.	.	8GG 8G	8b 8dd 8gg 8bb
+.	.	8r	8r
+=142	=142	=142	=142
+2T	2I	8GGG 8GG	8g 8b 8dd 8gg
+.	.	8r	8r
+.	.	4r	4r
+==	==	==	==
+*-	*-	*-	*-

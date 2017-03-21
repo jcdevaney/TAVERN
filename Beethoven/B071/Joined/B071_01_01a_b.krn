@@ -1,0 +1,58 @@
+!!!COM: Beethoven 
+!!!OTL: 12 Variationen uber einen russichen Tanz von P. Wranitzky
+!!!Variation: Variation 1 a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#g#]	*k[f#c#g#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*A:	*A:	*A:	*A:
+4T	4I	4A 4e	16r
+.	.	.	16cc#LK
+.	.	.	[8eeeJ
+=20	=20	=20	=20
+4T	4V7b	4G# 4e	16eeeLL]
+.	.	.	16ddJ
+.	.	.	[8eeeJ
+4T	4I	4A 4e	16eeeLL]
+.	.	.	16cc#J
+.	.	.	[8eeeJ
+=21	=21	=21	=21
+4T	4V	4E 4G#	16eeeLL]
+.	.	.	16bJ
+.	.	.	[8eeeJ
+4T	4V7d	4D 4G#	16eeeLL]
+.	.	.	16bJ
+.	.	.	8cc#J
+=22	=22	=22	=22
+4.T	4.Ib	4C# 4A	(32aLLL
+.	.	.	32b
+.	.	.	32a
+.	.	.	32g#JJ
+.	.	.	32aLL
+.	.	.	32b
+.	.	.	32cc#
+.	.	.	32ddJJJ
+.	.	8r	48eeLLL
+.	.	.	48ff#
+.	.	.	48gg#
+.	.	.	48aa
+.	.	.	48bb
+.	.	.	48ccc#JJ
+*	*	*clefG2	*
+8T	8I	8a	32dddLL
+.	.	.	32ccc#
+.	.	.	32bb
+.	.	.	32ccc#JJJ)
+=23	=23	=23	=23
+4T	4V7b	8g#L	(16eeeLL
+.	.	.	16ddd)
+.	.	8eJ	(16ddd
+.	.	.	16bbJJ)
+4T	4I	8aL	(16dddLL
+.	.	.	16ccc#)
+.	.	8cc#J	(16ccc#
+.	.	.	16aaJJ)
+=24	=24	=24	=24
+4D	4V	4ee	(8ff##L 8aa#
+.	.	.	8gg#J) 8bb
+*-	*-	*-	*-

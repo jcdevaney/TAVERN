@@ -1,0 +1,110 @@
+!!!COM: Beethoven
+!!!OTL: 32 Variationen fur das pianoforte
+!!!Variation: Variation 14 a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[]	*k[]
+*M3/4	*M3/4	*M3/4	*M3/4
+*C:	*C:	*C:	*C:
+=113	=113	=113	=113
+2.T	2.I	4r	16cc'LL 16ee'
+.	.	.	16b' 16dd'
+.	.	.	16cc' 16ee'
+.	.	.	16dd'JJ 16ff'
+.	.	(4..C 4..E	16ee'LL 16gg'
+.	.	.	16dd' 16ff'
+.	.	.	16cc' 16ee'
+.	.	.	16b'JJ 16dd'
+.	.	.	16cc'LL 16ee'
+.	.	.	16b' 16dd'
+.	.	.	16cc' 16ee'
+.	.	16E) 16G	16cc#'JJ 16ee'
+=114	=114	=114	=114
+4T	4ii	4D 4F	16ddLL 16ff
+.	.	.	16cc# 16ee
+.	.	.	16dd 16ff
+.	.	.	16eeJJ 16gg
+2T	2V7	(4..GG 4..D	16ffLL 16aa
+.	.	.	16ee 16gg
+.	.	.	16dd 16ff
+.	.	.	16ccJJ 16ee
+.	.	.	16bLL 16dd
+.	.	.	16cc 16ee
+.	.	.	16dd 16ff
+.	.	16D) 16F	16bJJ 16gg
+=115	=115	=115	=115
+2.T	2.viio/IV	4E 4G	16b-LL 16gg
+.	.	.	16ee 16gg
+.	.	.	16gg 16bb-
+.	.	.	16ffJJ 16aa
+.	.	(4..E 4..G	16eeLL 16gg
+.	.	.	16dd 16ff
+.	.	.	16cc 16ee
+.	.	.	16b-JJ 16dd
+.	.	.	16aLL 16cc
+.	.	.	16g 16b-
+.	.	.	16f 16a
+.	.	16G) 16B-	16eJJ 16g
+=116	=116	=116	=116
+4T	4viio/IV	4E 4G	16r
+.	.	.	16ggLL 16bb-
+.	.	.	16aa 16ccc
+.	.	.	16ggJJ 16bb-
+2T	2IV	4..F 4..A	16ffLL 16aa
+.	.	.	16ee 16gg
+.	.	.	16ff 16aa
+.	.	.	16gg#JJ 16bb
+.	.	.	16aaLL 16ccc
+.	.	.	16gg# 16bb
+.	.	.	16aa 16ccc
+.	.	16F 16A	16gg#JJ 16bb
+=117	=117	=117	=117
+2.T	2.viioD7b/iii	4F# 4A	16aaLL 16ccc
+.	.	.	16gg# 16bb
+.	.	.	16aa 16ccc
+.	.	.	16gg#JJ 16bb
+.	.	4..F# 4..A	16aaLL 16ccc
+.	.	.	16gg 16bb
+.	.	.	16ff# 16aa
+.	.	.	16eeJJ 16gg
+.	.	.	16dd#LL 16ff#
+.	.	.	16aa 16ccc
+.	.	.	16gg 16bb
+.	.	16F# 16A	16ff#JJ 16aa
+=118	=118	=118	=118
+4T	4iiib	(4G 4B	16eeLL 16gg
+.	.	.	16dd# 16ff#
+.	.	.	16ee 16gg
+.	.	.	16ddJJ 16ff
+2T	2vi	[2A) [2c	16ccLL 16ee
+.	.	.	16dd 16ff
+.	.	.	16ee 16gg
+.	.	.	16ffJJ 16aa
+.	.	.	16ggLL 16bb
+.	.	.	16aa 16ccc
+.	.	.	16bb 16ddd
+.	.	.	16cccJJ 16eee
+=119	=119	=119	=119
+4P	4ii7c	8.AL] 8.c]	16dddLL 16fff
+.	.	.	16eee 16ggg
+.	.	.	16fff 16aaa
+.	.	16AJk 16c	16eeeJJ 16ggg
+4P	4ii7b	(4F 4A	16dddLL 16fff
+.	.	.	16ccc 16eee
+.	.	.	16bb 16ddd
+.	.	.	16aaJJ 16ccc
+4D	4V	4G) 4B	16ggLL 16bb
+.	.	.	16ff 16aa
+.	.	.	16ee 16gg
+.	.	.	16ddJJ 16ff
+=120	=120	=120	=120
+2.T	2.I	4C 4c	16ccLL 16ee
+.	.	.	16b 16dd
+.	.	.	16a 16cc
+.	.	.	16gJJ 16b
+.	.	8.r	16fLL 16a
+.	.	.	16e 16g
+.	.	.	16f 16a
+.	.	16GG	16dJJ 16b
+.	.	4CC	4e 4cc
+*-	*-	*-	*-

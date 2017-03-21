@@ -1,0 +1,150 @@
+!!!COM: Beethoven
+!!!OTL: 7 Variations on "God Save the King" in C Major
+!!!Variation: Variation 7 b3
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[]	*k[]
+*M3/4	*M3/4	*M3/4	*M3/4
+*C:	*C:	*C:	*C:
+=136	=136	=136	=136
+2.T	2.V7/IV	16r	4b- 4gg
+.	.	(16CLL	.
+.	.	16c)	.
+.	.	16c'JJ	.
+.	.	16r	4b- 4gg
+.	.	(16CLL	.
+.	.	16c)	.
+.	.	16c'JJ	.
+.	.	16r	4b- 4gg
+.	.	(16CLL	.
+.	.	16c)	.
+.	.	16c'JJ	.
+=137	=137	=137	=137
+2.T	2.V7/IV	16CLL	4.b- 4.gg
+.	.	16c	.
+.	.	16C	.
+.	.	16cJJ	.
+.	.	16CLL	.
+.	.	16c	.
+.	.	16C	8aL 8ff
+.	.	16cJJ	.
+.	.	16CLL	8g 8ee
+.	.	16c	.
+.	.	16C	8g#J 8ee
+.	.	16cJJ	.
+=138	=138	=138	=138
+2.T	2.IVc	16r	4a 4cc 4ff
+.	.	(16CLL	.
+.	.	16c)	.
+.	.	16c'JJ	.
+.	.	16r	4a 4cc 4ff
+.	.	(16CLL	.
+.	.	16c)	.
+.	.	16c'JJ	.
+.	.	16r	4a 4cc 4ff
+.	.	(16CLL	.
+.	.	16c)	.
+.	.	16c'JJ	.
+=139	=139	=139	=139
+2.T	2.IVc	16CLL	4.a 4.cc 4.ff
+.	.	16c	.
+.	.	16C	.
+.	.	16cJJ	.
+.	.	16CLL	.
+.	.	16c	.
+.	.	16C	8gL 8cc 8ee
+.	.	16cJJ	.
+.	.	16CLL	8f 8cc 8dd
+.	.	16c	.
+.	.	16C	8f#J 8cc 8dd#
+.	.	16cJJ	.
+=140	=140	=140	=140
+2.T	2.I	16CLL	24r
+.	.	.	24eLL
+.	.	16c	.
+.	.	.	24ccJ
+.	.	16B	24eeL
+.	.	.	24cc
+.	.	16cJJ	.
+.	.	.	24eJJ
+.	.	16ALL	24r
+.	.	.	24fLL
+.	.	16c	.
+.	.	.	24ffJJ
+.	.	16G	24r
+.	.	.	24eLL
+.	.	16BJJ	.
+.	.	.	24eeJJ
+.	.	16FLL	24r
+.	.	.	24dLL
+.	.	16A	.
+.	.	.	24ddJJ
+.	.	16E	24r
+.	.	.	24cLL
+.	.	16GJJ	.
+.	.	.	24ccJJ
+=141	=141	=141	=141
+4.T	4.I	16CLL	24r
+.	.	.	24eLL
+.	.	16c	.
+.	.	.	24ccJ
+.	.	16B	24eeL
+.	.	.	24cc
+.	.	16cJJ	.
+.	.	.	24eJJ
+.	.	16CLL	24r
+.	.	.	24eLL
+.	.	16c	.
+.	.	.	24eeJJ
+8T	8IVb	16AA	24r
+.	.	.	24fLL
+.	.	16AJJ	.
+.	.	.	24ffJJ
+4T	4Ib	16EELL	24r
+.	.	.	24gLL
+.	.	16E	.
+.	.	.	24ggJJ
+.	.	16EE	24r
+.	.	.	24g#LL
+.	.	16EJJ	.
+.	.	.	24gg#JJ
+=142	=142	=142	=142
+8P	8IV	16FFLL	24aLL
+.	.	.	24cc
+.	.	16F	.
+.	.	.	24aaJJ
+8P	8ii	16DD	24ddLL
+.	.	.	24ff
+.	.	16DJJ	.
+.	.	.	24dddJJ
+4D	4Cc	16GGLL	24ddLL
+.	.	.	24ee
+.	.	16G	.
+.	.	.	24dddJJ
+.	.	16F#	24ccLL
+.	.	.	24ee
+.	.	16GJJ	.
+.	.	.	24cccJJ
+4D	4V	16GGGLL	24ccLL
+.	.	.	24dd
+.	.	16GG	.
+.	.	.	24cccJJ
+.	.	16FF#	24bLL
+.	.	.	24dd
+.	.	16GGJJ	.
+.	.	.	24bbJJ
+=143	=143	=143	=143
+2.T	2.I	16CCLL	8ccc
+.	.	16C	.
+.	.	16D	8r
+.	.	16EJJ	.
+.	.	16FLL	4r
+.	.	16G	.
+.	.	16A	.
+.	.	16BJJ	.
+*	*	*clefG2	*
+.	.	16cLL	4r
+.	.	16d	.
+.	.	16e	.
+.	.	16fJJ	.
+*-	*-	*-	*-

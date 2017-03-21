@@ -1,0 +1,35 @@
+!!!COM: Mozart
+!!!OTL: Andante and variations in G for piano duet, K501
+!!!Variation: Variation 4 a
+**function	**harm	**kern	**kern	**kern	**kern
+*	*	*clefF4	*clefG2	*clefG2	*clefG2
+*	*	*k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-e-]
+*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4
+*g:	*g:	*g:	*g:	*g:	*g:
+8T	8i	8r	8r	8r	(8dd
+=73	=73	=73	=73	=73	=73
+8T	8i	2r	2r	4r	8bb-L
+4.T	4.viioD7c	.	.	.	8aaJ
+.	.	.	.	8r	8aa-L
+*	*	*	*	*^	*
+.	.	.	.	8ee-	[8cc	8ff#J)
+=74	=74	=74	=74	=74	=74	=74
+2T	2i	2r	4r	4.dd	(8ccL]	(8.ggL
+.	.	.	.	.	16.b-L	.
+.	.	.	.	.	.	16aaJk
+.	.	.	.	.	32aJJk	.
+.	.	.	8r	.	8g)	8bb-)
+.	.	.	(8A	8r	8r	8r
+=75	=75	=75	=75	=75	=75	=75
+8D	8v	4r	8fL	4r	2r	2r
+4.D	4.viioD7c/v	.	8eJ	.	.	.
+.	.	8r	8e-L	8r	.	.
+.	.	[8G	8c#J)	8B-	.	.
+=76	=76	=76	=76	=76	=76	=76
+4.D	4.v	(8GL]	(8.dL	4.A	4r	4r
+.	.	16.FL	.	.	.	.
+.	.	.	16eJk	.	.	.
+.	.	32EJJk	.	.	.	.
+.	.	8D)	8f)	.	8r	8r
+*	*	*	*	*v	*v	*
+*-	*-	*-	*-	*-	*-

@@ -1,0 +1,39 @@
+!!!COM: Mozart
+!!!OTL: 12 Variations on "Ah Vous dirais-je, Maman" for the Piano
+!!!Variation: Theme b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[]	*k[]
+*M2/4	*M2/4	*M2/4	*M2/4
+*C:	*C:	*C:	*C:
+=9	=9	=9	=9
+2D	2Ic	4e	4gg
+.	.	4G	4gg
+=10	=10	=10	=10
+2D	2V7	4d	4ff
+.	.	4G	4ff
+=11	=11	=11	=11
+2D	2Ic	4c	4ee
+.	.	4G	4ee
+=12	=12	=12	=12
+2D	2V	4B	4dd
+.	.	4G	4dd
+=13	=13	=13	=13
+2D	2Ic	4e	4gg
+.	.	4G	4gg
+=14	=14	=14	=14
+2D	2V7	4d	4ff
+.	.	4G	4ff
+=15	=15	=15	=15
+2D	2Ic	4c	(4ee
+.	.	.	(q32ff
+.	.	.	q32ee
+.	.	.	q32dd
+.	.	(8.cL	8.eeL)
+.	.	16dJk	16ffJk
+=16	=16	=16	=16
+*	*	*^	*
+4D	4Cc	2G	4c	4ee
+4D	4V	.	4B	4dd)
+*	*	*v	*v	*
+*-	*-	*-	*-

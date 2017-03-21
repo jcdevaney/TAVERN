@@ -1,0 +1,10 @@
+### script to extract only the analysis encoding from the joined files and remove the score information
+
+let j=1
+for i in file*
+do
+
+extractx -s 3,4,0 $i > temp$j 
+mv temp$j $i
+let j++ 
+done

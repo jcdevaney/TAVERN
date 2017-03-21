@@ -1,0 +1,77 @@
+!!!COM: Beethoven
+!!!OTL: 9 Variationen uber "Quant' e piu bello" von G. Paisiello
+!!!Variation: Variation 8 b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#g#]	*k[f#c#g#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*A:	*A:	*A:	*A:
+8T	8I	8r	16f#
+.	.	.	16g#JJ
+=201	=201	=201	=201
+2T	2I	4r	16aLL
+.	.	.	16b
+.	.	.	16cc#
+.	.	.	16ddJJ
+.	.	16r	8eeL
+.	.	(16c#LL	.
+.	.	16B#	8eeJ
+.	.	16c#JJ	.
+=202	=202	=202	=202
+2T	2V7	16BLL	(4dd
+.	.	16A	.
+.	.	16G#	.
+.	.	16F#JJ	.
+.	.	8E)	16bLL)
+.	.	.	16e
+.	.	8r	16f#
+.	.	.	16g#JJ
+=203	=203	=203	=203
+2T	2I	4r	16aLL
+.	.	.	16b
+.	.	.	16cc#
+.	.	.	16ddJJ
+.	.	16r	8eeL
+.	.	(16c#LL	.
+.	.	16B#	8eeJ
+.	.	16c#JJ	.
+=204	=204	=204	=204
+2T	2V7	16BLL	(4dd
+.	.	16A	.
+.	.	16G#	.
+.	.	16F#JJ	.
+.	.	8E)	16bLL)
+.	.	.	16e
+.	.	8r	16f#
+.	.	.	16g#JJ
+=205	=205	=205	=205
+2T	2I	4r	16aLL
+.	.	.	16b
+.	.	.	16cc#
+.	.	.	16ddJJ
+.	.	8A 8c#	16eeLL
+.	.	.	16a
+.	.	8r	16b
+.	.	.	16cc#JJ
+=206	=206	=206	=206
+4P	4IV	4r	16ddLL
+.	.	.	16ee
+.	.	.	16ff#
+.	.	.	16gg#JJ
+4P	4viiob/V	8F# 8A 8d#	16aaLL
+.	.	.	16ee
+.	.	8r	16ff#
+.	.	.	16gg#JJ
+=207	=207	=207	=207
+4.D	4.Cc	4r	16aaLL
+.	.	.	16bb
+.	.	.	16ccc#
+.	.	.	16dddJJ
+.	.	8EL 8A 8c#	8eeeL
+8D	8V7	8EJ 8B 8d	8gg#'J
+=208	=208	=208	=208
+4.T	4.I	4A 4c#	8aa'L
+.	.	.	8ee'J
+.	.	16r	8a'
+.	.	16ELL	.
+*-	*-	*-	*-

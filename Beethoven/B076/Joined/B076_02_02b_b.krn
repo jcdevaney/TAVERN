@@ -1,0 +1,104 @@
+!!!COM: Beethoven
+!!!OTL: Acht Variationen uber das Trio "Tandeln und Scherzen" aus der Oper: Soliman oder die drei Sultaninnen von Sussmayer
+!!!Variation: Variation 2 b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*M3/8	*M3/8	*M3/8	*M3/8
+*F:	*F:	*F:	*F:
+=57	=57	=57	=57
+4.T	4.I	8r	(24bLL
+.	.	.	24dd
+.	.	.	24ccJ
+.	.	8AL 8f	24ffL
+.	.	.	24cc
+.	.	.	24ffJ
+.	.	8FJ 8f	24cc#L
+.	.	.	24ff
+.	.	.	24cc#JJ)
+=58	=58	=58	=58
+4T	4IV	4B- 4f	(24ddLL
+.	.	.	24ff
+.	.	.	24bb-J
+.	.	.	24dddL
+.	.	.	24fff
+.	.	.	24dddJ
+8T	8Ib	8A 8f	24cccL
+.	.	.	24fff
+.	.	.	24cccJJ)
+=59	=59	=59	=59
+4.T	4.I	8r	(24bLL
+.	.	.	24dd
+.	.	.	24ccJ
+.	.	8AL 8f	24ffL
+.	.	.	24cc
+.	.	.	24ffJ
+.	.	8FJ 8f	24cc#L
+.	.	.	24ff
+.	.	.	24cc#JJ)
+=60	=60	=60	=60
+4T	4IV	4B- 4f	(24ddLL
+.	.	.	24ff
+.	.	.	24bb-J
+.	.	.	24dddL
+.	.	.	24fff
+.	.	.	24dddJ
+8T	8Ib	8A 8f	24cccL
+.	.	.	24fff
+.	.	.	24cccJJ)
+=61	=61	=61	=61
+4.T	4.V7	8c'L 8g'	24bb-'LL
+.	.	.	(24gg
+.	.	.	24ff#J
+.	.	8c'J 8e'	24gg'L)
+.	.	.	(24ee
+.	.	.	24dd#J
+.	.	8r	24ee'L)
+.	.	.	(24b-
+.	.	.	24aJJ)
+=62	=62	=62	=62
+4.T	4.V7	8C 8G	24b-'LL
+.	.	.	(24g
+.	.	.	24f#JJ)
+.	.	4C; 4E;	4g;
+=63	=63	=63	=63
+4.T	4.Ib	8AA 8C 8F	24r
+.	.	.	(24ffLL
+.	.	.	24eeJ)
+.	.	8r	24ff'L
+.	.	.	24cc'
+.	.	.	24b-'J
+.	.	8r	24a'L
+.	.	.	24g'
+.	.	.	24f'JJ
+=64	=64	=64	=64
+4.P	4.iib	8BB- 8D 8G	24r
+.	.	.	(24ddLL
+.	.	.	24cc#J)
+.	.	8r	24ee'L
+.	.	.	24dd'
+.	.	.	24cc'J
+.	.	8r	24b-'L
+.	.	.	24a'
+.	.	.	24g'JJ
+=65	=65	=65	=65
+4D	4Cc	8r	(24ccLL
+.	.	.	24b
+.	.	.	24ddJ
+.	.	8CL 8F 8A	24ccL
+.	.	.	24a
+.	.	.	24fJ
+8D	8V7	8CJ 8G 8B-	24b-L
+.	.	.	24g
+.	.	.	24eJJ)
+=66	=66	=66	=66
+4.T	4.I	8F 8A	24f'LL
+.	.	.	24a'
+.	.	.	24b-'J
+.	.	8r	24cc'L
+.	.	.	24dd'
+.	.	.	24ee'J
+.	.	8r	24ff'L
+.	.	.	24gg'
+.	.	.	24aa'JJ
+*-	*-	*-	*-

@@ -1,0 +1,6 @@
+timebase -t 16 *.krn
+solfa *.krn
+
+minrhy *.krn
+
+

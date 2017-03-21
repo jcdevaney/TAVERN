@@ -1,0 +1,36 @@
+!!!COM: Beethoven
+!!!OTL: 7 Variations on a Quartet by Winter 
+!!!Variation: Variation 6c
+**harm	**kern
+*M2/4	*M2/4
+*f:	*f:
+8V	T
+=	=
+4V	T
+4i	.
+=	=
+4V7	T
+4i	.
+=	=
+8iio6	T
+8i6	.
+8viio6	.
+8i	.
+=	=
+4C64	T
+4V	.
+=	=
+4V	T
+4I	.
+=	=
+4V7	T
+4I	.
+=	=
+4C64/V	D
+4V7/V	.
+=	=
+2V	D
+=	=
+*-	*-
+
+

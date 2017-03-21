@@ -1,0 +1,45 @@
+!!!COM: Beethoven
+!!!OTL: Acht Variationen uber das Trio "Tandeln und Scherzen" aus der Oper: Soliman oder die drei Sultaninnen von Sussmayer
+!!!Variation: Variation 5 c
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*M3/8	*M3/8	*M3/8	*M3/8
+*d:	*d:	*d:	*d:
+=139	=139	=139	=139
+4.D	4.V7	16GG 16G	16r
+.	.	16r	16g 16gg
+.	.	16EE 16E	16r
+.	.	16r	16e 16ee
+.	.	8r	8r
+=140	=140	=140	=140
+4.D	4.V7	16CC# 16C#	16r
+.	.	16r	16c# 16cc#
+.	.	16AAA 16AA	16r
+.	.	16r	16A 16a
+.	.	8r	8r
+=141	=141	=141	=141
+4.T	4.i	(8DL	16r
+.	.	.	16d 16dd
+.	.	8DD	16r
+.	.	.	16d 16dd
+.	.	8FFJ	16r
+.	.	.	16d 16dd
+=142	=142	=142	=142
+4P	4iiom7b	8GGL	16r
+.	.	.	16e 16dd 16ee
+.	.	8BB-	16r
+.	.	.	16e 16dd 16ee
+8P	8V7b/V	8GG#J	16r
+.	.	.	16e 16dd 16ee
+=143	=143	=143	=143
+8D	8Cc	8AAL	16r
+.	.	.	16f 16dd 16ff
+4D	4V7	8AAA	16r
+.	.	.	16g 16ee 16gg
+.	.	8AAJ	16r
+.	.	.	16e 16cc# 16ee
+=144	=144	=144	=144
+8T	8i	8DDL 8D	16r
+.	.	.	16d 16dd
+*-	*-	*-	*-

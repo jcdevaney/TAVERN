@@ -1,0 +1,209 @@
+!!!COM: Beethoven
+!!!OTL: 32 Variationen fur das pianoforte
+!!!Variation: Variation 11 a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*M3/4	*M3/4	*M3/4	*M3/4
+*c:	*c:	*c:	*c:
+=89	=89	=89	=89
+2.T	2.i	8CC	32cLLL
+.	.	.	32G
+.	.	.	32A
+.	.	.	32BJJ
+.	.	4GG	32cLL
+.	.	.	32G
+.	.	.	32A
+.	.	.	32BJJJ
+.	.	.	32cLLL
+.	.	.	32G
+.	.	.	32A
+.	.	.	32BJJ
+.	.	16FF	32cLL
+.	.	.	32G
+.	.	16r	32A
+.	.	.	32BJJJ
+.	.	16EE-	32cLLL
+.	.	.	32G
+.	.	16r	32A
+.	.	.	32BJJ
+.	.	16CC	32cLL
+.	.	.	32d
+.	.	16r	32e-
+.	.	.	32f#JJJ
+=90	=90	=90	=90
+2.T	2.Vb	8BBB	32gLLL
+.	.	.	32d
+.	.	.	32e
+.	.	.	32f#JJ
+.	.	4DD 4D	32gLL
+.	.	.	32d
+.	.	.	32e
+.	.	.	32f#JJJ
+.	.	.	32gLLL
+.	.	.	32d
+.	.	.	32e
+.	.	.	32f#JJ
+.	.	16CC 16C	32gLL
+.	.	.	32d
+.	.	16r	32e
+.	.	.	32f#JJJ
+.	.	16BBB 16BB	32gLLL
+.	.	.	32d
+.	.	16r	32e
+.	.	.	32f#JJ
+.	.	16GGG 16GG	32gLL
+.	.	.	32a
+.	.	16r	32b
+.	.	.	32gJJJ
+=91	=91	=91	=91
+2.T	2.V/IV	8r	32ccLLL
+.	.	.	32g
+.	.	.	32a
+.	.	.	32bJJ
+.	.	4GG 4G	32ccLL
+.	.	.	32g
+.	.	.	32a
+.	.	.	32bJJJ
+.	.	.	32ccLLL
+.	.	.	32g
+.	.	.	32a
+.	.	.	32bJJ
+.	.	16FF 16F	32ccLL
+.	.	.	32g
+.	.	16r	32a
+.	.	.	32bJJJ
+.	.	16EE 16E	32ccLLL
+.	.	.	32g
+.	.	16r	32a
+.	.	.	32bJJ
+.	.	16CC 16C	32ccLL
+.	.	.	32dd
+.	.	16r	32ee
+.	.	.	32ccJJJ
+=92	=92	=92	=92
+2.P	2.IV	8r	32ffLLL
+.	.	.	32cc
+.	.	.	32dd
+.	.	.	32eeJJ
+.	.	4C 4c	32ffLL
+.	.	.	32cc
+.	.	.	32dd
+.	.	.	32eeJJJ
+.	.	.	32ffLLL
+.	.	.	32cc
+.	.	.	32dd
+.	.	.	32eeJJ
+.	.	16BB- 16B-	32ffLL
+.	.	.	32cc
+.	.	16r	32dd
+.	.	.	32eeJJJ
+.	.	16AA 16A	32ffLLL
+.	.	.	32cc
+.	.	16r	32dd
+.	.	.	32eeJJ
+.	.	16FF 16F	32ffLL
+.	.	.	32gg
+.	.	16r	32aa
+.	.	.	32ffJJJ
+=93	=93	=93	=93
+2.P	2.viioD7b/V	8r	32ff#LLL
+.	.	.	32gg
+.	.	.	32aa
+.	.	.	32bbJJ
+.	.	4E- 4e-	32cccLL
+.	.	.	32ff#
+.	.	.	32aa
+.	.	.	32bbJJJ
+.	.	.	32cccLLL
+.	.	.	32ff#
+.	.	.	32aa
+.	.	.	32bbJJ
+.	.	16D 16d	32cccLL
+.	.	.	32ff#
+.	.	16r	32aa
+.	.	.	32bbJJJ
+.	.	16C 16c	32cccLLL
+.	.	.	32ff#
+.	.	16r	32aa
+.	.	.	32bbJJ
+.	.	16AA 16A	32cccLL
+.	.	.	32ff#
+.	.	16r	32aa
+.	.	.	32cccJJJ
+=94	=94	=94	=94
+2.D	2.viioD7b	8r	32bbLLL
+.	.	.	32ccc
+.	.	.	32ddd
+.	.	.	32eee-JJ
+*	*	*clefG2	*
+.	.	4A- 4a-	32fffLL
+.	.	.	32bb
+.	.	.	32ddd
+.	.	.	32eee-JJJ
+.	.	.	32fffLLL
+.	.	.	32ddd
+.	.	.	32fff
+.	.	.	32gggJJ
+*	*	*clefF4	*
+.	.	4F 4f	32aaa-LL
+.	.	.	32ddd
+.	.	.	32fff
+.	.	.	32gggJJJ
+.	.	.	32aaa-LLL
+.	.	.	32ddd
+.	.	.	32fff
+.	.	.	32gggJJ
+.	.	[8D [8d	32aaa-LL
+.	.	.	32ddd
+.	.	.	32fff
+.	.	.	32gggJJJ
+=95	=95	=95	=95
+4.D	4.viioD7	8D] 8d]	32aaa-LLL
+.	.	.	32ggg
+.	.	.	32fff
+.	.	.	32eee-JJ
+.	.	4BB 4B	32dddLL
+.	.	.	32eee-
+.	.	.	32fff
+.	.	.	32gggJJJ
+.	.	.	32fffLLL
+.	.	.	32eee-
+.	.	.	32ddd
+.	.	.	32cccJJ
+4.D	4.V	4GG 4G	32bbLL
+.	.	.	32ccc
+.	.	.	32ddd
+.	.	.	32eee-JJJ
+.	.	.	32dddLLL
+.	.	.	32ccc
+.	.	.	32bb
+.	.	.	32aa-JJ
+.	.	8GGG 8GG	32ggLL
+.	.	.	32ff
+.	.	.	32ee-
+.	.	.	32ddJJJ
+=96	=96	=96	=96
+2.T	2.i	8CC 8C	32ee-LLL
+.	.	.	32cc
+.	.	.	32b
+.	.	.	32a-JJ
+.	.	8r	32gLL
+.	.	.	32f
+.	.	.	32e-
+.	.	.	32dJJJ
+.	.	28cLL	2r
+.	.	28B	.
+.	.	28A-	.
+.	.	28G	.
+.	.	28F	.
+.	.	28E-	.
+.	.	28DJJ	.
+.	.	28CLL	.
+.	.	28BB	.
+.	.	28AA-	.
+.	.	28GG	.
+.	.	28FF	.
+.	.	28EE-	.
+.	.	28DDJJ	.
+*-	*-	*-	*-

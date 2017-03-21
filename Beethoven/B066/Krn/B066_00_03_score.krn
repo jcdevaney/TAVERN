@@ -1,0 +1,30 @@
+**kern	**kern	**kern
+*staff3	*staff2	*staff1
+*tb32	*tb32	*tb32
+*clefF4	*clefF4	*clefG2
+*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+*M2/4	*M2/4	*M2/4
+*A:	*A:	*A:
+8r	8r	8b'
+=10	=10	=10
+8D# 8B	2r	8b'L
+8r	.	8cc#'J
+8D# 8B	.	8b'L
+8r	.	8a'J
+=11	=11	=11
+8E 8B	2r	(8.g#L
+8r	.	.
+.	.	16aJk)
+8E 8B	.	8b'L
+8r	.	8b'J
+=12	=12	=12
+8D# 8B	2r	8b'L
+8r	.	8cc#'J
+8D# 8B	.	8b'L
+8r	.	8a'J
+=13	=13	=13
+8E 8B	4.r	(8.g#L
+8r	.	.
+.	.	16aJk)
+8r	.	8b'L
+*-	*-	*-

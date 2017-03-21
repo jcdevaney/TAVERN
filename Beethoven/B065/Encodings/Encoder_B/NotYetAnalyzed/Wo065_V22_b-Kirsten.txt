@@ -1,0 +1,29 @@
+!!!COM: Beethoven
+
+!!!OTL: 24 Variationen uber Venni Amore von V. Righini
+
+!!!Variation: 22 b
+
+**chords	**function	**comments
+
+*M2/4	*M2/4	*M2/4
+
+
+=	=	=
+2V7	D	D
+=	=	=
+2I64	.	T
+=	=	=
+2V7	.	D
+=	=	=
+2I64	.	T
+=	=	=
+2V7	.	D
+=	=	=
+2I64	.	T
+=	=	=
+2V7	.	D
+=	=	=
+2I	T	T
+==	==	==
+*-	*-	*-

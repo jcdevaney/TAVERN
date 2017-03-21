@@ -1,0 +1,48 @@
+!!!COM: Beethoven
+!!!OTL: 7 Variations on "God Save the King" in C Major
+!!!Variation: Theme b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[]	*k[]
+*M3/4	*M3/4	*M3/4	*M3/4
+*C:	*C:	*C:	*C:
+=7	=7	=7	=7
+2.T	2.I	4C	4g 4ee 4gg
+.	.	4E	4g 4ee 4gg
+.	.	4G	4g 4ee 4gg
+=8	=8	=8	=8
+2.T	2.I	4c	4.g 4.ee 4.gg
+.	.	4C	.
+.	.	.	8g 8dd 8ff
+.	.	4r	4g 4cc 4ee
+=9	=9	=9	=9
+2.T	2.V7	4GG	4g 4dd 4ff
+.	.	4BB	4g 4dd 4ff
+.	.	4D	4g 4dd 4ff
+=10	=10	=10	=10
+2.T	2.V7	4G	4.g 4.dd 4.ff
+.	.	4GG	.
+.	.	.	8g 8cc 8ee
+.	.	4r	4g 4b 4dd
+=11	=11	=11	=11
+2.T	2.I	4C	4g 4cc 4ee
+.	.	4c	8aL 8ff
+.	.	.	8g 8ee
+.	.	4c	8f 8dd
+.	.	.	8eJ 8cc
+=12	=12	=12	=12
+4.T	4.I	4.c	4.g 4.cc 4.ee
+8T	8IVb	8A	8f 8cc 8ff
+4T	4Ib	4E	4g 4cc 4gg
+=13	=13	=13	=13
+4P	4ii	8FL	12aaL
+.	.	.	12gg
+.	.	8DJ	.
+.	.	.	12ffJ
+4D	4Cc	4G	4g 4cc 4ee
+4D	4V7	4GG	4f 4b 4dd
+=14	=14	=14	=14
+2.T	2.I	4C	4e 4g 4cc
+.	.	4GG	4r
+.	.	4CC	4r
+*-	*-	*-	*-

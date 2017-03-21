@@ -1,0 +1,47 @@
+!!!COM: Beethoven
+!!!OTL: Zwolf Variationen uber das Menuett a la Vigano von J. Haibel
+!!!Variation: Variation 1 c
+**function	**harm	**kern	**kern
+*	*	*clefG2	*clefG2
+*	*	*k[]	*k[]
+*M4/4	*M4/4	*M4/4	*M4/4
+*C:	*C:	*C:	*C:
+4.T	4.I	8r	(8eeL 8gg
+.	.	4r	8dd 8ff
+.	.	.	8ccJ) 8ee
+=25	=25	=25	=25
+*	*	*^	*
+1D	1V7m9	(8a-L	1G	2b 2dd
+.	.	8g	.	.
+.	.	8a-	.	.
+.	.	8gJ)	.	.
+.	.	2f	.	8r
+.	.	.	.	(8b 8dd
+.	.	.	.	8ccL 8ee
+.	.	.	.	8ddJ) 8ff
+=26	=26	=26	=26	=26
+1D	1Ic	(8eL	1G	2ee 2gg
+.	.	8d	.	.
+.	.	8e	.	.
+.	.	8dJ)	.	.
+.	.	2c	.	8r
+.	.	.	.	(8ee 8gg
+.	.	.	.	8ddL 8ff
+.	.	.	.	8ccJ) 8ee
+=27	=27	=27	=27	=27
+2D	2V7m9	(8a-L	1G	2b 2dd
+.	.	8g	.	.
+.	.	8a-	.	.
+.	.	8gJ	.	.
+2D	2viioD7/V	8f#L	.	2cc 2ee-
+.	.	8g	.	.
+.	.	8a	.	.
+.	.	8f#J)	.	.
+=28	=28	=28	=28	=28
+2D	2V	(8gL	4G	4b 4dd
+.	.	8f#	.	.
+.	.	8g	4r	4r
+.	.	8aJ	.	.
+8D	8V	8gL	2r	8r
+*	*	*v	*v	*
+*-	*-	*-	*-

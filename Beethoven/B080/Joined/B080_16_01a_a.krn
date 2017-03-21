@@ -1,0 +1,152 @@
+!!!COM: Beethoven
+!!!OTL: 32 Variationen fur das pianoforte
+!!!Variation: Variation 16 a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[]	*k[]
+*M3/4	*M3/4	*M3/4	*M3/4
+*C:	*C:	*C:	*C:
+=129	=129	=129	=129
+2.T	2.I	(12CCL	16cLL 16cc
+.	.	.	16G 16g
+.	.	12GG	.
+.	.	.	16A 16a
+.	.	12EJ)	.
+.	.	.	16GJJ 16g
+.	.	(12CCL	16r
+.	.	.	16BLL 16b
+.	.	12GG	.
+.	.	.	16d 16dd
+.	.	12EJ)	.
+.	.	.	16cJJ 16cc
+.	.	(12CCL	16r
+.	.	.	16cLL 16cc
+.	.	12GG	.
+.	.	.	16d 16dd
+.	.	12EJ)	.
+.	.	.	16eJJ 16ee
+=130	=130	=130	=130
+2.T	2.Vb	(12BBBL	16r
+.	.	.	16eLL 16ee
+.	.	12GG	.
+.	.	.	16d 16dd
+.	.	12DJ)	.
+.	.	.	16cJJ 16cc
+.	.	(12BBBL	16r
+.	.	.	16cLL 16cc
+.	.	12GG	.
+.	.	.	16B 16b
+.	.	12DJ)	.
+.	.	.	16AJJ 16a
+.	.	(12BBBL	16r
+.	.	.	16ALL 16a
+.	.	12GG	.
+.	.	.	16F# 16f#
+.	.	12DJ)	.
+.	.	.	16GJJ 16g
+=131	=131	=131	=131
+2.T	2.V7b/ii	(12CC#L	16r
+.	.	.	16GLL 16g
+.	.	12GG	.
+.	.	.	16B- 16b-
+.	.	12EJ)	.
+.	.	.	16AJJ 16a
+.	.	(12CC#L	16r
+.	.	.	16ALL 16a
+.	.	12AA	.
+.	.	.	16d# 16dd#
+.	.	12EJ)	.
+.	.	.	16eJJ 16ee
+.	.	(12CC#L	16r
+.	.	.	16eLL 16ee
+.	.	12AA	.
+.	.	.	16f 16ff
+.	.	12EJ)	.
+.	.	.	16gJJ 16gg
+=132	=132	=132	=132
+2.T	2.ii	(12DDL	16r
+.	.	.	16gLL 16gg
+.	.	12AA	.
+.	.	.	16e 16ee
+.	.	12FJ)	.
+.	.	.	16fJJ 16ff
+.	.	(12DDL	16r
+.	.	.	16fLL 16ff
+.	.	12AA	.
+.	.	.	16e 16ee
+.	.	12FJ)	.
+.	.	.	16dJJ 16dd
+.	.	(12DDL	16r
+.	.	.	16dLL 16dd
+.	.	12AA	.
+.	.	.	16e 16ee
+.	.	12FJ)	.
+.	.	.	16cJJ 16cc
+=133	=133	=133	=133
+2.T	2.V7b/iii	(12DD#L	16r
+.	.	.	16cLL 16cc
+.	.	12BB	.
+.	.	.	16A# 16a#
+.	.	12F#J)	.
+.	.	.	16BJJ 16b
+.	.	(12DD#L	16r
+.	.	.	16BLL 16b
+.	.	12BB	.
+.	.	.	16e# 16ee#
+.	.	12F#J)	.
+.	.	.	16f#JJ 16ff#
+.	.	(12DD#L	16r
+.	.	.	16f#LL 16ff#
+.	.	12C	.
+.	.	.	16g 16gg
+.	.	12F#J)	.
+.	.	.	16aJJ 16aa
+=134	=134	=134	=134
+4T	4Ib	(12EEL	16r
+.	.	.	16aLL 16aa
+.	.	12C	.
+.	.	.	16f# 16ff#
+.	.	12GJ)	.
+.	.	.	16gJJ 16gg
+4P	4IV	12FFL	16r
+.	.	.	16g#LL 16gg#
+.	.	12C	.
+.	.	.	16b 16bb
+.	.	12AJ	.
+.	.	.	16aJJ 16aa
+4P	4IV+	12FFL	16r
+.	.	.	16aLL 16aa
+.	.	12C#	.
+.	.	.	16aa 16aaa
+.	.	12AJ	.
+.	.	.	16aaJJ 16aaa
+=135	=135	=135	=135
+4P	4iib	12FFL	16r
+.	.	.	16aaLL 16aaa
+.	.	12D	.
+.	.	.	16gg 16ggg
+.	.	12AJ	.
+.	.	.	16ffJJ 16fff
+2D	2V7	12GGL	16r
+.	.	.	16ffLL 16fff
+.	.	12D	.
+.	.	.	16ee 16eee
+.	.	12BJ	.
+.	.	.	16ffJJ 16fff
+.	.	12GGL	16r
+.	.	.	16ddLL 16ddd
+.	.	12F	.
+.	.	.	16gg 16ggg
+.	.	12BJ	.
+.	.	.	16ggJJ 16ggg
+=136	=136	=136	=136
+2.T	2.I	4C 4E 4c	16r
+.	.	.	16ggLL 16ggg
+.	.	.	16cc 16ccc
+.	.	.	16bJJ 16bb
+.	.	4r	16ddLL 16ddd
+.	.	.	16cc 16ccc
+.	.	.	16g 16gg
+.	.	.	16eJJ 16ee
+.	.	4r	4c 4cc
+*-	*-	*-	*-

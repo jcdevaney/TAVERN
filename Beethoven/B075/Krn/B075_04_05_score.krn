@@ -1,0 +1,127 @@
+**kern	**kern
+*staff1	*staff2
+*clefG2	*clefG2
+*k[b-]	*k[b-]
+*M2/4	*M2/4
+*F:	*F:
+(24ff#LL	(8cL 8e-
+24gg	.
+24ff#J	.
+24eeL	8CJ
+24ff#	.
+24ggJJ	.
+24aaLL	8F#L 8A
+24bb-	.
+24cccJ	.
+24ccc#L	8CJ)
+24ddd	.
+24ccc#JJ)	.
+=234	=234
+(26eee-LL	(8GL 8B-
+26ddd	.
+26ccc	.
+26bb-	.
+.	8CJ
+26aa	.
+26ccc	.
+26bb-	.
+.	8B-L 8d
+26aa	.
+26gg	.
+26bb-	.
+.	8CJ)
+26aa	.
+26gg	.
+26ffJJ)	.
+=235	=235
+(24eeLL	(8B-L 8d-
+24ff	.
+24eeJ	.
+24ddL	8CJ
+24ee	.
+24ffJJ	.
+24ggLL	8GL 8B-
+24aa	.
+24bb-J	.
+24bbL	8CJ)
+24ccc	.
+24bb-JJ)	.
+=236	=236
+(24dddLL	(8FL 8A
+24ccc	.
+24bb-J	.
+24aaL	8CJ
+24ccc	.
+24bb-JJ	.
+32aaLLL	8AL 8c
+32gg	.
+32ff	.
+32eeJJ	.
+48ggLL	8CJ)
+48ff	.
+48eeJJ	.
+48ddLL	.
+48cc	.
+48b-JJJ)	.
+=237	=237
+(24aLL	(8AL 8c
+24b-	.
+24aJ	.
+24gL	8CJ
+24a	.
+24b-JJ	.
+32ccLLL	8FL 8A
+32dd	.
+32ee	.
+32ffJJ	.
+32ggLL	8CJ)
+32aa	.
+32bb-	.
+32aaJJJ)	.
+=238	=238
+(26cccLL	(8GL 8B-
+26bb-	.
+26aa	.
+26gg	.
+.	8C#J
+26ff	.
+26ee	.
+26gg	.
+.	8FL 8A
+26ff	.
+26ee	.
+26dd	.
+.	8DJ)
+26cc	.
+26b-	.
+26aJJ)	.
+=239	=239
+(32ddLLL	(8FL 8G
+32cc	.
+32b-	.
+32aJJ	.
+32gLL	8BB-J)
+32f	.
+32e	.
+32dJJJ)	.
+(24cLL	8C'L 8F' 8A'
+24d	.
+24cJ)	.
+(24B-L	8C'J 8E'
+24A	.
+24GJJ)	.
+=240	=240
+24FLL	8FF
+24G	.
+24AJ	.
+24B-L	8r
+24c	.
+24dJJ	.
+24eLL	4r
+24f	.
+24gJ	.
+24aL	.
+24b-	.
+24bJJ	.
+=241	=241
+*-	*-

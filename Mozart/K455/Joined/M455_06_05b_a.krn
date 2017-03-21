@@ -1,0 +1,42 @@
+!!!COM: Mozart
+!!!OTL: Zehn Variationen in G, uber die Ariette 'Unser dummer Pobel meint' aus dem Singspiel 'Die Pilgrime von Mekka'
+!!!Variation: Variation 6 b2
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#]	*k[f#]
+*M2/2	*M2/2	*M2/2	*M2/2
+*G:	*G:	*G:	*G:
+=101	=101	=101	=101
+*	*	*	*^
+2P	2V7/ii	[1E	4dd	4g#
+.	.	.	4dd	4g#
+2P	2ic/ii	.	4cc	4a
+.	.	.	8.r	4r
+.	.	.	16aa	.
+=102	=102	=102	=102	=102
+2P	2V7/ii	2.E]	4ddd	4gg#
+.	.	.	4ddd	4gg#
+4P	4I/ii	.	(4ccc#	(4aa
+4P	4iiom7c	8.E-L	[4ccc)	4gg)
+.	.	32DLL	.	.
+.	.	32E-JJJ	.	.
+=103	=103	=103	=103	=103
+2D	2V7	[1D	8cccL]	4ff#
+.	.	.	8aa	.
+.	.	.	8gg	4cc
+.	.	.	8ff#J	.
+4D	4Cc	.	8ggL	4b
+.	.	.	8dd	.
+4D	4V7b/ii	.	8b	4g#
+.	.	.	8eeJ	.
+=104	=104	=104	=104	=104
+4D	4V/V	4.D]	8ddL	4a
+.	.	.	8cc#	.
+4D	4V	.	8a	[4f#
+.	.	16C#LL	8ddJ	.
+.	.	16DJJ	.	.
+2T	2I	[2GG	(4cc	(4f#]
+.	.	.	8b)	8g)
+.	.	.	8r	8r
+*	*	*	*v	*v
+*-	*-	*-	*-

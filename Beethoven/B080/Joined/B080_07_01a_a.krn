@@ -1,0 +1,111 @@
+!!!COM: Beethoven
+!!!OTL: 32 Variationen fur das pianoforte
+!!!Variation: Variation 7 a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*M3/4	*M3/4	*M3/4	*M3/4
+*c:	*c:	*c:	*c:
+=57	=57	=57	=57
+2.T	2.i	16CCLL	8r
+.	.	16C 16E-	.
+.	.	16GG 16G	(8g 8gg
+.	.	16CJJ 16E-	.
+.	.	16GGLL 16G	8fL 8ff
+.	.	16C 16E-	.
+.	.	16GG 16G	8e-J 8ee-
+.	.	16CJJ 16E-	.
+.	.	16GGLL 16G	8dL 8dd
+.	.	16C 16E-	.
+.	.	16GG 16G	8cJ) 8cc
+.	.	16CJJ 16E-	.
+=58	=58	=58	=58
+2.T	2.V	16GGGLL	8r
+.	.	16BB 16D	.
+.	.	16GG 16G	(8dd 8ddd
+.	.	16BBJJ 16D	.
+.	.	16GGLL 16G	8ccL 8ccc
+.	.	16BB 16D	.
+.	.	16GG 16G	8bJ 8bb
+.	.	16BBJJ 16D	.
+.	.	16GGLL 16G	8aL 8aa
+.	.	16BB 16D	.
+.	.	16GG 16G	8gJ) 8gg
+.	.	16BBJJ 16D	.
+=59	=59	=59	=59
+2.T	2.V7/IV	16CCLL	8r
+.	.	16BB- 16C	.
+.	.	16GG 16E	(8dd- 8ddd-
+.	.	16BB-JJ 16C	.
+.	.	16GGLL 16E	8ccL 8ccc
+.	.	16BB- 16C	.
+.	.	16GG 16E	8b-J 8bb-
+.	.	16BB-JJ 16C	.
+.	.	16GGLL 16E	8aL 8aa
+.	.	16BB- 16C	.
+.	.	16GG 16E	8gJ) 8gg
+.	.	16BB-JJ 16C	.
+=60	=60	=60	=60
+2.P	2.IV	16FFFLL	8r
+.	.	16AA 16C	.
+.	.	16FF 16F	(8cc 8ccc
+.	.	16AAJJ 16C	.
+.	.	16FFLL 16F	8b-L 8bb-
+.	.	16AA 16C	.
+.	.	16FF 16F	8aJ 8aa
+.	.	16AAJJ 16C	.
+.	.	16FFLL 16F	8gL 8gg
+.	.	16AA 16C	.
+.	.	16FF 16F	8fJ) 8ff
+.	.	16AAJJ 16C	.
+=61	=61	=61	=61
+2.P	2.V7/V	16DDLL	8r
+.	.	16C 16D	.
+.	.	16AA 16F#	(8ee- 8eee-
+.	.	16CJJ 16D	.
+.	.	16AALL 16F#	8ddL 8ddd
+.	.	16C 16D	.
+.	.	16AA 16F#	8ccJ 8ccc
+.	.	16CJJ 16D	.
+.	.	16AALL 16F#	8bL 8bb
+.	.	16C 16D	.
+.	.	16AA 16F#	8aJ) 8aa
+.	.	16CJJ 16D	.
+=62	=62	=62	=62
+8D	8V	16GGLL 16G	8b 8bb
+.	.	16BB 16D	.
+8D	8viioD7c	16FF 16F	(4aa- 4aaa-
+.	.	16BBJJ 16D	.
+2D	2viioD7c	16FFLL 16F	.
+.	.	16BB 16D	.
+.	.	16GG 16G	8gg 8ggg
+.	.	16BBJJ 16D	.
+.	.	16AA-LL 16A-	8ffL 8fff
+.	.	16BB 16D	.
+.	.	16GG 16G	8ggJ) 8ggg
+.	.	16BBJJ 16D	.
+=63	=63	=63	=63
+2D	2viioD7c	16FFLL 16F	(8aa-L 8aaa-
+.	.	16BB 16D	.
+.	.	16GG 16G	8ggJ 8ggg
+.	.	16BBJJ 16D	.
+.	.	16AA-LL 16A-	8ffL 8fff
+.	.	16D	.
+.	.	16FF 16F	8aa-J 8aaa-
+.	.	16BBJJ 16D	.
+4D	4V7	16GGLL 16G	8ggL 8ggg
+.	.	16BB 16D	.
+.	.	16BB 16B	8ffJ) 8fff
+.	.	16DJJ 16G	.
+=64	=64	=64	=64
+2.T	2.i	16cLL	(8ee-L 8eee-
+.	.	16C	.
+.	.	16G	8ddJ 8ddd
+.	.	16GGJJ	.
+.	.	16CLL	8ccL 8ccc
+.	.	16CC	.
+.	.	16GG	8bJ) 8bb
+.	.	16GGGJJ	.
+.	.	8CC	8cc 8ccc
+.	.	8r	8r
+*-	*-	*-	*-

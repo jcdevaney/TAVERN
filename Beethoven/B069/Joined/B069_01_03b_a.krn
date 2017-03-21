@@ -1,0 +1,64 @@
+!!!COM: Beethoven
+!!!OTL: 9 Variationen uber "Quant' e piu bello" von G. Paisiello
+!!!Variation: Variation 1 b2
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#g#]	*k[f#c#g#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*A:	*A:	*A:	*A:
+=41	=41	=41	=41
+.	.	.	q8ff#
+2T	2Ib	12C#L	12ee'L
+.	.	12E	12dd#'
+.	.	12AJ	12ee'J
+.	.	12C#L	12r
+.	.	12E	(12ff#L
+.	.	12AJ	12eeJ)
+=42	=42	=42	=42
+4T	4V7c	12BBL	12ee'L
+.	.	12E	12dd'
+.	.	12G#J	12cc#'J
+4T	4V7d	12DL	12b'L
+.	.	12E	12a'
+.	.	12BJ	12g#'J
+=43	=43	=43	=43
+2T	2Ib	12C#L	12a'L
+.	.	12E	(12dd#
+.	.	12AJ	12eeJ)
+.	.	12C#L	12r
+.	.	12E	(12ff#L
+.	.	12AJ	12eeJ)
+=44	=44	=44	=44
+4T	4V7c	12BBL	12ee'L
+.	.	12E	12dd'
+.	.	12G#J	12cc#'J
+4T	4V7d	12DL	12b'L
+.	.	12E	12a'
+.	.	12BJ	12g#'J
+=45	=45	=45	=45
+2T	2Ib	4C# 4E 4A	12a'L
+.	.	.	12b'
+.	.	.	12cc#'J
+.	.	4r	12dd'L
+.	.	.	12ee'
+.	.	.	12ff#'J
+=46	=46	=46	=46
+4T	4I	4r	12gg#'L
+.	.	.	12aa'
+.	.	.	12bb'J
+4P	4IVb	4F# 4A	12ccc#'L
+.	.	.	12ddd'
+.	.	.	12ddd#'J
+=47	=47	=47	=47
+4D	4Cc	4E 4A 4c#	(12eeeL
+.	.	.	12ccc#)
+.	.	.	12aa'J
+4D	4V7	4E 4B 4d	(12dddL
+.	.	.	12bb)
+.	.	.	12gg#'J
+=48	=48	=48	=48
+4.T	4.I	12AL	4aa
+.	.	12E	.
+.	.	12C#J	.
+.	.	8AA	8r
+*-	*-	*-	*-

@@ -1,0 +1,51 @@
+!!!COM: Mozart
+!!!OTL: Zwolf Variationen in C uber ein Menuett von Johann Christian Fischer
+!!!Variation: Variation 3 a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[]	*k[]
+*M3/4	*M3/4	*M3/4	*M3/4
+*C:	*C:	*C:	*C:
+=76	=76	=76	=76
+2T	2I	4C	(12ggL
+.	.	.	12ee
+.	.	.	12ffJ
+.	.	4r	12ggL
+.	.	.	12aa
+.	.	.	12bbJ
+*	*	*^	*
+4T	4Ib	([4c	4E	12cccL
+.	.	.	.	12gg
+.	.	.	.	12eeJ
+=77	=77	=77	=77	=77
+2T	2viiob	4c]	2D	12ffL
+.	.	.	.	12dd
+.	.	.	.	12eeJ
+.	.	4B)	.	12ffL
+.	.	.	.	12dd
+.	.	.	.	12ccJ
+4T	4V7	4f	4G	12bL
+.	.	.	.	12a
+.	.	.	.	12gJ
+*	*	*v	*v	*
+=78	=78	=78	=78
+4T	4Ib	4e	12ccL
+.	.	.	12g)
+.	.	.	12ee'J
+4T	4V7b	4B	(12ddL
+.	.	.	12g)
+.	.	.	12ff'J
+4T	4I	4c	(12eeL
+.	.	.	12g)
+.	.	.	12gg'J
+=79	=79	=79	=79
+4D	4Cc	4r	(12ggL
+.	.	.	12ff
+.	.	.	12eeJ
+4D	4V	4GG 4G	12ff'L)
+.	.	.	(12dd
+.	.	.	12ccJ
+4D	4V7d	4FF 4F	12bL
+.	.	.	12a
+.	.	.	12gJ)
+*-	*-	*-	*-

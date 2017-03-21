@@ -1,0 +1,110 @@
+!!!COM: Mozart
+!!!OTL: Zehn Variationen in G, uber die Ariette 'Unser dummer Pobel meint' aus dem Singspiel 'Die Pilgrime von Mekka'
+!!!Variation: Variation 9 b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#]	*k[f#]
+*M2/2	*M2/2	*M2/2	*M2/2
+*G:	*G:	*G:	*G:
+=179	=179	=179	=179
+1P	1V7b/ii	4GGG# 4GG#	4..E 4..B 4..d 4..e
+.	.	4GG#	.
+.	.	.	16e
+.	.	4GGG# 4GG#	4..E 4..B 4..d 4..e
+.	.	4GG#	.
+.	.	.	16e
+=180	=180	=180	=180
+1P	1i/ii	2AAA 2AA	4E 4A 4c [4e
+.	.	.	32eLLL]
+.	.	.	32d
+.	.	.	32c
+.	.	.	32BJJ
+.	.	.	32ALL
+.	.	.	32B
+.	.	.	32c
+.	.	.	32dJJJ
+.	.	2r	32eLLL
+.	.	.	32f#
+.	.	.	32g#
+.	.	.	32aJJ
+.	.	.	32bLL
+.	.	.	32cc
+.	.	.	32dd
+.	.	.	32eeJJJ
+.	.	.	24ff#LL
+.	.	.	24gg#
+.	.	.	24aaJ
+.	.	.	24bbL
+.	.	.	24ccc
+.	.	.	24dddJJ
+*	*	*clefG2	*
+=181	=181	=181	=181
+1P	1V7/ii	4e 4g# 4dd	4eee
+.	.	4e 4g# 4dd	4eee
+.	.	4e 4g# 4dd	4eee
+.	.	4e 4g# 4dd	4eee
+=182	=182	=182	=182
+1P	1ii	4a 4cc	(4.eee
+.	.	4r	.
+.	.	.	8ccc)
+.	.	2r	8aa
+.	.	.	8r
+.	.	.	4r
+*	*	*clefF4	*clefF4
+=183	=183	=183	=183
+1D	1V7b	4FFF# 4FF#	4..D 4..A 4..c 4..d
+.	.	4FF#	.
+.	.	.	16d
+.	.	4FFF# 4FF#	4..D 4..A 4..c 4..d
+.	.	4FF#	.
+.	.	.	16d
+=184	=184	=184	=184
+1D	1I	2GGG 2GG	4D 4G 4B [4d
+.	.	.	32dLLL]
+.	.	.	32c
+.	.	.	32B
+.	.	.	32AJJ
+.	.	.	32GLL
+.	.	.	32A
+.	.	.	32B
+.	.	.	32cJJJ
+*	*	*	*clefG2
+.	.	2r	32dLLL
+.	.	.	32e
+.	.	.	32f#
+.	.	.	32gJJ
+.	.	.	32aLL
+.	.	.	32b
+.	.	.	32cc
+.	.	.	32ddJJJ
+.	.	.	24eeLL
+.	.	.	24ff#
+.	.	.	24ggJ
+.	.	.	24aaL
+.	.	.	24bb
+.	.	.	24cccJJ
+*	*	*clefG2	*
+=185	=185	=185	=185
+1D	1V7	4d 4f# 4cc	(8ddd'L
+.	.	.	8ddd'
+.	.	4d 4f# 4cc	8ddd'
+.	.	.	8ddd'J
+.	.	4d 4f# 4cc	8ddd'L
+.	.	.	8ddd'
+.	.	4d 4f# 4cc	8ddd'
+.	.	.	8ddd'J)
+=186	=186	=186	=186
+1T	1I	4g 4b	(8.dddL
+.	.	.	16bbJk
+.	.	4r	32dddLLL
+.	.	.	32bb
+.	.	.	32ddd
+.	.	.	32bbJJ
+.	.	.	32dddLL
+.	.	.	32bb
+.	.	.	32ddd
+.	.	.	32bbJJJ
+.	.	2r	8gg)
+.	.	.	8r
+.	.	.	4r
+*-	*-	*-	*-

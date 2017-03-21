@@ -1,0 +1,56 @@
+!!!COM: Mozart
+!!!OTL: Zwolf Variationen in C uber ein Menuett von Johann Christian Fischer
+!!!Variation: Variation 5 a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[]	*k[]
+*M3/4	*M3/4	*M3/4	*M3/4
+*C:	*C:	*C:	*C:
+=126	=126	=126	=126
+2.T	2.I	12CL	4g 4ee 4gg
+.	.	12c	.
+.	.	12BJ	.
+.	.	12cL	4g 4cc 4ee
+.	.	12G	.
+.	.	12FJ	.
+.	.	12EL	8r
+.	.	12D	.
+.	.	.	8ee 8gg
+.	.	12CJ	.
+=127	=127	=127	=127
+2.T	2.V7	12GGL	(8ee 4gg
+.	.	12G	.
+.	.	.	8dd) 8ff
+.	.	12F#J	.
+.	.	12GL	4g 4b 4dd
+.	.	12D	.
+.	.	12CJ	.
+.	.	12BBL	4r
+.	.	12AA	.
+.	.	12GGJ	.
+=128	=128	=128	=128
+2.T	2.I	12CL	8eeL
+.	.	12c	.
+.	.	.	8ggJ
+.	.	12BJ	.
+.	.	12cL	(4.ccc
+.	.	12G	.
+.	.	12FJ	.
+.	.	12EL	.
+.	.	12D	.
+.	.	.	8ee)
+.	.	12CJ	.
+=129	=129	=129	=129
+2.D	2.V	12GGL	(8ee
+.	.	12G	.
+.	.	.	8dd)
+.	.	12F#J	.
+.	.	12GL	(8ccL
+.	.	12A	.
+.	.	.	8bJ)
+.	.	12GJ	.
+.	.	12FL	(8aL
+.	.	12E	.
+.	.	.	8gJ)
+.	.	12DJ	.
+*-	*-	*-	*-

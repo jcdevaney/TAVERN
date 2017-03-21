@@ -1,0 +1,118 @@
+!!!COM: Mozart
+!!!OTL: Zwolf Variationen in C uber ein Menuett von Johann Christian Fischer
+!!!Variation: Variation 1 c
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[]	*k[]
+*M3/4	*M3/4	*M3/4	*M3/4
+*C:	*C:	*C:	*C:
+=34	=34	=34	=34
+2.D	2.V	4G 4B	(4.dd
+.	.	4G 4B	.
+.	.	.	16eeLL
+.	.	.	16ddJJ
+.	.	4G 4B	16ccLL
+.	.	.	16b
+.	.	.	16a
+.	.	.	16gJJ
+=35	=35	=35	=35
+2.D	2.Ic	4G 4c	8eeL
+.	.	.	8ccJ)
+.	.	4G 4e	16r
+.	.	.	(16ccLL
+.	.	.	16b
+.	.	.	16ccJJ
+.	.	4G 4c	16ddLL
+.	.	.	16cc
+.	.	.	16ee
+.	.	.	16ccJJ
+=36	=36	=36	=36
+2.D	2.V7	4G 4d	8ffL
+.	.	.	8ddJ)
+.	.	4G 4f	16r
+.	.	.	(16ddLL
+.	.	.	16cc#
+.	.	.	16ddJJ
+.	.	4G 4B	16eeLL
+.	.	.	16dd
+.	.	.	16ff
+.	.	.	16ddJJ
+=37	=37	=37	=37
+4T	4Ib	(16ELL	[4gg
+.	.	16F	.
+.	.	16G	.
+.	.	16EJJ	.
+4T	4I	8C)	16ggLL])
+.	.	.	(16cc
+.	.	8r	16ee
+.	.	.	16ggJJ
+4T	4IV	8F	16aaLL
+.	.	.	16ff
+.	.	8r	16ccc
+.	.	.	16aaJJ)
+=38	=38	=38	=38
+4T	4Ib	(16ELL	[4gg
+.	.	16F	.
+.	.	16G	.
+.	.	16EJJ	.
+4T	4I	8C)	16ggLL])
+.	.	.	(16cc
+.	.	8r	16ee
+.	.	.	16ggJJ
+4T	4IV	8F	16aaLL
+.	.	.	16ff
+.	.	8r	16ccc
+.	.	.	16aaJJ
+=39	=39	=39	=39
+4T	4Ib	8E	16gg'LL)
+.	.	.	(16cc
+.	.	8r	16ee
+.	.	.	16ggJJ
+4T	4viiob	8D	16ff'LL)
+.	.	.	(16b
+.	.	8r	16dd
+.	.	.	16ffJJ
+4T	4I	8C	16ee'LL)
+.	.	.	(16g
+.	.	8r	16cc
+.	.	.	16eeJJ
+=40	=40	=40	=40
+2T	2Cc	(2GG 2G	16ddLL
+.	.	.	16cc
+.	.	.	16b
+.	.	.	16ccJJ
+.	.	.	16ddLL
+.	.	.	16ee
+.	.	.	16ff
+.	.	.	16ggJJ
+4T	4V7d	4F	16aaLL
+.	.	.	16bb
+.	.	.	16ccc
+.	.	.	16aaJJ
+=41	=41	=41	=41
+4T	4Ib	8E)	16gg'LL
+.	.	.	(16cc
+.	.	8r	16ee
+.	.	.	16ggJJ
+4T	4viiob	8D	16ff'LL)
+.	.	.	(16b
+.	.	8r	16dd
+.	.	.	16ffJJ
+4T	4I	8C	16ee'LL)
+.	.	.	(16g
+.	.	8r	16cc
+.	.	.	16eeJJ)
+=42	=42	=42	=42
+2.D	2.V	4GG 4G	(16eeLL
+.	.	.	16dd
+.	.	.	16cc#
+.	.	.	16ddJJ
+.	.	4r	16ccLL
+.	.	.	16b
+.	.	.	16a#
+.	.	.	16bJJ
+.	.	4r	16aLL
+.	.	.	16g
+.	.	.	16f#
+.	.	.	16gJJ)
+*-	*-	*-	*-

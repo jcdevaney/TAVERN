@@ -1,0 +1,47 @@
+#script to take the kern files and separate them by phrase (or variation, or however they are separated), then name them by phrase number for partjoin prep
+
+#$1 is a filename or file*
+#$2 is the key of the theme
+
+let count=1
+x=$2
+arrayF=( $1 ) 
+#phrases start with 1
+for file in ${arrayF[@]}
+do
+printf -v k "%02d" $count
+
+csplit $file /^\*END/1 {*}
+sed -n 1,5p xx00 > interp.krn
+#next lines depends on the number of spines at the beginning of the kern file...
+sed -i '$a*'${x}':	*'${x}':	*'${x}':	*'${x}':' interp.krn
+sed -i '$a=-	=-	=-	=-' interp.krn
+
+
+#remove comments or headers from the first of the kern files, put final 'end file' interpretation back on.
+rid -GLId xx00 > stripped
+#also here make sure you have correct number of spines for appending the *- symbols...
+sed -i '$a*-	*-	*-	*-' stripped
+mv stripped xx00
+
+	for i in xx*
+        do
+#this allows skipping over null files#
+        if [ $(grep -c "." $i) -gt 0 ]
+        then
+	printf -v k "%02d" $count
+#get rid of grace notes
+	sed -i '/q/d' $i
+	sed -i '/Q/d' $i
+#add headers to each phrase
+	cat interp.krn $i | grep -v '^$' > phrase$k.krn
+	let count=$count+1
+	fi
+	done
+let count=1
+rm xx*
+done
+#again, change according to # of spines in kern files... 
+sed -i 's/\*END	\*END	\*END	\*END/*-	*-	*-	*-/g' phrase*
+
+

@@ -1,0 +1,126 @@
+!!!COM: Mozart
+!!!OTL: Sechs Variationen in F uber die Arie 'Salve tu, Domine' aus der Oper 'I filosofi immaginarii' 
+!!!Variation: Variation 2 b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*M3/4	*M3/4	*M3/4	*M3/4
+*F:	*F:	*F:	*F
+*	*	*^	*
+4T	4I	4r	2F	12r
+.	.	.	.	(12fL
+.	.	.	.	12eJ
+4T	4V7/IV	4e-	.	12fL
+.	.	.	.	12g
+.	.	.	.	12aJ)
+=57	=57	=57	=57	=57
+2T	2IVc	2d	2.F	(12b-L
+.	.	.	.	12cc
+.	.	.	.	12aJ
+.	.	.	.	12b-L
+.	.	.	.	12dd
+.	.	.	.	12ccJ
+4T	4V7b	4e	.	12ddL
+.	.	.	.	12cc
+.	.	.	.	12b-J)
+=58	=58	=58	=58	=58
+2.T	2.I	4f	4F	(12b-L
+.	.	.	.	12a
+.	.	.	.	12g#J)
+*	*	*v	*v	*
+.	.	12r	12a'L
+.	.	(12FL	(12a
+.	.	12EJ	12g#J
+.	.	12FL	12aL
+.	.	12G	12b-
+.	.	12AJ)	12ccJ)
+=59	=59	=59	=59
+2.T	2.IV	12B-'L	12dd'L
+.	.	(12c	(12ee
+.	.	12AJ	12cc#J
+.	.	12B-L	12ddL
+.	.	12d	12ff
+.	.	12c#J	12eeJ
+.	.	12dL	12ffL
+.	.	12c#	12ee
+.	.	12B-J)	12ddJ)
+=60	=60	=60	=60
+*	*	*^	*
+2.T	2.I	(12B-L	2F	(12ddL
+.	.	12A	.	12cc
+.	.	12G#J)	.	12bJ)
+.	.	4A	.	4cc
+*	*	*v	*v	*
+.	.	4r	4r
+=61	=61	=61	=61
+*	*	*	*^
+4D	4V	12CCL	(8.ccL	4e 4g
+.	.	(12BB	.	.
+.	.	12CJ)	.	.
+.	.	.	16eeJk)	.
+4D	4Vb	12EEL	8g'L	4r
+.	.	(12D#	.	.
+.	.	.	8g'J	.
+.	.	12EJ)	.	.
+4D	4V7/V	12GGL	8r	4r
+.	.	(12F#	.	.
+.	.	.	8f 8b	.
+.	.	12GJ)	.	.
+=62	=62	=62	=62	=62
+4D	4V	12CL	(8.ccL	4e 4g
+.	.	(12B	.	.
+.	.	12cJ)	.	.
+.	.	.	16eeJk)	.
+4D	4Vb	12EL	8g'L	4r
+.	.	(12d#	.	.
+.	.	.	8g'J	.
+.	.	12eJ)	.	.
+4D	4V7/V	12GGL	8r	4r
+.	.	(12F#	.	.
+.	.	.	8f 8b	.
+.	.	12GJ)	.	.
+=63	=63	=63	=63	=63
+4D	4V	12CL	(8.ccL	4e
+.	.	(12B	.	.
+.	.	12cJ)	.	.
+.	.	.	16eeJk)	.
+*	*	*	*v	*v
+4D	4Vb	12EEL	8gg'L
+.	.	(12D#	.
+.	.	.	8gg'J
+.	.	12EJ)	.
+4D	4V7/V	12GGL	8r
+.	.	(12F#	.
+.	.	.	8f 8b
+.	.	12GJ)	.
+=64	=64	=64	=64
+2.D	2.V	4CC; 4C;	4e; 4g; [4cc;
+.	.	8r	(16ccLL]
+.	.	.	16cc#
+.	.	(8A	16ccc#
+.	.	.	16cc#JJ)
+.	.	8B-L	(16dddLL
+.	.	.	16dd
+.	.	8AJ)	16ccc
+.	.	.	16ccJJ)
+=65	=65	=65	=65
+*	*	*^	*
+2.D	2.V7	(8GL	2.C	(16bb-LL
+.	.	.	.	16b-
+.	.	8FJ	.	16aa
+.	.	.	.	16aJJ
+.	.	8EL	.	16ggLL
+.	.	.	.	16g
+.	.	8GJ	.	16bb-
+.	.	.	.	16b-JJ
+.	.	8FL	.	16aaLL
+.	.	.	.	16a
+.	.	8EJ)	.	16gg
+.	.	.	.	16gJJ)
+=66	=66	=66	=66	=66
+2.T	2.I	8B-L	4F	8eL 8ee
+.	.	8AJ	.	8fJ 8ff
+.	.	4A	4F	4f 4ff
+*	*	*v	*v	*
+.	.	4r	4r
+*-	*-	*-	*-

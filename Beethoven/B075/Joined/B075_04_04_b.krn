@@ -1,0 +1,59 @@
+!!!COM: Beethoven
+!!!OTL: 7 Variations on a Quartet by Winter
+!!!Variation: Variation 4 d
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*M2/4	*M2/4	*M2/4	*M2/4
+*F:	*F:	*F:	*F:
+=225	=225	=225	=225
+4D	4Cc/V	8GL	24eeeLL
+.	.	.	24ccc
+.	.	.	24ggJ
+.	.	8cJ 8e	24cccL
+.	.	.	24gg
+.	.	.	24eeJJ
+4D	4V7/V	8GL	24ggLL
+.	.	.	24ff
+.	.	.	24ddJ
+.	.	8dJ 8f	24ffL
+.	.	.	24dd
+.	.	.	24bJJ
+=226	=226	=226	=226
+2D	2V	(8CL	24ccLL
+.	.	.	24b
+.	.	.	24ccJ
+.	.	8GJ	24eeL
+.	.	.	24dd#
+.	.	.	24eeJJ
+.	.	8EL	24ggLL
+.	.	.	24ff#
+.	.	.	24ggJ
+.	.	8CJ)	24cccL
+.	.	.	24bb
+.	.	.	24cccJJ
+=227	=227	=227	=227
+4D	4Cc/V	8GGL	24eeeLL
+.	.	.	24ccc
+.	.	.	24ggJ
+.	.	8CJ 8E	24cccL
+.	.	.	24gg
+.	.	.	24eeJJ
+4D	4V7/V	8GGL	24ggLL
+.	.	.	24ff
+.	.	.	24ddJ
+.	.	8DJ 8F	24ffL
+.	.	.	24dd
+.	.	.	24bJJ
+=228	=228	=228	=228
+2D	2V	8C 8E	(24ccLL
+.	.	.	24dd
+.	.	.	24ccJ
+.	.	8r	24bL
+.	.	.	24cc
+.	.	.	24cc#JJ
+.	.	4r	16ddLL
+.	.	.	16ee-
+.	.	.	16ee
+.	.	.	16ffJJ)
+*-	*-	*-	*-

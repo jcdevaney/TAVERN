@@ -1,0 +1,76 @@
+!!!COM: Beethoven
+!!!OTL: Zwolf Variationen uber das Menuett a la Vigano von J. Haibel
+!!!Variation: Variation 2 b
+**function	**harm	**kern	**kern
+*	*	*clefG2	*clefG2
+*	*	*k[]	*k[]
+*M4/4	*M4/4	*M4/4	*M4/4
+*C:	*C:	*C:	*C:
+4D	4V	4r	16eLL
+.	.	.	16g
+.	.	.	16f#
+.	.	.	16aJJ
+=37	=37	=37	=37
+1T	1I	4r	16gLL
+.	.	.	16cc
+.	.	.	16b
+.	.	.	16ddJJ
+.	.	(4e 4g	16ccLL
+.	.	.	16ee
+.	.	.	16dd
+.	.	.	16ffJJ
+.	.	4c) 4e	16eeLL
+.	.	.	16gg
+.	.	.	16aa
+.	.	.	16ggJJ
+.	.	4r	16ffLL
+.	.	.	16ee
+.	.	.	16dd
+.	.	.	16ccJJ
+=38	=38	=38	=38
+1P	1iib	4r	16bLL
+.	.	.	16a
+.	.	.	16g#
+.	.	.	16aJJ
+*	*	*clefF4	*
+.	.	4F' 4A' 4d'	16b-LL
+.	.	.	16b
+.	.	.	16cc
+.	.	.	16cc#JJ
+.	.	4FF' 4AA' 4D'	16ddLL
+.	.	.	16ee
+.	.	.	16ff
+.	.	.	16eeJJ
+.	.	4r	16ggLL
+.	.	.	16ff
+.	.	.	16ee
+.	.	.	16ddJJ
+=39	=39	=39	=39
+2D	2Cc	4r	16ccLL
+.	.	.	16b
+.	.	.	16a
+.	.	.	16gJJ
+.	.	4GG 4C 4E	16fLL
+.	.	.	16e
+.	.	.	16d
+.	.	.	16cJJ
+*	*	*	*clefF4
+2D	2V	4r	16BLL
+.	.	.	16A
+.	.	.	16G
+.	.	.	16FJJ
+.	.	4GG	16ELL
+.	.	.	16D
+.	.	.	16C
+.	.	.	16BBJJ
+=40	=40	=40	=40
+2T	2I	4r	16CLL
+.	.	.	16c
+.	.	.	16G
+.	.	.	16EJJ
+.	.	16r	4C
+.	.	16GGLL	.
+.	.	16EE	.
+.	.	16GGJJ	.
+8T	8I	8CC	8r
+*-	*-	*-	*-

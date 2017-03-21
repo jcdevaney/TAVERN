@@ -1,0 +1,244 @@
+!!!COM: Beethoven
+!!!OTL: Six Variations on an Original Theme
+!!!Variation: Variation 6 g
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*M6/8	*M6/8	*M6/8	*M6/8
+*F:	*F:	*F:	*F:
+8T	8I	16F	(8f 8ff
+.	.	16cJJ	.
+4.T	4.IV	16BB-LL	4ff 4fff
+.	.	16d	.
+.	.	16B-	.
+.	.	16d	.
+.	.	16F	8dd) 8ddd
+.	.	16dJJ	.
+=161	=161	=161	=161
+4.T	4.Ib	16AALL	(4cc 4ccc
+.	.	16c	.
+.	.	16A	.
+.	.	16c	.
+.	.	16F	8a) 8aa
+.	.	16cJJ	.
+4.T	4.V7	16CLL	8.gL 8.gg
+.	.	16c	.
+.	.	16E	.
+.	.	16c	16ak 16aa
+.	.	16G	8b-J 8bb-
+.	.	16cJJ	.
+=162	=162	=162	=162
+4.T	4.I	16FFLL	(8aL 8aa
+.	.	16c	.
+.	.	16F	8f 8ff
+.	.	16c	.
+.	.	16A	8ffJ) 8fff
+.	.	16cJJ	.
+4.T	4.IV	16BB-LL	(4ff 4fff
+.	.	16d	.
+.	.	16B-	.
+.	.	16d	.
+.	.	16F	8dd) 8ddd
+.	.	16dJJ	.
+=163	=163	=163	=163
+4.T	4.Ib	16AALL	(4cc 4ccc
+.	.	16c	.
+.	.	16A	.
+.	.	16c	.
+.	.	16F	8a) 8aa
+.	.	16cJJ	.
+4.T	4.V7	16CLL	(8gL 8gg
+.	.	16c	.
+.	.	16G	8cc) 8ccc
+.	.	16c	.
+.	.	16B-	8e'J 8ee'
+.	.	16cJJ	.
+=164	=164	=164	=164
+4.T	4.I	16FFLL	4f 4ff
+.	.	16c	.
+.	.	16A	.
+.	.	16c	.
+.	.	16F	(8f 8ff
+.	.	16cJJ	.
+4.T	4.iv	16BB-LL	4ff 4fff
+.	.	16d-	.
+.	.	16B-	.
+.	.	16d-	.
+.	.	16F	8dd- 8ddd-
+.	.	16d-JJ	.
+=165	=165	=165	=165
+4.T	4.ib	16AA-LL	4cc 4ccc
+.	.	16c	.
+.	.	16A-	.
+.	.	16c	.
+.	.	16F	8a-) 8aa-
+.	.	16cJJ	.
+4.T	4.V7	16CLL	8.gL 8.gg
+.	.	16c	.
+.	.	16E	.
+.	.	16c	16a-k 16aa-
+.	.	16G	8b-J 8bb-
+.	.	16cJJ	.
+=166	=166	=166	=166
+4.T	4.i	16FFLL	(8a-L 8aa-
+.	.	16c	.
+.	.	16F	8f 8ff
+.	.	16A-	.
+.	.	16F	8ffJ) 8fff
+.	.	16A-JJ	.
+*	*	*^	*
+4.P	4.-VI	(16FLL	4.D-	(4ff 4fff
+.	.	16A-	.	.
+.	.	16F	.	.
+.	.	16A-	.	.
+.	.	16F	.	8dd-) 8ddd-
+.	.	16A-JJ)	.	.
+=167	=167	=167	=167	=167
+4.P	4.-VI	(16FLL	4.D-	(4dd- 4ddd-
+.	.	16A-	.	.
+.	.	16F	.	.
+.	.	16A-	.	.
+.	.	16F	.	8cc) 8ccc
+.	.	16A-JJ)	.	.
+4.P	4.Fr	16FLL	8D-L	(4cc 4ccc
+.	.	16A-	.	.
+.	.	16F	8D-	.
+.	.	16G	.	.
+.	.	16F	8D-J	8b) 8bb
+.	.	16GJJ	.	.
+=168	=168	=168	=168	=168
+4.D	4.V	16ELL	8C	8cc 8ccc
+.	.	16G	.	.
+.	.	16E	8r	8r
+.	.	16G	.	.
+.	.	16E	8C	8c 8cc
+.	.	16GJJ	.	.
+4.D	4.Fr	16FLL	8D-	(4c 4cc
+.	.	16G	.	.
+.	.	16F	8r	.
+.	.	16G	.	.
+.	.	16F	8D-	8B) 8b
+.	.	16GJJ	.	.
+=169	=169	=169	=169	=169
+4.D	4.V	16ELL	8C	8c 8cc
+.	.	16G	.	.
+.	.	16E	8r	8r
+.	.	16G	.	.
+.	.	16E	8C	8c 8cc
+.	.	16GJJ	.	.
+4.D	4.Fr	16FLL	8D-	(4c 4cc
+.	.	16G	.	.
+.	.	16F	8r	.
+.	.	16G	.	.
+.	.	16F	8D-	8B) 8b
+.	.	16GJJ	.	.
+*	*	*v	*v	*
+=170	=170	=170	=170
+4.D	4.V	4C 4E	16cLL 16cc
+.	.	.	16g
+.	.	.	16e
+.	.	.	16cc
+.	.	8r	16a-
+.	.	.	16fJJ
+4.D	4.Ic	4C	16ccLL
+.	.	.	16g
+.	.	.	16e
+.	.	.	16a-
+.	.	8r	16f
+.	.	.	16cJJ
+=171	=171	=171	=171
+4.D	4.V	4C	16gLL
+.	.	.	16e
+.	.	.	16c
+.	.	.	16f
+.	.	8r	16c
+.	.	.	16A-JJ
+*	*	*	*clefF4
+4.D	4.V	4CC	16eLL
+.	.	.	16c
+.	.	.	16G
+.	.	.	16c
+.	.	8r	16A-
+.	.	.	16FJJ
+=172	=172	=172	=172
+4.D	4.V	4CC	16cLL
+.	.	.	16G
+.	.	.	16E
+.	.	.	16c
+.	.	8r	16A-
+.	.	.	16FJJ
+4.D	4.V	4CC	16cLL
+.	.	.	16G
+.	.	.	16E
+.	.	.	16c
+.	.	8r	16A-
+.	.	.	16FJJ
+=173	=173	=173	=173
+2.D	2.V	8CC	(16ELL 16G 16c
+.	.	.	16Cn
+.	.	8r	16BB
+.	.	.	16C
+.	.	8GG'	16E
+.	.	.	16CJJ)
+.	.	8FF'L	16GLL
+.	.	.	16C
+.	.	8EE'	16A
+.	.	.	16C
+.	.	8DD'J	16B
+.	.	.	16CJJ
+=174	=174	=174	=174
+*	*	*	*clefG2
+2.D	2.V	8CC	16cLL
+.	.	.	(16cn
+.	.	8r	16B
+.	.	.	16c
+.	.	8GG'	16e
+.	.	.	16cJJ)
+.	.	8FF'L	16gLL
+.	.	.	16c
+.	.	8EE'	16a
+.	.	.	16c
+.	.	8DD'J	16b
+.	.	.	16cJJ
+=175	=175	=175	=175
+2.D	2.V	8CC	16ccLL
+.	.	.	(16cc
+.	.	8r	16b
+.	.	.	16cc
+.	.	8GG'	16ee
+.	.	.	16ccJJ)
+.	.	8FF'L	16ggLL
+.	.	.	16cc
+.	.	8EE'	16aa
+.	.	.	16cc
+.	.	8DD'J	16bb
+.	.	.	16ccJJ
+=176	=176	=176	=176
+.	.	.	qbb
+2.D	2.V	4CC	4.ccc
+.	.	8r	.
+.	.	.	qb
+.	.	4.r	4.cc
+=177	=177	=177	=177
+.	.	.	qB
+2.D	2.V	2.r	2.c
+.	.	.	q8B
+.	.	.	q8c
+.	.	.	q8d
+.	.	.	q8c
+.	.	.	q8e
+.	.	.	q8d
+.	.	.	q8f
+.	.	.	q8e
+.	.	.	q8g
+.	.	.	q8f
+.	.	.	q8a
+.	.	.	q8g
+.	.	.	q8b-
+.	.	.	q8a
+.	.	.	q4cc
+.	.	.	q4b
+.	.	.	q4dd
+.	.	.	q4cc
+=178	=178	=178	=178
+*-	*-	*-	*-

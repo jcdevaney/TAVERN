@@ -1,0 +1,86 @@
+!!!COM: Beethoven
+!!!OTL: Six Variations on an Original Theme
+!!!Variation: Variation 1 a
+**function	**harm	**kern	**kern
+*	*	*clefG2	*clefG2
+*	*	*k[f#c#]	*k[f#c#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*D:	*D:	*D:	*D:
+*	*	*clefG2	*
+8T	8I	8r	(32g#LLL
+.	.	.	32a)
+.	.	.	(32g#
+.	.	.	32aJJJ)
+=23	=23	=23	=23
+4T	4I	16dLL 16f#	[8aL
+.	.	16d 16f#	.
+.	.	16d 16f#	16aL]
+.	.	16dJJ 16f#	32ddL
+.	.	.	32cc#JJJ
+8T	8IVc	16dLL 16g	(32a#LLL
+.	.	.	32b
+.	.	16d 16g	32dd
+.	.	.	32bJJ)
+8T	8I	16d 16f#	(32g#LL
+.	.	.	32a
+.	.	16dJJ 16f#	32dd
+.	.	.	32aJJJ)
+=24	=24	=24	=24
+4T	4viioD7	16dLL 16e	(32gLLL
+.	.	.	32b-
+.	.	16d 16e 16g	32cc#
+.	.	.	32eeJJ
+.	.	16d 16e 16g 16b-	32ggLL
+.	.	.	32ee
+.	.	16dJJ 16e 16g 16b-	32gg)
+.	.	.	32cc#JJJ
+4T	4I	16dLL 16f# 16a	32eeLLL
+.	.	.	32dd
+.	.	16d 16f# 16a	32ff#
+.	.	.	32eeJJ
+.	.	16d 16f#	32ddLL
+.	.	.	32cc#
+.	.	16dJJ 16f#	32b
+.	.	.	32aJJJ
+=25	=25	=25	=25
+4T	4Ib	16dLL 16f#	[8aL
+*	*	*clefF4	*
+.	.	16F# 16d	.
+.	.	16F# 16d	64aLLL]
+.	.	.	64b
+.	.	.	64cc#
+.	.	.	64dd
+.	.	16F#JJ 16d	64ee
+.	.	.	64ff#
+.	.	.	64gg
+.	.	.	64aaJJJJ
+16T	16IV	16GLL 16d	64aa#LLLL
+.	.	.	64bb
+.	.	.	64ccc#
+.	.	.	64bbJJJJ
+16T	16Ib	16F# 16d	64gg#LLLL
+.	.	.	64aa
+.	.	.	64bb
+.	.	.	64aaJJJJ
+16T	16V7b	16C# 16A	64ff#LLLL
+.	.	.	64gg
+.	.	.	64aa
+.	.	.	64ggJJJJ
+16T	16I	16DJJ 16A	64ee#LLLL
+.	.	.	64ff#
+.	.	.	64gg
+.	.	.	64ff#JJJJ
+=26	=26	=26	=26
+4D	4Cc	16AALL	[8aaL)
+.	.	16A 16d	.
+.	.	16A 16d	32aaLL]
+.	.	.	64gg#L
+.	.	.	64aa
+.	.	16AJJ 16d	64bb
+.	.	.	64aa
+.	.	.	64gg
+.	.	.	64ff#JJJJ
+16D	16V	16A'LL 16c#'	32eeLLL
+.	.	.	(64d#L
+.	.	.	64eJJJJ)
+*-	*-	*-	*-

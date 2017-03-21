@@ -1,0 +1,113 @@
+!!!COM: Beethoven
+!!!OTL: 32 Variationen fur das pianoforte
+!!!Variation: Variation 2 a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*M3/4	*M3/4	*M3/4	*M3/4
+*c:	*c:	*c:	*c:
+=17	=17	=17	=17
+2.T	2.i	16CLL	4r
+.	.	16E-	.
+.	.	16G	.
+.	.	16cJJ	.
+.	.	16e-LL	4r
+.	.	16g	.
+.	.	16g	.
+.	.	16gJJ	.
+.	.	16gLL	8cc 8ee-
+.	.	16g	.
+.	.	16g	8r
+.	.	16gJJ	.
+=18	=18	=18	=18
+2.T	2.Vb	16gLL	8b 8dd
+.	.	16d	.
+.	.	16B	8r
+.	.	16GJJ	.
+.	.	16DLL	4r
+.	.	16BB	.
+.	.	16BB	.
+.	.	16BBJJ	.
+.	.	16BBLL	8g 8dd
+.	.	16BB	.
+.	.	16BB	8r
+.	.	16BBJJ	.
+=19	=19	=19	=19
+2.T	2.viioD7c/IV	16BB-LL	8g 8dd- 8ee
+.	.	16D-	.
+.	.	16E	8r
+.	.	16GJJ	.
+.	.	16B-LL	4r
+.	.	16d-	.
+.	.	16e	.
+.	.	16eJJ	.
+.	.	16eLL	8g 8dd-
+.	.	16e	.
+.	.	16e	8r
+.	.	16eJJ	.
+=20	=20	=20	=20
+2.P	2.IVb	16fLL	8a 8cc
+.	.	16c	.
+.	.	16A	8r
+.	.	16FJJ	.
+.	.	16CLL	4r
+.	.	16AA	.
+.	.	16AA	.
+.	.	16AAJJ	.
+.	.	16AALL	8f 8cc
+.	.	16AA	.
+.	.	16AA	8r
+.	.	16AAJJ	.
+=21	=21	=21	=21
+2.P	2.Gn	16AA-LL	8f# 8cc
+.	.	16C	.
+.	.	16E-	8r
+.	.	16A-JJ	.
+.	.	16cLL	4r
+.	.	16e-	.
+.	.	16f#	.
+.	.	16f#JJ	.
+.	.	16f#LL	8cc 8ee-
+.	.	16f#	.
+.	.	16f#	8r
+.	.	16f#JJ	.
+=22	=22	=22	=22
+4D	4V	16gLL	8b 8dd
+.	.	16d	.
+.	.	16B	8r
+.	.	16GJJ	.
+2D	2ivb	16A-LL	8cc 8ff
+.	.	16c	.
+.	.	16f	8r
+.	.	16a-JJ	.
+.	.	16fLL	4r
+.	.	16c	.
+.	.	16A-	.
+.	.	16FJJ	.
+=23	=23	=23	=23
+2D	2ivb	16CLL	4r
+.	.	16AA-	.
+.	.	16FF	.
+.	.	16CCJJ	.
+.	.	16AAA-LL	8.r
+.	.	16CC	.
+.	.	16FF	.
+.	.	16AA-JJ	16cc 16ff
+4D	4V	16GGLL	8b 8gg
+.	.	16DD	.
+.	.	16BBB	8r
+.	.	16GGGJJ	.
+=24	=24	=24	=24
+2.T	2.i	16CCLL	8cc
+.	.	16EE-	.
+.	.	16GG	8r
+.	.	16CJJ	.
+.	.	16GGLL	4r
+.	.	16C	.
+.	.	16E-	.
+.	.	16GJJ	.
+.	.	16E-LL	4r
+.	.	16C	.
+.	.	16GG	.
+.	.	16EE-JJ	.
+*-	*-	*-	*-

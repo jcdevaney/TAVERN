@@ -1,0 +1,38 @@
+!!!COM: Beethoven 
+!!!OTL: 12 Variationen uber einen russichen Tanz von P. Wranitzky
+!!!Variation: Theme a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#g#]	*k[f#c#g#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*A:	*A:	*A:	*A:
+*	*	*	*^
+4T	4I	4A	4e	(8aL 8cc#
+.	.	.	.	8eeJ
+=1	=1	=1	=1	=1
+4T	4V7b	4G#	4e	8bL 8dd
+.	.	.	.	8eeJ
+4T	4I	4A	4e	8aL 8cc#
+.	.	.	.	8eeJ)
+=2	=2	=2	=2	=2
+4T	4V	4E	4e	(8g#L 8b
+.	.	.	.	8eeJ
+4T	4V7d	4D	4e	8g#L 8b
+.	.	.	.	8cc#J)
+=3	=3	=3	=3	=3
+4T	4Ib	4C#	8r	4a
+.	.	.	[4.e	.
+4T	4I	4AA	.	8aL
+.	.	.	.	16bL
+.	.	.	.	16cc#JJ
+=4	=4	=4	=4	=4
+4T	4V7b	4GG#	2e]	(8ddL
+.	.	.	.	16bL
+.	.	.	.	16ddJJ
+4T	4I	4AA	.	8cc#L
+.	.	.	.	16aL
+.	.	.	.	16cc#JJ)
+=5	=5	=5	=5	=5
+4D	4V	4EE	4g#	4b
+*	*	*	*v	*v
+*-	*-	*-	*-

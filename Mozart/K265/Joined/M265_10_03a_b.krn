@@ -1,0 +1,77 @@
+!!!COM: Mozart
+!!!OTL: 12 Variations on "Ah Vous dirais-je, Maman" for the Piano
+!!!Variation: 10 a2
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[]	*k[]
+*M2/4	*M2/4	*M2/4	*M2/4
+*C:	*C:	*C:	*C:
+=257	=257	=257	=257
+2T	2I	4CC 4C	16r
+.	.	.	(16eLL
+.	.	.	16cc
+.	.	.	16eJJ)
+*	*	*clefG2	*
+.	.	4cc	16r
+.	.	.	(16eLL
+.	.	.	16g
+.	.	.	16eJJ)
+=258	=258	=258	=258
+2T	2Ib	4gg	16r
+.	.	.	(16eLL
+.	.	.	16cc
+.	.	.	16eJJ)
+.	.	4gg	16r
+.	.	.	(16eLL
+.	.	.	16cc
+.	.	.	16eJJ)
+=259	=259	=259	=259
+2T	2IV	4aa	16r
+.	.	.	(16fLL
+.	.	.	16cc
+.	.	.	16fJJ)
+.	.	4aa	16r
+.	.	.	(16fLL
+.	.	.	16cc
+.	.	.	16fJJ)
+=260	=260	=260	=260
+4T	4Ib	4gg	16r
+.	.	.	(16eLL
+.	.	.	16cc
+.	.	.	16eJJ)
+*	*	*clefF4	*
+4T	4viioD7/ii	4C# 4c#	16r
+.	.	.	(16b-LL
+.	.	.	16ee 16gg
+.	.	.	16b-JJ)
+=261	=261	=261	=261
+4T	4V/V	4D 4d	16r
+.	.	.	(16aLL
+.	.	.	16dd 16ff#
+.	.	.	16aJJ)
+4T	4viioD7	4BB 4B	16r
+.	.	.	(16a-LL
+.	.	.	16dd 16ff
+.	.	.	16a-JJ)
+=262	=262	=262	=262
+4T	4I	4C 4c	16r
+.	.	.	(16gLL
+.	.	.	16cc 16ee
+.	.	.	16gJJ)
+4P	4viioD7/V	4FF# 4F#	16r
+.	.	.	(16aLL
+.	.	.	16cc 16ee-
+.	.	.	16aJJ)
+=263	=263	=263	=263
+2D	2V7	4GG 4G	16r
+.	.	.	(16gLL
+.	.	.	16cc 16dd
+.	.	.	16gJJ)
+.	.	4GG	16r
+.	.	.	(16fLL
+.	.	.	16b 16dd
+.	.	.	16fJJ)
+=264	=264	=264	=264
+2T	2I	4C	4e 4cc
+.	.	4CC	4r
+*-	*-	*-	*-

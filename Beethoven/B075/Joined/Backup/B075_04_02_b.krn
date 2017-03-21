@@ -1,0 +1,149 @@
+!!!COM: Beethoven
+!!!OTL: 7 Variations on a Quartet by Winter 
+!!!Variation: Variation 4b
+**harm	**function	**kern	**kern
+*M2/4	*M2/4	*staff2	*staff1
+*F:	*F:	*clefG2	*clefG2
+*	*tb24	*k[b-]	*k[b-]
+*	*	*M2/4	*M2/4
+*	*	*F:	*F:
+4I	4T	8F'	[4cc
+.	.	8r	.
+=	=	=209	=209
+2I	2T	(8FL 8A	24ccLL]
+.	.	.	24a
+.	.	.	24b-J
+.	.	8CJ	24ccL
+.	.	.	24dd
+.	.	.	24eeJJ
+.	.	8FL 8A	24ffLL
+.	.	.	24ee
+.	.	.	24ddJ
+.	.	8CJ	24ccL
+.	.	.	24b-
+.	.	.	24aJJ)
+=	=	=210	=210
+4V65	4T	8EL 8G	(24b-LL
+.	.	.	24a
+.	.	.	24b-J
+.	.	8CJ	24ccL
+.	.	.	24b
+.	.	.	24ccJJ
+4I	4T	8FL 8A	24aLL
+.	.	.	24g#
+.	.	.	24aJ
+.	.	8CJ)	24ccL
+.	.	.	24b
+.	.	.	24ccJJ)
+=	=	=211	=211
+8V43	8T	(8GL 8B-	(24gLL
+.	.	.	24b
+.	.	.	24ccJ
+8I6	8T	8AJ 8c	24fL
+.	.	.	24b
+.	.	.	24ccJJ
+8V42	8T	8B-L 8d-	24eLL
+.	.	.	24b
+.	.	.	24ccJ
+8I6	8T	8AJ 8c	24fL
+.	.	.	24b
+.	.	.	24ccJJ)
+=	=	=212	=212
+4ii	4T	8GL 8B-	(4g
+.	.	8FJ 8A	.
+4V	4T	8EL 8G	[4cc
+.	.	8CJ) 8E	.
+=	=	=213	=213
+2I	2T	(8FL 8A	24ccLL]
+.	.	.	24a
+.	.	.	24b-J
+.	.	8CJ	24ccL
+.	.	.	24dd
+.	.	.	24eeJJ
+.	.	8FL 8A	24ffLL
+.	.	.	24ee
+.	.	.	24ddJ
+.	.	8CJ	24ccL
+.	.	.	24b-
+.	.	.	24aJJ)
+=	=	=214	=214
+4V65	4T	8EL 8G	(24b-LL
+.	.	.	24a
+.	.	.	24b-J
+.	.	8CJ	24ggL
+.	.	.	24ff#
+.	.	.	24ggJJ
+4I	4T	8FL 8A	24aLL
+.	.	.	24g#
+.	.	.	24aJ
+.	.	8CJ)	24ffL
+.	.	.	24ee
+.	.	.	24ffJJ)
+=	=	=215	=215
+8ii	8P	8GL 8c	(24gLL
+.	.	.	24f#
+.	.	.	24gJ
+8V	8P	8CJ	24eeL
+.	.	.	24dd#
+.	.	.	24eeJJ
+4vii2/V	4P	8A-L 8B	24fLL
+.	.	.	24e
+.	.	.	24fJ
+.	.	8CJ	24ddL
+.	.	.	24cc#
+.	.	.	24ddJJ)
+=	=	=216	=216
+4C64/V	4D	8GL 8c	24eLL
+.	.	.	24d#
+.	.	.	24eJ
+.	.	8CJ	24ccL
+.	.	.	24b
+.	.	.	24ccJJ
+4V7/V	4D	8GL 8c	24fLL
+.	.	.	24cc#
+.	.	.	24ddJ
+.	.	8CJ	24gL
+.	.	.	24dd#
+.	.	.	24eeJJ
+=	=	=217	=217
+4V6	4D	8EL 8G 8c	24ccLL
+.	.	.	24b
+.	.	.	24ccJ
+.	.	8CJ	24ggL
+.	.	.	24ff#
+.	.	.	24ggJJ
+4V65/V	4D	8DL 8F 8B	24bLL
+.	.	.	24a#
+.	.	.	24bJ
+.	.	8CJ	24ggL
+.	.	.	24ff#
+.	.	.	24ggJJ
+=	=	=218	=218
+4V6	4D	8EL 8G 8c	24eLL
+.	.	.	24d#
+.	.	.	24eJ
+.	.	8CJ	24ccL
+.	.	.	24b
+.	.	.	24ccJJ
+4V65/V	4D	8GL 8c	24fLL
+.	.	.	24cc#
+.	.	.	24ddJ
+.	.	8CJ	24gL
+.	.	.	24dd#
+.	.	.	24eeJJ
+=	=	=219	=219
+4V6	4D	8EL 8G 8c	24ccLL
+.	.	.	24b
+.	.	.	24ccJ
+.	.	8CJ	24ggL
+.	.	.	24ff#
+.	.	.	24ggJJ
+4V65/V	4D	8DL 8F 8B	24bLL
+.	.	.	24a#
+.	.	.	24bJ
+.	.	8CJ	24ggL
+.	.	.	24ff#
+.	.	.	24ggJJ
+=	=	=220	=220
+4V	4D	4C; 4E; 4G; 4c;	4cc;
+*-	*-	*-	*-

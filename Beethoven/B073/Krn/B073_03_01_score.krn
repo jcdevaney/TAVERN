@@ -1,0 +1,79 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[b-e-]	*k[b-e-]
+*M4/4	*M4/4
+=54	=54
+(8BB-	4r
+4B-	.
+.	4d 4f 4b-
+4F	.
+.	4d 4f 4b-
+4D	.
+.	4d 4f 4b-
+[8BB-)	.
+=55	=55
+(8BB-]	4e- 4f 4b
+4AA	.
+.	4e- 4f 4cc
+4GG	.
+.	4e- 4f 4cc
+4FF	.
+.	4e- 4f 4cc
+[8GG)	.
+=56	=56
+(8GG]	4e- 4f 4cc
+4AA	.
+.	4e- 4f 4a 4cc
+4FF	.
+.	4e- 4f 4a 4cc
+4F	.
+.	4f 4a 4cc
+[8E-)	.
+=57	=57
+8E-]	4f 4a 4cc#
+4D	.
+.	4f 4b- 4dd
+4C	.
+.	4f 4b- 4dd
+4BB-	.
+.	4f 4b- 4dd
+[8AA-	.
+=58	=58
+8AA-]	4g 4b- 4ee-
+4GG	.
+.	4ee- 4gg
+4FF	.
+.	4ee- 4gg
+4EE-	.
+.	4ee- 4gg
+[8GG	.
+=59	=59
+8GG]	4ee- 4gg
+4AA	.
+.	4dd 4ff
+4BB-	.
+.	4cc 4ee-
+4C	.
+.	4b- 4dd
+[8D	.
+=60	=60
+8D]	4b- 4cc
+4E-	.
+.	4b- 4cc
+4E	.
+.	4a 4cc
+4F	.
+.	4b- 4dd
+[8E	.
+=61	=61
+8E]	4a 4cc
+4F	.
+.	4f
+4F	.
+.	4a
+4C	.
+.	4cc
+[8AA	.
+=	=
+*-	*-

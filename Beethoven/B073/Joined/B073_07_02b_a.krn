@@ -1,0 +1,124 @@
+!!!COM: Beethoven
+!!!OTL: Zehn Variationen uber "la stessa, la stessissima" aus "Falstaff" von A. Salieri
+!!!Variation: Variation 7 b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-]	*k[b-e-]
+*M4/4	*M4/4	*M4/4	*M4/4
+*B-:	*B-:	*B-:	*B-:
+=122	=122	=122	=122
+1D	1V	4FFF	8FFL
+.	.	.	16GGL
+.	.	.	16AAJJ
+.	.	[2FF	16BB-LL
+.	.	.	16C
+.	.	.	16D
+.	.	.	16EJJ
+.	.	.	16FLL
+.	.	.	16G
+.	.	.	16A
+.	.	.	16B-JJ
+*	*	*^	*
+.	.	4FF_	(4F	16cLL
+.	.	.	.	16d
+.	.	.	.	16e
+.	.	.	.	16fJJ
+=123	=123	=123	=123	=123
+1D	1V	1FF]	4E	16G'LL
+.	.	.	.	(16g
+.	.	.	.	16f#
+.	.	.	.	16gJJ)
+.	.	.	4E-	16A'LL
+.	.	.	.	(16a
+.	.	.	.	16g#
+.	.	.	.	16aJJ)
+.	.	.	4D	16B-'LL
+.	.	.	.	(16b-
+.	.	.	.	16a
+.	.	.	.	16b-JJ)
+.	.	.	4C	16c'LL
+.	.	.	.	(16cc
+.	.	.	.	16b
+.	.	.	.	16ccJJ)
+=124	=124	=124	=124	=124
+1T	1I	4BB-	4BB-)	16d'LL
+.	.	.	.	(16dd
+.	.	.	.	16cc#
+.	.	.	.	16ddJJ)
+*	*	*v	*v	*
+.	.	4r	16f'LL
+.	.	.	(16ff
+.	.	.	16ee
+.	.	.	16ffJJ)
+.	.	2r	16b-'LL
+.	.	.	(16bb-
+.	.	.	16aa
+.	.	.	16bb-JJ)
+.	.	.	16dd'LL
+.	.	.	(16ddd
+.	.	.	16ccc#
+.	.	.	16dddJJ)
+=125	=125	=125	=125
+4T	4Ib	16D'LL	8ffL 8fff
+.	.	(16d	.
+.	.	16c#	8bb-J 8ddd
+.	.	16dJJ)	.
+4P	4IV7	16E-'LL	8r
+.	.	(16e-	.
+.	.	16d	8bb- 8ddd
+.	.	16e-JJ)	.
+4P	4viio/V	16E'LL	8r
+.	.	(16e	.
+.	.	16d#	8bb- 8ccc
+.	.	16eJJ)	.
+4D	4V7	16F'LL	8r
+.	.	(16f	.
+.	.	16e	8aa 8ccc
+.	.	16fJJ)	.
+=126	=126	=126	=126
+1T	1I	4BB- 4B-	16dd'LL
+.	.	.	(16ddd
+.	.	.	16ccc#
+.	.	.	16dddJJ)
+.	.	4r	16b-'LL
+.	.	.	(16bb-
+.	.	.	16aa
+.	.	.	16bb-JJ)
+.	.	2r	16f'LL
+.	.	.	(16ff
+.	.	.	16ee
+.	.	.	16ffJJ)
+.	.	.	16d'LL
+.	.	.	(16dd
+.	.	.	16cc#
+.	.	.	16ddJJ)
+=127	=127	=127	=127
+*	*	*	*clefF4
+4T	4Ib	16DD'LL	8r
+.	.	(16D	.
+.	.	16C#	8B- 8d
+.	.	16DJJ)	.
+4T	4IV7	16EE-'LL	8r
+.	.	(16E-	.
+.	.	16D	8B- 8d
+.	.	16E-JJ)	.
+4T	4viio/V	16EE'LL	8r
+.	.	(16E	.
+.	.	16D#	8B- 8c
+.	.	16EJJ)	.
+4T	4V7	16FF'LL	8r
+.	.	(16F	.
+.	.	16E	8A 8c
+.	.	16FJJ)	.
+=128	=128	=128	=128
+1T	1I	16BBB-'LL	4B-
+.	.	(16BB-	.
+.	.	16AA	.
+.	.	16BB-JJ	.
+.	.	16AALL	4r
+.	.	16BB-	.
+.	.	16FF	.
+.	.	16DDJJ)	.
+.	.	4BBB-	2r
+.	.	4r	.
+*-	*-	*-	*-

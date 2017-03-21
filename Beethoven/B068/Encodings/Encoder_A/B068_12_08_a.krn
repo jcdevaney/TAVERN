@@ -1,0 +1,84 @@
+!!!COM: Beethoven
+!!!OTL: Zwolf Variationen uber das Menuett a la Vigano von J. Haibel
+!!!Variation: Variation 12 coda2
+**function	**harm	**comments	**kern	**kern
+*	*M4/4	*	*staff2	*staff1
+*	*C:	*	*clefF4	*clefG2
+*tb32	*	*	*k[]	*k[]
+*	*	*	*M4/4	*M4/4
+*	*	*	*C:	*C:
+=	=	=	=268	=268
+1T	1I	.	4r	4ccc
+.	.	.	8C	4r
+.	.	.	8r	.
+.	.	.	8c	8r
+.	.	.	8r	16gg'
+.	.	.	.	32r
+.	.	.	.	(32ff
+.	.	.	4r	16ee)
+.	.	.	.	32r
+.	.	.	.	(32ddLLK
+.	.	.	.	16ccJJ)
+.	.	.	.	32r
+.	.	.	.	(32b
+=	=	=	=269	=269
+1P	1ii6	.	4r	4a)
+.	.	.	8F	4r
+.	.	.	8r	.
+.	.	.	8f	8r
+.	.	.	8r	16aa'
+.	.	.	.	32r
+.	.	.	.	(32gg
+.	.	.	4r	16ff)
+.	.	.	.	32r
+.	.	.	.	(32eeLLK
+.	.	.	.	16ddJJ)
+.	.	.	.	32r
+.	.	.	.	(32cc
+=	=	=	=270	=270
+1D	1V7	.	4r	4b)
+.	.	.	8F	4r
+.	.	.	8r	.
+.	.	.	8f	16r
+.	.	.	.	32r
+.	.	.	.	(32gLLK
+.	.	.	8r	16f#)
+.	.	.	.	32r
+.	.	.	.	(32gJJJ
+.	.	.	4r	16g#LL)
+.	.	.	.	32r
+.	.	.	.	(32aJJJ
+.	.	.	.	16b-LL)
+.	.	.	.	32r
+.	.	.	.	(32bJJJ
+=	=	=	=271	=271
+1T	1I	.	4r	4cc)
+.	.	.	8c	4r
+*	*	*	*clefG2	*
+.	.	.	8r	.
+.	.	.	8cc	16r
+.	.	.	.	32r
+.	.	.	.	(32ff#LLK
+.	.	.	8r	16aa)
+.	.	.	.	32r
+.	.	.	.	(32ggJJJ
+.	.	.	4r	16ffLL)
+.	.	.	.	32r
+.	.	.	.	(32eeJJJ
+.	.	.	.	16ddLL)
+.	.	.	.	32r
+.	.	.	.	(32ccJJJ
+*	*	*	*clefF4	*
+=	=	=	=272	=272
+1T	1V7	.	4r	4b)
+.	.	.	8f	4r
+.	.	.	8r	.
+.	.	.	8r	8r
+.	.	.	(8GGGL 8GG	(8GL
+.	.	.	8AAA 8AA	8A
+.	.	.	8BBBJ) 8BB	8BJ)
+=	=	=	=273	=273
+4.T	4.I	.	4CC 4C	4c
+.	.	.	8CC 8C	8c
+==	==	==	==	==
+*-	*-	*-	*-	*-

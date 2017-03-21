@@ -1,0 +1,50 @@
+!!!COM: Beethoven
+!!!OTL: Neun Variationen uber einen Marsch von E. Chr. Dressler
+!!!Variation: 7 a
+**function	**harm	**kern	**kern
+*	*	*clefG2	*clefG2
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*M4/4	*M4/4	*M4/4	*M4/4
+*c:	*c:	*c:	*c:
+=113	=113	=113	=113
+1T	1i	4c 4e-	12gL
+.	.	.	12cc
+.	.	.	12bJ
+.	.	4g	12ccL
+.	.	.	12b
+.	.	.	12ccJ
+.	.	4c 4e-	12ee-L
+.	.	.	12dd
+.	.	.	12ccJ
+.	.	4g	12ee-L
+.	.	.	12dd
+.	.	.	12ccJ
+=114	=114	=114	=114
+1D	1Vb	4B 4d	12ggL
+.	.	.	12ff#
+.	.	.	12ggJ
+.	.	4g	12ggL
+.	.	.	12ff#
+.	.	.	12ggJ
+.	.	4B 4d	2dd
+.	.	4g	.
+=115	=115	=115	=115
+1D	1V7b	4B 4d	12dddL
+.	.	.	12ccc
+.	.	.	12bbJ
+.	.	4g	12bbL
+.	.	.	12aa
+.	.	.	12ggJ
+.	.	4B 4d	12ggL
+.	.	.	12aa-
+.	.	.	12ffJ
+.	.	4g	12ee-L
+.	.	.	12ff
+.	.	.	12ddJ
+=116	=116	=116	=116
+1T	1i	4c 4e-	4cc
+.	.	4g	8.ccL
+.	.	.	16ccJk
+.	.	4c 4e-	2cc
+.	.	4g	.
+*-	*-	*-	*-

@@ -1,0 +1,64 @@
+!!!COM: Beethoven
+!!!OTL: 7 Variations on a Quartet by Winter 
+!!!Variation: Theme b
+**harm	**function	**kern	**kern
+*M2/4	*M2/4	*staff2	*staff1
+*F:	*F:	*clefG2	*clefG2
+*	*tb16	*k[b-]	*k[b-]
+*	*	*M2/4	*M2/4
+*	*	*F:	*F:
+4I	4T	4r	4a 4cc
+=	=	=9	=9
+2I	2T	4F 4c	8fL 8a
+.	.	.	8cJ 8f
+.	.	4r	8fL 8a
+.	.	.	8aJ 8cc
+=	=	=10	=10
+4V65	4T	(4E 4c	(4g 4b-
+4I	4T	4F) 4c	4f) 4a
+=	=	=11	=11
+2V	2T	8C 8c	8eL 8g
+.	.	8r	8dJ 8f
+.	.	8C	8cL 8e
+.	.	8r	8dJ 8f
+=	=	=12	=12
+4V	4T	4C	4e 4g
+4I	4T	4r	4a 4cc
+=	=	=13	=13
+2I	2T	4F 4c	8fL 8a
+.	.	.	8cJ 8f
+.	.	4r	8fL 8a
+.	.	.	8aJ 8cc
+=	=	=14	=14
+4V65	4T	(4E 4c	(4g 4b-
+4I	4T	4F) 4c	4f) 4a
+=	=	=15	=15
+4C64/V	4D	8G	8eL 8g
+.	.	8r	8eJ 8g
+4V/V	4D	8GG	8fL 8a
+.	.	8r	8dJ 8b
+=	=	=16	=16
+2I/V	2D	2C	4e 4cc
+.	.	.	(8fL 8dd
+.	.	.	8gJ) 8ee
+=	=	=17	=17
+4C64/V	4D	8G 8e	(8ccL
+.	.	8r	16ggJk)
+.	.	.	16r
+4V/V	4D	8G 8d	(8bL
+.	.	8r	16ggJk)
+.	.	.	16r
+=	=	=18	=18
+2I/V	2D	2C	4e 4cc
+.	.	.	(8fL 8dd
+.	.	.	8gJ) 8ee
+=	=	=19	=19
+4C64/V	4D	8G 8e	(8ccL
+.	.	8r	16ggJk)
+.	.	.	16r
+4V/V	4D	8G 8d	(8bL
+.	.	8r	16ggJk)
+.	.	.	16r
+=	=	=20	=20
+2I/V	2D	4C;	4e; 4cc;
+*-	*-	*-	*-

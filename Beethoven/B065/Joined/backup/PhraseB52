@@ -1,0 +1,103 @@
+!!!COM: Beethoven
+!!!OTL: 24 Variationen uber Venni Amore von V. Righini
+!!!Variation: Variation 23 a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#]	*k[f#c#]
+*M3/4	*M3/4	*M3/4	*M3/4
+*D:	*D:	*D:	*D:
+=409	=409	=409	=409
+*	*	*^	*
+2T	2I	2DD	8DL	4F# 4f#
+.	.	.	8AAJ	.
+.	.	.	8DL	4F# 4A 4f#
+.	.	.	8AAJ	.
+4T	4V7	4DD	8C#L	4G 4A 4e
+.	.	.	8AAJ	.
+=410	=410	=410	=410	=410
+2T	2I	4DD	8DL	4.F# 4.A 4.d
+.	.	.	8AAJ	.
+*	*	*v	*v	*
+.	.	8FF#L	.
+.	.	8DDJ	8DL 8d
+4T	4V7c/IV	8CCL 8EE	8D 8d
+.	.	8AAAJ 8DD 8AA	8DJ 8F# 8c 8d
+=411	=411	=411	=411
+2.T	2.IV	8..GGGL 8..DD 8..GG	8..DL 8..G 8..B 8..d
+.	.	32GGJkk 32D 32G	32dJkk 32b
+.	.	8.GG 8.D 8.G	8.d 8.b 8.dd
+.	.	16r	32r
+.	.	.	32gg' 32bb'
+.	.	8r	16ddd'
+.	.	.	16r
+.	.	16.r	16.r
+.	.	32GGG 32DD 32GG	32D 32B 32d
+=412	=412	=412	=412
+2.T	2.Ib	8..FFF#L 8..DD 8..FF#	8..DL 8..A 8..d
+.	.	32FF#Jkk 32AA 32F#	32dJkk 32a
+.	.	8.FF# 8.AA 8.F#	8.d 8.a 8.dd
+.	.	16r	32r
+.	.	.	32aa'
+.	.	8r	16ddd'
+.	.	.	16r
+.	.	16.r	16.r
+*	*	*	*clefF4
+.	.	32AA	32A
+=413	=413	=413	=413
+*	*	*^	*^
+2.T	2.I	8r	4.AA	8r	4.A
+.	.	(16.DDLL	.	(16.F#	.
+.	.	32EEJJk	.	32E	.
+.	.	8FF#)	.	8D)	.
+.	.	8r	8AA	8r	(16ALL
+.	.	.	.	.	16f#'JJ)
+.	.	8r	8AAL	8r	(16f#LL
+.	.	.	.	.	16d')
+.	.	8DD	8AAJ 8D	8F# 8A	(16d
+.	.	.	.	.	16g'JJ)
+=414	=414	=414	=414	=414	=414
+4T	4V7c	8EE	8AA 8C#	8G 8A	8g
+.	.	(16.EELL	4AA	(16.G	4A
+.	.	32FF#JJk)	.	32F#	.
+2T	2V7d	8GG	.	8E)	.
+*	*	*	*	*	*clefG2
+.	.	4r	(8AA'	4r	(16ALL
+.	.	.	.	.	16gJJ)
+.	.	.	8AA'L)	.	(16gLL
+.	.	.	.	.	16e)
+*	*	*v	*v	*	*
+.	.	8GGJ 8AA 8C#	8A	(16e
+.	.	.	.	16aJJ)
+=415	=415	=415	=415	=415
+8T	8Ib	8FF#L 8AA 8D	8A	(16aLL
+.	.	.	.	16f#)
+8T	8V7d/ii	8AAJ 8BB 8D#	4B	(16f#
+.	.	.	.	16bJJ)
+8T	8iib	8GGL 8BB 8E	.	(16bLL
+.	.	.	.	16e)
+8T	8V7d	8GGJ 8AA 8E	8c#	(16e
+.	.	.	.	16cc#JJ)
+4T	4Ib	8FF# 8AA 8D	8d	(16f#LL
+.	.	.	.	16ddJJ)
+.	.	8r	8r	8r
+=416	=416	=416	=416	=416
+*	*	*^	*	*
+2.D	2.V	8r	8r	8r	8r
+.	.	4AA	8F#L	8dL	[4a
+.	.	.	8E	8c#	.
+.	.	8.AA	8D	8f#	8a]
+.	.	.	16C#Jk	16eJk	(48aLLL
+.	.	.	.	.	48g
+.	.	.	.	.	48f#JJ
+*	*	*v	*v	*	*
+*	*	*	*v	*v
+.	.	16r	48gLL
+.	.	.	48a
+.	.	.	48bJJ
+.	.	8r	48cc#LL
+.	.	.	48dd
+.	.	.	48eeJJ
+.	.	.	48ff#LL
+.	.	.	48aa
+.	.	.	48ggJJJ)
+*-	*-	*-	*-

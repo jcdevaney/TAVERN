@@ -1,0 +1,27 @@
+**kern	**kern	**kern
+*staff3	*staff2	*staff1
+*tb32	*tb32	*tb32
+*clefF4	*clefF4	*clefG2
+*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+*M2/4	*M2/4	*M2/4
+*A:	*A:	*A:
+4.E	4.A# 4.f#	4.cc#
+(4E'	(4A#' 4f#'	(4ff#'
+8E')	8A#') 8f#'	8ff#')
+=284	=284	=284
+4.D	4.B 4.f#	(8bL
+.	.	8cc#
+.	.	8bJ)
+(4D'	(4G#' 4e'	(4ee'
+8D')	8G#') 8e'	8ee')
+=285	=285	=285
+4.C#	4.A 4.e	(8aL
+.	.	8b
+.	.	8aJ)
+(4BB	4.E	(4g# 4dd
+8AA)	.	8a) 8cc#
+=286	=286	=286
+[4.EE	[4.E	(4g# 4b
+.	.	8f#) 8a
+4EE]	4E]	4g#' 4b'
+*-	*-	*-

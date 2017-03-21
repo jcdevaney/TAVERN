@@ -1,0 +1,24 @@
+!!!COM: Beethoven
+!!!OTL: 13 Variationen uber "Es war einmal ein alter Mann" aus "Das rote Kappchen" von K. Ditters von Dittersdorf
+!!!Variation: 10 d
+**chords	*function
+*M6/8	*M6/8
+=	=
+4.I	.
+4.V/V	.
+=	=
+2.V	.
+=	=
+4.I	.
+4.V/V	.
+=	=
+4.V	.
+4.V/V	.
+=	=
+4.V	.
+4.V/V	.
+=	=
+=	=
+2V	.
+8V	.
+*-	*-

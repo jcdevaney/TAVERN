@@ -1,0 +1,27 @@
+!!!COM: Beethoven
+!!!OTL: 7 Variations on a Quartet by Winter
+!!!Variation: Theme e
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*M2/4	*M2/4	*M2/4	*M2/4
+*F:	*F:	*F:	*F:
+4T	4I	4r	4a 4cc
+=37	=37	=37	=37
+2T	2I	2F 2c	8fL 8a
+.	.	.	8cJ 8f
+.	.	.	8fL 8a
+.	.	.	8aJ 8cc
+=38	=38	=38	=38
+.	.	.	q8a q8cc
+4T	4V7b	(4E 4c	(4g 4b-
+4T	4I	4F) 4c	4f) 4a
+=39	=39	=39	=39
+4P	4IV	8BB-L 8B-	8f'L 8dd'
+.	.	8BB-J 8B-	8f'J 8dd'
+4D	4V	8CL 8A	8f'L 8cc'
+.	.	8CJ 8G	8B-'J 8e'
+=40	=40	=40	=40
+2T	2I	4F	4A 4f
+.	.	4r	4r
+*-	*-	*-	*-

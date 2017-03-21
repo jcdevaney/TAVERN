@@ -1,0 +1,133 @@
+!!!COM: Beethoven
+!!!OTL: Six Variations on an Original Theme
+!!!Variation: Variation 5 a
+**chords	**function	**comments
+*M2/4	*M2/4	*M2/4
+*c:	*c:	*c:
+8i	.	.
+=	=	=
+2i	T	T
+=	=	=
+4viio7	.	D TPedal
+4i	.	T
+=	=	=
+4i	.	.
+8.iv	P	.
+16i	.	.
+=	=	=
+4i64	D	.
+8V	.	.
+*-	*-	*-
+!!!COM: Beethoven
+!!!OTL: Six Variations on an Original Theme
+!!!Variation: Variation 5 b
+**chords	**function	**comments
+*M2/4	*M2/4	*M2/4
+*c:	*c:	*c:
+8i	.	.
+=	=	=
+2i	T	T
+=	=	=
+4viio7	.	D TPedal
+8i	.	T
+8viio7/V	P	.
+=	=	=
+4.i64	D	.
+8V7	.	.
+=	=	=
+4.i	T	.
+*-	*-	*-
+!!!COM: Beethoven
+!!!OTL: Six Variations on an Original Theme
+!!!Variation: Variation 5 c
+**chords	**function	**comments
+*M2/4	*M2/4	*M2/4
+*c:	*c:	*c:
+8i	T	T
+=	=	=
+2iv	.	P
+=	=	=
+16i	.	T
+16V43	.	.
+16i6	.	.
+16V6	.	.
+16i	.	.
+16viio65/V	.	D
+16i6/V	.	T
+16V7/V/V	.	.
+=	=	=
+16i6/V	.	.
+16viio7/V/V	P	.
+16i64/V	D	.
+16Gr65/V	.	.
+16i64/V	.	.
+16Gr65/V	.	.
+16i64/V	.	.
+16V/V	.	.
+=	=	=
+4.i/V	T	T
+8V/V	.	D
+=	=	=
+4.i/V	.	T
+8V/V	.	D
+=	=	=
+2V	D	.
+*-	*-	*-
+!!!COM: Beethoven
+!!!OTL: Six Variations on an Original Theme
+!!!Variation: Variation 5 d
+**chords	**function	**comments
+*M2/4	*M2/4	*M2/4
+*c:	*c:	*c:
+=	=	=
+2i	T	T
+=	=	=
+4viio7	.	D TPedal
+4i	.	T
+=	=	=
+4i	.	.
+8.iv	P	.
+16i	.	.
+=	=	=
+4i64	D	.
+8V	.	.
+*-	*-	*-
+!!!COM: Beethoven
+!!!OTL: Six Variations on an Original Theme
+!!!Variation: Variation 5 e
+**chords	**function	**comments
+*M2/4	*M2/4	*M2/4
+*c:	*c:	*c:
+8I	.	.
+=	=	=
+2I	T	T
+=	=	=
+4viio7	.	D TPedal
+8I	.	T
+8Gr65	P	.
+=	=	=
+4.i64	D	.
+8V7	.	.
+=	=	=
+2i	T	.
+*-	*-	*-
+!!!COM: Beethoven
+!!!OTL: Six Variations on an Original Theme
+!!!Variation: Variation 5 f
+**chords	**function	**comments
+*M2/4	*M2/4	*M2/4
+*c:	*c:	*c:
+8I	D	.
+=	=	=
+2I	.	.
+=	=	=
+2I	.	.
+=	=	=
+2I	.	.
+=	=	=
+2V7/F	.	.
+=	=	=
+2V7/F	.	.
+=	=	=
+2V7/F	.	.
+*-	*-	*-

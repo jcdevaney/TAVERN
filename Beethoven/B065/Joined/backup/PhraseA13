@@ -1,0 +1,47 @@
+!!!COM: Beethoven
+!!!OTL: 24 Variationen uber Venni Amore von V. Righini
+!!!Variation: Variation 6 a
+**function	**harm	**kern	**kern
+*	*	*clefG2	*clefG2
+*	*	*k[f#c#]	*k[f#c#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*D:	*D:	*D:	*D:
+=97	=97	=97	=97
+2T	2I	(8f#L 8a	(8ff#L 8aa
+.	.	8c#'J) 8e#'	8cc#'J) 8ee#'
+.	.	(8c#L 8e#	(8cc#L 8ee#
+.	.	8d'J) 8f#'	8dd'J) 8ff#'
+=98	=98	=98	=98
+2T	2vi	(8dL 8f#	(8ddL 8ff#
+.	.	8A#'J) 8c#'	8a#'J) 8cc#'
+.	.	(8A#L 8c#	(8a#L 8cc#
+.	.	8B'J) 8d'	8b'J) 8dd'
+*	*	*clefF4	*
+=99	=99	=99	=99
+2T	2IV	(8BL 8d	(8bL 8dd
+.	.	8F#'J) 8A#'	8f#'J) 8a#'
+.	.	(8F#L 8A#	(8f#L 8a#
+.	.	8G'J) 8B'	8g'J) 8b'
+=100	=100	=100	=100
+2T	2Ib	(8GL 8B	(8gL 8b
+.	.	8E#'J) 8G#'	8e#'J) 8g#'
+.	.	(8E#L 8G#	(8e#L 8g#
+.	.	8F#'J) 8A'	8f#'J) 8a'
+=101	=101	=101	=101
+2T	2Ib	4.F# 4.A	4.f# 4.a
+.	.	8D 8F#	8d 8f#
+=102	=102	=102	=102
+4T	4I	(8DL 8F#	(8dL 8f#
+.	.	8E'J) 8G'	8e'J) 8g'
+4T	4V7	(8EL 8G	(8eL 8g
+.	.	8AA'J) 8E'	8A'J) 8e'
+=103	=103	=103	=103
+4T	4V	(8AAL 8E	(8AL 8e
+.	.	8D'J) 8F#'	8d'J) 8f#'
+4T	4Ib	(8DL 8F#	(8dL 8f#
+.	.	8FF#'J) 8D'	8F#'J) 8d'
+=104	=104	=104	=104
+2D	2V	(8FF#L 8D	(8F#L 8d
+.	.	8AA'J) 8E'	8A'J) 8e'
+.	.	4r	4r
+*-	*-	*-	*-

@@ -1,0 +1,80 @@
+**kern	**kern
+*staff2	*staff1
+*clefG2	*clefG2
+*k[b-e-]	*k[b-e-]
+*M4/4	*M4/4
+=16	=16
+4B- 4d 4f	8b-L
+.	8b
+4r	8cc
+.	8cc#J
+4r	8ddL
+.	8ee-
+(4B- 4d 4f	8ee
+.	8ffJ
+=17	=17
+4A) 4e- 4f	8ff#L
+.	8gg
+4r	8aa-
+.	8aaJ
+4r	8bb-L
+.	8bb
+(4A 4e- 4f	8ccc
+.	8ccc#J
+=18	=18
+4c) 4e- 4f 4a	8dddL
+.	8eee-
+4r	8eee
+.	8fffJ
+4r	8eeeL
+.	8fff
+(4c 4e- 4f 4a	8eee
+.	8fffJ
+=19	=19
+4B-) 4d 4f 4b-	8eeeL
+.	8fff
+4r	8eee-
+.	8dddJ
+4r	8cccL
+.	8bb-
+(4B- 4d 4f	8ddd
+.	8bb-J
+=20	=20
+4B-) 4e- 4g	8aaL
+.	8gg
+4r	8ff#
+.	8ggJ
+4r	8aaL
+.	8gg
+(4B- 4e- 4g	8bb-
+.	8ggJ
+=21	=21
+4B-) 4d 4f	8eeL
+.	8ff
+4r	8gg
+.	8ffJ
+4r	8ee-L
+.	8dd
+*clefF4	*
+4B-' 4d' 4f'	8cc
+.	8b-J
+=22	=22
+4A' 4f'	8ee-L
+.	8cc
+4B-' 4f'	8dd
+.	8b-J
+4A' 4f'	8ee-L
+.	8cc
+4B-' 4f'	8dd
+.	8b-J
+=23	=23
+4F 4f	8ccL
+.	8b-
+4r	8a
+.	8gJ
+2r	8fL
+.	8e-
+.	8d
+.	8cJ
+=	=
+*-	*-

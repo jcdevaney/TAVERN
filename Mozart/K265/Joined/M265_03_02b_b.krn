@@ -1,0 +1,66 @@
+!!!COM: Mozart
+!!!OTL: 12 Variations on "Ah Vous dirais-je, Maman" for the Piano
+!!!Variation: 3 b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[]	*k[]
+*M2/4	*M2/4	*M2/4	*M2/4
+*C:	*C:	*C:	*C:
+=81	=81	=81	=81
+*	*	*^	*
+2D	2Ic	4e	2G	(12ggL
+.	.	.	.	12ff#)
+.	.	.	.	12gg'J
+.	.	4c	.	(12eeeL
+.	.	.	.	12ccc)
+.	.	.	.	12gg'J
+=82	=82	=82	=82	=82
+2D	2V7	4d	2G	(12ggL
+.	.	.	.	12ee)
+.	.	.	.	12ff'J
+.	.	4B	.	(12dddL
+.	.	.	.	12bb)
+.	.	.	.	12ff'J
+=83	=83	=83	=83	=83
+2D	2Ic	4c	2G	(12ffL
+.	.	.	.	12dd#)
+.	.	.	.	12ee'J
+.	.	4e	.	(12cccL
+.	.	.	.	12gg)
+.	.	.	.	12ee'J
+=84	=84	=84	=84	=84
+2D	2V7	2G	2f	(12eeL
+.	.	.	.	12cc#)
+.	.	.	.	12dd'J
+.	.	.	.	(12ffL
+.	.	.	.	12dd)
+.	.	.	.	12b'J
+=85	=85	=85	=85	=85
+4D	4Ic	4e	2G	(12ggL
+.	.	.	.	12ff#)
+.	.	.	.	12gg'J
+4D	4V7/ii	4c#	.	(12eeeL
+.	.	.	.	12aa)
+.	.	.	.	12gg'J
+=86	=86	=86	=86	=86
+2D	2V7	4d	2G	(12ggL
+.	.	.	.	12ee)
+.	.	.	.	12ff'J
+.	.	4B	.	(12dddL
+.	.	.	.	12gg)
+.	.	.	.	12ff'J
+=87	=87	=87	=87	=87
+4D	4Ic	4G	4c	(12ffL
+.	.	.	.	12dd#)
+.	.	.	.	12ee'J
+*	*	*v	*v	*
+4D	4viiom7/V	4F# 4A 4c	(12cccL
+.	.	.	12aa)
+.	.	.	12ee'J
+=88	=88	=88	=88
+*	*	*^	*
+4D	4Cc	2G	(8.eL	(8.ggL
+.	.	.	16cJk	16eeJk
+4D	4V	.	4B)	4dd)
+*	*	*v	*v	*
+*-	*-	*-	*-

@@ -1,0 +1,161 @@
+!!!COM: Mozart
+!!!OTL: 8 Variationen uber das Lied "Ein Weib ist das herrlichste Ding"
+!!!Variation: Variation 4 d
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*M3/4	*M3/4	*M3/4	*M3/4
+*F:	*F:	*F:	*F:
+4T	4V	16ELL	4c
+.	.	16C	.
+.	.	16BB-	.
+.	.	16GGJJ	.
+=222	=222	=222	=222
+2.T	2.I	16AALL	(4f
+.	.	16FF	.
+.	.	16AA	.
+.	.	16CJJ	.
+.	.	16FLL	4c)
+.	.	16A	.
+.	.	16c	.
+.	.	16AJJ	.
+.	.	16FLL	4f'
+.	.	16C	.
+.	.	16AA	.
+.	.	16FFJJ	.
+=223	=223	=223	=223
+2.T	2.V	16r	(4g
+.	.	16CCLL	.
+.	.	16EE	.
+.	.	16GGJJ	.
+.	.	16CLL	4c)
+.	.	16E	.
+.	.	16G	.
+.	.	16EJJ	.
+.	.	16CLL	4g'
+.	.	16GG	.
+.	.	16EE	.
+.	.	16CCJJ	.
+=224	=224	=224	=224
+4T	4I	16FFLL	(4a
+.	.	16AA	.
+.	.	16C	.
+.	.	16FJJ	.
+4T	4vi	16DDLL	4f)
+.	.	16FF	.
+.	.	16AA	.
+.	.	16DJJ	.
+*	*	*	*^
+4T	4iib	16BBB-LL	4b-	4g
+.	.	16DD	.	.
+.	.	16GG	.	.
+.	.	16BB-JJ	.	.
+=225	=225	=225	=225	=225
+4T	4Cc	16CCLL	(4a	(4f
+.	.	16FF	.	.
+.	.	16AA	.	.
+.	.	16CJJ	.	.
+4T	4V	16BBLL	4g)	4e)
+.	.	16C	.	.
+.	.	16D	.	.
+.	.	16CJJ	.	.
+4T	4V7d	16AALL	4cc'	4e
+.	.	16BB-	.	.
+.	.	16C	.	.
+.	.	16BB-JJ	.	.
+=226	=226	=226	=226	=226
+4T	4Ib	16AALL	(4cc	4f
+.	.	16C	.	.
+.	.	16F	.	.
+.	.	16AAJJ	.	.
+4T	4V7c	16GGLL	4b-	4e
+.	.	16C	.	.
+.	.	16E	.	.
+.	.	16GGJJ	.	.
+4T	4I	16FFLL	4a)	4f
+.	.	16C	.	.
+.	.	16F	.	.
+.	.	16FFJJ	.	.
+=227	=227	=227	=227	=227
+2T	2IV	16BB-LL	(4dd	2.d
+.	.	16F	.	.
+.	.	16D	.	.
+.	.	16FJJ	.	.
+.	.	16BB-LL	4b-	.
+.	.	16F#	.	.
+.	.	16D	.	.
+.	.	16F#JJ	.	.
+4T	4iib	16BB-LL	4g)	.
+.	.	16G	.	.
+.	.	16D	.	.
+.	.	16GJJ	.	.
+=228	=228	=228	=228	=228
+4T	4Cc	16CLL	(4f	4c
+.	.	16A	.	.
+.	.	16F	.	.
+.	.	16AJJ	.	.
+2T	2V	16CLL	4g	2e
+.	.	16B-	.	.
+.	.	16G	.	.
+.	.	16B-JJ	.	.
+.	.	16CLL	4cc)	.
+.	.	16G	.	.
+.	.	16E	.	.
+.	.	16GJJ	.	.
+=229	=229	=229	=229	=229
+4T	4viioD7/vi	16C#LL	(4g 4b-	(4e
+.	.	16E	.	.
+.	.	16G	.	.
+.	.	16c#JJ	.	.
+4T	4vi	16DLL	4f) 4a	4f)
+.	.	16F	.	.
+.	.	16A	.	.
+.	.	16dJJ	.	.
+4T	4V	16CLL	4cc	4e
+.	.	16c	.	.
+.	.	16BB-	.	.
+.	.	16B-JJ	.	.
+*	*	*	*v	*v
+=230	=230	=230	=230
+4T	4Ib	16AALL	(4f 4cc
+.	.	16C	.
+.	.	16F	.
+.	.	16AAJJ	.
+4T	4V7c	16GGLL	4e 4b-
+.	.	16C	.
+.	.	16E	.
+.	.	16GGJJ	.
+4T	4I	16FFLL	4f) 4a
+.	.	16C	.
+.	.	16F	.
+.	.	16FFJJ	.
+=231	=231	=231	=231
+4P	4IV	16BB-LL	(4f 4b- 4dd
+.	.	16F	.
+.	.	16D	.
+.	.	16FJJ	.
+4P	4viioD7c	16BB-LL	4g 4dd- 4ee
+.	.	16G	.
+.	.	16E	.
+.	.	16GJJ	.
+4P	4viioD7/V	16BBLL	4a-) 4dd 4ff
+.	.	16A-	.
+.	.	16F	.
+.	.	16A-JJ	.
+=232	=232	=232	=232
+4D	4Cc	16CLL	(4f 4a
+.	.	16F	.
+.	.	16A	.
+.	.	16cJJ	.
+4D	4iib	16BB-LL	4g) 4b-
+.	.	16D	.
+.	.	16G	.
+.	.	16B-JJ	.
+4D	4V	16CLL	4e 4g
+.	.	16E	.
+.	.	16G	.
+.	.	16cJJ	.
+=233	=233	=233	=233
+2T	2I	4F	4f
+.	.	4FF	4r
+*-	*-	*-	*-

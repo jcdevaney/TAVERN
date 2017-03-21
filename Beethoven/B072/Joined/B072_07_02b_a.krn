@@ -1,0 +1,62 @@
+!!!COM: Beethoven
+!!!OTL: Acht Variationen uber "Une fievre brulante" aus "Richard Coeur de Lion" von A.E.M. Gretry
+!!!Variation: Variation 7 b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefF4
+*	*	*k[]	*k[]
+*M3/4	*M3/4	*M3/4	*M3/4
+*C:	*C:	*C:	*C:
+4D	4I/V	4GG	4G 4B 4d
+=233	=233	=233	=233
+2.D	2.V7/ii/V	8r	2G# 2B 2d
+.	.	(8DD#L	.
+.	.	8EE)	.
+.	.	8EE'	.
+.	.	8EE'	4G# 4B 4d
+.	.	8EE'J	.
+=234	=234	=234	=234
+2.D	2.ii/V	8r	2E 2A 2c
+.	.	(8GG#L	.
+.	.	8AA)	.
+.	.	8AA'	.
+.	.	8AA'	4E 4A 4c
+.	.	8AA'J	.
+=235	=235	=235	=235
+2.D	2.V/V	8r	[2.F# [2.A
+.	.	(8C#L	.
+.	.	8D)	.
+.	.	8D'	.
+.	.	8D'	.
+.	.	8D'J	.
+=236	=236	=236	=236
+4D	4V/V	(8C#L	2F#] 2A]
+.	.	8DJ	.
+4D	4V7d/V	8CL	.
+.	.	8DJ	.
+4D	4Ib/V	8BBL	4G 4B
+.	.	8DJ)	.
+=237	=237	=237	=237
+2.P	2.iib/V	8r	2E 2A 2c
+.	.	(8BBBL	.
+.	.	8CC)	.
+.	.	8CC'	.
+.	.	8CC'	4E 4A 4c
+.	.	8CC'J	.
+=238	=238	=238	=238
+2.P	2.V/V	8r	2C 2F# 2A
+.	.	(8CC#L	.
+.	.	8DD)	.
+.	.	8DD'J	.
+.	.	8DD'L	4C 4F# 4A
+.	.	8DD'J	.
+=239	=239	=239	=239
+2.D	2.V7/V	8r	2.C 2.D 2.A
+.	.	(8FFF#L	.
+.	.	8GGG)	.
+.	.	(8BBB	.
+.	.	8DD)	.
+.	.	(8FF#J	.
+=240	=240	=240	=240
+2T	2I/V	4GG)	4BB 4D 4G
+.	.	4GGG	4r
+*-	*-	*-	*-

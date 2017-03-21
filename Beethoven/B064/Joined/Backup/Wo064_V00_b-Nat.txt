@@ -1,0 +1,16 @@
+!!!COM: Beethoven
+!!!OTL: Sechs Variationen uber ein Schweizer Lied
+!!!Variation: Theme b
+**chords	**function	**comments
+*M4/4	*M4/4	*M4/4
+*F:	*F:	*F:
+=-	=-	=-
+4I	T	T
+=	=	=
+1V6	.	D
+=	=	=
+2vi	.	T
+2ii	PD	.
+=	=	=
+2.V	D	.
+*-	*-	*-

@@ -1,0 +1,108 @@
+!!!COM: Beethoven
+!!!OTL: Acht Variationen uber das Trio "Tandeln und Scherzen" aus der Oper: Soliman oder die drei Sultaninnen von Sussmayer
+!!!Variation: Variation 8 h
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*M3/8	*M3/8	*M3/8	*M3/8
+*F:	*F:	*F:	*F:
+!	!	!adagio	!adagio
+=307	=307	=307	=307
+*	*	*^	*
+4.T	4.Ib	8AAL	4.AA	(8ffL
+.	.	[8C	.	8.f
+.	.	8CJ] 8F	.	.
+.	.	.	.	16aJk)
+=308	=308	=308	=308	=308
+.	.	.	.	q16g
+.	.	.	.	q16a
+.	.	.	.	q16b-
+4.P	4.iib	8BB-L	4.BB-	(16aLL
+.	.	.	.	16gJJ)
+.	.	[8D	.	([8g
+.	.	8DJ] 8G	.	32gLLL]
+.	.	.	.	32b-
+.	.	.	.	32dd
+.	.	.	.	32ccJJJ)
+=309	=309	=309	=309	=309
+4D	4Cc	(8AL	4C	(8ccL
+.	.	16FL	.	16aL
+.	.	16A	.	16cc
+8D	8V7	16G	8C	16b-
+.	.	16EJJ)	.	16gJJ)
+=310	=310	=310	=310	=310
+4.T	4.I	8F	8FF	32f'LLL
+.	.	.	.	32cc'
+.	.	.	.	32dd'
+.	.	.	.	32ee'JJJ
+.	.	8r	8r	32ff'LLL
+.	.	.	.	32gg'
+.	.	.	.	32aa'
+.	.	.	.	32bb-'JJJ
+.	.	8r	8r	32ccc'LLL
+.	.	.	.	32ddd'
+.	.	.	.	32eee-'
+.	.	.	.	32eee'JJJ
+=311	=311	=311	=311	=311
+4.T	4.Ib	8AAL	4.AA	32fff'LLL
+.	.	.	.	(32eee
+.	.	.	.	32fff)
+.	.	.	.	(32eeeJJ
+.	.	[8C	.	32fffLL)
+.	.	.	.	(32eee
+.	.	.	.	32ddd)
+.	.	.	.	(32cccJJ
+.	.	8CJ] 8F	.	32bb-LL)
+.	.	.	.	(32aa
+.	.	.	.	32gg)
+.	.	.	.	(32ffJJJ
+=312	=312	=312	=312	=312
+4.P	4.iib	8BB-L	4.BB-	32dddLLL)
+.	.	.	.	(32ccc#
+.	.	.	.	32ddd)
+.	.	.	.	(32ccc#JJ
+.	.	[8D	.	32dddLL)
+.	.	.	.	(32ccc
+.	.	.	.	32bb-)
+.	.	.	.	(32aaJJ
+.	.	8DJ] 8G	.	32ggLL)
+.	.	.	.	(32ff
+.	.	.	.	32ee)
+.	.	.	.	(32ddJJJ
+*	*	*v	*v	*
+=313	=313	=313	=313
+4.D	4.Cc	8C 8F 8A	32ccLLL)
+.	.	.	(32ff
+.	.	.	32aa)
+.	.	.	(32gg#JJ
+.	.	8r	32bb-LL)
+.	.	.	(32aa
+.	.	.	32gg)
+.	.	.	(32ffJJ
+.	.	8r	32eeLL)
+.	.	.	(32dd
+.	.	.	32cc)
+.	.	.	(32bJJJ
+=314	=314	=314	=314
+4.D	4.V7	8CC	32ddLLL)
+.	.	.	(32cc
+.	.	.	32b-)
+.	.	.	(32aJJ
+.	.	8r	32gLL)
+.	.	.	(32f
+.	.	.	32e)
+.	.	.	(32dJJ
+.	.	8r	32cLL)
+.	.	.	(32B-
+.	.	.	32A)
+.	.	.	(32GJJJ
+=315	=315	=315	=315
+4.T	4.I	8FF	8F)
+.	.	8r	8r
+.	.	8FF' 8AA' 8C' 8F'	8f' 8a' 8cc' 8ff'
+=316	=316	=316	=316
+4.T	4.I	8FFF' 8FF'	8ff' 8aa' 8ccc' 8fff'
+.	.	8r	8r
+.	.	8r	8r
+==	==	==	==
+*-	*-	*-	*-

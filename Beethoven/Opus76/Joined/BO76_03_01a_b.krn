@@ -1,0 +1,74 @@
+!!!COM: Beethoven
+!!!OTL: Six Variations on an Original Theme
+!!!Variation: Variation 3 a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#]	*k[f#c#]
+*M6/8	*M6/8	*M6/8	*M6/8
+*D:	*D:	*D:	*D:
+=49	=49	=49	=49
+*	*	*^	*
+2.T	2.I	8F#L	4.D	(8ff#L 8aa
+.	.	8d	.	8ee 8gg
+.	.	8AJ	.	8ddJ) 8ff#
+.	.	8F#L	4.D	8dd'L 8ff#'
+.	.	.	.	q16gg
+.	.	.	.	q16ff#
+.	.	.	.	q16ee
+.	.	8d	.	(8dd 8ff#
+.	.	8AJ	.	8eeJ 8gg
+=50	=50	=50	=50	=50
+2.T	2.I	8F#L	4.D	8ff#L 8aa
+.	.	8d	.	8ee 8gg
+.	.	8AJ	.	8ddJ) 8ff#
+.	.	(8DL	4.D	8dd'L 8ff#'
+.	.	8E	.	(8ddd 8fff#
+.	.	8F#J	.	8ccc#J 8eee
+=51	=51	=51	=51	=51
+4.T	4.IVc	8GL	4.D	8bbL 8ddd
+.	.	8A	.	8aa 8ccc#
+.	.	8BJ)	.	8ggJ 8bb
+4.T	4.viiom7	8c#L	8DL	8ff#L 8aa
+.	.	8c#	8D	8gg 8bb
+.	.	8c#J	8DJ	8eeJ) 8gg
+=52	=52	=52	=52	=52
+2.T	2.I	8dL	8DL	(8ddL 8ff#
+.	.	8d	8D	8ee 8gg
+.	.	8dJ	8DJ	8ee#J 8gg#
+.	.	8dL	8DL	8ggL 8bb
+.	.	8d	8D	8ff#) 8aa
+.	.	8dJ	8DJ	8ff#'J 8aa'
+=53	=53	=53	=53	=53
+2.T	2.I	8F#L	4.D	(8ff#L 8aa
+.	.	8d	.	8ee 8gg
+.	.	8AJ	.	8ddJ) 8ff#
+.	.	8F#L	4.D	8dd'L 8ff#'
+.	.	.	.	q16gg
+.	.	.	.	q16ff#
+.	.	.	.	q16ee
+.	.	8d	.	(8dd 8ff#
+.	.	8AJ	.	8eeJ 8gg
+=54	=54	=54	=54	=54
+2.T	2.I	8F#L	4.D	8ff#L 8aa
+.	.	8d	.	8ee 8gg
+.	.	8AJ	.	8ddJ) 8ff#
+*	*	*v	*v	*
+.	.	(8DL	8dd'L 8ff#'
+.	.	8E	(8ddd 8fff#
+.	.	8F#J)	8ccc#J 8eee
+=55	=55	=55	=55
+4.P	4.IV	8GL	8bbL 8ddd
+*	*	*clefG2	*
+.	.	8f#	8ee 8ccc#
+.	.	8gJ	8ddJ) 8bb
+4D	4Vb	8eL	(8ddL 8bb
+.	.	8c#	8ee 8ccc#
+8D	8V/vi	8f#J	8cc#J) 8aa#
+=56	=56	=56	=56
+*	*	*^	*
+2T	2vi	8dL	4.B	(4ee 4ccc#
+.	.	8b	.	.
+.	.	8f#J	.	8dd) 8bb
+.	.	8dL	8B	8r
+*	*	*v	*v	*
+*-	*-	*-	*-

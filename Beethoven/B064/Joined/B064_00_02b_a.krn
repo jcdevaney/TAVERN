@@ -1,0 +1,21 @@
+!!!COM: Beethoven
+!!!OTL: Sechs Variationen uber ein Schweizer Lied
+!!!Variation: Theme b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*	*	*met(c)	*met(c)
+*M4/4	*M4/4	*M4/4	*M4/4
+*F:	*F:	*F:	*F:
+4T	4IV/V	(4F'	(4cc'
+=4	=4	=4	=4
+1T	1Ib/V	4E'	4cc'
+.	.	4D'	4dd'
+.	.	4C'	4ee'
+.	.	4E')	4cc')
+=5	=5	=5	=5
+2P	2ii/V	2D`	2ff`
+2D	2V/V	2G`	2dd`
+=6	=6	=6	=6
+2.T	2.I/V	2.C	2.cc
+*-	*-	*-	*-

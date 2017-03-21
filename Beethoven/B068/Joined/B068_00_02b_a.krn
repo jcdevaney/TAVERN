@@ -1,0 +1,52 @@
+!!!COM: Beethoven
+!!!OTL: Zwolf Variationen uber das Menuett a la Vigano von J. Haibel
+!!!Variation: Theme b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[]	*k[]
+*M4/4	*M4/4	*M4/4	*M4/4
+*C:	*C:	*C:	*C:
+4.T	4.I	8C	8gL
+.	.	4r	8a
+.	.	.	8bJ
+=5	=5	=5	=5
+1T	1I	8CL	4cc
+.	.	8E	.
+.	.	8G	4.e 4.cc
+.	.	8cJ	.
+.	.	4C	.
+.	.	.	(16aaLL
+.	.	.	16ggJJ
+.	.	4r	16ffLL
+.	.	.	16ee
+.	.	.	16dd
+.	.	.	16ccJJ)
+=6	=6	=6	=6
+1P	1IV	8FFL	4a
+.	.	8AA	.
+.	.	8C	4.c 4.f 4.a
+.	.	8FJ	.
+.	.	4FF	.
+.	.	.	(16ffLL
+.	.	.	16eeJJ
+.	.	4r	16ddLL
+.	.	.	16cc
+.	.	.	16b
+.	.	.	16aJJ)
+=7	=7	=7	=7
+1D	1V7	8GGL	4g
+.	.	8BB	.
+.	.	8D	4.B 4.g
+.	.	8FJ	.
+.	.	4GG	.
+.	.	.	8BL 8g
+.	.	4r	8c 8a
+.	.	.	8dJ 8b
+=8	=8	=8	=8
+2T	2I	8r	4e 4cc
+.	.	8C	.
+.	.	8EL	8.eL 8.g 8.cc
+.	.	8GJ	.
+.	.	.	16eJk 16g 16cc
+8T	8I	8C	8e 8g 8cc
+*-	*-	*-	*-

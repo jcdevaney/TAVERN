@@ -1,0 +1,137 @@
+!!!COM: Beethoven
+!!!OTL: Six Variations on an Original Theme
+!!!Variation: Variation 1 e
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#]	*k[f#c#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*D:	*D:	*D:	*D:
+8.D	8.V	32AAL	16r
+.	.	32GGJ	.
+.	.	16FF#	64r
+.	.	.	64ALLLL
+.	.	.	64B
+.	.	.	64c#
+.	.	16EEJJ	64d
+.	.	.	64e
+.	.	.	64f#
+.	.	.	64gJJJJ
+=41	=41	=41	=41
+4T	4I	16DDLL	(96g#LLLL
+.	.	.	96a
+.	.	.	96g#JJJ
+.	.	.	96aLLL
+.	.	.	96g#
+.	.	.	96aJJJ)
+.	.	16D 16F# 16A	(96g#LLL
+.	.	.	96a
+.	.	.	96g#JJJ
+.	.	.	96aLLL
+.	.	.	96g#
+.	.	.	96aJJJ)
+.	.	16D 16F# 16A	(96g#LLL
+.	.	.	96a
+.	.	.	96g#JJJ
+.	.	.	96aLLL
+.	.	.	96g#
+.	.	.	96aJJJ)
+.	.	16DJJ 16F# 16A	(96g#LLL
+.	.	.	96a
+.	.	.	96g#JJJ
+.	.	.	96aLLL
+.	.	.	96dd
+.	.	.	96cc#JJJJ)
+8T	8IVc	16DLL 16G 16B	96a#LLLL
+.	.	.	96b
+.	.	.	96a#JJJ
+.	.	.	96bLLL
+.	.	.	96a#
+.	.	.	96bJJJ
+.	.	16D 16G 16B	96a#LLL
+.	.	.	96b
+.	.	.	96a#JJJ
+.	.	.	96bLLL
+.	.	.	96dd
+.	.	.	96bJJJ
+8T	8I	16D 16F# 16A	96g#LLL
+.	.	.	96a
+.	.	.	96g#JJJ
+.	.	.	96aLLL
+.	.	.	96g#
+.	.	.	96aJJJ
+.	.	16DJJ 16F# 16A	96g#LLL
+.	.	.	96a
+.	.	.	96g#JJJ
+.	.	.	96aLLL
+.	.	.	96dd
+.	.	.	96aJJJJ
+=42	=42	=42	=42
+4T	4viioD7	16DLL 16E 16G 16B- 16c#	96gLLLL
+.	.	.	96f#
+.	.	.	96gJJJ
+.	.	.	96b-LLL
+.	.	.	96a
+.	.	.	96b-JJJ
+.	.	16D 16E 16G 16B- 16c#	96cc#LLL
+.	.	.	96b#
+.	.	.	96cc#JJJ
+.	.	.	96eeLLL
+.	.	.	96dd#
+.	.	.	96eeJJJ
+.	.	16D 16E 16G 16B- 16c#	96ggLLL
+.	.	.	96ff#
+.	.	.	96ggJJJ
+.	.	.	96bb-LLL
+.	.	.	96aa
+.	.	.	96bb-JJJ
+.	.	16DJJ 16E 16G 16B- 16c#	32ccc#'LL
+.	.	.	32ccc#'JJJ
+8T	8I	16DLL 16F# 16A 16d	[4ddd
+.	.	16D 16F# 16A 16d	.
+8P	8viioD7/V	16GG# 16BB 16D 16F	.
+.	.	16GG#JJ 16BB 16D 16F	.
+=43	=43	=43	=43
+4D	4Cc	16AALL 16D 16F#	8ddd]
+.	.	16AA 16D 16F#	.
+.	.	16AA 16D 16F#	80dddLLLL
+.	.	.	80ccc#
+.	.	.	80bb
+.	.	.	80aa
+.	.	.	80ggJJJJ
+.	.	16AAJJ 16D 16F#	96ff#LLLL
+.	.	.	96ee
+.	.	.	96dd
+.	.	.	96cc#
+.	.	.	96b
+.	.	.	96aJJJJ
+4D	4V7	16AALL 16D 16E 16G	96g#LLLL
+.	.	.	96a
+.	.	.	96b-
+.	.	.	96b
+.	.	.	96cc
+.	.	.	96cc#JJJJ
+.	.	16AA 16D 16E 16G	112ddLLLL
+.	.	.	112dd#
+.	.	.	112ee
+.	.	.	112ff
+.	.	.	112ff#
+.	.	.	112ggn
+.	.	.	112gg#JJJJ
+.	.	16AA 16C# 16E 16G	8aa
+.	.	16AAJJ 16C# 16E 16G	.
+=44	=44	=44	=44
+4T	4I	16D 16F#	32dd'LLL)
+.	.	.	64r
+.	.	.	(64aJ
+.	.	16r	32f#)
+.	.	.	64r
+.	.	.	(64aJJJJ
+.	.	16DD 16D	32dLLL)
+*	*	*	*clefF4
+.	.	.	64r
+.	.	.	(64AJ
+.	.	16r	32F#)
+.	.	.	64r
+.	.	.	(64AJJJJ
+8T	8I	8DD	8D')
+*-	*-	*-	*-

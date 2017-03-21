@@ -1,0 +1,51 @@
+#script to take the kern files and separate them by phrase (or variation, or however they are separated), then name them by phrase number for partjoin prep
+
+#$1 is a filename or file*
+#$2 is the key of the theme
+
+let count=1
+x=$2
+arrayF=( $1 ) 
+#phrases start with 1
+for file in ${arrayF[@]}
+do
+printf -v k "%02d" $count
+
+csplit $file /^\*END/1 {*}
+#check number of leading lines before piece starts
+sed -n 1,2p xx00 > interp.krn
+#sed -i '$a*'${x}':	*'${x}':\n=-	=-' interp.krn
+sed -i '$a*'${x}':	*'${x}':' interp.krn
+ 
+
+
+#remove comments or headers from the first of the kern files, put final 'end file' interpretation back on.
+sed '1,5d' xx00 > stripped
+sed -i '1i\
+**kern	**kern
+' stripped
+
+cp stripped xx00
+
+	for i in xx*
+        do
+#this allows skipping over null files#
+        if [ $(grep -c "." $i) -gt 0 ]
+        then
+	printf -v k "%02d" $count
+#get rid of grace notes
+	sed -i '/q/d' $i
+	sed -i '/Q/d' $i
+#change *END to *- for each spine (usually two - manually fix others.)
+	sed -i 's/\*END	\*END	\*END/*-	*-	*-/g' $i
+	sed -i 's/\*END	\*END/*-	*-/g' $i
+#add headers to each phrase
+	cat interp.krn $i | grep -v '^$' > phrase$k.krn
+	let count=$count+1
+	fi
+	done
+let count=1
+#rm xx*
+done
+ 
+

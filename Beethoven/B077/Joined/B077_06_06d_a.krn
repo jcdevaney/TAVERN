@@ -1,0 +1,70 @@
+!!!COM: Beethoven
+!!!OTL: Sechs leichte variationen
+!!!Variation: Variation 6 d2
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#]	*k[f#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*G:	*G:	*G:	*G:
+4T	4I	8G 8B 8d 8g	32bbLLL
+.	.	.	32aa
+.	.	.	32gg
+.	.	.	32ff#JJ
+.	.	8r	32eeLL
+.	.	.	32dd
+.	.	.	32cc
+.	.	.	32bJJJ
+=125	=125	=125	=125
+4T	4iib	8C 8E 8A 8c	32aLLL
+.	.	.	32cc
+.	.	.	32ee
+.	.	.	32ddJJ
+.	.	8r	32ccLL
+.	.	.	32b
+.	.	.	32a
+.	.	.	32gJJJ
+4T	4V7	8D 8A 8c	32f#LLL
+.	.	.	32e
+.	.	.	32d
+.	.	.	32c#JJ
+.	.	8r	32dLL
+.	.	.	32e
+.	.	.	32f
+.	.	.	32f#JJJ
+=126	=126	=126	=126
+4T	4I	8GG 8BB 8D 8G	32gLLL
+.	.	.	32a
+.	.	.	32b
+.	.	.	32ccJJ
+.	.	8r	32ddLL
+.	.	.	32ee
+.	.	.	32ff#
+.	.	.	32ggJJJ
+4T	4V	8DD 8D	32f#LLL
+.	.	.	32a
+.	.	.	32dd
+.	.	.	32ff#JJ
+.	.	8r	32aaLL
+.	.	.	32ff#
+.	.	.	32dd
+.	.	.	32aJJJ
+=127	=127	=127	=127
+4T	4I	8GGG 8GG	32gLLL
+.	.	.	32b
+.	.	.	32dd
+.	.	.	32ggJJ
+.	.	8r	32bbLL
+.	.	.	32gg
+.	.	.	32dd
+.	.	.	32bJJJ
+8P	8iib	8CCL 8C	32r
+.	.	.	32eeLLL
+.	.	.	32aa
+.	.	.	32cccJJJ
+8D	8V7	[8DDJ [8D	32r
+.	.	.	32ccLLL
+.	.	.	32ff#
+.	.	.	[32aaJJJ
+=128	=128	=128	=128
+4T	4I	4DD;] 4D;]	4aa;]
+*-	*-	*-	*-

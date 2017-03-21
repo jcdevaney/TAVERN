@@ -1,0 +1,113 @@
+!!!COM: Beethoven
+!!!OTL: 6 Variationen uber "Nel cor piu non mi sento" von G. Paisiello
+!!!Variation: Variation 2 c
+**function	**kern	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#]	*k[f#]
+*M6/8	*M6/8	*M6/8	*M6/8
+*G:	*G:	*G:	*G:
+4T	4V	8GG]	16dd
+.	.	.	16cc
+.	.	8r	16bb
+.	.	.	16aa
+=49	=49	=49	=49
+2.P	2.V7/ii	16ELL	4gg#
+.	.	16G#	.
+.	.	16B	.
+.	.	16e	.
+.	.	16d#	8r
+.	.	16eJJ	.
+.	.	16d#LL	8r
+.	.	16e	.
+.	.	16f	8bL 8gg#
+.	.	16e	.
+.	.	16d	8bJ 8gg#
+.	.	16eJJ	.
+=50	=50	=50	=50
+2.P	2.ii	16cLL	8ccL 8aa
+.	.	16e	.
+.	.	16c	8cc 8aa
+.	.	16e	.
+.	.	16B	8ddJ 8bb
+.	.	16eJJ	.
+.	.	4A	16eeLL 16ccc
+.	.	.	16ddd
+.	.	.	16ccc
+.	.	.	16bb
+.	.	8r	16aa
+.	.	.	16ggJJ
+=51	=51	=51	=51
+2.D	2.V7	16DLL	4ff#
+.	.	16F#	.
+.	.	16A	.
+.	.	16d	.
+.	.	16c#	8r
+.	.	16dJJ	.
+.	.	16c#LL	8r
+.	.	16d	.
+.	.	16e	8aL 8ff#
+.	.	16d	.
+.	.	16c	8aJ 8ff#
+.	.	16dJJ	.
+=52	=52	=52	=52
+4.T	4.Ib	16BLL	8bL 8gg
+.	.	16d	.
+.	.	16B	8b 8gg
+.	.	16d	.
+.	.	16A	8ccJ 8aa
+.	.	16dJJ	.
+4.T	4.I	16GLL	4dd 4bb
+.	.	16A	.
+.	.	16B	.
+.	.	16A	.
+.	.	16G	8r
+.	.	16F#JJ	.
+=53	=53	=53	=53
+4.T	4.vi	16ELL	4gg 4bb
+.	.	16F#	.
+.	.	16G	.
+.	.	16F#	.
+.	.	16E	8r
+.	.	16DJJ	.
+4.T	4.V7b/V	16C#LL	4ee 4gg 4eee
+.	.	16BB	.
+.	.	16C#	.
+.	.	16AA	.
+.	.	16BB	8r
+.	.	16C#JJ	.
+=54	=54	=54	=54
+2.D	2.V7	16DLL	[4.dd [4.ff# [4.aa
+.	.	16C#	.
+.	.	16D	.
+.	.	16C#	.
+.	.	16D	.
+.	.	16C#JJ	.
+.	.	4D;	4dd;] 4ff#;] 4aa;]
+.	.	8r	8d
+=55	=55	=55	=55
+4.D	4.V7b	16F#LL	(4a 4cc
+.	.	16E	.
+.	.	16F#	.
+.	.	16D	.
+.	.	16E	8d)
+.	.	16F#JJ	.
+4.T	4.I	16GLL	(4g 4b
+.	.	16F#	.
+.	.	16G	.
+.	.	16D	.
+.	.	16F#	8d)
+.	.	16GJJ	.
+=56	=56	=56	=56
+4.T	4.V7c	16ALL	4f# 4a
+.	.	16G#	.
+.	.	16A	.
+.	.	16D	.
+.	.	16F#	8r
+.	.	16AJJ	.
+4.T	4.V7	4d	16aaLL
+.	.	.	16gg
+.	.	.	16ff#
+.	.	.	16ee
+.	.	8r	16dd
+.	.	.	16ccJJ
+*-	*-	*-	*-

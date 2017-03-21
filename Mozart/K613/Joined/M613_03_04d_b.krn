@@ -1,0 +1,148 @@
+!!!COM: Mozart
+!!!OTL: 8 Variationen uber das Lied "Ein Weib ist das herrlichste Ding"
+!!!Variation: Variation 3 d
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*M3/4	*M3/4	*M3/4	*M3/4
+*F:	*F:	*F:	*F:
+=175	=175	=175	=175
+2.T	2.I	2.r	12fL)
+*	*	*	*clefF4
+.	.	.	(12FF
+.	.	.	12CJ
+.	.	.	12FL)
+*	*	*	*clefG2
+.	.	.	(12A
+.	.	.	12cJ
+.	.	.	12fL
+.	.	.	12c
+.	.	.	12aJ
+=176	=176	=176	=176
+2.T	2.V	2.r	12gL)
+*	*	*	*clefF4
+.	.	.	(12CC
+.	.	.	12GGJ
+.	.	.	12CL)
+*	*	*	*clefG2
+.	.	.	(12c
+.	.	.	12eJ
+.	.	.	12gL
+.	.	.	12e
+.	.	.	12b-J)
+=177	=177	=177	=177
+4T	4I	(4F	12r
+.	.	.	(12g#L
+.	.	.	12aJ)
+4T	4vi	4D	12r
+.	.	.	(12eL
+.	.	.	12fJ)
+4T	4iib	4BB-)	12r
+.	.	.	(12dL
+*	*	*	*^
+.	.	.	12gJ)	12b-
+=178	=178	=178	=178	=178
+4T	4Cc	2C	(4f	4a
+2T	2V	.	4e)	4g
+*	*	*	*v	*v
+.	.	4r	8.ccL
+.	.	.	16ccJk
+=179	=179	=179	=179
+.	.	.	(q32b
+.	.	.	q32cc
+.	.	.	q32dd
+4T	4Ib	2.r	16ccLL)
+*	*	*	*clefF4
+.	.	.	(16A
+.	.	.	16f)
+*	*	*	*clefG2
+.	.	.	(16ccJJ
+4T	4viiob	.	16b-LL)
+*	*	*	*clefF4
+.	.	.	(16G
+.	.	.	16e)
+*	*	*	*clefG2
+.	.	.	(16b-JJ
+4T	4I	.	16aLL)
+*	*	*	*clefF4
+.	.	.	(16F
+.	.	.	16f)
+*	*	*	*clefG2
+.	.	.	16aJJ
+=180	=180	=180	=180
+2.T	2.iib	2.BBB- 2.BB-	12r
+.	.	.	(12gL
+.	.	.	12ddJ
+.	.	.	12cc#L
+.	.	.	12cc
+.	.	.	12bJ
+.	.	.	12b-L
+.	.	.	12a
+.	.	.	12gJ
+=181	=181	=181	=181
+2T	2Cc	2.CC 2.C	12fL
+.	.	.	12A
+.	.	.	12cJ
+.	.	.	12fL
+.	.	.	12c
+.	.	.	12aJ
+4T	4V7	.	12gL
+.	.	.	12e
+.	.	.	12ccJ)
+=182	=182	=182	=182
+*	*	*	*^
+2T	2I	2FF 2F	(4e	4g 4b-
+.	.	.	4f)	4a
+*	*	*	*v	*v
+4T	4V	4r	8.ccL
+.	.	.	16ccJk
+=183	=183	=183	=183
+.	.	.	(q32b
+.	.	.	q32cc
+.	.	.	q32dd
+4T	4Ib	2.r	16ccLL)
+*	*	*	*clefF4
+.	.	.	(16A
+.	.	.	16f)
+*	*	*	*clefG2
+.	.	.	(16ccJJ
+4T	4viiob	.	16b-LL)
+*	*	*	*clefF4
+.	.	.	(16G
+.	.	.	16e)
+*	*	*	*clefG2
+.	.	.	(16b-JJ
+4T	4I	.	16aLL)
+*	*	*	*clefF4
+.	.	.	(16F
+.	.	.	16f)
+*	*	*	*clefG2
+.	.	.	16aJJ
+=184	=184	=184	=184
+2.P	2.ii7b	2.BB- 2.B-	12r
+.	.	.	12gL
+.	.	.	(12ddJ 12ff
+.	.	.	12cc#L 12ee
+.	.	.	12cc 12ee-
+.	.	.	12b-J 12dd
+.	.	.	12aL 12cc#
+.	.	.	12b-) 12dd
+.	.	.	12g'J 12b-'
+=185	=185	=185	=185
+2D	2Cc	4C 4c	(12aL
+.	.	.	12cc
+.	.	.	12fJ
+.	.	4r	12ffL
+.	.	.	12cc
+.	.	.	12aJ
+*	*	*^	*^
+4D	4V7	8GL	4C	12ccL	4e
+.	.	.	.	12b-	.
+.	.	8B-J	.	.	.
+.	.	.	.	12gJ	.
+=186	=186	=186	=186	=186	=186
+2T	2I	4A	4F	4f)	4f
+*	*	*	*	*v	*v
+*	*	*v	*v	*
+.	.	4r	4FF
+*-	*-	*-	*-

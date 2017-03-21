@@ -1,0 +1,80 @@
+!!!COM: Beethoven
+!!!OTL: 13 Variationen uber "Es war einmal ein alter Mann" aus "Das rote Kappchen" von K. Ditters von Dittersdorf
+!!!Variation: Variation 13 c
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#g#]	*k[f#c#g#]
+*M4/4	*M4/4	*M4/4	*M4/4
+*A:	*A:	*A:	*A:
+4D	4Vb	8.GG#L 8.E	8.BL 8.b
+.	.	16GG#Jk 16E	16BJk 16b
+=513	=513	=513	=513
+4D	4I	4AA' 4E'	4c#' 4b'
+4D	4vib	8.AA'L 8.F#'	8.c#'L 8.a'
+.	.	16AA'Jk 16F#'	16c#'Jk 16a'
+2D	2V7/V	4BB' 4F#'	4d#' 4a'
+.	.	8.BB'L 8.F#'	8.d#'L 8.a'
+.	.	16BB'Jk 16F#'	16d#'Jk 16a'
+=514	=514	=514	=514
+2.D	2.V	4E'	4e' 4g#'
+.	.	8.E'L 8.B'	8.g#'L 8.ee'
+.	.	16E'Jk 16B'	16g#'Jk 16gg#'
+.	.	4E 4B	4g#' 4ee'
+4D	4Vb	8.G#L 8.e	8.b'L
+.	.	16G#Jk 16e	16b'Jk
+=515	=515	=515	=515
+4D	4I	4A' 4e'	4b' 4cc#'
+4D	4vib	8.AL 8.f#	8.a'L 8.cc#'
+.	.	16AJk 16f#	16a'Jk 16ee'
+2D	2V7/V	4B 4f#	4a' 4dd#'
+.	.	8.B'L	8.a'L 8.dd#'
+.	.	16B'Jk	16a'Jk 16ff#'
+=516	=516	=516	=516
+2.D	2.V	4E' 4e'	4g#' 4ee'
+.	.	8.E'L 8.B'	8.g#'L 8.ee'
+.	.	16E'Jk 16B'	16g#'Jk 16gg#'
+.	.	4E' 4B'	4g#' 4ee'
+4D	4Vb	8.GG#'L 8.E'	8.B'L 8.b'
+.	.	16GG#'Jk 16E'	16B'Jk 16b'
+=517	=517	=517	=517
+4D	4I	4AA' 4E'	4c#' 4b'
+4D	4vib	8.AA'L 8.F#'	8.c#'L 8.a'
+.	.	16AA'Jk 16F#'	16c#'Jk 16a'
+2D	2V7/V	4BB' 4F#'	4d#' 4a'
+.	.	8.BB'L 8.F#'	8.d#'L 8.a'
+.	.	16BB'Jk 16F#'	16d#'Jk 16a'
+=518	=518	=518	=518
+2.D	2.V	4E'	4e' 4g#'
+.	.	8.EL 8.B	8.g#'L 8.ee'
+.	.	16EJk 16B	16g#'Jk 16gg#'
+.	.	4E 4B	4g#' 4ee'
+4D	4Vb	8.G#L 8.e	8.bL
+.	.	16G#Jk 16e	16bJk
+=519	=519	=519	=519
+2D	2I	2A 2e	4b' 4cc#'
+.	.	.	[8.aL 8.cc#
+.	.	.	16aJk] 16ee
+2D	2V7d/V	4A' 4B'	4f#' 4dd#'
+.	.	8.A'L 8.B'	8.f#'L 8.dd#'
+.	.	16A'Jk 16B'	16f#'Jk 16ff#'
+=520	=520	=520	=520
+2D	2Vb	2G# 2B	4g# 4ee
+.	.	.	8.eeL
+.	.	.	16gg#Jk
+2D	2V7b/V	4D# 4B	4a 4ff#
+.	.	8.D#L 8.B	8.aL 8.ff#
+.	.	16D#Jk 16B	16aJk 16aa
+=521	=521	=521	=521
+4D	4V	4E 4B	4g# 4gg#
+4D	4Vb	8.G#L 8.B	8.eL 8.ee
+.	.	16G#Jk 16B	16eJk 16ee
+4D	4Vc	4B'	4b'
+4D	4V7/V	4BB' 4B'	4f# 4a 4dd#
+=522	=522	=522	=522
+1D	1r	1r;	1r;
+=523	=523	=523	=523
+2.D	2.V	4EE 4GG# 4BB 4E	4e 4g# 4b 4ee
+.	.	4r	8.eL
+.	.	.	16eJk
+.	.	4r	4e
+*-	*-	*-	*-

@@ -1,0 +1,70 @@
+!!!COM: Beethoven
+!!!OTL: Neun Variationen uber einen Marsch von E. Chr. Dressler
+!!!Variation: 6 d
+**function	**harm	**kern	**kern
+*	*	*clefG2	*clefG2
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*M4/4	*M4/4	*M4/4	*M4/4
+*c:	*c:	*c:	*c:
+=109	=109	=109	=109
+2T	2i	16cLL	4gg
+.	.	16g	.
+.	.	16e-	.
+.	.	16gJJ	.
+.	.	16cLL	[4gg
+.	.	16g	.
+.	.	16e-	.
+.	.	16gJJ	.
+2T	2V7c	16dLL	16ggLL]
+.	.	16g	(16ff'
+.	.	16f	16ee-'
+.	.	16gJJ	16dd'JJ
+.	.	16dLL	16cc'LL
+.	.	16g	16b'
+.	.	16f	16a'
+.	.	16gJJ	16g'JJ)
+=110	=110	=110	=110
+2T	2ib	16e-LL	4gg
+.	.	16g	.
+.	.	16f	.
+.	.	16gJJ	.
+.	.	16e-LL	[4gg
+.	.	16g	.
+.	.	16f	.
+.	.	16gJJ	.
+2T	2V7c	16dLL	16ggLL]
+.	.	16g	(16ff'
+.	.	16f	16ee-'
+.	.	16gJJ	16dd'JJ
+.	.	16dLL	16cc'LL
+.	.	16g	16b'
+.	.	16f	16a'
+.	.	16gJJ	16g'JJ)
+*	*	*clefF4	*
+=111	=111	=111	=111
+4.T	4.ib	16E-LL	(32ccLLL
+.	.	.	32g
+.	.	16c	32a
+.	.	.	32bJJ
+.	.	16G	32ccLL
+.	.	.	32dd
+.	.	16cJJ	32ee-
+.	.	.	32ffJJJ)
+.	.	16E-LL	(16ggLL
+.	.	16c	16ee-)
+8P	8iiob	16F	(16aa-
+.	.	16dJJ	16ffJJ)
+4D	4Cc	16GLL	4ee-
+.	.	16e-	.
+.	.	16c	.
+.	.	16e-JJ	.
+4D	4V7	16GLL	4dd
+.	.	16f	.
+.	.	16B	.
+.	.	16fJJ	.
+=112	=112	=112	=112
+1T	1i	4c 4e-	4cc
+.	.	8.CL 8.c	8.ccL
+.	.	16CJk 16c	16ccJk
+.	.	2C 2c	2cc
+*-	*-	*-	*-

@@ -1,0 +1,48 @@
+!!!COM: Mozart
+!!!OTL: Zwolf Variationen in Eb uber das franzosische Lied 'La belle Francoise' 
+!!!Variation: Variation 1b
+**function	**harm	**comments	**kern	**kern
+*M6/8	*M6/8	*	*staff2	*staff1
+*Eb:	*Eb:	*	*clefF4	*clefG2
+*tb32	*	*	*k[b-e-a-]	*k[b-e-a-]
+*	*	*	*M6/8	*M6/8
+*	*	*	*Eb:	*Eb:
+4.D	4.V	T	(8BB-L	8r
+.	.	.	8D	(8eL
+.	.	.	8FJ)	8fJ)
+=	=	=	=17	=17
+4.D	4.I64	P	(8BB-L	8r
+.	.	.	8E-	(8f#L
+.	.	.	8GJ)	8gJ)
+4.D	4.viio6/V	D Pedal	(8BB-L	8r
+.	.	.	8C	(8ee-L
+.	.	.	8E-J)	8a-J)
+=	=	=	=18	=18
+4.D	4.V	T	(8BB-L	(32ggLLK
+.	.	.	.	16.ffJ)
+.	.	.	8D	(32ee-LK
+.	.	.	.	16.ddJ)
+.	.	.	8FJ)	(32ccLK
+.	.	.	.	16.b-JJ)
+4.D	4.V7	.	(8BB-L	8r
+.	.	.	8D	(8eL
+.	.	.	8A-J)	8fJ)
+=	=	=	=19	=19
+4.D	4.I64	P	(8BB-L	8r
+.	.	.	8E-	(32f#LLK
+.	.	.	.	16.gJJ)
+.	.	.	8GJ)	(32ff#LLK
+.	.	.	.	16.ggJJ)
+4.D	4.viio6/V	D Pedal	(8BB-L	(32ffLLK
+.	.	.	.	16.ee-JJ)
+.	.	.	8C	(32ddLLK
+.	.	.	.	16.ccJJ)
+.	.	.	8E-J)	(32b-LLK
+.	.	.	.	16.aJJ)
+=	=	=	=20	=20
+4.D	4.V	T	4BB- 4D	8r
+.	.	.	.	16ccLL
+.	.	.	.	16b-
+.	.	.	8r	16a
+.	.	.	.	16b-JJ
+*-	*-	*-	*-	*-

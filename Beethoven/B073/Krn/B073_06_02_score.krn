@@ -1,0 +1,57 @@
+**kern	**kern
+*staff2	*staff1
+*clefF4	*clefG2
+*k[b-e-]	*k[b-e-]
+*M4/4	*M4/4
+=107	=107
+4.FF	4F
+.	4r
+8F	.
+8FL	2r
+8F	.
+8F	.
+8FJ	.
+=108	=108
+4E' 4G'	4.F
+4E-' 4A'	.
+.	8f
+4D' 4B-'	8fL
+.	8f
+4C' 4c'	8f
+.	8fJ
+=109	=109
+4BB- 4B-	4.d 4.b-
+4c' 4e-'	.
+.	8bb-
+4d' 4f'	8bb-L
+.	8bb-
+4e-' 4g'	8bb-
+.	8bb-J
+=110	=110
+4.F	4dd' 4ff'
+.	4b' 4dd'
+8f	.
+8fL	4cc' 4ee-'
+8f	.
+8f	4a' 4cc'
+8fJ	.
+=111	=111
+4B-	4b-' 4dd'
+4r	4dd' 4ff'
+2r	4ff' 4bb-'
+.	4bb-' 4ddd'
+=112	=112
+4.FF	4ddd' 4fff'
+.	4bb' 4ddd'
+8F	.
+8FL	4ccc' 4eee-'
+8F	.
+8F	4aa' 4ccc'
+8FJ	.
+=113	=113
+4BB-	4bb-
+4r	4b-
+4BBB-	2r
+4r	.
+=	=
+*-	*-

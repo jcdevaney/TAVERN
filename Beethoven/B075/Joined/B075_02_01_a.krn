@@ -1,0 +1,71 @@
+!!!COM: Beethoven
+!!!OTL: 7 Variations on a Quartet by Winter
+!!!Variation: Variation 2 a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-]	*k[b-]
+*M2/4	*M2/4	*M2/4	*M2/4
+*F:	*F:	*F:	*F:
+4T	4Ib	4A	4cc
+=99	=99	=99	=99
+2T	2I	(16FLL	(16aLL
+.	.	32GL	32b-L
+.	.	32AJJ	32ccJJ
+.	.	32B-LL	32ddLL
+.	.	32c	32ee
+.	.	32d	32ff
+.	.	32eJJJ)	32ggJJJ)
+.	.	8f'L	8aa'L
+.	.	8a'J	8ccc'J
+=100	=100	=100	=100
+*	*	*	*^
+4T	4Vb	(8gL	8r	(4bb-
+.	.	8eJ	4gg	.
+4T	4I	8fL	.	4aa)
+.	.	16AL	[8ff	.
+.	.	16BJJ)	.	.
+=101	=101	=101	=101	=101
+2T	2V	8c'L	16ffLK]	(8ggL
+.	.	.	8ee	.
+.	.	8C'J	.	8ffJ
+.	.	.	8dd	.
+.	.	8C'L	.	8eeL
+.	.	.	8cc	.
+.	.	8C'J	.	8ffJ
+.	.	.	[16ddJk	.
+=102	=102	=102	=102	=102
+4.T	4.V	8C'L	16ddLK]	8ggL
+.	.	.	8ee	.
+.	.	8C'J	.	8aa
+.	.	.	8ff	.
+.	.	8C'L	.	8gg)
+.	.	.	16eeJ	.
+*	*	*	*v	*v
+8T	8Ib	8A'J	8cc'J
+=103	=103	=103	=103
+2T	2I	(16FLL	(16aLL
+.	.	32GL	32b-L
+.	.	32AJJ	32ccJJ
+.	.	32B-LL	32ddLL
+.	.	32c	32ee
+.	.	32d	32ff
+.	.	32eJJJ)	32ggJJJ)
+.	.	8f'L	8aa'L
+.	.	8a'J	8ccc'J
+=104	=104	=104	=104
+*	*	*	*^
+4T	4Vb	(8gL	8r	(4bb-
+.	.	8eJ	4gg	.
+4T	4vi	8fL	.	[4aa
+.	.	8dJ)	8ff	.
+=105	=105	=105	=105	=105
+8P	8iib	(8B-L	4dd	8aaL]
+8P	8V7/V	8BJ	.	8ggJ
+8D	8Cc	8cL	8aL	8ffL
+8D	8V7	8CJ)	[8b-J	[8eeJ
+=106	=106	=106	=106	=106
+4.T	4.I	8FL	4b-]	8eeL]
+.	.	8CJ	.	8ggJ
+.	.	8FF	8a	8ff)
+*	*	*	*v	*v
+*-	*-	*-	*-

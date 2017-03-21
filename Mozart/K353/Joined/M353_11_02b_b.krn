@@ -1,0 +1,78 @@
+!!!COM: Mozart
+!!!OTL: Zwolf Variationen in Eb uber das franzosische Lied 'La belle Francoise'
+!!!Variation: Variation 11 b
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*M6/8	*M6/8	*M6/8	*M6/8
+*E-:	*E-:	*E-:	*E-:
+4.D	4.V	8BBB-L	8.fL
+.	.	8DL 8BB-	.
+.	.	.	(16fL
+.	.	8DJ 8BB-J	16g
+.	.	.	16a-JJ)
+=137	=137	=137	=137
+4.D	4.Ic	8BBB-L	(16f#LK
+.	.	.	8g)
+.	.	8E-L 8BB-	.
+.	.	.	(16gL
+.	.	8E-J 8BB-J	16a)
+.	.	.	16b-'JJ
+4.D	4.viio/V	8BBB-L	(32b-LLL
+.	.	.	32g#JJ)
+.	.	.	8anJ
+.	.	8E-L 8A 8BB-	.
+.	.	.	(64aLLLK
+.	.	.	32.ccJJJ)
+.	.	8E-J 8A 8BB-J	(64b-LLLK
+.	.	.	32.dd)
+.	.	.	(64cck
+.	.	.	32.ee-JJJ)
+=138	=138	=138	=138
+.	.	.	(q32dd
+4.D	4.V	8D 8F 8B- 8BB-	(8.ffL)
+.	.	8r	.
+.	.	.	48ggLL
+.	.	.	48ff
+.	.	.	48ee-JJ
+.	.	8r	32ddLL)
+.	.	.	32cc'
+.	.	.	32dd'
+.	.	.	32ee-'JJJ
+*	*	*clefG2	*
+.	.	.	(q32ee
+4.D	4.V7	8r	8.ffL)
+.	.	8dL 8a- 8B-L	.
+.	.	.	(32ee-LL
+.	.	.	32ddJJ
+.	.	8dJ 8a- 8B-J	32ccLL
+.	.	.	32b-
+.	.	.	32ff
+.	.	.	32aa-JJJ)
+=139	=139	=139	=139
+.	.	.	(q32ff#L
+.	.	.	q32aa-J
+4.D	4.Ic	8r	8.ggL)
+.	.	8e-L 8g 8B-L	.
+.	.	.	16ggL
+.	.	.	(q32ff
+.	.	8e-J 8g 8B-J	16ee-)
+.	.	.	(q32dd
+.	.	.	16ccJJ)
+*	*	*clefF4	*
+.	.	.	(q32b-
+4.D	4.V7/V	8r	[8aL)
+.	.	8B- 8cL 8e-	32aLL]
+.	.	.	32cc'
+.	.	.	32ee-'
+.	.	.	32ff'JJ
+.	.	8B- 8cJ 8e-	32aa'LL
+.	.	.	32ccc'
+.	.	.	32eee-'
+.	.	.	32aa'JJJ
+=140	=140	=140	=140
+4.D	4.V	8cL 8e- 4B-	16aaLL
+.	.	.	32cccL
+.	.	.	32bb-JJJ
+.	.	8dJ 8B-	8bb-;
+*-	*-	*-	*-

@@ -1,0 +1,53 @@
+!!!COM: Beethoven
+!!!OTL: 7 Variations on a Quartet by Winter
+!!!Variation: Variation 6 f
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-a-d-]	*k[b-e-a-d-]
+*M2/4	*M2/4	*M2/4	*M2/4
+*f:	*f:	*f:	*f:
+8T	8i	8r	[8c [8cc
+=335	=335	=335	=335
+2T	2V7	4C' 4G' 4B-'	8c] 8cc]
+.	.	.	(4d- 4dd-
+.	.	4C' 4G' 4B-'	.
+.	.	.	8c) 8cc
+=336	=336	=336	=336
+2T	2ic	4C' 4F' 4A-'	8r
+.	.	.	(4e 4ee
+.	.	4C' 4F' 4A-'	.
+.	.	.	8f) 8ff
+=337	=337	=337	=337
+2T	2V7	4C' 4E' 4G'	8r
+.	.	.	(4cc 4ccc
+.	.	4C' 4E' 4G'	.
+.	.	.	8b-) 8bb-
+=338	=338	=338	=338
+2T	2ic	4C' 4F' 4A-'	8r
+.	.	.	(4a- 4aa-
+.	.	4C' 4F' 4A-'	.
+.	.	.	8f) 8ff
+=339	=339	=339	=339
+2T	2V7	4C 4G 4B-	8r
+.	.	.	(4d- 4dd-
+.	.	4C 4G 4B-	.
+.	.	.	8c) 8cc
+=340	=340	=340	=340
+4T	4i	4F 4A-	8r
+.	.	.	(4e 4ee
+4T	4-VI	4D- 4F 4A-	.
+.	.	.	8f) 8ff
+=341	=341	=341	=341
+4P	4iiom7b	4BB- 4F 4G	8r
+.	.	.	8b- 8bb-
+4D	4V7	4C 4G 4B-	8r
+.	.	.	8e 8ee
+=342	=342	=342	=342
+4T	4i	8F 8A-	8r
+.	.	8r	8f 8ff
+4T	4V	8C	8r
+.	.	8r	8c 8cc
+=343	=343	=343	=343
+4T	4i	8FF	8r
+.	.	8r	8F 8f
+*-	*-	*-	*-

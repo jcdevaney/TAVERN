@@ -1,0 +1,121 @@
+!!!COM: Beethoven
+!!!OTL: 24 Variationen uber Venni Amore von V. Righini
+!!!Variation: Variation 23 b
+**function	**harm	**kern	**kern
+*	*	*clefG2	*clefG2
+*	*	*k[f#c#]	*k[f#c#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*D:	*D:	*D:	*D:
+=425	=425	=425	=425
+2.D	2.V7	16ALL	4r
+.	.	(16a'	.
+.	.	16a'	.
+.	.	16a'JJ)	.
+.	.	(16a'LL	8r
+.	.	16a'	.
+.	.	16a'	16.ggLL
+.	.	16a'JJ)	.
+.	.	.	32ff#JJk
+.	.	(16g'LL 16a'	16.eeLL
+.	.	16g' 16a'	.
+.	.	.	32ddJJk
+.	.	16g' 16a'	16cc#
+.	.	16g'JJ) 16a'	16r
+=426	=426	=426	=426
+2.D	2.I	16f#LL 16a	16dd
+.	.	16f# 16a	16r
+*	*	*	*clefF4
+.	.	16f# 16a	4d
+.	.	16f#JJ 16a	.
+.	.	16f#LL 16a	.
+.	.	16f# 16a	.
+.	.	16f# 16a	16.ALL
+.	.	16f#JJ 16a	.
+.	.	.	32GJJk
+.	.	16f#LL 16a	16.F#LL
+.	.	16f# 16a	.
+.	.	.	32EJJk
+.	.	16f# 16a	16D
+.	.	16f#JJ 16a	16r
+=427	=427	=427	=427
+2.D	2.V7b	16gLL 16a	16C#
+.	.	16g 16a	16r
+*	*	*	*clefG2
+.	.	16g 16a	4bb
+.	.	16gJJ 16a	.
+.	.	16gLL 16a	.
+.	.	16g 16a	.
+.	.	16g 16a	16.ggLL
+.	.	16gJJ 16a	.
+.	.	.	32ff#JJk
+.	.	16gLL 16a	16.eeLL
+.	.	16g 16a	.
+.	.	.	32ddJJk
+.	.	16g 16a	16cc#
+.	.	16gJJ 16a	16r
+=428	=428	=428	=428
+2.D	2.I	16f#LL 16a	16dd
+.	.	16f# 16a	16r
+*	*	*	*clefF4
+.	.	16f# 16a	4d
+.	.	16f#JJ 16a	.
+.	.	16f#LL 16a	.
+.	.	16f# 16a	.
+.	.	16f# 16a 16dd	16.ALL
+.	.	16f#JJ 16a 16dd	.
+.	.	.	32GJJk
+.	.	16f#LL 16a 16dd	16.F#LL
+.	.	16f# 16a 16dd	.
+.	.	.	32EJJk
+.	.	16f# 16a 16dd	16D
+.	.	16f#JJ 16a 16dd	16r
+=429	=429	=429	=429
+2D	2V7c/V	16g#LL 16dd	8BB
+.	.	16g# 16dd	.
+*	*	*	*clefG2
+.	.	16g# 16dd	4bb
+.	.	16g#JJ 16dd	.
+.	.	16g#LL 16dd 16ee	.
+.	.	16g# 16dd 16ee	.
+.	.	16g# 16dd 16ee	16.eeeLL
+.	.	16g#JJ 16dd 16ee	.
+.	.	.	32dddJJk
+4D	4ii/IV	16aLL 16cc 16ee	16.cccLL
+.	.	16a 16cc 16ee	.
+.	.	.	32bbJJk
+.	.	16a 16cc 16ee	16aa
+.	.	16aJJ 16cc 16ee	16r
+=430	=430	=430	=430
+2D	2V7b/IV	8f# 8cc 8dd	8r
+.	.	.	q8ccc#
+.	.	8r	8ddd
+.	.	4r	8r
+.	.	.	q8cccn
+.	.	.	16.bbLL
+.	.	.	32aaJJk
+4P	4IV	8b' 8dd'	8gg'
+.	.	8r	8r
+=431	=431	=431	=431
+*	*	*clefF4	*
+2P	2iib	8GG 8BB 8E	8r
+.	.	.	q8f#
+.	.	8r	8g
+.	.	4r	8r
+.	.	.	q8f#
+.	.	.	16.eLL
+.	.	.	32dJJk
+4D	4V7	8AA' 8E' 8G'	8c#'
+.	.	8r	16.r
+.	.	.	[32c#
+=432	=432	=432	=432
+*	*	*^	*
+2T	2I	2DD	8r	2G 2A 2c#] 2e
+.	.	.	16r	.
+.	.	.	(16C#	.
+.	.	.	16D	.
+.	.	.	16C#	.
+.	.	.	16BB	.
+.	.	.	16AA)	.
+8T	8I	8DD	8AA	8F# 8d
+*	*	*v	*v	*
+*-	*-	*-	*-

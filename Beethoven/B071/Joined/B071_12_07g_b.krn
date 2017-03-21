@@ -1,0 +1,160 @@
+!!!COM: Beethoven 
+!!!OTL: 12 Variationen uber einen russichen Tanz von P. Wranitzky
+!!!Variation: Variation 12 g
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[f#c#g#]	*k[f#c#g#]
+*M6/8	*M6/8	*M6/8	*M6/8
+*A:	*A:	*A:	*A:
+4T	4I	4A 4a	8r
+.	.	.	8cc#'L 8ccc#'
+8T	8V7d/IV	8G 8g	8ee'J 8eee'
+=352	=352	=352	=352
+4T	4IVb	4F# 4f#	8r
+.	.	.	8dd'L 8ddd'
+8T	8Vb	8G# 8g#	8ee'J 8eee'
+4.T	4.I	4A 4a	8r
+.	.	.	8cc#'L 8ccc#'
+.	.	8C# 8c#	8ee'J 8eee'
+=353	=353	=353	=353
+2.T	2.V7d	4D 4d	8r
+.	.	.	8b'L 8bb'
+.	.	8C# 8c#	8ee'J 8eee'
+.	.	4D 4d	8r
+.	.	.	8bL 8bb
+.	.	8E 8e	8cc#J 8ccc#
+=354	=354	=354	=354
+4.T	4.Ib	4C# 4c#	8r
+.	.	.	8aL 8aa
+.	.	8BB 8B	8bJ 8bb
+4T	4I	4AA 4A	8r
+.	.	.	8cc#L 8ccc#
+8T	8V7d/IV	8GG 8G	8eeJ 8eee
+=355	=355	=355	=355
+4.T	4.IVb	4FF# 4F#	8r
+.	.	.	8ddL 8ddd
+.	.	8EE 8E	8cc#J 8ccc#
+4.T	4.V7d	4DD 4D	8r
+.	.	.	8bL 8bb
+.	.	8EE 8E	8g#J 8gg#
+=356	=356	=356	=356
+4.T	4.Ib	4CC# 4C#	8r
+.	.	.	8aL 8aa
+.	.	8BBB 8BB	8g#J 8gg#
+4T	4I	4AAA 4AA	8r
+.	.	.	8aL 8aa
+8T	8V7d/IV	8GGG 8GG	8c#J 8cc#
+=357	=357	=357	=357
+4.P	4.IVb	4FFF# 4FF#	8r
+.	.	.	8dL 8dd
+.	.	8DD	8f#J 8ff#
+4.D	4.V	4EE	8r
+.	.	.	8eL 8ee
+.	.	8EE	8G#J 8g#
+=358	=358	=358	=358
+4.T	4.I	8AAAL 8AA	4A 4a
+.	.	8AA	.
+.	.	8AAJ	8r
+*	*	*^	*
+4.T	4.V7/IV	8EL	4.G	8r
+.	.	8AA	.	16r
+.	.	.	.	(16ALL
+.	.	8AAJ	.	16B
+.	.	.	.	16c#JJ
+=359	=359	=359	=359	=359
+4.T	4.IVc	8DL	4.F#	16dLL
+.	.	.	.	16e
+.	.	8AA	.	16d
+.	.	.	.	16c#
+.	.	8AAJ	.	16d
+.	.	.	.	16eJJ
+4.T	4.viio	8BBL	4.D	24f#LL
+.	.	.	.	24g#
+.	.	.	.	24aJ
+.	.	8AA	.	24bL
+.	.	.	.	24cc#
+.	.	.	.	24ddJ
+.	.	8AAJ	.	24eeL
+.	.	.	.	24ff#
+.	.	.	.	24gg#JJ)
+=360	=360	=360	=360	=360
+4.T	4.I	8C#L	4.E	4aa
+.	.	8AA	.	.
+.	.	8AAJ	.	8r
+4.T	4.V7/IV	8EL	4.G	8r
+.	.	8AA	.	16r
+.	.	.	.	(16ALL
+.	.	8AAJ	.	16B
+.	.	.	.	16c#JJ
+=361	=361	=361	=361	=361
+4.T	4.IVc	8DL	4.F#	16dLL
+.	.	.	.	16e
+.	.	8AA	.	16d
+.	.	.	.	16c#
+.	.	8AAJ	.	16d
+.	.	.	.	16eJJ
+4.T	4.viio	8BBL	4.D	24f#LL
+.	.	.	.	24g#
+.	.	.	.	24aJ
+.	.	8AA	.	24bL
+.	.	.	.	24cc#
+.	.	.	.	24ddJ
+.	.	8AAJ	.	24eeL
+.	.	.	.	24ff#
+.	.	.	.	24gg#JJ)
+=362	=362	=362	=362	=362
+4.T	4.I	8AAL	4C# 4E	4aa
+.	.	8AA	.	.
+.	.	8AAJ	8r	(8eee
+*	*	*	*	*^
+4.T	4.V7	8r	4.G#	4.dd	4bb
+.	.	8AAL	.	.	.
+.	.	8AAJ	.	.	8ccc#
+=363	=363	=363	=363	=363	=363
+4.T	4.I	8r	4.A	(4cc#	4aa)
+.	.	8AAL	.	.	.
+.	.	8AAJ	.	8ee	8r
+4.T	4.V7	8r	4.D	4b	(4.gg#
+.	.	8AAL	.	.	.
+.	.	8AAJ	.	8cc#	.
+=364	=364	=364	=364	=364	=364
+4.T	4.I	8r	4.C#	4aa)	4a)
+.	.	8AAL	.	.	.
+.	.	8AAJ	.	8r	(8eee
+4.T	4.V7	8r	4.G#	4.dd	4bb
+.	.	8AAL	.	.	.
+.	.	8AAJ	.	.	8ccc#
+=365	=365	=365	=365	=365	=365
+4.T	4.I	8r	4.A	(4cc#	4aa)
+.	.	8AAL	.	.	.
+.	.	8AAJ	.	8ee	8r
+4.T	4.V7	8r	4.D	4b	4.gg#
+.	.	8AAL	.	.	.
+.	.	8AAJ	.	8cc#	.
+=366	=366	=366	=366	=366	=366
+4.T	4.I	2.AA	4.C#	4a)	4aa
+.	.	.	.	(8e	8r
+4.T	4.V7	.	4.D	4B	(4.g#
+.	.	.	.	8c#	.
+=367	=367	=367	=367	=367	=367
+4.T	4.I	2.AA	4.C#	4A	4.a
+.	.	.	.	8e	.
+4.T	4.V7	.	4.D	4B	4.g#
+.	.	.	.	8c#	.
+*	*	*v	*v	*	*
+=368	=368	=368	=368	=368
+2.T	2.I	4AA 4C#	4A)	4a)
+.	.	8r	8r	8r
+*	*	*	*v	*v
+.	.	4.r	4.r
+*	*	*	*clefF4
+=369	=369	=369	=369
+2.T	2.I	4AAA 4AA	4E 4A 4c#
+.	.	8r	8r
+.	.	4.r	4.r
+=370	=370	=370	=370
+2.T	2.I	4AAA 4AA	4C# 4E 4A
+.	.	8r	8r
+.	.	4.r	4.r
+==	==	==	==
+*-	*-	*-	*-

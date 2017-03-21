@@ -1,0 +1,66 @@
+!!!COM: Mozart
+!!!OTL: Zwolf Variationen in C uber ein Menuett von Johann Christian Fischer
+!!!Variation: Variation 11 d2
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[]	*k[]
+*M3/4	*M3/4	*M3/4	*M3/4
+*C:	*C:	*C:	*C:
+=318	=318	=318	=318
+2.T	2.I	4r	8.ggL
+.	.	.	32ff#LL
+.	.	.	32ggJJJ
+.	.	8.eL	4ccc
+.	.	32dLL	.
+.	.	32eJJJ	.
+.	.	4c	8r
+.	.	.	(q32e
+.	.	.	[8ee)
+=319	=319	=319	=319
+2.T	2.V7b	4d	8ee]
+.	.	.	(q32g
+.	.	.	4gg)
+.	.	4A	.
+.	.	.	(q32ff#
+.	.	.	4ff#)
+.	.	4B	.
+.	.	.	(q32ff
+.	.	.	[8ff)
+=320	=320	=320	=320
+4T	4I	4c	16ffLL]
+.	.	.	(q32e
+.	.	.	16ee)
+.	.	.	(q32f
+.	.	.	16ff)
+.	.	.	(q32g
+.	.	.	16ggJJ)
+.	.	.	(q32g#
+2P	2IV	4F	16gg#LL)
+.	.	.	(q32a
+.	.	.	16aa)
+.	.	.	(q32b
+.	.	.	16bb)
+.	.	.	(q32a
+.	.	.	16aaJJ)
+.	.	.	(q32g
+.	.	4A	16ggLL)
+.	.	.	(q32f
+.	.	.	16ff)
+.	.	.	(q32e
+.	.	.	16ee)
+.	.	.	(q32d
+.	.	.	16ddJJ)
+=321	=321	=321	=321
+2D	2Cc	4GG 4G	(16dLL 16dd
+.	.	.	16cJ) 16cc
+.	.	.	[8cJ [8cc
+.	.	4G 4e	16ccLL]
+.	.	.	(32ddL
+.	.	.	32eeJ
+.	.	.	16dd)
+.	.	.	[16ccJJ
+4D	4V7d	4F 4G 4d	16ccLL]
+.	.	.	16b
+.	.	.	16ff
+.	.	.	16bJJ
+*-	*-	*-	*-

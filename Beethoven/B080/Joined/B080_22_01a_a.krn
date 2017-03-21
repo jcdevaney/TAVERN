@@ -1,0 +1,112 @@
+!!!COM: Beethoven
+!!!OTL: 32 Variationen fur das pianoforte
+!!!Variation: Variation 22 a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*M3/4	*M3/4	*M3/4	*M3/4
+*c:	*c:	*c:	*c:
+=177	=177	=177	=177
+2.T	2.i	4r	16c 16cc
+.	.	.	16r
+.	.	.	16d 16dd
+.	.	.	16r
+.	.	16CC 16C	16e- 16ee-
+.	.	16r	16r
+.	.	16DD 16D	16f 16ff
+.	.	16r	16r
+.	.	16EE- 16E-	4g 4gg
+.	.	16r	.
+.	.	16FF 16F	.
+.	.	16r	.
+=178	=178	=178	=178
+2.T	2.V	4GG 4G	16g 16gg
+.	.	.	16r
+.	.	.	16a 16aa
+.	.	.	16r
+.	.	16GGG 16GG	16b 16bb
+.	.	16r	16r
+.	.	16AAA 16AA	16cc 16ccc
+.	.	16r	16r
+.	.	16BBB 16BB	4dd 4ddd
+.	.	16r	.
+.	.	16CC 16C	.
+.	.	16r	.
+=179	=179	=179	=179
+2.T	2.-vii	4DD- 4D-	16B- 16b-
+.	.	.	16r
+.	.	.	16c 16cc
+.	.	.	16r
+.	.	16BBB- 16BB-	16d- 16dd-
+.	.	16r	16r
+.	.	16CC 16C	16e- 16ee-
+.	.	16r	16r
+.	.	16DD- 16D-	4f 4ff
+.	.	16r	.
+.	.	16EE- 16E-	.
+.	.	16r	.
+=180	=180	=180	=180
+2.P	2.iv	4FF 4F	16f 16ff
+.	.	.	16r
+.	.	.	16g 16gg
+.	.	.	16r
+.	.	16FF 16F	16a- 16aa-
+.	.	16r	16r
+.	.	16GG 16G	16b- 16bb-
+.	.	16r	16r
+.	.	16AA- 16A-	4cc 4ccc
+.	.	16r	.
+.	.	16BB- 16B-	.
+.	.	16r	.
+=181	=181	=181	=181
+2.P	2.viio/-VII	4C 4c	16a 16aa
+.	.	.	16r
+.	.	.	16b 16bb
+.	.	.	16r
+.	.	16AA 16A	16cc 16ccc
+.	.	16r	16r
+.	.	16BB 16B	16dd 16ddd
+.	.	16r	16r
+.	.	16C 16c	4ee- 4eee-
+.	.	16r	.
+.	.	16D 16d	.
+.	.	16r	.
+=182	=182	=182	=182
+4T	4ib	4E- 4e-	16b 16bb
+.	.	.	16r
+.	.	.	16cc 16ccc
+.	.	.	16r
+2D	2viioD7	16BB 16B	16dd 16ddd
+.	.	16r	16r
+.	.	16C 16c	16ee- 16eee-
+.	.	16r	16r
+.	.	16D 16d	16ff 16fff
+.	.	16r	16r
+.	.	16E- 16e-	16gg 16ggg
+.	.	16r	16r
+=183	=183	=183	=183
+2D	2iv	16F 16f	4.aa- 4.aaa-
+.	.	16r	.
+.	.	16G 16g	.
+.	.	16r	.
+.	.	4.A- 4.a-	.
+.	.	.	16gg 16ggg
+.	.	.	16r
+4D	4V	.	16ff 16fff
+.	.	.	16r
+.	.	16G 16g	16ee- 16eee-
+.	.	16r	16r
+=184	=184	=184	=184
+2.T	2.i	16F 16f	16dd 16ddd
+.	.	16r	16r
+.	.	16E- 16e-	16cc 16ccc
+.	.	16r	16r
+.	.	16D 16d	16b 16bb
+.	.	16r	16r
+.	.	16C 16c	16cc 16ccc
+.	.	16r	16r
+.	.	16BB 16B	4r
+.	.	16r	.
+.	.	16C 16c	.
+.	.	16r	.
+*-	*-	*-	*-

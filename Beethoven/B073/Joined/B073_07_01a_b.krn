@@ -1,0 +1,123 @@
+!!!COM: Beethoven
+!!!OTL: Zehn Variationen uber "la stessa, la stessissima" aus "Falstaff" von A. Salieri
+!!!Variation: Variation 7 a
+**function	**harm	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-]	*k[b-e-]
+*M4/4	*M4/4	*M4/4	*M4/4
+*B-:	*B-:	*B-:	*B-:
+=114	=114	=114	=114
+1T	1I	4BBB-	(8BB-L
+.	.	.	16CL
+.	.	.	16DJJ
+.	.	4r	16E-LL
+.	.	.	16F
+.	.	.	16G
+.	.	.	16AJJ
+.	.	2r	16B-LL
+.	.	.	16c
+.	.	.	16d
+.	.	.	16e-JJ
+.	.	.	16fLL
+.	.	.	16g
+.	.	.	16a
+.	.	.	16b-JJ)
+=115	=115	=115	=115
+2T	2ii	1r	8cc'L
+.	.	.	8dd'
+.	.	.	8ee-'
+.	.	.	8ee'J
+2T	2V	.	8ff'L
+.	.	.	8ff#'
+.	.	.	8gg'
+.	.	.	8aa'J
+=116	=116	=116	=116
+*	*	*	*^
+1T	1V7	(8FFL	2.cc 2.ee-	(4bb-
+.	.	16GGL	.	.
+.	.	16AAJJ	.	.
+.	.	16BB-LL	.	2aa)
+.	.	16C	.	.
+.	.	16D	.	.
+.	.	16EJJ)	.	.
+.	.	8F'L	.	.
+.	.	8G'	.	.
+*	*	*	*v	*v
+.	.	8A'	[4ccc
+.	.	8B-'J	.
+=117	=117	=117	=117
+2.T	2.V7	8c'L	4ccc]
+.	.	8d'	.
+.	.	8e-'	(2ee-
+.	.	8f'J	.
+.	.	8f#'L	.
+.	.	8g'	.
+4T	4I	8a'	4dd)
+.	.	8b-'J	.
+=118	=118	=118	=118
+1T	1IV	4e-	8gg'L
+.	.	.	(16ffL
+.	.	.	16ee-JJ
+.	.	4r	16ddLL
+.	.	.	16cc
+.	.	.	16b-
+.	.	.	16aJJ
+.	.	2r	16gLL
+.	.	.	16f
+.	.	.	16e-
+.	.	.	16dJJ
+.	.	.	16cLL
+.	.	.	16B-
+.	.	.	16A
+.	.	.	16GJJ)
+=119	=119	=119	=119
+1T	1Ib	8dL	4F'
+.	.	(16cL	.
+.	.	16B-JJ	.
+.	.	16ALL	4f' 4ff'
+.	.	16G	.
+.	.	16F	.
+.	.	16E-JJ	.
+.	.	16DLL	4r
+.	.	16C	.
+.	.	16BB-	.
+.	.	16AAJJ	.
+.	.	16GGLL	4ff 4fff
+.	.	16FF	.
+.	.	16EE-	.
+.	.	16DDJJ)	.
+=120	=120	=120	=120
+2D	2V	4CC'	16eee-LL
+.	.	.	16ddd
+.	.	.	16ccc
+.	.	.	16bb-JJ
+.	.	4FF'	16aaLL
+.	.	.	16gg
+.	.	.	16ff
+.	.	.	16ee-JJ
+2D	2I	4BBB-'	16ddLL
+.	.	.	16cc
+.	.	.	16b-
+.	.	.	16aJJ
+.	.	4FF'	16gLL
+.	.	.	16f
+.	.	.	16e-
+.	.	.	16dJJ
+=121	=121	=121	=121
+1D	1V	4FFF	16cLL
+.	.	.	16f
+.	.	.	16c
+.	.	.	16AJJ
+.	.	4r	16FLL
+.	.	.	16c
+.	.	.	16A
+.	.	.	16FJJ
+.	.	2r	16CLL
+.	.	.	16A
+.	.	.	16F
+.	.	.	16CJJ
+.	.	.	16AALL
+.	.	.	16F
+.	.	.	16C
+.	.	.	16AAJJ
+*-	*-	*-	*-
