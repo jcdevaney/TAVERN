@@ -1,7 +1,7 @@
 .DS_Store
-.swp
-placehold
-rename_script
+**/.swp
+**/placehold
+**/rename_script
 script2
 unclean
 TryOuts
@@ -25,4 +25,4 @@ temp*
 .mid
 .sib
 .xml
-TryOuts
+**/TryOuts
