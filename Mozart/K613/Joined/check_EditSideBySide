@@ -1,9 +1,0 @@
-for i in $1
-	do
-		CUR=$i
-		PHRASE="${CUR%%[ab].*}"
-		echo $PHRASE
-	A="a.krn"
-	B="b.krn"
-	vim -O $PHRASE$A $PHRASE$B -c "windo set scrollbind"
-done	

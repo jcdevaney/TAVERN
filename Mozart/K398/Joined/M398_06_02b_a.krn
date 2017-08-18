@@ -71,9 +71,6 @@
 .	.	24FJJ	24ddJJ
 =156	=156	=156	=156
 *39/8	*39/8	*M39/8	*M39/8
-!cadenza	!cadenza	!	!
-!notated meter change, but rhythms written freely with no barlines. Barlines included here for convenience.	!	!	!
-!subsequent meter changes are for reasons of file readability. There are no notated changes of meter. These are interpretations.	!	!	!
 1.D	1.Ic	2CC; 2C;	2cc; 2ff; 2aa;
 .	.	2r	8r
 .	.	.	8c
@@ -382,8 +379,8 @@
 *M4/2	*M4/2	*M4/2	*M4/2
 *	*	*clefG2	*
 2D	2V7	2c 2b-	2ee
-2D	2Ic	2c 2a	2ff
-2D	2ctoD7	2c 2d#	2ff#
+2D	2Cc	2c 2a	2ff
+2D	2Cto7	2c 2d#	2ff#
 2D	2V7	2c 2e	2gg
 =164	=164	=164	=164
 *M3/8	*M3/8	*M3/8	*M3/8
