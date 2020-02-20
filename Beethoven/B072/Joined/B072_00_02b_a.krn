@@ -8,10 +8,10 @@
 *C:	*C:	*C:	*C:
 4D	4V	4r	4b 4dd
 =9	=9	=9	=9
-2. D	2.V I/V	2.G	2b 2dd
+2.D	2.V	2.G	2b 2dd
 .	.	.	4b 4dd
 =10	=10	=10	=10
-2. D	2.vi ii/V	2.A	2e 2a 2cc
+2.D	2.ii/V[vi]	2.A	2e 2a 2cc
 .	.	.	4e 4a 4cc
 =11	=11	=11	=11
 2.D	2.V/V	4D	2.d [2.f# [2.a

@@ -1,6 +1,0 @@
-## add measure lines to penultimate record line:
-
-for i in *Nat.txt
-do
-grep -v '^\*-' $i | sed '$a=	=	=\n*-	*-	*-' > $i_temp
-done

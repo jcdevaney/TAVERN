@@ -1,8 +1,0 @@
-##script to add two blank kern spines to the single-spined T&V "chords" spine.
-
-for file in *.txt 
-do 
-blank -a $file | blank -a > temp
-sed 's/\*\*blank	\*\*blank/**function	**comments/g' temp > $file
-done
-

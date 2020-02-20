@@ -1,7 +1,0 @@
-## add measure lines to penultimate record line:
-
-for i in phrase*.krn 
-do
-#sed -i '$d' $i
-sed -i '$a=	=\n*-	*-' $i
-done
